@@ -1,0 +1,42 @@
+{
+  "book": {
+    "book_id": "short-kebab-case-id",
+    "title": "Full title",
+    "subtitle": "",
+    "authors": ["First Author", "Second Author"],
+    "year": 2024,
+    "publisher": "",
+    "edition": "",
+    "isbn": "",
+    "source_type": "book",
+    "core": false,
+    "author_credibility": "Two to four sentences: credentials, research basis, possible biases.",
+    "evidence_base": "How the source supports its claims: peer-reviewed research, case studies, or anecdote.",
+    "legal_access": [{"type": "publisher preview", "url": "https://...", "note": ""}]
+  },
+  "insights": [
+    {
+      "id": "short-kebab-case-id-01",
+      "name": "Short memorable name",
+      "skill_type": "technique",
+      "explanation": "One plain-language paragraph in your own words.",
+      "when_to_use": "The situations where this helps.",
+      "worked_example": "A concrete, realistic scenario you wrote yourself.",
+      "common_mistakes": ["First mistake", "Second mistake"],
+      "steps": ["Step one", "Step two"],
+      "categories": [{"category": "difficult", "subcategory": "apologies"}],
+      "situations": ["Apologizing to a client by email"],
+      "source": {
+        "citation": "Author, Title, chapter or page",
+        "underlying_research": "Named studies the idea rests on, if any",
+        "urls": ["https://..."]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Why this rating.",
+      "flags": []
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "an-existing-insight-id", "relation": "supports", "note": "What this source adds to that insight."}
+  ]
+}
