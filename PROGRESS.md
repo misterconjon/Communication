@@ -6,7 +6,7 @@ Last updated: 2026-11-04
 | Stage | Status |
 |---|---|
 | 0. Taxonomy co-design (Checkpoint 1) | Complete: taxonomy locked 2026-11-04 |
-| 1. Book deep-dives (Checkpoint 2) | In progress: 9 research agents running |
+| 1. Book deep-dives (Checkpoint 2) | Complete, awaiting user approval: 117 insights across 9 books |
 | 2. Cross-book synthesis | Not started |
 | 3. Expansion research (Checkpoint 3) | Not started |
 | 4. Interactive artifact (Checkpoint 4) | Not started |
@@ -27,16 +27,25 @@ Last updated: 2026-11-04
 - Think Faster, Talk Smarter, Matt Abrahams
 - Improv Wisdom, Patricia Ryan Madson
 - Made to Stick, Chip and Dan Heath
-- Communicate with Mastery (authors being verified in Stage 1)
+- Communicate with Mastery, JD Schramm with Kara Levy (Wiley, 2020)
 - Humor, Seriously, Jennifer Aaker and Naomi Bagdonas
 - Talk: The Science of Conversation, Alison Wood Brooks
 - Supercommunicators, Charles Duhigg
 - Connect, David Bradford and Carole Robin
 - How to Know a Person, David Brooks
 
+## Stage 1 results
+- 117 insights: 6 High, 93 Medium, 18 Low. 53 techniques, 42 mental models, 22 frameworks.
+- Flags: 20 unreplicated, 12 pop-psychology, 9 single-anecdote, 9 contested.
+- All files valid JSON, all category ids valid, no em or en dashes.
+- Coverage gaps: async communication, saying no. Thin: reciprocity, virtual presentations, introductions, status updates, proposals and memos, apologies, boundaries.
+- Source limitation: network policy blocked all page fetches; agents worked from search snippets and summaries. Studies not confirmed as cited by the book are labeled in each file.
+- Integrity note: two Talk-related papers (Huang et al. 2017, Yeomans et al. 2020) list Francesca Gino as coauthor; no allegation against Brooks found.
+
 ## Open questions / blockers
 - fivebooks.com blocked by network policy; user supplied the list directly.
-- GitHub owner is misterconjon; repository name still needed. Local commits pending push.
+- GitHub repo: misterconjon/communication (connected).
+- Network policy blocks most source sites; verification pass deferred unless user widens access.
 
 ## Next steps
-- Collect Stage 1 outputs, validate, present Checkpoint 2 summary.
+- On approval: run Stage 2 cross-book synthesis, then Stage 3 expansion research targeting the gaps above.
