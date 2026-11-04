@@ -8,30 +8,40 @@
     ],
     "year": 2025,
     "publisher": "Crown (Penguin Random House)",
-    "edition": "First US hardcover (January 21, 2025); paperback and audiobook (read by the author) also available; UK edition published by Penguin",
+    "edition": "First US hardcover, Crown, January 21, 2025 (ISBN 9780593443491); ebook January 21, 2025 (ISBN 9780593443507); US paperback January 27, 2026 (ISBN 9780593443514); audiobook read by the author, 10 hours 1 minute (ISBN 9780593446096). 336 pages per the publisher and Google Books. UK edition published by Penguin.",
     "isbn": "9780593443491",
-    "author_credibility": "Alison Wood Brooks is a professor at Harvard Business School, where she teaches a popular MBA course on conversation, and she has published widely in top psychology and management journals on question-asking, humor, topic selection, and anxiety. The book draws heavily on her own lab's studies, so the author is promoting her own research program. Several of her earlier papers were coauthored with Francesca Gino, whose work was found to contain data problems; reporting (The Atlantic, January 2025, via secondhand summary; Many Co-Authors audit project) did not indicate wrongdoing by Brooks, but readers should weight Gino-coauthored findings cautiously.",
-    "evidence_base": "Mostly peer-reviewed experimental and field research (lab conversations, speed dates, sales calls, transcripts analyzed with natural language processing), from Brooks's lab and others (Epley, Mastroianni, Minson, Schweitzer). Supplemented by classroom observations and anecdotes. Some cited topic-selection findings appear to come from working papers rather than published articles.",
+    "author_credibility": "Alison Wood Brooks is the O'Brien Associate Professor of Business Administration and a Hellman Faculty Fellow at Harvard Business School, where she created and teaches an MBA course called TALK; she has published widely in top psychology and management journals on question-asking, humor, topic selection, apologies, and anxiety. The book draws heavily on her own lab's studies, so the author is promoting her own research program. Several of her papers were coauthored with Francesca Gino, whose work was found to contain data problems. The Many Co-Authors project lists the Gino-coauthored papers relevant here (Huang et al. 2017; Yeomans et al. 2020; Collins et al. 2022); in coauthor-submitted (unvetted) responses, none of their studies is attributed to Gino as data handler, and no misconduct finding against these papers or against Brooks was located. Readers may still weight Gino-coauthored findings cautiously.",
+    "evidence_base": "Mostly peer-reviewed experimental and field research (lab conversations, speed dates, sales calls, parole hearings, traffic stops, transcripts analyzed with natural language processing), from Brooks's lab and others (Epley, Mastroianni, Minson, Schweitzer, Aron). Supplemented by classroom exercises, observations, and anecdotes. Some topic-selection findings (topic preparation, topic prediction, topic switching) come from Brooks and Yeomans work for which no peer-reviewed article was located.",
     "legal_access": [
       {
         "type": "publisher preview",
-        "url": "https://www.penguinrandomhouse.com/books/708473/talk-by-alison-wood-brooks/9780593443491/",
-        "note": "Publisher page; host blocked in this session, details confirmed via search snippets"
-      },
-      {
-        "type": "author excerpt",
-        "url": "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
-        "note": "Greater Good adaptation from the book (ten research-based tips); only search snippets were readable"
+        "url": "https://www.penguinrandomhouse.com/books/708473/talk-by-alison-wood-brooks/",
+        "note": "Publisher page read: description, TALK maxims, formats, ISBNs, 336 pages, Look Inside sample"
       },
       {
         "type": "author excerpt",
         "url": "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf",
-        "note": "Free TALK workbook from the publisher; host blocked, only search snippets seen"
+        "note": "Free 22-page TALK workbook by the author (Crown 2025); read in full. Confirms TALK maxims, conversational compass, topic pyramid, topic prep, receptiveness recipe, compliments, apologies, and book sections on Difficult Moments, Groups, and Apologies"
+      },
+      {
+        "type": "summary",
+        "url": "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
+        "note": "Greater Good article by Kira M. Newman summarizing ten findings from the book (not an adaptation by Brooks); read in full"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.buzzsprout.com/2369251/episodes/15153300-4-what-part-i-from-small-talk-to-tall-talk",
+        "note": "LIFTOFF podcast (host Ilana Gilovich) with Brooks on the topic pyramid; transcript read"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.buzzsprout.com/2369251/episodes/15153462-9-when-it-s-time-to-end",
+        "note": "LIFTOFF podcast episode on endings with Brooks and Adam Mastroianni; transcript read"
       },
       {
         "type": "interview",
         "url": "https://www.cambridgeday.com/2025/01/12/desperate-for-better-dialogue-author-behind-science-of-conversation-talks-us-through-it/",
-        "note": "Author interview on the TALK maxims"
+        "note": "Author interview on the TALK maxims; not re-read in verification"
       },
       {
         "type": "interview",
@@ -40,13 +50,13 @@
       },
       {
         "type": "summary",
-        "url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=66864",
-        "note": "HBS faculty book page"
+        "url": "https://www.publishersweekly.com/9780593443491",
+        "note": "Publishers Weekly review; read"
       },
       {
         "type": "library",
         "url": "https://books.google.com/books/about/Talk.html?id=CiQFEQAAQBAJ",
-        "note": "Google Books record with possible preview"
+        "note": "Google Books record (336 pages); preview search was rate-limited"
       }
     ]
   },
@@ -55,7 +65,7 @@
       "id": "talk-wood-brooks-01",
       "name": "The TALK maxims",
       "skill_type": "framework",
-      "explanation": "Brooks organizes conversational skill into four maxims: Topics (choose what to talk about and manage it well), Asking (ask more, and better, questions), Levity (bring lightness so the exchange does not go flat), and Kindness (put your partner's conversational needs first). She presents Kindness as the capstone the other three build toward. The point is not a script but a short checklist of where conversations usually go wrong, so you can diagnose a stalled exchange and pick the right fix.",
+      "explanation": "Brooks organizes conversational skill into four maxims: Topics (choose good topics and manage them well), Asking (ask more, and better, questions), Levity (use humor and warmth to keep the exchange lively), and Kindness (try to prioritize your partner's conversational needs). She frames conversation as a coordination game that is harder than it looks, and the maxims as short reminders of where it usually goes wrong, so you can diagnose a stalled exchange and pick the right fix. They are a checklist, not a script.",
       "when_to_use": "Before an important conversation to plan, and afterwards to debrief what worked and what stalled.",
       "worked_example": "After a flat one-on-one with a new direct report, a manager runs the four letters: Topics, we only covered ticket status; Asking, I asked two questions, both yes or no; Levity, nobody laughed once; Kindness, I talked 70 percent of the time. Next week she brings two non-status topics, plans one open follow-up, and deliberately lets the report lead the first ten minutes.",
       "common_mistakes": [
@@ -90,16 +100,16 @@
         "Reconnecting with a friend you have drifted from"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), overall structure (chapters on each TALK maxim, including chapters titled for Asking and Kindness)",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), overall structure: opening framing of conversation as a coordination game, then one part per TALK maxim, followed by material on difficult moments, groups, and apologies (per the author's TALK workbook); exact chapter titles not verified",
         "underlying_research": "Synthesis of Brooks's conversation research program at Harvard Business School (speed dates, sales calls, parole hearings, structured lab chats) plus wider literature",
         "urls": [
-          "https://www.hbs.edu/faculty/Pages/item.aspx?num=66864",
-          "https://www.porchlightbooks.com/products/talk-alison-wood-brooks-9780593443491",
+          "https://www.penguinrandomhouse.com/books/708473/talk-by-alison-wood-brooks/",
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf",
           "https://www.cambridgeday.com/2025/01/12/desperate-for-better-dialogue-author-behind-science-of-conversation-talks-us-through-it/"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The acronym is an organizing device by a credible conversation researcher; the individual components draw on peer-reviewed work of varying strength, but the framework as a whole has not been tested as a unit.",
+      "confidence_rationale": "Confirmed in the publisher description and the author's workbook. The acronym is an organizing device by a credible conversation researcher; the components draw on peer-reviewed work of varying strength, but the framework as a whole has not been tested as a unit.",
       "flags": [
         "none"
       ]
@@ -108,7 +118,7 @@
       "id": "talk-wood-brooks-02",
       "name": "Prepare topics in advance",
       "skill_type": "technique",
-      "explanation": "Most people walk into conversations expecting topics to arrive on their own, and feel that preparing them would be awkward or calculating. Brooks reports that her students, who resisted the exercise, consistently found conversations more enjoyable when they had jotted down a few possible topics beforehand. A short list lowers the pressure of the blank moment, helps you recover when things stall, and you do not have to use every item. People are also poor at predicting in advance which topic will turn out to be good, so a list of several options is better than betting on one.",
+      "explanation": "Most people walk into conversations expecting topics to arrive on their own, and feel that preparing them would be awkward or calculating. Brooks reports that only a small minority (about 18 percent) prepare topics, and about half think doing so would make the conversation less enjoyable. Yet in her research even about thirty seconds of planning made conversations flow better, with fewer awkward pauses and filler words, and left people less anxious and more confident; her MBA students, who resist the exercise, reliably enjoy prepared-topic conversations more. You do not have to raise every item: the list is insurance for a lull and a nudge toward richer subjects than whatever comes to mind first. People are also poor at predicting which topics will turn out well, so several options beat betting on one.",
       "when_to_use": "Networking events, first dates, dinners with in-laws, client lunches, skip-level meetings, any situation where you fear dead air.",
       "worked_example": "Heading to a client dinner, an account lead writes four possible topics in her phone: the client's recent office move, a book she knows the client posted about, a light question about weekend plans, and one industry trend she is curious about. When the conversation stalls after the menu, she pulls the office move topic, which turns into a twenty-minute exchange about remote work.",
       "common_mistakes": [
@@ -118,9 +128,9 @@
         "Assuming you can tell in advance which topic will land"
       ],
       "steps": [
-        "Spend two minutes before the conversation listing three to five possible topics",
+        "Take about thirty seconds before the conversation to write down around five possible topics",
         "Mix light and more substantive options, and include something about the other person",
-        "Keep the list handy but out of sight",
+        "Keep the list handy (phone or calendar note) but out of sight",
         "Use it when a lull hits; drop it when the conversation has its own momentum"
       ],
       "categories": [
@@ -145,24 +155,25 @@
         "Coffee chat with a senior leader"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), Topics maxim",
-        "underlying_research": "Brooks's classroom observations; Yeomans and Brooks work on topic selection and topic preference detection (reported as a working paper and in a 2019 Stanford NLP seminar abstract; a study in which people rated candidate topics in advance and then discussed them, reported via the Greater Good adaptation of the book)",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), T (Topics) maxim; workbook exercise 'Prep topics'",
+        "underlying_research": "Brooks and colleagues' topic-preparation studies (about 18 percent prepare; brief planning reduced pauses and anxiety) and Yeomans and Brooks topic-prediction study (about 1,000 people rated 50 topics, then discussed them; enjoyment was poorly predicted), as reported from the book by Greater Good; no peer-reviewed article located. Plus Brooks's classroom observations.",
         "urls": [
           "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf",
           "https://nlp.stanford.edu/seminar/details/myeomans.shtml"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Rests mainly on Brooks's teaching experience and her own studies with Yeomans that I could not confirm as peer-reviewed publications. Plausible, low-cost, and consistent with general preparation research.",
+      "confidence_rationale": "Confirmed in the book via the Greater Good summary and the author's workbook. Rests on Brooks's own studies with Yeomans, which I could not find as peer-reviewed publications, plus teaching experience. Plausible and low-cost; Medium retained.",
       "flags": [
         "unreplicated"
       ]
     },
     {
       "id": "talk-wood-brooks-03",
-      "name": "The topic pyramid: go deeper, and switch before it goes stale",
+      "name": "The topic pyramid: climb from small talk, and switch before it goes stale",
       "skill_type": "mental model",
-      "explanation": "Brooks pictures topics as a pyramid: a wide base of easy, shared small talk and a narrower top of personal, meaningful subjects that fewer people would discuss with you. Small talk is not the enemy; the common failure is lingering too long in one place, either stuck on the shallow base or circling a topic that has run out. Signs that a topic is exhausted include repeated points and shorter replies. When that happens, either move up (personalize, share something a bit more revealing, ask a deeper follow-up) or step back down to the base and start a fresh topic. Not every conversation needs to reach the top.",
+      "explanation": "Brooks pictures topics as a pyramid with three tiers: small talk at the base (topics any group could discuss), tailored talk in the middle (topics personalized to the people present), and deep talk at the top (topics only this particular group could have). Small talk is not the problem; it is an unavoidable ritual and a treasure hunt for something better. The common mistake is staying on base-level topics, or any spent topic, too long. Signs a topic is running dry include uncomfortable laughter, longer mutual pauses, and repeated statements. When you notice them, either climb (usually with a follow-up question on something that sparked interest) or switch assertively to a new topic; you can call back to earlier topics later. In her studies, pairs asked to cover more topics enjoyed the conversation more without losing depth, and more people felt they had covered too few topics than too many. Not every conversation needs to reach the top.",
       "when_to_use": "Whenever a conversation is polite but flat, or when you notice the same points being repeated.",
       "worked_example": "At a school pickup, two parents have covered the weather and the bake sale twice. One says, 'That bake sale saga has had a good run. Can I ask, how are you finding the new job you mentioned last month?' The switch acknowledges the old topic and moves to something more personal, and the chat comes alive.",
       "common_mistakes": [
@@ -172,10 +183,10 @@
         "Assuming every conversation should end up deep"
       ],
       "steps": [
-        "Notice signals that a topic is spent: repetition, short answers, looking away",
-        "Briefly affirm the current topic",
-        "Pivot with a question, either deeper on the same theme or to a new base-level topic",
-        "Read the response and adjust depth to the relationship"
+        "Notice signals that a topic is spent: uncomfortable laughter, longer mutual pauses, repetition",
+        "When something sparks interest, climb with a follow-up question toward tailored talk",
+        "Otherwise switch assertively to a fresh topic, briefly affirming the old one if it helps",
+        "Call back to earlier topics that deserved more airtime, and match depth to the relationship"
       ],
       "categories": [
         {
@@ -198,16 +209,17 @@
         "Long car ride with a partner"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), Topics maxim; also author interviews (LIFTOFF podcast episode on small talk; Greater Good adaptation)",
-        "underlying_research": "Yeomans and Brooks topic-switching work: a reported study in which pairs tried to cover many topics in a short window found more frequent switching was rated more enjoyable; a seminar abstract reports people are poor at detecting whether a partner wants to stay on or switch topics",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), T (Topics) maxim; workbook exercises 'Be a topic leader' and 'Stick with small talk'; LIFTOFF podcast episode 4 interview",
+        "underlying_research": "Brooks and colleagues' topic-switching studies as reported from the book: strangers asked to cover 12 topics in 10 minutes rated enjoyment higher (about 5 to 6 on a 7-point scale) than those talking normally; in 30-minute online chats, 20 percent felt they covered too few topics versus 11 percent too many. Yeomans seminar abstract reports people are poor at detecting whether a partner wants to stay on or switch. No peer-reviewed article located.",
         "urls": [
-          "https://www.buzzsprout.com/2369251/episodes/15153300-4-what-part-i-from-small-talk-to-tall-talk",
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf",
           "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
+          "https://www.buzzsprout.com/2369251/episodes/15153300-4-what-part-i-from-small-talk-to-tall-talk",
           "https://nlp.stanford.edu/seminar/details/myeomans.shtml"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The pyramid is a teaching metaphor. The switching evidence comes from Brooks and Yeomans studies I could only see described secondhand, not in a peer-reviewed article, so treat specific claims about switching frequency as provisional.",
+      "confidence_rationale": "Pyramid and switching advice confirmed in the author's workbook, podcast interview, and Greater Good summary of the book. The pyramid is a teaching metaphor and the switching evidence comes from Brooks lab studies not located in peer-reviewed form, so specific switching claims are provisional.",
       "flags": [
         "unreplicated"
       ]
@@ -216,7 +228,7 @@
       "id": "talk-wood-brooks-04",
       "name": "Ask more questions, especially follow-ups",
       "skill_type": "technique",
-      "explanation": "People rarely ask as many questions as their partners would like, and they do not expect questions to make them more liked. In live chats, people assigned to ask more questions were liked more, and the effect was carried largely by follow-up questions, the ones that build on what the other person just said. Follow-ups work because they prove you were listening and that you care about the answer, which is what researchers call responsiveness.",
+      "explanation": "People ask fewer questions than would serve them, overestimate how many they ask, and do not expect questions to make them more liked. In live online chats, people instructed to ask more questions were liked more, an effect the authors attribute largely to follow-up questions, the ones that build on what the other person just said, because they signal listening and care (responsiveness). Brooks also reports that in speed dates, people who asked more follow-ups got more second dates and nobody reached a point of asking too many.",
       "when_to_use": "First meetings, interviews (on either side), one-on-ones, dates, and catching up with family; any time you want the other person to feel heard.",
       "worked_example": "A colleague mentions she spent the weekend helping her father move. Instead of saying 'Nice, I went hiking,' you ask, 'How did he feel about leaving the old place?' Her answer leads to a real conversation about aging parents, and later that week she seeks you out for advice on a project.",
       "common_mistakes": [
@@ -253,16 +265,18 @@
         "First date"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), Asking maxim; Brooks and Leslie K. John, 'The Surprising Power of Questions,' Harvard Business Review, May-June 2018",
-        "underlying_research": "Huang, Yeomans, Brooks, Minson and Gino (2017), 'It Doesn't Hurt to Ask: Question-Asking Increases Liking,' Journal of Personality and Social Psychology 113(3), 430-452 (online chat experiments plus speed-dating field data; responsiveness as mechanism)",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), A (Asking) maxim; Brooks and Leslie K. John, 'The Surprising Power of Questions,' Harvard Business Review 96(3), May-June 2018",
+        "underlying_research": "Huang, Yeomans, Brooks, Minson and Gino (2017), 'It Doesn't Hurt to Ask: Question-Asking Increases Liking,' Journal of Personality and Social Psychology 113(3), 430-452 (two chat experiments with modest effects, plus speed-dating field data). Critique: Kluger and Malloy (2019), 'Question Asking as a Dyadic Behavior,' JPSP 117(6), 1127-1138, found the speed-dating association vanished once actor and partner effects were controlled. Integrity note: Gino-coauthored; listed by the Many Co-Authors project, where coauthor responses attribute none of its studies to Gino as data handler.",
         "urls": [
-          "https://store.hbr.org/product/the-surprising-power-of-questions/R1803C",
-          "https://dash.harvard.edu/handle/1/35647952",
-          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6857721/"
+          "https://hbr.org/2018/05/the-surprising-power-of-questions",
+          "https://doi.org/10.1037/pspi0000097",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6857721/",
+          "https://manycoauthors.org/gino/papers",
+          "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Multi-study peer-reviewed paper with experimental and field components, consistent with the broader responsiveness literature. However, a published reanalysis questions the causal interpretation of the speed-dating data (it may reflect a stable trait rather than a manipulable behavior), and the paper was coauthored by Francesca Gino; Brooks is not accused of misconduct, but I could not confirm whether this paper was audited. The follow-up-specific claim rests largely on this one paper.",
+      "confidence_rationale": "Confirmed in the book via the Greater Good summary and the workbook. The experimental effects are real but modest (d about 0.3), and Kluger and Malloy's reanalysis argues the speed-dating link to second dates does not survive proper controls and that follow-up and switch questions were hard to separate. Gino coauthorship noted per user decision; the audit project shows no Gino-handled studies. Medium and 'contested' retained.",
       "flags": [
         "contested"
       ]
@@ -306,14 +320,14 @@
         "Check-in with a struggling teammate"
       ],
       "source": {
-        "citation": "Brooks and John, 'The Surprising Power of Questions,' HBR 2018; carried into Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), Asking maxim",
-        "underlying_research": "Huang et al. (2017) JPSP; taxonomy developed from coding conversation transcripts",
+        "citation": "Brooks and John, 'The Surprising Power of Questions,' Harvard Business Review, May-June 2018 (taxonomy read on hbr.org); related material in Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), A (Asking) maxim",
+        "underlying_research": "Huang et al. (2017) JPSP 113(3), 430-452; taxonomy developed from human coding and machine learning of conversation transcripts",
         "urls": [
-          "https://store.hbr.org/product/the-surprising-power-of-questions/R1803C"
+          "https://hbr.org/2018/05/the-surprising-power-of-questions"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The taxonomy is a descriptive tool from the authors' coding work rather than a tested intervention; the claim that follow-ups matter most rests on the same evidence as the previous insight.",
+      "confidence_rationale": "Taxonomy confirmed in the author's HBR article; the workbook confirms the book's emphasis on balancing follow-up and topic-switching questions, though I could not see the full four-type list in the book itself. It is a descriptive tool rather than a tested intervention, and the claim that follow-ups matter most rests on the evidence (and critique) noted for insight 04.",
       "flags": [
         "none"
       ]
@@ -322,13 +336,14 @@
       "id": "talk-wood-brooks-06",
       "name": "Do not boomerask",
       "skill_type": "mental model",
-      "explanation": "Boomerasking is asking someone a question mainly so you can answer it yourself: 'How was your weekend?' followed, before they finish, by a long account of yours. Brooks and Yeomans found that askers often think this is engaging, but partners see it as self-centered and less interested in them, and it can even make the partner like the topic less. If you want to share, share directly; if you ask, stay with their answer.",
+      "explanation": "Boomerasking is asking someone a question, letting them answer, and then answering it yourself instead of following up on what they said: 'How was your weekend?' followed by a long account of yours. Brooks and Yeomans identify three variants: ask-bragging, ask-complaining, and ask-sharing. Boomeraskers believe they come across well, but partners see them as insincere, self-focused, and uninterested, and prefer people who simply disclose directly. If you want to share, share; if you ask, stay with their answer.",
       "when_to_use": "Anytime you notice yourself asking a question you are itching to answer, especially at social events and in team check-ins.",
       "worked_example": "On Monday standup a teammate asks, 'Did anyone catch the game?' and then talks for three minutes about his own reaction. A better version: he says, 'I watched the game last night and loved the finish. Did you see it?' and then listens to what others thought. Personally, the same applies when asking a partner about their day only to pivot to your own frustrations.",
       "common_mistakes": [
         "Using a question as a launch pad for your own story",
         "Asking and then half-listening while you wait to speak",
-        "Thinking that announcing your news via a question is more modest"
+        "Thinking that announcing your news via a question is more modest or polite",
+        "Ask-complaining: asking about their week so you can vent about yours"
       ],
       "steps": [
         "Before asking, check: do I want their answer, or a cue to talk?",
@@ -356,15 +371,16 @@
         "Reconnecting at a reunion"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), Asking maxim",
-        "underlying_research": "Brooks and Yeomans, 'Boomerasking: Answering Your Own Questions,' Journal of Experimental Psychology: General (accepted 2024, published 2025; reported as eight studies)",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), A (Asking) maxim (reported in the Greater Good summary of the book)",
+        "underlying_research": "Brooks and Yeomans (2025), 'Boomerasking: Answering Your Own Questions,' Journal of Experimental Psychology: General 154(3), 864-893 (eight studies)",
         "urls": [
-          "https://spiral.imperial.ac.uk/entities/publication/714aec36-1023-4cde-bedf-3de8da60f958",
-          "https://bps.org.uk/research-digest/improve-your-conversation-skills-ditch-boomerasking"
+          "https://doi.org/10.1037/xge0001693",
+          "https://www.hbs.edu/ris/Publication%20Files/Boomerasking_3ff8197e-bc22-4934-8e21-24a094a3df44.pdf",
+          "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Multi-study paper in a top journal, but from a single research team and recent, so not yet independently replicated. Secondary coverage reports inconsistent sample details.",
+      "confidence_rationale": "Abstract read: multi-study paper in a top journal, but from the author's own team and recent, so not yet independently replicated. The first-pass claim that boomerasking makes partners like the topic less was not found in the abstract and was removed.",
       "flags": [
         "unreplicated"
       ]
@@ -373,7 +389,7 @@
       "id": "talk-wood-brooks-07",
       "name": "Sensitive questions cost less than you fear",
       "skill_type": "mental model",
-      "explanation": "People avoid personal or sensitive questions (about money, health, relationships, setbacks) because they expect the other person to feel uncomfortable and think less of them. Research cited in Brooks's work finds askers overestimate these costs: partners generally were not more uncomfortable and did not judge the asker more harshly. How you ask still matters, so phrasing with care, giving an easy out, and asking in private help.",
+      "explanation": "People avoid personal or sensitive questions (about money, health, relationships, setbacks) because they expect the other person to feel uncomfortable and think less of them. Research Brooks cites finds askers overestimate these costs: being asked sensitive questions did not make conversations less enjoyable or create worse impressions of the asker than mundane questions did. How you ask still matters, so phrasing with care, giving an easy out, and asking in private help. Her workbook suggests rehearsing hard questions with a trusted partner.",
       "when_to_use": "When you need information that feels awkward to request, or when a relationship would benefit from going past surface topics.",
       "worked_example": "A team lead suspects a strong performer is quietly job hunting. Rather than guessing, she asks privately, 'I want to make sure you are getting what you need here. Are you thinking about other opportunities?' He is relieved to talk, and they agree on a stretch project. At home, the same principle helps a sibling finally ask a parent how their finances are holding up.",
       "common_mistakes": [
@@ -409,16 +425,17 @@
         "Asking a friend how they are really coping after a loss"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), Asking maxim (summarized in the Greater Good adaptation of the book)",
-        "underlying_research": "Hart, VanEpps and Schweitzer, 'The (better than expected) consequences of asking sensitive questions,' Organizational Behavior and Human Decision Processes 162 (2021), 136-154; five experiments, N = 1,427",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), A (Asking) maxim (reported in the Greater Good summary of the book); workbook exercise 'Asking and answering hard questions'",
+        "underlying_research": "Hart, VanEpps and Schweitzer (2021), 'The (better than expected) consequences of asking sensitive questions,' Organizational Behavior and Human Decision Processes 162, 136-154 (corrigendum in OBHDP 165, 250); five experiments",
         "urls": [
-          "https://ideas.repec.org/a/eee/jobhdp/v162y2021icp136-154.html",
+          "https://doi.org/10.1016/j.obhdp.2020.10.014",
           "https://knowledge.wharton.upenn.edu/article/why-you-shouldnt-be-afraid-to-ask-sensitive-questions/",
-          "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation"
+          "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Five preregistered-style experiments in one paper, consistent with a broader family of findings that people overestimate social awkwardness (e.g., gratitude and compliment research). Still one paper, mostly with strangers in lab settings; workplace power differences may change the calculus.",
+      "confidence_rationale": "Confirmed as cited in the book via the Greater Good summary (which links this paper). Five experiments in one paper, consistent with broader findings that people overestimate social awkwardness. Still one paper, mostly with strangers; workplace power differences may change the calculus. Removed the unverified 'preregistered' and sample-size details.",
       "flags": [
         "unreplicated"
       ]
@@ -427,7 +444,7 @@
       "id": "talk-wood-brooks-08",
       "name": "Levity: lightness over jokes",
       "skill_type": "mental model",
-      "explanation": "Brooks treats boredom as a quiet killer of conversation and levity as the fix. Levity is broader than telling jokes: laughing at others' humor, light callbacks to something said earlier, playful topic shifts, enthusiasm, and gratitude all keep a conversation lively. Successful humor can raise how competent and confident others think you are, but failed or inappropriate humor can lower your standing, so low-risk levity (appreciating others' humor, warmth, playfulness) is usually the better bet than ambitious jokes.",
+      "explanation": "Brooks treats boredom as a quiet killer of conversation and levity as the fix. Levity is broader than telling jokes: humor, warmth, laughing at others' humor, playful asides, and callbacks (references to something said earlier in the conversation or the relationship) all keep a conversation lively. When her students recorded talks with their favorite conversation partner, nearly all of those partners used callbacks. People underestimate how often humor attempts go well; successful humor can raise perceived competence and status, while failed or inappropriate humor lowers it, so low-risk levity is usually the better bet than ambitious jokes.",
       "when_to_use": "Long meetings, tense negotiations at a safe moment, first meetings, family gatherings that are dragging.",
       "worked_example": "Forty minutes into a budget review, a director refers back to a colleague's earlier quip about the 'haunted spreadsheet' when the same file errors again. The room laughs, energy lifts, and the group finishes the remaining items faster. She avoids jokes at anyone's expense and lets others' humor take center stage.",
       "common_mistakes": [
@@ -463,16 +480,17 @@
         "Onboarding a new hire"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), Levity maxim; author interviews (LIFTOFF podcast; Think Fast Talk Smart episode 223 with Naomi Bagdonas)",
-        "underlying_research": "Bitterly, Brooks and Schweitzer (2017), 'Risky Business: When Humor Increases and Decreases Status,' Journal of Personality and Social Psychology 112(3), 431-455 (eight experiments)",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), L (Levity) maxim; workbook exercises 'Escalate' and 'Levity reframe'; author interviews (Think Fast Talk Smart episode 223 with Naomi Bagdonas)",
+        "underlying_research": "Bitterly, Brooks and Schweitzer (2017), 'Risky Business: When Humor Increases and Decreases Status,' Journal of Personality and Social Psychology 112(3), 431-455; Brooks's classroom recordings of students' favorite conversation partners (callbacks)",
         "urls": [
-          "https://faculty.wharton.upenn.edu/wp-content/uploads/2017/03/2016-54537-001.pdf",
+          "https://doi.org/10.1037/pspi0000079",
           "https://knowledge.wharton.upenn.edu/article/using-humor-in-the-office-when-it-works-when-it-backfires/",
-          "https://www.buzzsprout.com/2369251/episodes/15153337-5-what-part-ii-we-can-laugh-about-this?t=0"
+          "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The humor and status finding comes from an eight-experiment JPSP paper; the broader claim that levity combats boredom and builds trust is credible expert synthesis rather than directly tested in the book's terms.",
+      "confidence_rationale": "Confirmed in the book via the Greater Good summary and workbook. The humor and status finding comes from a multi-experiment JPSP paper by the author's team; the callback observation is classroom evidence, and the broader claim that levity combats boredom is credible expert synthesis.",
       "flags": [
         "none"
       ]
@@ -481,7 +499,7 @@
       "id": "talk-wood-brooks-09",
       "name": "Kindness as receptiveness in disagreement",
       "skill_type": "technique",
-      "explanation": "For Brooks, kindness in conversation means prioritizing your partner's needs, which includes respectful language, responsive listening, and being visibly open to views you disagree with. Research she draws on shows that signaling receptiveness in words (acknowledging the other view, finding points of agreement, softening absolute claims, framing positively) makes you seem more trustworthy and reasonable and reduces escalation. A related point: if you assume the other person is trying to beat you rather than learn from you, conflict grows, so start by assuming they are trying to understand.",
+      "explanation": "For Brooks, kindness in conversation means trying to prioritize your partner's conversational needs, which includes being visibly open to views you disagree with. Her receptiveness recipe: acknowledge the other view, affirm and validate their feelings, hedge your claims, avoid argumentative explanation words such as 'because' and 'therefore', frame things positively, and even voice your own internal disagreement. Two misperceptions make conflict worse: we tend to judge people who disagree with us as poor listeners even when they listened well, and if you assume the other person is out to persuade you rather than learn from you, you behave in ways that escalate. Shifting your aim from winning to learning tends, ironically, to make you more persuasive.",
       "when_to_use": "Disagreements at work, political or values conversations with family, feedback discussions, contentious online threads.",
       "worked_example": "In a design review, an engineer disagrees with a product manager's launch date. Instead of 'That date is impossible,' she says, 'I understand the market window matters, and I agree we need to ship this quarter. My worry is the testing time; it might be that a two-week slip saves us a rollback.' The PM engages with the risk rather than defending the date.",
       "common_mistakes": [
@@ -492,9 +510,10 @@
       ],
       "steps": [
         "Acknowledge: restate the other person's view in a sentence",
-        "Emphasize agreement: name something you share",
-        "Hedge: soften absolutes (might, in my experience)",
-        "Reframe to the positive: state what you want, not only what you oppose"
+        "Affirm and validate: name a point of agreement or the sense in how they feel",
+        "Hedge: soften absolutes (might, in my experience) and skip 'because' and 'therefore' lecturing",
+        "Reframe to the positive: state what you want, not only what you oppose",
+        "Assume they are trying to learn too, and aim to learn rather than win"
       ],
       "categories": [
         {
@@ -521,16 +540,19 @@
         "Disagreeing with a partner about money"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), Kindness maxim; Cambridge Day interview, January 2025; Greater Good adaptation",
-        "underlying_research": "Yeomans, Minson, Collins, Chen and Gino (2020), 'Conversational receptiveness: Improving engagement with opposing views,' Organizational Behavior and Human Decision Processes 160, 131-148 (lab studies plus Wikipedia field data); HEAR acronym from Julia Minson's related teaching",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), K (Kindness) maxim and material on difficult moments; workbook exercise 'De-escalate' (receptiveness recipe); Greater Good summary of the book",
+        "underlying_research": "Yeomans, Minson, Collins, Chen and Gino (2020), 'Conversational receptiveness: Improving engagement with opposing views,' OBHDP 160, 131-148; Collins, Dorison, Gino and Minson (2022), 'Underestimating Counterparts' Learning Goals Impairs Conflictual Conversations,' Psychological Science 33(10), 1732-1752; Ren and Schaumberg (2024), 'Disagreement Gets Mistaken for Bad Listening,' Psychological Science 35(5), 455-470. The related HEAR acronym (Hedge, Emphasize agreement, Acknowledge, Reframe) comes from Minson and Yeomans's teaching and was not found in Brooks's materials. Integrity note: the 2020 and 2022 papers are Gino-coauthored; the Many Co-Authors project lists both, with coauthor responses attributing none of their studies to Gino as data handler.",
         "urls": [
-          "https://ideas.repec.org/a/eee/jobhdp/v160y2020icp131-148.html",
-          "https://shorensteincenter.org/resource/better-disagreements-change-words-4-ways-make-counterpart-feel-heard-keep-conversation-going/",
-          "https://www.cambridgeday.com/2025/01/12/desperate-for-better-dialogue-author-behind-science-of-conversation-talks-us-through-it/"
+          "https://doi.org/10.1016/j.obhdp.2020.03.011",
+          "https://doi.org/10.1177/09567976221085494",
+          "https://doi.org/10.1177/09567976241239935",
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf",
+          "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
+          "https://manycoauthors.org/gino/papers"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Multi-study peer-reviewed work including field data, and consistent with negotiation and persuasion research. I could not confirm how much of the HEAR acronym appears in Brooks's book itself versus Minson's materials. The receptiveness paper was also coauthored by Gino; no misconduct finding against it was located.",
+      "confidence_rationale": "Book's version (receptiveness recipe) confirmed in the author's workbook; the disagreement-listening and learning-goals findings confirmed via the Greater Good summary. Multi-study peer-reviewed work including field data, consistent with negotiation research. Gino coauthorship noted per user decision. Medium retained.",
       "flags": [
         "none"
       ]
@@ -578,16 +600,17 @@
         "Congratulating a friend on a milestone"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), Kindness maxim (compliment guidance summarized in the Greater Good adaptation)",
-        "underlying_research": "Zhao and Epley (2021), 'Insufficiently complimentary?,' Journal of Personality and Social Psychology 121(2), 239-256; Kumar and Epley (2018), 'Undervaluing Gratitude,' Psychological Science",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), K (Kindness) maxim (compliment guidance reported in the Greater Good summary); workbook exercises 'Give a compliment' and 'Battle of the nice guys'",
+        "underlying_research": "Zhao and Epley (2021), 'Insufficiently complimentary?: Underestimating the positive impact of compliments creates a barrier to expressing them,' Journal of Personality and Social Psychology 121(2), 239-256 (confirmed as cited via Greater Good). Kumar and Epley (2018), 'Undervaluing Gratitude: Expressers Misunderstand the Consequences of Showing Appreciation,' Psychological Science 29(9), 1423-1435 (supports the thanks part; not confirmed as cited in the book).",
         "urls": [
           "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
-          "https://www.chicagobooth.edu/review/why-we-underestimate-power-expressing-gratitude",
-          "https://www.psychologytoday.com/za/blog/ulterior-motives/202110/you-probably-don-t-compliment-other-people-often-enough"
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf",
+          "https://doi.org/10.1037/pspa0000277",
+          "https://doi.org/10.1177/0956797618772506"
         ]
       },
       "confidence": "High",
-      "confidence_rationale": "The miscalibration (people underestimate recipients' positive reactions) appears across multiple experiments in two separate papers and fits a broader set of findings on social underestimation. The specific advice about avoiding appearance comments is the author's guidance rather than a tested result.",
+      "confidence_rationale": "Compliment advice confirmed in the book via the Greater Good summary and workbook. The miscalibration appears across multiple experiments in two separate papers and fits a broader set of social-underestimation findings, so High retained; the gratitude paper is not confirmed as cited, and the advice about avoiding appearance comments is the author's guidance rather than a tested result.",
       "flags": [
         "none"
       ]
@@ -596,7 +619,7 @@
       "id": "talk-wood-brooks-11",
       "name": "End before the well runs dry",
       "skill_type": "mental model",
-      "explanation": "Conversations rarely end when both people want them to: in one large study, very few ended at a mutually desired time, and people were poor at guessing when their partner wanted to stop. Brooks treats the ending as the final coordination problem of a conversation. Practical implication: watch for signs the energy is fading, and end warmly rather than dragging on; a graceful close (a callback, thanks, or a concrete next step) leaves a better final impression than an extra ten minutes of filler.",
+      "explanation": "Conversations rarely end when both people want them to: in a study of 932 conversations, very few ended when both wanted, or even when one wanted, and people were poor at guessing when their partner wanted to stop. Brooks treats the ending as the final coordination problem of a conversation and, in interviews, says most of us stay too long, just as we do on topics. She finds this freeing: getting the end exactly right is hard for everyone, and a good conversation ending is not the end of the relationship but one in a sequence of conversations. Practical implication: watch for fading energy and close warmly rather than dragging on.",
       "when_to_use": "Networking chats, phone calls with relatives, meetings that have covered the agenda, dates.",
       "worked_example": "At a conference reception, a consultant senses a conversation with a prospective client winding down after a good exchange about supply chains. She says, 'This has been the best conversation of my night. I will send you that article on nearshoring tomorrow,' and moves on. The prospect replies to the follow-up email the next morning.",
       "common_mistakes": [
@@ -632,24 +655,25 @@
         "Ending a first date on a good note"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025); author interview on LIFTOFF podcast episode on endings",
-        "underlying_research": "Mastroianni, Gilbert, Cooney and Wilson (2021), 'Do conversations end when people want them to?' PNAS 118(10) (932 conversations, intimate partners and strangers)",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025) (discusses the Mastroianni et al. study, per the Greater Good summary); Brooks interview on LIFTOFF podcast episode 9 'When it's time to end'",
+        "underlying_research": "Mastroianni, Gilbert, Cooney and Wilson (2021), 'Do conversations end when people want them to?' PNAS 118(10), e2011809118 (932 conversations, intimate partners and strangers)",
         "urls": [
-          "https://www.buzzsprout.com/2369251/episodes/15153462-9-when-it-s-time-to-end",
-          "https://adam-mastroianni-531b.squarespace.com/research/2021/1/31/do-conversations-end-when-people-want-them-to"
+          "https://doi.org/10.1073/pnas.2011809118",
+          "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
+          "https://www.buzzsprout.com/2369251/episodes/15153462-9-when-it-s-time-to-end"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The mismatch finding comes from one well-powered PNAS paper by another lab. The advice to end early while energy is high is a reasonable inference, not directly tested; I could not confirm the book's exact recommendation on endings.",
+      "confidence_rationale": "The book cites the Mastroianni study, and Brooks's view that we tend to stay too long is confirmed in her own interview; specific closing tactics (callback, next step) are general guidance not confirmed in the book. The mismatch finding is one well-powered PNAS paper by another lab; the advice is a reasonable inference, not directly tested.",
       "flags": [
         "unreplicated"
       ]
     },
     {
       "id": "talk-wood-brooks-12",
-      "name": "Every conversation has two jobs: information and connection",
+      "name": "The conversational compass: plot your goals and your partner's",
       "skill_type": "mental model",
-      "explanation": "Brooks and colleagues describe conversational goals along two dimensions: exchanging information (learning, deciding, persuading) and managing the relationship (being liked, making the other feel good). People often pursue both at once, and the goals can pull against each other, which is part of why conversation feels hard. Naming which goal matters most right now, for you and for your partner, helps you pick the right moves, such as whether to ask a probing question or offer reassurance.",
+      "explanation": "Brooks maps what people want from a conversation on two axes: informational (is the goal about accurate information exchange or not) and relational (is it in service of the partner and relationship, or of yourself). The four quadrants are labeled Advance (high informational, low relational, such as persuading or deciding), Connect (high on both, such as brainstorming or being honest), Protect (low on both, such as concealing or assigning blame), and Savor (high relational, low informational, such as reminiscing or having fun). Unlike many two-by-two models, the aim is not to live in one quadrant; everyone always has at least one goal and usually several, often in different quadrants, and they can conflict. Plotting your goals and your best guess at your partner's makes your choices more intentional.",
       "when_to_use": "Before negotiations, feedback conversations, and any talk where you feel torn between getting answers and keeping things pleasant.",
       "worked_example": "Before a salary conversation, an employee writes: my information goal is to learn the band and what would justify the top; my relationship goal is to keep my manager as an ally. That leads her to ask open questions about criteria first, rather than opening with a demand that could make the manager defensive.",
       "common_mistakes": [
@@ -658,10 +682,10 @@
         "Being so pleasant that the needed information never surfaces"
       ],
       "steps": [
-        "Name your informational goal and your relational goal",
-        "Guess your partner's two goals",
-        "Choose questions and statements that serve both, or decide which to prioritize",
-        "Check afterward which goal was met"
+        "Before the conversation, list your goals and place each on the compass",
+        "Do the same for your best guess of your partner's goals",
+        "Note shared and conflicting goals and decide which matter most",
+        "Afterward, check which goals were met and whether they shifted"
       ],
       "categories": [
         {
@@ -684,18 +708,171 @@
         "Hard conversation with a teenager"
       ],
       "source": {
-        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025) (goals discussion; exact chapter not verified)",
-        "underlying_research": "Yeomans, Schweitzer and Brooks (published online 2021), 'The Conversational Circumplex: Identifying, prioritizing, and pursuing informational and relational motives in conversation,' Current Opinion in Psychology",
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025) (conversational compass); workbook exercises 'Plot your goals ahead of time' and 'Plot your goals after'",
+        "underlying_research": "Yeomans, Schweitzer and Brooks (2022), 'The Conversational Circumplex: Identifying, prioritizing, and pursuing informational and relational motives in conversation,' Current Opinion in Psychology 44, 293-302",
         "urls": [
-          "https://www.ethicalpsychology.com/2021/12/the-conversational-circumplex.html"
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf",
+          "https://doi.org/10.1016/j.copsyc.2021.10.001"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "A theoretical review framework from credible researchers, not a tested intervention. I could not confirm how prominently it features in the book itself.",
+      "confidence_rationale": "Confirmed in the author's workbook, which presents the compass and quadrants from the book. It is a theoretical review framework from credible researchers, not a tested intervention.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "talk-wood-brooks-13",
+      "name": "Apologize, even for what is not your fault",
+      "skill_type": "technique",
+      "explanation": "Brooks treats apologies as a core conversational skill. A sincere apology for a real mistake means saying you are sorry, committing to change, and then following through; she notes that taking responsibility tends to help rather than hurt (for example, physicians who apologize to patients are reported to be sued less). A smaller, surprising finding from her own research: superfluous apologies, expressions of regret for something you clearly did not cause (the rain, the traffic), signal empathic concern and increase trust. In a field study, a stranger who opened with an apology for the rain before asking to borrow a phone got far more yeses than one who simply asked.",
+      "when_to_use": "After you have let someone down, before asking a stranger or busy colleague for a favor, when someone is dealing with bad luck or a frustrating circumstance.",
+      "worked_example": "A project lead missed a client deadline because she underestimated testing time. On the call she says, 'I am sorry we missed Friday. I underestimated testing, and that is on me. From now on I will add a buffer and flag risk a week out,' then does so on the next milestone. Separately, when a visiting client arrives soaked, she opens with 'I am so sorry about this weather' before getting started, a small signal that she cares about their experience.",
+      "common_mistakes": [
+        "Apologizing without any commitment to change, or not following through",
+        "Hedged non-apologies ('sorry if you were offended')",
+        "Over-apologizing until it sounds like low confidence",
+        "Avoiding an apology out of fear it admits weakness"
+      ],
+      "steps": [
+        "Say clearly that you are sorry and name what happened",
+        "Take responsibility for your part without excuses",
+        "Commit to a specific change",
+        "Follow through, and later show that you did",
+        "For bad circumstances you did not cause, a brief expression of regret can still signal care"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "apologies"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        }
+      ],
+      "situations": [
+        "Apologizing to a client for a missed deadline",
+        "Making amends with a friend you hurt",
+        "Asking a stranger for a favor",
+        "Greeting a visitor who had a rough trip"
+      ],
+      "source": {
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), material on apologies (a section named in the author's workbook); workbook exercise 'Apologize'; Greater Good summary of the book",
+        "underlying_research": "Brooks, Dai and Schweitzer (2014), 'I'm Sorry About the Rain! Superfluous Apologies Demonstrate Empathic Concern and Increase Trust,' Social Psychological and Personality Science 5(4), 467-474 (four studies, including a field study at a train station). The physician-apology claim is reported from the book without a verified source.",
+        "urls": [
+          "https://doi.org/10.1177/1948550613506122",
+          "https://www.hbs.edu/ris/Publication%20Files/Brooks%20Dai%20Schweitzer%202013_d2f61dc9-ec1b-485d-a815-2cf25746de50.pdf",
+          "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Apology advice confirmed in the workbook and the superfluous apology study confirmed as cited via Greater Good (abstract read: four studies, trust mediated by empathic concern). One paper from the author's team with no independent replication located; the sincere-apology steps are expert guidance.",
+      "flags": [
+        "unreplicated"
+      ]
+    },
+    {
+      "id": "talk-wood-brooks-14",
+      "name": "Find the layer where you differ",
+      "skill_type": "mental model",
+      "explanation": "Brooks describes conversation as a coordination game in which partners try to build shared understanding across several layers: content (what is said and how it sounds), emotions (how each person feels), beliefs (what each knows), motives (what each wants), and identity (who each person is). Difficult conversations usually involve a difference at one or more of these layers, and misunderstandings are more common than we think. When an exchange turns hard, asking which layer the gap is on helps you respond to the real issue instead of only the surface words.",
+      "when_to_use": "When a conversation suddenly turns tense or confusing, and when debriefing a difficult exchange afterward.",
+      "worked_example": "Two cofounders argue about whether to hire a salesperson. The surface is content (budget numbers), but one realizes the gap is at the motives layer (she wants growth, he wants runway) and partly identity (he sees himself as the careful one). Naming that shifts the talk from line items to how much risk each can accept.",
+      "common_mistakes": [
+        "Arguing over content when the real difference is emotion, motive, or identity",
+        "Assuming shared understanding because no one objected",
+        "Treating an identity-level difference as a simple factual disagreement"
+      ],
+      "steps": [
+        "Notice the moment the conversation becomes hard",
+        "Ask which layer differs: content, emotions, beliefs, motives, or identity",
+        "Name or ask about that layer directly",
+        "Re-check shared understanding before moving on"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        }
+      ],
+      "situations": [
+        "Debriefing an argument with a cofounder",
+        "Family disagreement that keeps recurring",
+        "A meeting where people seem to talk past each other"
+      ],
+      "source": {
+        "citation": "Alison Wood Brooks, Talk: The Science of Conversation and the Art of Being Ourselves (Crown, 2025), opening framing of conversation as a coordination game and material on difficult moments; workbook exercises 'Coordination problems' and 'Sources of difficulty'",
+        "underlying_research": "Author's synthesis; no single study. Related coordination findings the book cites include Mastroianni et al. (2021) on endings.",
+        "urls": [
+          "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Confirmed in the author's workbook as a framework from the book. It is a credible expert's diagnostic model rather than a tested intervention.",
       "flags": [
         "none"
       ]
     }
   ],
-  "research_notes": "Network policy blocked direct fetching of every external host tried (penguinrandomhouse.com, publishersweekly.com, singjupost.com, hbs.edu, hbr.org, greatergood.berkeley.edu, prh.com asset bucket, penguinrandomhousesecondaryeducation.com). All content was gathered through WebSearch result summaries and snippets only, so no full text (book, HBR article, workbook, or papers) was read directly. Verified: title, subtitle, Crown, January 21, 2025 release, hardcover ISBN 9780593443491, paperback ISBN 9780593443514, and the TALK maxims (Topics, Asking, Levity, Kindness), with Kindness described as the capstone. Page count conflicts across listings (288 vs 336), so it is omitted. Chapter titles reportedly include 'A Is for Asking' and 'K Is for Kindness'; full table of contents not verified, so chapter-level citations are given at maxim level. Underlying papers confirmed via abstracts or credible coverage: Huang et al. 2017 JPSP; Brooks and John 2018 HBR; Brooks and Yeomans boomerasking (JEP: General); Bitterly, Brooks and Schweitzer 2017 JPSP; Hart, VanEpps and Schweitzer 2021 OBHDP; Yeomans et al. 2020 OBHDP; Zhao and Epley 2021 JPSP; Kumar and Epley 2018 Psych Science; Mastroianni et al. 2021 PNAS; Yeomans, Schweitzer and Brooks conversational circumplex. Not verified as being in the book: superfluous apologies (Brooks, Dai and Schweitzer 2014) and anxiety reappraisal (Brooks 2014, 'Get excited'; a 2025 replication reportedly reproduced self-reported effects but not observer-rated performance); both were excluded for that reason. The Yeomans and Brooks topic-selection findings (people cannot predict good topics; more frequent switching is more enjoyable) appear in secondary summaries and a seminar abstract and may be unpublished. Integrity context: Huang et al. 2017 and Yeomans et al. 2020 list Francesca Gino as coauthor; reporting located does not accuse Brooks, but I could not confirm audit outcomes for those specific papers. A published reanalysis (PMC6857721) questions the causal reading of the 2017 speed-dating study. I did not verify which specific researchers are cited in the book for each claim; the underlying_research fields name the studies that most plausibly support each insight based on the author's own publications and the Greater Good adaptation."
+  "research_notes": "Verification pass (2026-11-04) read pages directly with curl: the author's 22-page TALK workbook PDF (in full), the Penguin Random House book page, the Greater Good summary of the book by Kira M. Newman, Publishers Weekly review, Google Books record, HBR article page (paywalled, but the four question types passage was readable), the Boomerasking paper (HBS PDF), the superfluous apologies paper (HBS PDF), the Kluger and Malloy reanalysis (PMC), the Many Co-Authors papers list, LIFTOFF podcast transcripts (episodes 4 and 9), and Crossref metadata for every cited paper. Not accessible: hbs.edu faculty page and alisonwoodbrooks.com (403), Google Books preview search (rate-limited), the book text itself. Chapter titles beyond the TALK structure were not verified; citations give maxim-level locations plus workbook exercises. See the verification object for changes. Earlier first-pass notes: anxiety reappraisal (Brooks 2014) remains excluded as unconfirmed in the book.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://penguinrandomhousesecondaryeducation.com/wp-content/uploads/2025/03/9780593443491_FINAL_TALK_AWB_-Workbook.pdf",
+      "https://www.penguinrandomhouse.com/books/708473/talk-by-alison-wood-brooks/",
+      "https://greatergood.berkeley.edu/article/item/10_scientific_tips_to_make_you_better_at_conversation",
+      "https://www.publishersweekly.com/9780593443491",
+      "https://books.google.com/books?id=CiQFEQAAQBAJ",
+      "https://hbr.org/2018/05/the-surprising-power-of-questions",
+      "https://www.hbs.edu/ris/Publication%20Files/Boomerasking_3ff8197e-bc22-4934-8e21-24a094a3df44.pdf",
+      "https://www.hbs.edu/ris/Publication%20Files/Brooks%20Dai%20Schweitzer%202013_d2f61dc9-ec1b-485d-a815-2cf25746de50.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6857721/",
+      "https://manycoauthors.org/",
+      "https://manycoauthors.org/gino/papers",
+      "https://www.buzzsprout.com/2369251/episodes/15153300-4-what-part-i-from-small-talk-to-tall-talk",
+      "https://www.buzzsprout.com/2369251/episodes/15153462-9-when-it-s-time-to-end",
+      "https://api.crossref.org/works (metadata for all cited DOIs)"
+    ],
+    "changes": [
+      "book: edition expanded with verified formats, dates, ISBNs (ebook 9780593443507, paperback Jan 27 2026 9780593443514, audiobook 9780593446096) and 336 pages; author_credibility updated with title and Many Co-Authors audit status; legal_access notes updated (Greater Good is a summary by Kira M. Newman, not an author adaptation)",
+      "talk-wood-brooks-01: maxim wording aligned with publisher and workbook; added coordination-game framing; citation now notes book sections on difficult moments, groups, apologies",
+      "talk-wood-brooks-02: added verified figures (about 18 percent prepare; brief planning reduces pauses and anxiety; 1,000-person topic prediction study); steps changed to thirty seconds and five topics per workbook",
+      "talk-wood-brooks-03: confirmed pyramid in workbook and interview; corrected to three named tiers (small, tailored, deep talk); replaced exhaustion signals with the book's (uncomfortable laughter, longer pauses, redundancy); added switching study figures",
+      "talk-wood-brooks-04: added Kluger and Malloy 2019 JPSP citation for the reanalysis and its specific finding; added Gino audit status; corrected DOI links",
+      "talk-wood-brooks-05: confirmed four types on hbr.org; citation volume and source clarified",
+      "talk-wood-brooks-06: corrected definition (partner answers first, then asker answers own question); added three boomerask types; removed unsupported claim that it makes partners like the topic less; citation now JEP: General 154(3), 864-893, 2025, eight studies",
+      "talk-wood-brooks-07: confirmed cited in book via Greater Good; added DOI and corrigendum; removed unverified preregistration and sample-size details",
+      "talk-wood-brooks-08: added callbacks evidence and humor-underestimation point from the book; DOI added",
+      "talk-wood-brooks-09: replaced HEAR steps with the book's receptiveness recipe (workbook); noted HEAR is Minson and Yeomans material not found in Brooks's; added Collins et al. 2022 and Ren and Schaumberg 2024 as cited research; Gino audit status added",
+      "talk-wood-brooks-10: confirmed compliments in book; full citations; gratitude paper marked not confirmed as cited",
+      "talk-wood-brooks-11: confirmed book cites Mastroianni et al.; added Brooks's own view from LIFTOFF interview; citation completed",
+      "talk-wood-brooks-12: renamed and rewritten as the book's conversational compass (Advance, Connect, Protect, Savor) per workbook; circumplex citation corrected to Current Opinion in Psychology 44 (2022), 293-302",
+      "talk-wood-brooks-13: added (apologies and superfluous apologies; Brooks, Dai and Schweitzer 2014 SPPS), previously excluded as unconfirmed, now confirmed in book via Greater Good and workbook",
+      "talk-wood-brooks-14: added (layers of difference: content, emotions, beliefs, motives, identity) from the workbook"
+    ],
+    "still_unverified": [
+      "Exact chapter titles and page ranges (only the TALK structure and later sections on difficult moments, groups, and apologies are confirmed via the workbook)",
+      "Whether the book presents Kindness as the capstone maxim",
+      "Whether the full four-type question taxonomy appears in the book (confirmed only in the HBR article)",
+      "Peer-reviewed publication of the Brooks and Yeomans topic preparation, prediction, and switching studies",
+      "Whether Kumar and Epley (2018) gratitude research is cited in the book",
+      "Source for the physician apology and lawsuit claim (insight 13)",
+      "Specific closing tactics for ending conversations in the book itself",
+      "Many Co-Authors responses are unvetted coauthor submissions"
+    ]
+  }
 }

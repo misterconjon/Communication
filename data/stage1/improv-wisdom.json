@@ -3,21 +3,61 @@
     "book_id": "improv-wisdom",
     "title": "Improv Wisdom",
     "subtitle": "Don't Prepare, Just Show Up",
-    "authors": ["Patricia Ryan Madson"],
+    "authors": [
+      "Patricia Ryan Madson"
+    ],
     "year": 2005,
-    "publisher": "Bell Tower (Random House)",
-    "edition": "",
+    "publisher": "Bell Tower, an imprint of Random House (title now listed under Harmony, Penguin Random House)",
+    "edition": "First edition, hardcover, published May 3, 2005, New York; 160 pages per Penguin Random House and Open Library (Publishers Weekly lists 159 pp). Ebook edition ISBN 9780307531841 (2010). ISBN 9781400081882 is the hardcover.",
     "isbn": "9781400081882",
-    "author_credibility": "Madson taught drama at Stanford from 1977, headed the undergraduate acting program, founded the Stanford Improvisors (1991), and received Stanford's Dinkelspiel teaching award. She is also a long-time practitioner and teacher of Constructive Living (David K. Reynolds's synthesis of the Japanese Morita and Naikan therapies), which shapes the book's action-over-feelings and gratitude themes. She is an expert teacher and performer, not a researcher, and the book reflects a contemplative, self-help orientation that may overgeneralize stage rules to all of life.",
-    "evidence_base": "Almost entirely practitioner wisdom: classroom experience, improv exercises, personal anecdotes, and ideas borrowed from Morita/Naikan and Zen-flavored contemplative practice. Search-accessible summaries show no reliance on peer-reviewed studies. External research partly supports some ideas (improv training linked to higher uncertainty tolerance and lower social anxiety; spotlight effect; perfectionism research; gratitude interventions), but these studies did not test the book's maxims directly.",
+    "author_credibility": "Madson taught drama at Stanford from 1977 to 2005 after being denied tenure at an earlier post (Denison University), headed the undergraduate acting program, founded the Stanford Improvisors (1991), and received Stanford's Lloyd W. Dinkelspiel Award (1998). She studied with and brought Keith Johnstone to Stanford, and with her husband co-directs the California Center for Constructive Living, the practice David K. Reynolds built from Japanese Morita therapy and Naikan; both influences shape the book. She is an expert teacher and performer, not a researcher; the book is contemplative self-help that may overgeneralize stage rules to all of life. In one interview she cited an unnamed Stanford study claiming improv students had 40% higher self-esteem, which could not be traced.",
+    "evidence_base": "Practitioner wisdom: thirteen short maxim chapters (plus prologue, epilogue and resources) built from classroom experience, personal anecdotes, and more than 40 'Try this' exercises, with ideas and quotations from David K. Reynolds (Constructive Living), Keith Johnstone and Zen-flavored writers. No reliance on peer-reviewed studies was found in any source read. External research partly supports some ideas (improv exercises raising divergent thinking, uncertainty tolerance and positive affect; spotlight effect; high-quality listening; gratitude), but none of it tests the book's maxims directly.",
     "legal_access": [
-      {"type": "publisher preview", "url": "https://www.penguinrandomhouse.com/books/106001/improv-wisdom-by-patricia-ryan-madson/", "note": "Publisher page; host blocked by network policy, content seen only via search snippets."},
-      {"type": "summary", "url": "https://www.publishersweekly.com/9781400081882", "note": "Publishers Weekly review (search snippet only)."},
-      {"type": "interview", "url": "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/", "note": "Author interview; host blocked, snippet only."},
-      {"type": "interview", "url": "https://brent-sverdloff.squarespace.com/blog/2015/10/20/patricia-ryan-madson-on-improvisation-and-mental-agility", "note": "Interview on making partners look good (snippet only)."},
-      {"type": "summary", "url": "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf", "note": "Third-party chapter summary (snippet only)."},
-      {"type": "summary", "url": "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson", "note": "Philosopher's Note listing all 13 maxims (snippet only)."},
-      {"type": "interview", "url": "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication", "note": "Stanford GSB Think Fast Talk Smart episode featuring Madson (snippet only)."}
+      {
+        "type": "publisher preview",
+        "url": "https://www.penguinrandomhouse.com/books/106001/improv-wisdom-by-patricia-ryan-madson/",
+        "note": "Publisher page read: description (thirteen strategies), author bio, hardcover 160 pages, on sale 2005-05-03, ebook ISBN 9780307531841."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.publishersweekly.com/9781400081882",
+        "note": "Publishers Weekly review (read): Bell Tower, 159 pp, 13 maxims, notice-something-new exercise."
+      },
+      {
+        "type": "library",
+        "url": "https://openlibrary.org/isbn/9781400081882.json",
+        "note": "Open Library record (read): full table of contents listing the 13 maxim chapters in order."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+        "note": "Humor That Works interview with Madson (read): yes versus yes-man, not against preparation, write questions instead of a script, be average and the obvious, circus bow, notice the gifts."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication",
+        "note": "Stanford GSB Think Fast Talk Smart episode 100, Sept 26 2023 (transcript read): just show up, step first, prepare then set it aside, fail cheerfully story, windshield wipers attention idea."
+      },
+      {
+        "type": "interview",
+        "url": "https://brent-sverdloff.squarespace.com/blog/2015/10/20/patricia-ryan-madson-on-improvisation-and-mental-agility",
+        "note": "Brent Sverdloff interview (read): make your partner look good, shared control."
+      },
+      {
+        "type": "summary",
+        "url": "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+        "note": "Admired Leadership chapter summary (read) with page references for each maxim."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson",
+        "note": "Heroic.us Philosopher's Note (read): full list of 13 maxims; short excerpts from chapters 1, 2, 3, 8, 9, 11."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.conferencesthatwork.com/index.php/tag/naikan/",
+        "note": "Adrian Segar blog (read) describing the book's account of Madson's Naikan week and the three Naikan questions."
+      }
     ]
   },
   "insights": [
@@ -28,191 +68,853 @@
       "explanation": "In improv, anything a partner says or does is an offer, and the scene only moves when you accept it and build on it. Madson applies this to daily life: treat what other people bring you (an idea, a request, a complaint, a joke) as material to work with rather than something to block, correct, or explain away. Saying yes here means accepting the reality of what was offered and adding to it, not becoming a pushover who agrees to everything; she explicitly separates it from being a yes-man.",
       "when_to_use": "Brainstorms, early-stage discussions of a colleague's idea, playful or emotional bids from a partner or child, and any conversation where your reflex is to say 'yes, but' before you have understood what was offered.",
       "worked_example": "In a planning meeting, a junior analyst suggests running the customer survey by text message. Your instinct is to say the response rates will be terrible. Instead you say: 'Yes, and if we try it with one segment first, we would know within a week whether it beats email.' The idea gets tested, the analyst keeps contributing, and you still raised the risk, just as a next step rather than a veto. At home, your partner says 'let's skip cooking and have breakfast for dinner'; you add 'and eat it on the balcony' instead of listing what is in the fridge.",
-      "common_mistakes": ["Treating 'yes, and' as agreeing to commitments you cannot keep or decisions that are actually wrong", "Saying the words 'yes, and' while the content still blocks or replaces the other person's idea", "Using it to avoid raising real risks, which erodes trust later"],
-      "steps": ["Notice the offer: name to yourself what the other person actually proposed or expressed", "Accept the core of it out loud (acknowledge it as real and worth considering)", "Add one concrete build: a next step, a variation, or a question that extends it", "Raise concerns as additions ('and to make that work we would need...') rather than vetoes", "Reserve an honest no for commitments and decisions, not for ideas in exploration"],
-      "categories": [{"category": "conversations", "subcategory": "group-dynamics"}, {"category": "professional", "subcategory": "meetings"}, {"category": "relationships", "subcategory": "rapport"}, {"category": "personal-life", "subcategory": "partners"}],
-      "situations": ["Brainstorming with a team", "Responding to a colleague's half-formed idea", "Responding to a partner's spontaneous suggestion", "Playing with children"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 1 'Say Yes'", "underlying_research": "None cited in the book. Related but indirect: Felsman, Gunawardena & Seifert (2020, Thinking Skills and Creativity) found brief improv sessions raised uncertainty tolerance and partly raised divergent thinking; Lewis & Lovatt (2013, Thinking Skills and Creativity) found verbal improv raised divergent thinking scores. Deferred-judgment brainstorming research (Osborn tradition) is mixed. No controlled study isolates 'yes, and' versus 'yes, but' on workplace outcomes.", "urls": ["https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson", "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/", "https://escholarship.org/uc/item/34c225jm", "https://researchprofiles.herts.ac.uk/en/publications/breaking-away-from-set-patterns-of-thinking-improvisation-and-div/"]},
+      "common_mistakes": [
+        "Treating 'yes, and' as agreeing to commitments you cannot keep or decisions that are actually wrong",
+        "Saying the words 'yes, and' while the content still blocks or replaces the other person's idea",
+        "Using it to avoid raising real risks, which erodes trust later"
+      ],
+      "steps": [
+        "Notice the offer: name to yourself what the other person actually proposed or expressed",
+        "Accept the core of it out loud (acknowledge it as real and worth considering)",
+        "Add one concrete build: a next step, a variation, or a question that extends it",
+        "Raise concerns as additions ('and to make that work we would need...') rather than vetoes",
+        "Reserve an honest no for commitments and decisions, not for ideas in exploration"
+      ],
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
+      ],
+      "situations": [
+        "Brainstorming with a team",
+        "Responding to a colleague's half-formed idea",
+        "Responding to a partner's spontaneous suggestion",
+        "Playing with children"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 1 'Say Yes' (about pp. 27-32 per the Admired Leadership summary; blocking defined around p. 29, yes-and around p. 30)",
+        "underlying_research": "None cited in the book. Related but indirect: Felsman, Gunawardena & Seifert (2020, Thinking Skills and Creativity 35) found that 20 minutes of improv exercises, versus a matched social-interaction control, raised divergent thinking, positive affect and uncertainty tolerance; Lewis & Lovatt (2013, Thinking Skills and Creativity 9) linked improvisation to higher divergent thinking. No controlled study isolates 'yes, and' versus 'yes, but' on workplace outcomes.",
+        "urls": [
+          "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson",
+          "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://doi.org/10.1016/j.tsc.2020.100632",
+          "https://doi.org/10.1016/j.tsc.2013.03.001"
+        ]
+      },
       "confidence": "Medium",
       "confidence_rationale": "Strong practitioner consensus across the improv and applied-improv field, and lab studies show improv exercises (which embed accepting offers) aid divergent thinking and uncertainty tolerance. But the specific 'yes, and' rule has not been isolated experimentally, and business evidence is mostly workshop self-report.",
-      "flags": ["unreplicated"]
+      "flags": [
+        "unreplicated"
+      ]
     },
     {
       "id": "improv-wisdom-02",
       "name": "Drop the Script (Don't Over-Prepare)",
       "skill_type": "mental model",
-      "explanation": "Madson argues that rehearsing exactly what you will say pulls your attention into your head and the future, so you miss what is actually happening and sound canned. Her provocative 'don't prepare' really means: do not script the conversation; trust that if you pay attention you will have something to say. She has said she is not against preparation in general. The useful distinction for communicators is between preparing your purpose and material (good) and scripting lines and anticipating every reply (often counterproductive in live interaction).",
+      "explanation": "Madson argues that rehearsing exactly what you will say pulls your attention into your head and the future, so you miss what is actually happening and sound canned; in the chapter she frames 'don't prepare' as letting go of ego involvement and redirecting energy to the present. In interviews she says she is not against preparation: prepare as much as you like, then set it aside and show up, since your whole life is your preparation. The useful distinction for communicators is between preparing your purpose and material (good) and scripting lines and anticipating every reply (often counterproductive in live interaction).",
       "when_to_use": "Networking, Q and A sessions, job interviews, difficult personal conversations, and social situations where you notice yourself rehearsing your next line instead of listening.",
       "worked_example": "Before a one-on-one with a new skip-level manager, you were going to rehearse a three-minute speech about your accomplishments. Instead you prepare two facts you want her to know and one question you genuinely want answered, then walk in and respond to what she raises. When she opens by asking about a customer escalation you had not planned for, you can engage with it because you are not waiting to deliver a script.",
-      "common_mistakes": ["Reading 'don't prepare' literally and skipping research for high-stakes presentations or negotiations", "Memorizing word-for-word, then freezing when the order breaks", "Planning your reply while the other person is still talking"],
-      "steps": ["Prepare the substance: your goal and two or three key points or facts", "Skip scripting exact sentences or imagined dialogues", "In the conversation, put attention on the other person and what they just said", "Let your points surface when they connect to what is happening"],
-      "categories": [{"category": "foundations", "subcategory": "spontaneous-speaking"}, {"category": "foundations", "subcategory": "anxiety"}, {"category": "public-speaking", "subcategory": "impromptu"}, {"category": "public-speaking", "subcategory": "qa"}],
-      "situations": ["Answering unexpected questions in a meeting", "Job interview follow-up questions", "Meeting a senior leader one-on-one", "Making small talk at an event"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 2 'Don't Prepare'; also Madson on Stanford GSB Think Fast Talk Smart episode 100", "underlying_research": "Not research-based in the book. Felsman et al. (2020) found improvising (versus following scripts) raised tolerance of uncertainty in adults. Counter-evidence: preparation and practice reliably improve presentation performance and reduce anxiety, so the literal maxim is contestable.", "urls": ["https://www.publishersweekly.com/9781400081882", "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication", "https://news.umich.edu/?p=58508"]},
+      "common_mistakes": [
+        "Reading 'don't prepare' literally and skipping research for high-stakes presentations or negotiations",
+        "Memorizing word-for-word, then freezing when the order breaks",
+        "Planning your reply while the other person is still talking"
+      ],
+      "steps": [
+        "Prepare the substance: your goal and two or three key points or facts",
+        "Skip scripting exact sentences or imagined dialogues; if you need notes, write questions to yourself rather than sentences",
+        "Before you go in, set the preparation aside",
+        "In the conversation, put attention on the other person and what they just said",
+        "Let your points surface when they connect to what is happening"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "spontaneous-speaking"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "impromptu"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "qa"
+        }
+      ],
+      "situations": [
+        "Answering unexpected questions in a meeting",
+        "Job interview follow-up questions",
+        "Meeting a senior leader one-on-one",
+        "Making small talk at an event"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 2 'Don't Prepare' (about pp. 35-44); Madson on Stanford GSB Think Fast Talk Smart episode 100 (2023) and in the Humor That Works interview",
+        "underlying_research": "Not research-based in the book. Felsman, Gunawardena & Seifert (2020, Thinking Skills and Creativity) found brief improv exercises, versus a matched social-interaction control, raised tolerance of uncertainty. Counterpoint: mainstream public-speaking instruction holds that preparation and practice help performance and reduce anxiety (general consensus, no specific study checked here), so the literal slogan is contestable; Madson herself disclaims it.",
+        "urls": [
+          "https://www.publishersweekly.com/9781400081882",
+          "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication",
+          "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://doi.org/10.1016/j.tsc.2020.100632"
+        ]
+      },
       "confidence": "Medium",
       "confidence_rationale": "The narrower claim (scripting conversation reduces responsiveness; improvising builds comfort with uncertainty) has credible expert support and some lab evidence. The broad slogan is contested by evidence that preparation helps; use the narrow version.",
-      "flags": ["contested"]
+      "flags": [
+        "contested"
+      ]
     },
     {
       "id": "improv-wisdom-03",
       "name": "Show Up and Act Now (Action Before Readiness)",
       "skill_type": "mental model",
-      "explanation": "Two of Madson's maxims, Just Show Up and Act Now, share one idea drawn from Morita therapy and Constructive Living: you do not need to feel confident, motivated, or ready before acting. Feelings are not controllable on demand, but behavior is. So you show up (physically and attentively) and take the next concrete step while the nervousness is still there; in her words on the Stanford podcast, step first and then see where you are. Confidence tends to follow action rather than precede it.",
+      "explanation": "Just Show Up (chapter 3) and Act Now (chapter 11) are separate chapters in the book, but they share one idea drawn from David K. Reynolds's Constructive Living: you do not need to feel confident, motivated, or ready before acting. Just Show Up is about getting your body to where things happen, since motivation and good feelings are not prerequisites; Act Now recasts the order as ready, fire, aim, with action itself supplying the information about what to do next. Feelings are not controllable on demand, but behavior is, so you take the next concrete step while the nervousness is still there; on the Stanford podcast she put it as step first, then see where you are.",
       "when_to_use": "When you are avoiding a networking event, delaying a hard call, waiting to 'feel ready' to speak up in meetings, or putting off reaching out to an estranged friend.",
       "worked_example": "You have been putting off calling a client about a missed deadline because you dread the reaction. Instead of waiting until you feel calm, you accept the knot in your stomach, dial within the next ten minutes, and open with the facts and your recovery plan. Personally, you have wanted to reconnect with an old friend for months; rather than composing the perfect message, you send 'Thought of you today, coffee soon?' and let the conversation take shape from there.",
-      "common_mistakes": ["Waiting for anxiety to disappear before acting", "Treating action-first as license to skip thinking about consequences in high-stakes situations", "Showing up physically but staying mentally elsewhere (phone, rehearsing)"],
-      "steps": ["Name the feeling (nervous, reluctant) without trying to argue it away", "Identify the smallest concrete next action (send the invite, raise your hand, dial)", "Do it now, with the feeling present", "Once in motion, look at what is in front of you and take the next step"],
-      "categories": [{"category": "foundations", "subcategory": "anxiety"}, {"category": "foundations", "subcategory": "mindset"}, {"category": "relationships", "subcategory": "networking"}, {"category": "difficult", "subcategory": "bad-news"}],
-      "situations": ["Going to a networking event alone", "Making a dreaded phone call", "Speaking up for the first time in a meeting", "Reaching out to a friend you have drifted from"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxims 3 'Just Show Up' and 11 'Act Now'; Stanford GSB Think Fast Talk Smart episode 100", "underlying_research": "Influenced by Morita therapy and David K. Reynolds's Constructive Living (not named as research in summaries seen). Related external evidence: behavioral activation and exposure-based treatments for anxiety and depression (well established) support acting despite feelings; Brooks (2014, J. Experimental Psychology: General) found reappraising anxiety as excitement improved performance on speaking and other tasks. Morita therapy itself has limited Western trial evidence.", "urls": ["https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication", "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson"]},
+      "common_mistakes": [
+        "Waiting for anxiety to disappear before acting",
+        "Treating action-first as license to skip thinking about consequences in high-stakes situations",
+        "Showing up physically but staying mentally elsewhere (phone, rehearsing)"
+      ],
+      "steps": [
+        "Name the feeling (nervous, reluctant) without trying to argue it away",
+        "Identify the smallest concrete next action (send the invite, raise your hand, dial)",
+        "Do it now, with the feeling present",
+        "Once in motion, look at what is in front of you and take the next step"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "bad-news"
+        }
+      ],
+      "situations": [
+        "Going to a networking event alone",
+        "Making a dreaded phone call",
+        "Speaking up for the first time in a meeting",
+        "Reaching out to a friend you have drifted from"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 3 'Just Show Up' (about pp. 45-52) and chapter 11 'Act Now' (about p. 122); Stanford GSB Think Fast Talk Smart episode 100 (2023)",
+        "underlying_research": "The book quotes David K. Reynolds (Constructive Living, itself based on Morita therapy and Naikan) rather than research. Related external evidence: behavioral activation and exposure-based treatments (well-established literatures, cited here as general context, not a specific study) support acting despite feelings. Brooks (2014, Journal of Experimental Psychology: General 143) found that reappraising pre-performance anxiety as excitement improved singing, public speaking and math performance; this is related (working with anxiety rather than waiting for calm) but tests reappraisal, not action-first. Morita therapy has limited Western trial evidence.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication",
+          "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson",
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://doi.org/10.1037/a0035325"
+        ]
+      },
       "confidence": "Medium",
       "confidence_rationale": "The principle that action can precede and reduce anxiety aligns with well-established exposure and behavioral activation research, but the book presents it as philosophy, and its Morita source has thin controlled evidence.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "improv-wisdom-04",
       "name": "Start Anywhere, Start With the Obvious",
       "skill_type": "technique",
-      "explanation": "Paralysis often comes from searching for the perfect beginning or the clever idea. Madson advises starting with whatever is in front of you and with the most obvious response, using available materials the way a tinkerer would (she borrows the idea of bricolage). In improv, the obvious choice often reads as original to the audience because it is genuinely yours. For communicators this means opening with the plain, natural thing rather than straining for wit.",
+      "explanation": "Paralysis often comes from searching for the perfect beginning or the clever idea. Madson advises that with a big task or confusing problem you begin with the most obvious thing, whatever is in front of you, then sculpt and redirect as you go. In interviews she ties this to her 'Be Average' maxim: great improvisers are not afraid to say the most ordinary thing, and the obvious choice often reads as original because it is genuinely yours. For speaking, the chapter suggests replacing a written script with questions to yourself, which you answer in natural speech. For communicators this means opening with the plain, natural thing rather than straining for wit.",
       "when_to_use": "Blank-page writing, impromptu remarks, toasts, starting small talk, or any time you feel stuck hunting for a brilliant opening.",
       "worked_example": "You must write a project kickoff email and have rewritten the first line five times. You start with the obvious: 'We are starting the billing migration on Monday; here is what changes for your team.' The rest follows. At a party, instead of searching for a clever opener, you comment on the obvious shared thing: 'This guacamole is disappearing fast, have you tried it?'",
-      "common_mistakes": ["Assuming the obvious is boring and discarding it", "Starting with lengthy context or apologies instead of the obvious point", "Waiting to start until the whole structure is clear"],
-      "steps": ["Notice what is directly in front of you (the setting, the last thing said, the plain fact)", "Say or write the most obvious first sentence", "Build from there and edit later if writing"],
-      "categories": [{"category": "foundations", "subcategory": "spontaneous-speaking"}, {"category": "conversations", "subcategory": "small-talk"}, {"category": "written-digital", "subcategory": "clarity-structure"}, {"category": "public-speaking", "subcategory": "impromptu"}],
-      "situations": ["Starting a hard email", "Giving an impromptu toast", "Opening small talk with a stranger", "Being asked to say a few words with no notice"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 4 'Start Anywhere' and the 'celebrate the obvious' advice in maxim 5", "underlying_research": "None identified. Keith Johnstone's improv teaching (Impro, 1979) is the likely lineage of 'be obvious'. Lewis & Lovatt (2013) improv and divergent thinking is only indirectly relevant.", "urls": ["https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf", "https://headbutler.com/reviews/improv-wisdom/"]},
+      "common_mistakes": [
+        "Assuming the obvious is boring and discarding it",
+        "Starting with lengthy context or apologies instead of the obvious point",
+        "Waiting to start until the whole structure is clear"
+      ],
+      "steps": [
+        "Notice what is directly in front of you (the setting, the last thing said, the plain fact)",
+        "Say or write the most obvious first sentence",
+        "For a talk, write questions to yourself instead of a script and answer them aloud",
+        "Build from there and refine as you go, editing later if writing"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "spontaneous-speaking"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "small-talk"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "impromptu"
+        }
+      ],
+      "situations": [
+        "Starting a hard email",
+        "Giving an impromptu toast",
+        "Opening small talk with a stranger",
+        "Being asked to say a few words with no notice"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 4 'Start Anywhere' (about pp. 53-58); the obvious-response idea also discussed under chapter 5 'Be Average' in the Humor That Works interview",
+        "underlying_research": "None identified. Keith Johnstone's improv teaching (Impro, 1979), a confirmed influence on Madson, is the likely lineage of 'be obvious'. Lewis & Lovatt (2013) on improvisation and divergent thinking is only indirectly relevant.",
+        "urls": [
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+          "https://www.publishersweekly.com/9781400081882",
+          "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson"
+        ]
+      },
       "confidence": "Low",
       "confidence_rationale": "Widely taught in improv and writing practice and plausible, but rests on practitioner experience rather than tested evidence.",
-      "flags": ["pop-psychology"]
+      "flags": [
+        "pop-psychology"
+      ]
     },
     {
       "id": "improv-wisdom-05",
       "name": "Be Average (Permission for an Ordinary First Try)",
       "skill_type": "mental model",
-      "explanation": "Trying to be impressive makes people self-conscious, slow, and stiff. Madson's counsel is to aim for an ordinary, adequate contribution, because waiting for brilliance means you rarely contribute at all, and average first attempts are how skill grows. Lowering the bar reduces the self-monitoring that blocks spontaneity and frees attention for the other person.",
+      "explanation": "Trying to be impressive makes people self-conscious, slow, and stiff. Madson's counsel is to aim for an ordinary, adequate contribution, because waiting for brilliance means you rarely contribute at all, and average first attempts are how skill grows. She acknowledges her Stanford students found it sounded like bad advice; her point is that striving to be witty takes you out of ordinary human relating, while your plain response is often a revelation to others. Lowering the bar reduces the self-monitoring that blocks spontaneity and frees attention for the other person.",
       "when_to_use": "When perfectionism makes you stay silent in meetings, over-edit messages for hours, avoid volunteering to present, or hesitate to share ideas.",
       "worked_example": "In a weekly leadership meeting you usually stay quiet because you want your comment to be insightful. You set a rule: contribute one ordinary but useful observation each meeting, such as 'The support team mentioned the same complaint three times this week.' Your visibility rises, and occasionally the plain observation turns out to be the most useful thing said.",
-      "common_mistakes": ["Confusing 'be average' with low effort on work that needs high quality", "Over-polishing low-stakes messages", "Comparing your first attempts with others' polished results"],
+      "common_mistakes": [
+        "Confusing 'be average' with low effort on work that needs high quality",
+        "Over-polishing low-stakes messages",
+        "Comparing your first attempts with others' polished results"
+      ],
       "steps": [],
-      "categories": [{"category": "foundations", "subcategory": "mindset"}, {"category": "foundations", "subcategory": "anxiety"}, {"category": "professional", "subcategory": "meetings"}, {"category": "written-digital", "subcategory": "chat"}],
-      "situations": ["Speaking up in meetings when you feel junior", "Sending a quick reply instead of a polished essay", "Trying a new skill like presenting", "Sharing an unfinished idea"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 5 'Be Average'", "underlying_research": "None cited. External support: meta-analyses link perfectionistic concerns to procrastination and distress (e.g., Sirois, Molnar & Hirsch, 2017); the spotlight effect (Gilovich, Medvec & Savitsky, 2000) shows people overestimate how much others notice their performance.", "urls": ["https://alearningaday.blog/2013/08/28/be-average/", "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson"]},
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "chat"
+        }
+      ],
+      "situations": [
+        "Speaking up in meetings when you feel junior",
+        "Sending a quick reply instead of a polished essay",
+        "Trying a new skill like presenting",
+        "Sharing an unfinished idea"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 5 'Be Average'; Humor That Works interview",
+        "underlying_research": "None cited. External: Sirois, Molnar & Hirsch (2017, European Journal of Personality 31) meta-analysis found perfectionistic concerns modestly associated with more procrastination (perfectionistic strivings slightly with less); Gilovich, Medvec & Savitsky (2000, Journal of Personality and Social Psychology 78) showed people overestimate how much others notice their actions and appearance (the spotlight effect).",
+        "urls": [
+          "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+          "https://alearningaday.blog/2013/08/28/be-average/",
+          "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson",
+          "https://doi.org/10.1002/per.2098",
+          "https://doi.org/10.1037/0022-3514.78.2.211"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "Consistent with solid research on perfectionism and the spotlight effect, though the book itself offers only experience and the prescription has not been tested directly.",
-      "flags": ["none"]
+      "confidence_rationale": "Consistent with solid research on perfectionism and the spotlight effect, though the book itself offers only experience and the prescription has not been tested directly. Distinct from the 'shoot for average, fail cheerfully' line on the GSB podcast, which was voiced by Dan Klein, not Madson.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "improv-wisdom-06",
       "name": "Pay Attention: Notice What Is Actually There",
       "skill_type": "technique",
-      "explanation": "Madson treats attention as the improviser's core skill: when your focus is on your partner and surroundings, responses come naturally; when it is on yourself, you get stuck. Her exercises include looking at a familiar place and noticing something new, and attention games such as Sound Ball where the point is to receive fully rather than plan your next move. Applied to communication, this is listening to take in what someone means, not to reload.",
+      "explanation": "Madson treats attention as the improviser's core skill: what we attend to largely shapes how we experience the world, and when your focus is on your partner and surroundings, responses come naturally; when it is on yourself, you get stuck. Her exercises include taking a familiar route and noticing something new, and once a day listening to someone with full attention, as if you had to repeat it in detail, gently setting aside drifting thoughts. On small talk she advises noticing something about the other person instead of trying to sound interesting. Stanford's Oral Communication Program also credits her with attention games such as Sound Ball. Applied to communication, this is listening to take in what someone means, not to reload.",
       "when_to_use": "Listening to a frustrated colleague or partner, client discovery calls, meetings where you tend to plan your reply, and any time you feel self-conscious in conversation.",
       "worked_example": "A direct report is describing why the release slipped. You catch yourself composing your answer, so you shift attention to her words and tone, and notice she mentioned the QA handoff twice with a flat voice. You ask, 'It sounds like the QA handoff is the sore point, what happened there?' and the real issue surfaces. At dinner, you put your phone away and notice your teenager is unusually quiet, which opens a conversation you would have missed.",
-      "common_mistakes": ["Planning your reply while the other person talks", "Mistaking silence for listening while mentally elsewhere", "Self-monitoring (how am I coming across?) instead of other-focus"],
-      "steps": ["When you notice self-focus, move attention outward to the person's words, tone, and body", "Notice one specific detail you would usually miss", "Reflect it back or ask about it before adding your own content", "Practice daily by noticing something new in a familiar setting"],
-      "categories": [{"category": "relationships", "subcategory": "listening"}, {"category": "relationships", "subcategory": "nonverbal"}, {"category": "foundations", "subcategory": "anxiety"}, {"category": "personal-life", "subcategory": "family"}],
-      "situations": ["One-on-one with a struggling team member", "Client discovery call", "Conversation with a quiet teenager", "Feeling self-conscious at a social event"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 6 'Pay Attention'; Stanford Oral Communication Program improv games crediting Madson", "underlying_research": "None cited in the book. External: research by Itzchakov and Kluger on high-quality listening shows speakers feel less anxious and more reflective; Huang et al. (2017, JPSP) found follow-up questions increase liking. Self-focused attention is a maintaining factor in social anxiety models (Clark & Wells, 1995).", "urls": ["https://oralcommprogram.stanford.edu/presentation-and-delivery/improv-games", "https://www.publishersweekly.com/9781400081882"]},
+      "common_mistakes": [
+        "Planning your reply while the other person talks",
+        "Mistaking silence for listening while mentally elsewhere",
+        "Self-monitoring (how am I coming across?) instead of other-focus"
+      ],
+      "steps": [
+        "When you notice self-focus, move attention outward to the person's words, tone, and body",
+        "Notice one specific detail you would usually miss",
+        "Reflect it back or ask about it before adding your own content",
+        "Practice daily by noticing something new in a familiar setting"
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "nonverbal"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
+      ],
+      "situations": [
+        "One-on-one with a struggling team member",
+        "Client discovery call",
+        "Conversation with a quiet teenager",
+        "Feeling self-conscious at a social event"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 6 'Pay Attention' (about pp. 67-74; listen-completely exercise around p. 74); Stanford GSB Think Fast Talk Smart episode 100 (small-talk tip); Stanford Oral Communication Program improv games crediting Madson",
+        "underlying_research": "None cited in the book. External: Itzchakov, Kluger & Castro (2017, Personality and Social Psychology Bulletin 43) found across four experiments that high-quality listening reduced speakers' social anxiety and defensiveness; Castro, Kluger & Itzchakov (2016, European Journal of Social Psychology) found listening increased speakers' psychological safety on average. Huang, Yeomans, Brooks, Minson & Gino (2017, Journal of Personality and Social Psychology 113) found asking more questions, especially follow-ups, increases liking (integrity note: Francesca Gino is a coauthor; this paper has not been retracted, but treat Gino-coauthored work with caution). Self-focused attention is a maintaining factor in the Clark & Wells (1995) cognitive model of social phobia.",
+        "urls": [
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://www.publishersweekly.com/9781400081882",
+          "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+          "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication",
+          "https://oralcommprogram.stanford.edu/presentation-and-delivery/improv-games",
+          "https://doi.org/10.1177/0146167216675339",
+          "https://doi.org/10.1037/pspi0000097"
+        ]
+      },
       "confidence": "High",
-      "confidence_rationale": "The underlying claim (outward attention and genuine listening improve interactions, self-focus fuels social anxiety) is well supported by independent research, though the book's specific exercises are untested.",
-      "flags": ["none"]
+      "confidence_rationale": "The underlying claim (outward attention and genuine listening improve interactions, self-focus fuels social anxiety) is supported by multiple independent experimental lines and a widely tested clinical model, though the book's specific exercises are untested.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "improv-wisdom-07",
       "name": "Face the Facts: Work With What You Are Given",
       "skill_type": "mental model",
-      "explanation": "Rather than fighting reality or wishing people were different, Madson advises accepting the situation and the people as they are and building with what you have. Where saying yes is accepting the offer, facing the facts is digesting it: letting it shape your next move. In communication this means responding to the conversation you are actually in, not the one you wanted.",
+      "explanation": "Rather than fighting reality or wishing people were different, Madson advises accepting the situation and the people as they are and building with what you have. Where saying yes is accepting the bite of an offered apple, facing the facts is chewing it and letting it nourish you: letting the offer shape your next move. She adds that working skillfully and kindly with people you find difficult is the real mark of an improviser, and that life is about balancing rather than being balanced. In communication this means responding to the conversation you are actually in, not the one you wanted.",
       "when_to_use": "When a meeting goes off-agenda, a stakeholder rejects your plan, a family member reacts in a way you dislike, or plans fall apart at the last minute.",
       "worked_example": "Your executive sponsor cuts your presentation from twenty minutes to five as you walk in. Instead of complaining or rushing all twenty slides, you accept it and say: 'Given five minutes, here is the one decision I need from you and why.' With your in-laws, rather than hoping a relative stops bringing up politics, you accept that they will and plan a warm redirect.",
-      "common_mistakes": ["Confusing acceptance with approval or giving up on change", "Spending energy complaining about constraints in the moment", "Expecting people to change their style before you engage"],
+      "common_mistakes": [
+        "Confusing acceptance with approval or giving up on change",
+        "Spending energy complaining about constraints in the moment",
+        "Expecting people to change their style before you engage"
+      ],
       "steps": [],
-      "categories": [{"category": "foundations", "subcategory": "mindset"}, {"category": "difficult", "subcategory": "conflict"}, {"category": "professional", "subcategory": "executive-communication"}, {"category": "personal-life", "subcategory": "family"}],
-      "situations": ["Presentation time cut at the last minute", "Plan rejected by a stakeholder", "Dealing with a difficult relative", "Meeting derailed from the agenda"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 7 'Face the Facts'", "underlying_research": "None cited. Conceptually related to acceptance-based therapies (Morita therapy; Acceptance and Commitment Therapy, which has substantial trial support), though the book does not cite them as evidence.", "urls": ["https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf", "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson"]},
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "professional",
+          "subcategory": "executive-communication"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
+      ],
+      "situations": [
+        "Presentation time cut at the last minute",
+        "Plan rejected by a stakeholder",
+        "Dealing with a difficult relative",
+        "Meeting derailed from the agenda"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 7 'Face the Facts' (about pp. 77-82)",
+        "underlying_research": "None cited. Conceptually related to acceptance-based approaches (Morita therapy via Constructive Living; Acceptance and Commitment Therapy, which has a substantial trial literature), though the book does not cite them as evidence.",
+        "urls": [
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://www.penguinrandomhouse.com/books/106001/improv-wisdom-by-patricia-ryan-madson/",
+          "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson"
+        ]
+      },
       "confidence": "Low",
       "confidence_rationale": "Plausible and consistent with acceptance-based psychology, but the book's version is philosophical and untested in communication settings.",
-      "flags": ["pop-psychology"]
+      "flags": [
+        "pop-psychology"
+      ]
     },
     {
       "id": "improv-wisdom-08",
       "name": "Stay on Course: Keep the Purpose in View",
       "skill_type": "mental model",
-      "explanation": "Spontaneity does not mean aimlessness. Madson stresses knowing the point of what you are doing and steering back to it, adjusting your aim when you miss rather than abandoning the goal. For conversations, this is holding a clear purpose (what should be different after this exchange?) while staying flexible about how you get there.",
+      "explanation": "Spontaneity does not mean aimlessness. Madson says improv always has a point, and suggests replacing 'what do I feel like doing?' with 'what is my purpose now?', since feelings are fleeting and a poor guide for action. For conversations, this is holding a clear purpose (what should be different after this exchange?) while staying flexible about how you get there.",
       "when_to_use": "Meetings that drift, conflict conversations that spiral into old grievances, sales or negotiation calls, and long email threads that lose focus.",
       "worked_example": "A budget review meeting drifts into debating the office move. You say: 'Good topic for another time; to get our purpose done, we need to agree on Q3 headcount before we leave.' In an argument with your partner about chores that slides into past hurts, you return to the purpose: 'I want us to agree on who handles dinners this week.'",
-      "common_mistakes": ["Going into a conversation without a clear purpose", "Treating flexibility as permission to drift", "Steering so rigidly that you ignore important new information"],
-      "steps": ["Before the conversation, state the purpose in one sentence", "When the exchange drifts, acknowledge the tangent briefly", "Redirect to the purpose explicitly", "If the purpose itself was wrong, change it openly rather than drifting"],
-      "categories": [{"category": "foundations", "subcategory": "audience-goals"}, {"category": "professional", "subcategory": "meetings"}, {"category": "difficult", "subcategory": "conflict"}, {"category": "personal-life", "subcategory": "partners"}],
-      "situations": ["Running a meeting that keeps drifting", "Arguments with a partner that spiral", "Negotiation call", "Long email thread losing focus"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 8 'Stay on Course'", "underlying_research": "None cited. Goal clarity's benefit for performance is well established in goal-setting theory (Locke & Latham), but not tested for this conversational use.", "urls": ["https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf"]},
+      "common_mistakes": [
+        "Going into a conversation without a clear purpose",
+        "Treating flexibility as permission to drift",
+        "Steering so rigidly that you ignore important new information"
+      ],
+      "steps": [
+        "Before the conversation, state the purpose in one sentence",
+        "When the exchange drifts, acknowledge the tangent briefly",
+        "Redirect to the purpose explicitly",
+        "If the purpose itself was wrong, change it openly rather than drifting"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
+      ],
+      "situations": [
+        "Running a meeting that keeps drifting",
+        "Arguments with a partner that spiral",
+        "Negotiation call",
+        "Long email thread losing focus"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 8 'Stay on Course' (about p. 84)",
+        "underlying_research": "None cited; the purpose-over-feelings framing echoes David K. Reynolds's Constructive Living. Goal clarity's benefit for performance is well established in goal-setting theory (Locke & Latham, 2002, American Psychologist 57), but not tested for this conversational use.",
+        "urls": [
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson",
+          "https://doi.org/10.1037/0003-066X.57.9.705"
+        ]
+      },
       "confidence": "Medium",
       "confidence_rationale": "Consistent with broad goal-setting research and expert consensus on communication, but the book offers it as practical advice without evidence.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "improv-wisdom-09",
       "name": "Wake Up to the Gifts (Naikan-Style Reflection)",
       "skill_type": "technique",
-      "explanation": "Madson encourages noticing everything you receive from others, much of which goes unseen, drawing on the Japanese Naikan practice she teaches. Naikan reflection asks three questions about a person: what have I received from them, what have I given them, and what trouble have I caused them. Seeing gifts more clearly shifts attention from grievances to appreciation and tends to make your thanks specific and sincere.",
+      "explanation": "Madson encourages noticing everything you receive from others and from the world, much of which goes unseen (her example is the many unknown people behind the chair you are sitting on). It is the longest chapter, and in it she describes a week of intensive Naikan practice in Japan. Naikan reflection asks three questions about a person: what have I received from them, what have I given them, and what trouble have I caused them. She also suggests practical habits such as thanking people for thankless jobs and finding varied ways to say thank you each day. Seeing gifts more clearly shifts attention from grievances to appreciation and tends to make your thanks specific and sincere.",
       "when_to_use": "Before a hard conversation with someone you resent, at the end of a project to acknowledge contributors, when a relationship feels one-sided, or as a regular reflection habit.",
       "worked_example": "You feel irritated by a peer who 'never helps'. Before your one-on-one, you list what you received from her this month: she covered a client call, shared a template, flagged a bug. You open with specific thanks for the template, and the conversation about workload is noticeably calmer. At home, a weekly Naikan reflection about your spouse surfaces dozens of small things they did that you had not acknowledged.",
-      "common_mistakes": ["Generic thanks ('thanks for everything') that does not show you noticed", "Using gratitude to bypass a real problem that needs addressing", "Making the third question a self-punishment exercise rather than honest reflection"],
-      "steps": ["Pick one person and a time period", "List concretely what you received from them", "List what you gave them", "List troubles or inconveniences you caused them", "Express one specific thank-you based on what you noticed"],
-      "categories": [{"category": "relationships", "subcategory": "empathy"}, {"category": "relationships", "subcategory": "trust-vulnerability"}, {"category": "personal-life", "subcategory": "partners"}, {"category": "personal-life", "subcategory": "repair"}],
-      "situations": ["Thanking a team at the end of a project", "Preparing for a conversation with a colleague you resent", "Feeling taken for granted by a partner", "Reconnecting with a parent"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 9 'Wake Up to the Gifts'", "underlying_research": "Naikan (Yoshimoto Ishin) via David K. Reynolds's Constructive Living; Naikan has little rigorous Western trial evidence. External: Algoe's find-remind-bind work (2012) shows expressed gratitude strengthens relationships; gratitude interventions (Emmons & McCullough, 2003) show positive but modest effects in meta-analyses (e.g., Dickens, 2017).", "urls": ["https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson", "https://douglastsoi.substack.com/p/awake-to-the-gifts"]},
+      "common_mistakes": [
+        "Generic thanks ('thanks for everything') that does not show you noticed",
+        "Using gratitude to bypass a real problem that needs addressing",
+        "Making the third question a self-punishment exercise rather than honest reflection"
+      ],
+      "steps": [
+        "Pick one person and a time period",
+        "List concretely what you received from them",
+        "List what you gave them",
+        "List troubles or inconveniences you caused them",
+        "Express one specific thank-you based on what you noticed"
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        }
+      ],
+      "situations": [
+        "Thanking a team at the end of a project",
+        "Preparing for a conversation with a colleague you resent",
+        "Feeling taken for granted by a partner",
+        "Reconnecting with a parent"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 9 'Wake Up to the Gifts'; she calls it 'notice the gifts' in the Humor That Works interview",
+        "underlying_research": "Naikan (developed by Yoshimoto Ishin) via David K. Reynolds's Constructive Living; Naikan has little rigorous Western trial evidence. External: Algoe (2012, Social and Personality Psychology Compass) find-remind-bind theory and related studies show expressed gratitude strengthens relationships; Emmons & McCullough (2003, Journal of Personality and Social Psychology 84) found gratitude journaling improved well-being; Dickens (2017, Basic and Applied Social Psychology) meta-analyses found gratitude interventions have small to moderate positive effects.",
+        "urls": [
+          "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson",
+          "https://www.conferencesthatwork.com/index.php/tag/naikan/",
+          "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+          "https://headbutler.com/reviews/improv-wisdom/",
+          "https://doi.org/10.1080/01973533.2017.1323638"
+        ]
+      },
       "confidence": "Medium",
       "confidence_rationale": "Expressed, specific gratitude has credible relational research behind it, though effect sizes are modest and the Naikan method itself is thinly studied.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "improv-wisdom-10",
       "name": "Make Mistakes, Please (Mistakes as Offers)",
       "skill_type": "mental model",
-      "explanation": "Madson's classroom message is that if you are not making mistakes, you are not really improvising. She invites people to take risks where errors are likely and keep going boldly, and to treat a mistake as another offer to build on rather than a disaster to hide. In communication, recovering gracefully (acknowledge lightly, continue) matters more than never stumbling.",
+      "explanation": "Madson's classroom message is that if you are not making mistakes, you are not really improvising. She invites people to take risks and keep going boldly, and to respond to a mistake by noticing it, acknowledging it, and using it if possible, asking what comes next rather than how it happened; she is clear this is about resilience, not sloppiness. She suggests a 'circus bow' to celebrate a flub, and on the Stanford podcast told of starting a ceremonial reading too early, sitting back down, and getting a warm laugh when she restarted. In communication, recovering gracefully (acknowledge lightly, continue) matters more than never stumbling.",
       "when_to_use": "When fear of saying the wrong thing keeps you quiet, after a verbal slip in a presentation, when learning a new language or skill, or when leading a team where people hide errors.",
       "worked_example": "Halfway through a client demo you click the wrong tab and show an internal dashboard. Rather than apologizing at length, you smile, say 'Wrong door, but since we are here, this is the view our support team uses to catch your issues early,' and move on. As a manager, you share one of your own recent errors in team meetings so others feel safe surfacing theirs.",
-      "common_mistakes": ["Over-apologizing, which draws more attention to the error than the error itself", "Using 'mistakes are fine' to excuse repeated carelessness on high-stakes work", "Hiding errors rather than surfacing them early"],
-      "steps": ["Expect errors in any live interaction", "When one happens, acknowledge it briefly and without drama", "Look for a way to use it (a joke, a bridge, a learning point)", "Keep going", "Afterward, reflect on what to adjust, not on blame"],
-      "categories": [{"category": "foundations", "subcategory": "anxiety"}, {"category": "foundations", "subcategory": "mindset"}, {"category": "public-speaking", "subcategory": "delivery"}, {"category": "relationships", "subcategory": "trust-vulnerability"}],
-      "situations": ["Recovering from a slip in a presentation", "Speaking a second language at work", "Admitting an error to your team", "Trying something new socially"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 10 'Make Mistakes, Please'", "underlying_research": "None cited. External: Felsman et al. (2019 school study) linked improv participation and reduced social anxiety with greater willingness to make mistakes (pre/post, no control group). Spotlight effect and illusion of transparency (Gilovich et al., 2000; Savitsky & Gilovich, 2003) suggest audiences notice errors and nerves less than speakers think. Edmondson's (1999) psychological safety research supports openly discussing errors in teams. The pratfall effect (Aronson et al., 1966) is often cited but replicates inconsistently.", "urls": ["https://pleasuremechanics.com/articles/page/95", "https://news.nmu.edu/improv-training-can-reduce-social-anxiety", "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson"]},
+      "common_mistakes": [
+        "Over-apologizing, which draws more attention to the error than the error itself",
+        "Using 'mistakes are fine' to excuse repeated carelessness on high-stakes work",
+        "Hiding errors rather than surfacing them early"
+      ],
+      "steps": [
+        "Expect errors in any live interaction",
+        "When one happens, notice it and acknowledge it briefly and without drama (Madson's 'circus bow': arms up, 'ta-da')",
+        "Look for a way to use it (a joke, a bridge, a learning point)",
+        "Keep going",
+        "Afterward, ask what comes next and what to adjust, not who to blame"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        }
+      ],
+      "situations": [
+        "Recovering from a slip in a presentation",
+        "Speaking a second language at work",
+        "Admitting an error to your team",
+        "Trying something new socially"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 10 'Make Mistakes, Please' (about pp. 104-113); Humor That Works interview (circus bow); Stanford GSB Think Fast Talk Smart episode 100 (graduation reading story)",
+        "underlying_research": "None cited. External: Felsman, Seifert & Himle (2019, The Arts in Psychotherapy 63) studied 268 students in a ten-week school improv program (single-group pre/post, no control); reduced social anxiety among those who screened positive predicted gains including willingness to make mistakes. Savitsky & Gilovich (2003, Journal of Experimental Social Psychology) found that informing speakers about the illusion of transparency reduced their anxiety and improved rated speech quality; Gilovich, Medvec & Savitsky (2000) on the spotlight effect. Edmondson (1999, Administrative Science Quarterly) linked team psychological safety to learning behavior. The pratfall effect (Aronson, Willerman & Floyd, 1966, Psychonomic Science) is often cited but replicates inconsistently.",
+        "urls": [
+          "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson",
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+          "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication",
+          "https://doi.org/10.1016/j.aip.2018.12.001",
+          "https://doi.org/10.1016/S0022-1031(03)00056-8",
+          "https://doi.org/10.2307/2666999"
+        ]
+      },
       "confidence": "Medium",
       "confidence_rationale": "Graceful recovery and error-tolerance are supported by spotlight-effect and psychological-safety research and by correlational improv studies, but the improv-anxiety findings lack control groups and the pratfall claim is contested.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "improv-wisdom-11",
       "name": "Make Your Partner Look Good",
       "skill_type": "technique",
-      "explanation": "Under Take Care of Each Other, Madson describes the improviser's ethic of supporting rather than upstaging: share control, avoid undermining or contradicting partners, and rescue a partner who is struggling. When everyone focuses on making others succeed, the group performs better and each person feels safer. This applies directly to co-presenting, meetings, and family life.",
+      "explanation": "Under Take Care of Each Other, Madson describes the improviser's ethic of shared control: there are no fixed leaders, you do what needs to be done, you make your partner look good, and you notice mistakes and refocus on what is needed. In interviews she adds that improvisers avoid undermining or contradicting partners and choose cooperation over competition. When everyone focuses on making others succeed, the group performs better and each person feels safer. This applies directly to co-presenting, meetings, and family life.",
       "when_to_use": "Co-presenting, panel discussions, meetings where a colleague is floundering, introducing people, and supporting a partner in social settings.",
       "worked_example": "During a joint presentation to leadership, your colleague blanks on a revenue figure. Instead of jumping in to correct him, you say, 'Mark, this connects to the chart you built, I can pull it up while you walk them through the trend,' giving him a lifeline. At a dinner party, when your partner's story falls flat, you add a detail that sets up the punchline instead of letting the moment die.",
-      "common_mistakes": ["Correcting a partner publicly when a quiet assist would do", "Taking over the floor when rescuing", "Supporting only people you like or who outrank you"],
-      "steps": ["Before shared events, agree on roles and how to signal for help", "During the interaction, watch your partner for signs of struggle", "Offer a bridge or prompt that hands the spotlight back to them", "Credit others' contributions explicitly", "Save disagreements for private"],
-      "categories": [{"category": "conversations", "subcategory": "group-dynamics"}, {"category": "professional", "subcategory": "meetings"}, {"category": "relationships", "subcategory": "trust-vulnerability"}, {"category": "conversations", "subcategory": "introductions"}],
-      "situations": ["Co-presenting with a colleague", "A teammate struggling in front of leadership", "Introducing two contacts", "Supporting a partner at a social event"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 12 'Take Care of Each Other'; Brent Sverdloff interview with Madson (2015)", "underlying_research": "None cited. External: Edmondson (1999) and Google's Project Aristotle found psychological safety predicts team learning and effectiveness. Sawyer's research on group creativity and improvisation (Group Genius, 2007) is relevant practitioner-scholar support.", "urls": ["https://brent-sverdloff.squarespace.com/blog/2015/10/20/patricia-ryan-madson-on-improvisation-and-mental-agility", "https://www.goodreads.com/book/show/182052"]},
+      "common_mistakes": [
+        "Correcting a partner publicly when a quiet assist would do",
+        "Taking over the floor when rescuing",
+        "Supporting only people you like or who outrank you"
+      ],
+      "steps": [
+        "Before shared events, agree on roles and how to signal for help",
+        "During the interaction, watch your partner for signs of struggle",
+        "Offer a bridge or prompt that hands the spotlight back to them",
+        "Credit others' contributions explicitly",
+        "Save disagreements for private"
+      ],
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "introductions"
+        }
+      ],
+      "situations": [
+        "Co-presenting with a colleague",
+        "A teammate struggling in front of leadership",
+        "Introducing two contacts",
+        "Supporting a partner at a social event"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 12 'Take Care of Each Other' (about pp. 126-135; shared-control tips including 'make your partner look good' around p. 129); Brent Sverdloff interview with Madson (2015)",
+        "underlying_research": "None cited. External: Edmondson (1999, Administrative Science Quarterly) found team psychological safety predicts learning behavior; Google's Project Aristotle (internal people-analytics project, published on re:Work, not peer reviewed) reported psychological safety as the top factor in team effectiveness. Sawyer's Group Genius (2007) on collaborative improvisation is practitioner-scholar support.",
+        "urls": [
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://brent-sverdloff.squarespace.com/blog/2015/10/20/patricia-ryan-madson-on-improvisation-and-mental-agility",
+          "https://www.goodreads.com/book/show/182052",
+          "https://doi.org/10.2307/2666999"
+        ]
+      },
       "confidence": "Medium",
       "confidence_rationale": "Strong practitioner consensus plus indirect support from psychological safety research; specific tactics are untested.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "improv-wisdom-12",
       "name": "Enjoy the Ride (Play Loosens the Mind)",
       "skill_type": "mental model",
-      "explanation": "Madson closes with the idea that fun and playfulness loosen the mind, making people more flexible and generous. Treating a conversation or presentation partly as play, rather than a test, lowers threat and lets humor and responsiveness emerge.",
+      "explanation": "Madson closes with the idea that having fun loosens the mind, making people more flexible and generous; she urges finding play and wonder in daily life and borrows Rick Steves's line about being fanatically positive. Treating a conversation or presentation partly as play, rather than a test, lowers threat and lets humor and responsiveness emerge.",
       "when_to_use": "Before presentations or interviews when you feel tense, in team rituals, in long-term relationships that have become routine, and when helping others relax.",
       "worked_example": "Before a quarterly review, your team usually braces for a grilling. You open with a two-minute 'one surprising thing I learned this quarter' round. People laugh, the tone relaxes, and the hard questions later get franker answers. With your partner, you turn a dreaded weekend errand run into a game of finding the oddest item in each store.",
-      "common_mistakes": ["Forcing levity in serious or grieving moments", "Using humor to deflect from real problems", "Mistaking enjoyment for not caring about outcomes"],
+      "common_mistakes": [
+        "Forcing levity in serious or grieving moments",
+        "Using humor to deflect from real problems",
+        "Mistaking enjoyment for not caring about outcomes"
+      ],
       "steps": [],
-      "categories": [{"category": "conversations", "subcategory": "humor"}, {"category": "foundations", "subcategory": "mindset"}, {"category": "personal-life", "subcategory": "partners"}],
-      "situations": ["Opening a tense team review", "Calming nerves before an interview", "Refreshing a routine relationship", "Hosting a social gathering"],
-      "source": {"citation": "Patricia Ryan Madson, Improv Wisdom, maxim 13 'Enjoy the Ride'", "underlying_research": "None cited. External: Isen's experiments (e.g., Isen, Daubman & Nowicki, 1987) found mild positive affect improved creative problem solving; Fredrickson's broaden-and-build theory proposes positive emotions broaden thinking (theory well cited, some specific findings contested). Felsman et al. (2020) reported improv raised positive affect.", "urls": ["https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf", "https://news.umich.edu/?p=58508"]},
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
+      ],
+      "situations": [
+        "Opening a tense team review",
+        "Calming nerves before an interview",
+        "Refreshing a routine relationship",
+        "Hosting a social gathering"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 13 'Enjoy the Ride' (about pp. 137-140)",
+        "underlying_research": "None cited. External: Isen, Daubman & Nowicki (1987, Journal of Personality and Social Psychology 52) found induced mild positive affect improved creative problem solving; Fredrickson's broaden-and-build theory (2001, American Psychologist) proposes positive emotions broaden thinking (well cited, some specific findings contested). Felsman, Gunawardena & Seifert (2020) found improv exercises raised positive affect versus a control.",
+        "urls": [
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson",
+          "https://doi.org/10.1037/0022-3514.52.6.1122",
+          "https://doi.org/10.1016/j.tsc.2020.100632"
+        ]
+      },
       "confidence": "Medium",
       "confidence_rationale": "Positive affect aiding flexible thinking has experimental support, but the book's application is general advice and some broaden-and-build claims are contested.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "improv-wisdom-13",
+      "name": "Questions, Not a Script (Speak From Prompts)",
+      "skill_type": "technique",
+      "explanation": "For talks and prepared remarks, Madson recommends replacing a word-for-word text with a list of questions to yourself, then answering them in your natural voice. Reading a script focuses you on reading well and makes it hard to add anything, while answering a question forces your mind to organize information live, which sounds more natural, attentive and persuasive. She argues that real, improvised speech is more engaging than its scripted sibling.",
+      "when_to_use": "Short talks, toasts, team updates, interview answers you have anticipated, and any time you are tempted to memorize or read a text.",
+      "worked_example": "You have a five-minute update at an all-hands meeting. Instead of writing paragraphs, your card says: 'What did we ship?', 'What surprised us?', 'What do we need from other teams?' You rehearse by answering each question aloud in different words each time. On the day, a question from the floor fits naturally because you are not tied to a text.",
+      "common_mistakes": [
+        "Writing questions so vague they do not prompt any content",
+        "Secretly memorizing answers word for word, which recreates the script",
+        "Skipping rehearsal entirely and confusing this with no preparation"
+      ],
+      "steps": [
+        "List the three to five things the audience needs to know",
+        "Turn each into a question to yourself",
+        "Rehearse by answering aloud, varying the wording each time",
+        "Bring only the questions on your notes",
+        "Deliver by answering each question to the audience as if asked"
+      ],
+      "categories": [
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "spontaneous-speaking"
+        },
+        {
+          "category": "professional",
+          "subcategory": "status-updates"
+        }
+      ],
+      "situations": [
+        "Giving a short team update",
+        "Delivering a toast",
+        "Preparing for anticipated interview questions",
+        "Presenting without reading slides"
+      ],
+      "source": {
+        "citation": "Patricia Ryan Madson, Improv Wisdom, chapter 4 'Start Anywhere' (about pp. 56-58 per the Admired Leadership summary); Humor That Works interview",
+        "underlying_research": "None cited. Related only indirectly: Madson's Stanford colleagues on the GSB podcast make the same point that recited answers sound less human. No study found directly comparing question prompts with full scripts.",
+        "urls": [
+          "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+          "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+          "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Confirmed in the book and the author's interview, and consistent with widespread expert speaking advice against reading scripts, but supported by practitioner experience rather than tested evidence.",
+      "flags": [
+        "unreplicated"
+      ]
+    },
+    {
+      "id": "improv-wisdom-14",
+      "name": "Windshield Wipers for Attention",
+      "skill_type": "technique",
+      "explanation": "When distracting thoughts (what will I say next, how am I doing) cloud your listening, you neither fight them nor scold yourself. You mentally thank your brain for the thought and gently sweep it aside, like a windshield wiper, then return your attention to the person in front of you, as often as needed. The idea treats distraction as normal and makes refocusing quick and kind rather than self-critical.",
+      "when_to_use": "Listening in meetings or interviews when you catch yourself rehearsing, conversations where you feel self-conscious, and Q and A sessions.",
+      "worked_example": "In a client call you notice you are drafting your rebuttal while the client is still explaining. You silently think 'thanks, brain', let the draft go, and look back at the client's face and words. A minute later it happens again, and you repeat the sweep without frustration. You end up catching a budget concern you would otherwise have missed.",
+      "common_mistakes": [
+        "Criticizing yourself for drifting, which adds another distraction",
+        "Trying to suppress thoughts forcefully",
+        "Treating one refocus as enough rather than a repeated practice"
+      ],
+      "steps": [
+        "Notice that your attention has moved into your own head",
+        "Acknowledge the thought kindly ('thank you, brain')",
+        "Sweep it aside",
+        "Return full attention to the speaker's words, tone and body",
+        "Repeat whenever it happens"
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "qa"
+        }
+      ],
+      "situations": [
+        "Catching yourself rehearsing during a meeting",
+        "Listening to a client's concerns",
+        "Feeling self-conscious at a networking event"
+      ],
+      "source": {
+        "citation": "Attributed to Madson by Adam Tobin on Stanford GSB Think Fast Talk Smart episode 100 (2023); not located in the book",
+        "underlying_research": "None cited. Conceptually similar to attention-refocusing in mindfulness practice; the listening research under improv-wisdom-06 (Itzchakov, Kluger & Castro, 2017) supports the value of attentive listening but did not test this technique.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "A secondhand attribution from a colleague on a podcast; not confirmed in the book and not directly tested.",
+      "flags": [
+        "not-confirmed-in-book",
+        "pop-psychology"
+      ]
     }
   ],
-  "research_notes": "All direct page fetches (WebFetch) failed due to network policy: penguinrandomhouse.com, humorthatworks.com, spiritualityandpractice.com, heroic.us, en.wikipedia.org, blinkist.com and admiredleadership.com did not resolve, so I stopped fetching and relied on WebSearch result summaries and snippets. Information gathered via search: the list of 13 maxims (Heroic.us, Goodreads, Wikipedia snippets), Madson bio (Stanford 1977, Stanford Improvisors 1991, Dinkelspiel award, Constructive Living with David K. Reynolds), Publishers Weekly review snippets, an admiredleadership.com summary PDF snippet (Face the Facts, Stay on Course, Enjoy the Ride, bricolage, 'celebrate the obvious'), a Brent Sverdloff interview snippet on making partners look good, Stanford Oral Communication Program improv games crediting Madson, and the Stanford GSB Think Fast Talk Smart episode 100 notes ('step first, then see where you are'; not against all preparation). Research checked via search: Felsman et al. adolescent improv studies (2019 school study; 2022 Arts in Psychotherapy, uncontrolled pre/post), Felsman, Gunawardena & Seifert (2020, Thinking Skills and Creativity), Lewis & Lovatt (2013); no controlled studies of 'yes, and' versus 'yes, but' were found. Other studies named in underlying_research (spotlight effect, perfectionism meta-analysis, Isen, Algoe, Edmondson, Brooks, Clark & Wells, Huang et al., Itzchakov & Kluger) are cited from general knowledge as external context, not from the book, and were not re-verified in this session. Uncertainties: ISBN 9781400081882 (paperback) appears in several publisher and retailer URLs but the edition statement and page count were not verified, so edition is left empty; an ebook ISBN 9780307531841 also appears. Page numbers reported by one summary were not verified and are omitted. Maxim numbering follows the order listed by Heroic.us. 'Just Show Up' and 'Act Now' were merged into one insight because summaries describe overlapping content. An interview source mentions 12 maxims, likely an error; most sources list 13."
+  "research_notes": "Verification pass 2026-11-04. WebFetch was blocked by network policy, but plain curl worked, so pages were read via curl and text extraction. Read: Penguin Random House product page, Publishers Weekly review, Open Library edition record (full table of contents), Wikipedia biography, Madson's site improvwisdom.com, Stanford GSB Think Fast Talk Smart episode 100 transcript, Humor That Works interview, Brent Sverdloff interview, Admired Leadership chapter summary PDF (gives page numbers), Heroic.us Philosopher's Note (13 maxims and excerpts), Adrian Segar blog on the Naikan chapter, Stanford Oral Communication Program improv games page, Headbutler review, Bernie Gourley review, and alearningaday.blog. Studies were checked via Crossref, Semantic Scholar and OpenAlex metadata and abstracts. The table of contents confirms 13 separate maxims: Say Yes, Don't Prepare, Just Show Up, Start Anywhere, Be Average, Pay Attention, Face the Facts, Stay on Course, Wake Up to the Gifts, Make Mistakes Please, Act Now, Take Care of Each Other, Enjoy the Ride. Just Show Up (3) and Act Now (11) are separate chapters; they stay merged in improv-wisdom-03 because they make one transferable point, and the merge is now stated explicitly. Page numbers come from a third-party summary and are given as approximate. Google Books API returned a quota error and was not used. The book itself was not read; no pirated copies were used.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.penguinrandomhouse.com/books/106001/improv-wisdom-by-patricia-ryan-madson/",
+      "https://www.publishersweekly.com/9781400081882",
+      "https://openlibrary.org/isbn/9781400081882.json",
+      "https://en.wikipedia.org/wiki/Patricia_Ryan_Madson",
+      "https://www.improvwisdom.com/",
+      "https://www.gsb.stanford.edu/insights/just-show-bringing-art-improv-your-communication",
+      "https://www.humorthatworks.com/humor-talks/talking-improv-wisdom-an-interview-with-patricia-ryan-madson/",
+      "https://brent-sverdloff.squarespace.com/blog/2015/10/20/patricia-ryan-madson-on-improvisation-and-mental-agility",
+      "https://admiredleadership.com/wp-content/uploads/2022/07/BOOKsummary_Improv-Wisdom-1.pdf",
+      "https://www.heroic.us/pn/improv-wisdom-patricia-ryan-madson",
+      "https://www.conferencesthatwork.com/index.php/tag/naikan/",
+      "https://oralcommprogram.stanford.edu/presentation-and-delivery/improv-games",
+      "https://headbutler.com/reviews/improv-wisdom/",
+      "https://berniegourley.com/tag/improvisation/",
+      "https://alearningaday.blog/2013/08/28/be-average/",
+      "https://news.nmu.edu/improv-training-can-reduce-social-anxiety",
+      "https://doi.org/10.1016/j.tsc.2020.100632",
+      "https://doi.org/10.1016/j.aip.2018.12.001",
+      "https://doi.org/10.1002/ejsp.2185",
+      "https://doi.org/10.1177/0146167216675339",
+      "https://doi.org/10.1037/a0035325",
+      "https://doi.org/10.1037/pspi0000097",
+      "https://api.crossref.org/works (metadata checks for all other cited studies)"
+    ],
+    "changes": [
+      "book: edition, publisher and ISBN verified (hardcover 2005-05-03, 160 pp, ISBN 9781400081882; ebook 9780307531841); author_credibility and evidence_base updated with verified facts (Dinkelspiel 1998, tenure years, Johnstone link, Constructive Living center, 40+ Try this exercises); legal_access notes updated now that pages were read.",
+      "improv-wisdom-01: confirmed; added chapter pages; Felsman 2020 description corrected to match abstract (matched social-interaction control; raised divergent thinking, positive affect, uncertainty tolerance) and 'partly' removed.",
+      "improv-wisdom-02: confirmed; explanation now reflects the chapter's ego and present-moment framing and her prepare-then-set-aside disclaimer; Felsman 2020 control described correctly (was 'following scripts'); unverifiable umich link removed; step added on writing questions.",
+      "improv-wisdom-03: Just Show Up (ch. 3) and Act Now (ch. 11) confirmed as separate chapters; explanation and citation now say so and include 'ready, fire, aim'; Brooks 2014 verified and reframed as related reappraisal evidence; Morita noted as Reynolds's source, not named as research in the book.",
+      "improv-wisdom-04: confirmed; fixed misattribution: start-with-the-obvious is in ch. 4 (not maxim 5) and bricolage is in ch. 10, so the bricolage claim was removed; questions-not-script step added.",
+      "improv-wisdom-05: confirmed via author interview; Sirois et al. 2017 corrected to procrastination only (removed 'distress'); noted 'fail cheerfully' podcast line was Dan Klein's.",
+      "improv-wisdom-06: confirmed; Sound Ball reattributed to Stanford Oral Communication Program crediting Madson (not confirmed in book); Itzchakov and Kluger citations specified and verified; Gino integrity note added for Huang et al. 2017; confidence stays High.",
+      "improv-wisdom-07: confirmed with page refs; explanation adds the apple metaphor and difficult-people point.",
+      "improv-wisdom-08: confirmed; added 'purpose over feelings' framing; Locke & Latham citation made specific.",
+      "improv-wisdom-09: confirmed Naikan appears in the book (Madson's Naikan week in Japan, three questions); dead/unreadable substack URL replaced; gratitude studies verified and effect size described.",
+      "improv-wisdom-10: confirmed; Felsman 2019 citation corrected (Felsman, Seifert & Himle, Arts in Psychotherapy 63, n=268, single-group pre/post); Savitsky & Gilovich 2003 described accurately; added circus bow and graduation story; unverified pleasuremechanics URL removed.",
+      "improv-wisdom-11: confirmed ('make your partner look good' is one of the ch. 12 shared-control tips); Project Aristotle labeled as non-peer-reviewed.",
+      "improv-wisdom-12: confirmed; Isen 1987 and Fredrickson 2001 citations specified; unverified umich URL removed.",
+      "improv-wisdom-13: added (questions instead of a script, ch. 4 and author interview).",
+      "improv-wisdom-14: added (windshield wipers attention technique attributed to Madson on GSB podcast), Low, flagged not-confirmed-in-book.",
+      "research_notes: rewritten to reflect sources actually read."
+    ],
+    "still_unverified": [
+      "Exact page numbers (taken from the Admired Leadership summary, marked approximate); the book text itself was not read.",
+      "Whether Sound Ball and the windshield wipers technique appear in the book.",
+      "Madson's interview claim of a Stanford study showing 40% higher self-esteem among improv students (no source found).",
+      "Whether the book names Morita therapy explicitly (Reynolds and Naikan are confirmed).",
+      "General clinical literatures cited as context without a specific study (behavioral activation, exposure, Acceptance and Commitment Therapy, preparation and speaking anxiety).",
+      "Clark & Wells (1995) chapter and Sawyer (2007) confirmed to exist via citing works but not read."
+    ]
+  }
 }
