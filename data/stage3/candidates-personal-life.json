@@ -1,0 +1,227 @@
+{
+  "category": "personal-life",
+  "candidates": [
+    {
+      "title": "The Seven Principles for Making Marriage Work (revised edition)",
+      "authors": ["John M. Gottman", "Nan Silver"],
+      "year": 2015,
+      "type": "book",
+      "why_it_adds_value": "Fills the partners gap (weak-evidence: every partner tag in the library is a secondary application and Gottman is only mapped in Stage 1 rationales). It is the most widely read translation of a decades-long observational research program on couples, and it gives concrete partner-specific tools for repair (repair attempts, softened start-up, accepting influence) that the core books only touch through anecdote. Original edition 1999; revised 2015 with updated research.",
+      "credibility": "Gottman is professor emeritus of psychology at the University of Washington and ran the 'Love Lab' observational studies of couples from the 1970s onward, with many peer-reviewed papers (for example Gottman, Coan, Carrere and Swanson, 1998, Journal of Marriage and the Family 60(1); Driver and Gottman, 2004, Family Process 43(3) on bids for connection). Nan Silver is a science journalist. He co-founded the commercial Gottman Institute, which is a conflict of interest worth noting.",
+      "evidence_quality": "Medium. The underlying observational findings (contempt, criticism, defensiveness and stonewalling predict worse outcomes; positive everyday interaction cushions conflict) are well documented and broadly consistent with other labs. However, the headline divorce-prediction accuracy figures were fit in-sample, and Heyman and Slep (2001, Journal of Marriage and Family 63(2)) showed that such accuracy falls sharply under cross-validation. The book's specific ratios and the seven-principle program itself have not been tested as a package in independent randomized trials; present the prescriptions as research-informed rather than proven.",
+      "supports": [
+        {"category": "personal-life", "subcategory": "partners"},
+        {"category": "personal-life", "subcategory": "repair"}
+      ],
+      "key_ideas_preview": [
+        "Contempt, criticism, defensiveness and stonewalling are the conflict patterns most linked to relationship decline; contempt is the most corrosive.",
+        "Small daily bids for attention and whether a partner turns toward them build the goodwill that makes conflict survivable.",
+        "Start hard conversations gently: describe the issue and your need rather than attacking character.",
+        "Repair attempts during an argument (a joke, a pause, an acknowledgment) matter more than avoiding arguments, and their success depends on the overall positivity of the relationship.",
+        "Many recurring couple disagreements are perpetual rather than solvable; the goal is ongoing dialogue rather than final victory."
+      ],
+      "overlap_with_core_books": "Partial overlap with Connect (Bradford and Robin) on raising issues early and repair, and with the apology and feedback convergent concepts (2.14, 2.20). Seven Principles is the only candidate grounded in couples observation research and adds the partner-specific playbook the core lacks.",
+      "access": "Library and bookstores; legal publisher preview; Gottman's peer-reviewed papers are available through journal databases and some open-access copies (Heyman and Slep critique is open on PMC).",
+      "priority_score": 9,
+      "sources_checked": [
+        "https://www.porchlightbooks.com/products/seven-principles-for-making-marriage-work-john-gottman-9780553447712",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC1622921/",
+        "https://api.crossref.org/works?query.bibliographic=Predicting+marital+happiness+and+stability+from+newlywed+interactions",
+        "https://api.crossref.org/works?query.bibliographic=Daily+marital+interactions+and+positive+affect+during+marital+conflict"
+      ]
+    },
+    {
+      "title": "What do you do when things go right? The intrapersonal and interpersonal benefits of sharing positive events",
+      "authors": ["Shelly L. Gable", "Harry T. Reis", "Emily A. Impett", "Evan R. Asher"],
+      "year": 2004,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Adds the active-constructive responding model, a simple, teachable rule for responding to someone's good news that applies to partners, friends and family. The core books focus on responding to problems and distress; none treats how to respond to good news, even though this research suggests it matters for relationship quality independently of conflict handling. Pair with the review by Peters, Reis and Gable (2018, Social and Personality Psychology Compass 12(7), 'Making the good even better') for the later evidence base.",
+      "credibility": "Published in Journal of Personality and Social Psychology 87(2), 228 to 245, a top social psychology journal. Gable (UC Santa Barbara) and Reis (University of Rochester) are leading close-relationships researchers; Reis is a former president of the relationship research society.",
+      "evidence_quality": "High for the basic association, Medium for practical prescriptions. Four studies (diaries, couples) found that perceiving active-constructive responses predicted higher intimacy, satisfaction and daily well-being, and the capitalization literature has grown with replications and experimental work summarized in the 2018 review. Most data are self-reported and correlational, and the effect of training people to respond this way is less established.",
+      "supports": [
+        {"category": "personal-life", "subcategory": "partners"},
+        {"category": "personal-life", "subcategory": "friendships"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "key_ideas_preview": [
+        "Responses to good news fall into four types: active or passive, crossed with constructive or destructive.",
+        "Only enthusiastic, engaged responses (asking questions, showing genuine interest) are reliably linked to closer, more satisfying relationships.",
+        "A muted 'that's nice' can land almost as badly as a dismissive reply because it signals low interest.",
+        "Sharing good news and getting a warm response boosts the sharer's positive feelings beyond the event itself.",
+        "How a partner responds to good news predicts relationship quality separately from how they handle conflict."
+      ],
+      "overlap_with_core_books": "Low. Fits naturally with the follow-up-question concept (2.2) and appreciation concept (2.21), but no core book names or teaches capitalization responding.",
+      "access": "Journal database or library; author lab pages and the Peters, Reis and Gable review via library access; many university summaries online.",
+      "priority_score": 9,
+      "sources_checked": [
+        "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/february-2024/good-news-sharing-and-responding",
+        "https://api.crossref.org/works?query.bibliographic=Making+the+good+even+better+review+interpersonal+capitalization",
+        "https://doi.org/10.1037/0022-3514.87.2.228"
+      ]
+    },
+    {
+      "title": "A Review and Meta-Analysis of Person-Centered Messages and Social Support Outcomes",
+      "authors": ["Andrew C. High", "James Price Dillard"],
+      "year": 2012,
+      "type": "meta-analysis",
+      "why_it_adds_value": "Fills the supporting-distress gap (thin: three insights, one resting on a single personal case). Gives a research-based scale for comforting messages, from messages that deny or criticize feelings to messages that acknowledge, elaborate and legitimize them, and quantifies that more person-centered comfort is judged more helpful. This turns the core books' 'presence before advice' advice into a graded, teachable skill grounded in the Burleson comforting-communication research program.",
+      "credibility": "Published in Communication Studies 63(1), 99 to 118. High (Penn State) and Dillard (Penn State, distinguished professor) are established interpersonal communication researchers; the meta-analysis synthesizes 23 studies in the long-running Burleson person-centered message tradition.",
+      "evidence_quality": "High for the core relationship between person-centeredness and perceived helpfulness; Medium for real-world effects. The abstract reports a positive linear link with actual effectiveness and a stronger link with perceived effectiveness, weaker in confederate-based designs. Many underlying studies rate hypothetical messages rather than real conversations, and the authors call for sharper measurement of the nine-level hierarchy.",
+      "supports": [
+        {"category": "personal-life", "subcategory": "supporting-distress"},
+        {"category": "personal-life", "subcategory": "friendships"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "key_ideas_preview": [
+        "Comforting messages can be ranked by how much they acknowledge and explore the other person's feelings rather than dismiss them.",
+        "Messages that legitimize feelings and help the person talk through them are rated as more helpful than ones that minimize or redirect.",
+        "Telling someone how they should feel, or that it is not a big deal, sits at the low end of the scale.",
+        "The benefits show up most strongly in how supportive the message feels, with smaller effects on actual emotional improvement."
+      ],
+      "overlap_with_core_books": "Converges with concept 2.24 (presence and inquiry before advice) and with Supercommunicators' emotional conversation matching, but adds quantitative evidence and a graded framework none of the core books provide.",
+      "access": "Journal database or library (Taylor and Francis); abstract on Penn State research portal.",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://pure.psu.edu/en/publications/a-review-and-meta-analysis-of-person-centered-messages-and-social/",
+        "https://doi.org/10.1080/10510974.2011.598208"
+      ]
+    },
+    {
+      "title": "How many hours does it take to make a friend?",
+      "authors": ["Jeffrey A. Hall"],
+      "year": 2019,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Fills the friendships gap (weak-evidence: no insight has friendship as its primary category). Supplies a concrete, research-based expectation about how much shared time adult friendship formation takes and what kind of time counts, which corrects the common belief that friendships form on their own and gives readers a realistic planning frame.",
+      "credibility": "Published in Journal of Social and Personal Relationships 36(4), 1278 to 1296 (online 2018). Hall is a professor of communication studies at the University of Kansas who has published extensively on friendship, social interaction and well-being.",
+      "evidence_quality": "Medium. Two studies (adults who had recently moved, and first-year students followed over time) with retrospective self-estimated hours; a single paper, not yet a replicated body of work, and the hour thresholds are approximate estimates rather than precise cut-offs. Popular coverage quotes inconsistent figures, so cite the paper directly.",
+      "supports": [
+        {"category": "personal-life", "subcategory": "friendships"}
+      ],
+      "key_ideas_preview": [
+        "Moving from acquaintance to close friend takes a large investment of shared time, on the order of hundreds of hours.",
+        "Leisure time together (hanging out, joking, doing things) advances friendship more than time spent working side by side.",
+        "Frequent, varied conversation, including catching up and joking, accompanies the move toward closer friendship.",
+        "Adult friendships often stall because the time investment is not made intentionally after school or relocation."
+      ],
+      "overlap_with_core_books": "Low. Connects to concept 2.3 (go deeper than feels comfortable) and 2.12 (reciprocal disclosure), but no core book addresses friendship formation over time.",
+      "access": "Journal database or library (SAGE); University of Kansas news summaries; author's university page.",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://greatergood.berkeley.edu/article/item/how_long_does_it_take_to_make_a_friend",
+        "https://www.aau.edu/node/17476",
+        "https://doi.org/10.1177/0265407518761225"
+      ]
+    },
+    {
+      "title": "Platonic: How the Science of Attachment Can Help You Make and Keep Friends",
+      "authors": ["Marisa G. Franco"],
+      "year": 2022,
+      "type": "book",
+      "why_it_adds_value": "The only book-length, research-informed practitioner treatment of adult friendship among the candidates. It gives readers a playbook (take initiative, assume people like you, express vulnerability, handle anger, show affection) that would let friendships become a primary category with practical guidance rather than secondary tags.",
+      "credibility": "Franco holds a PhD in counseling psychology from the University of Maryland, where she has taught as an assistant clinical professor; she writes for Psychology Today and has been widely featured in mainstream media. The book was a New York Times bestseller (G.P. Putnam's Sons).",
+      "evidence_quality": "Medium. The book cites real friendship and social psychology research (for example liking-gap findings and Hall's time research), but it is a practitioner synthesis by a single author, and the attachment-style framing is applied more confidently than the friendship-specific evidence allows. Individual claims should be traced to primary studies before inclusion.",
+      "supports": [
+        {"category": "personal-life", "subcategory": "friendships"},
+        {"category": "personal-life", "subcategory": "repair"}
+      ],
+      "key_ideas_preview": [
+        "Adult friendship requires taking initiative; waiting for friendship to happen organically rarely works after school.",
+        "People tend to underestimate how much others like them, so assuming acceptance makes reaching out easier and more successful.",
+        "Attachment insecurity shapes how people read friends' silence or slights; checking stories before reacting protects the friendship.",
+        "Raising friction directly and with care keeps friendships alive, whereas quiet withdrawal tends to end them.",
+        "Generosity and explicit affection (saying you value the friendship) deepen ties."
+      ],
+      "overlap_with_core_books": "Moderate with Talk and How to Know a Person on miscalibrated social fears (2.4) and with Connect on raising issues early; distinct in making friendship the main subject.",
+      "access": "Library and bookstores; legal publisher preview; author site and Psychology Today articles.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://readings.com.au/product/9780593331897/platonic--marisa-g-franco--2022--9780593331897",
+        "https://www.panmacmillan.co.za/authors/marisa-g-franco-phd/43045",
+        "https://convention.apa.org/24-headline-franco",
+        "https://universityhonors.umd.edu/collegiate-fellow-marisa-franco-featured-in-maryland-today"
+      ]
+    },
+    {
+      "title": "Skilled Support Within Intimate Relationships",
+      "authors": ["Eshkol Rafaeli", "Marci E. J. Gleason"],
+      "year": 2009,
+      "type": "review article",
+      "why_it_adds_value": "Second source for the supporting-distress gap, covering what the comforting-message meta-analysis does not: when and how support is offered in close relationships, including the finding that support can backfire when it is visible, threatens the recipient's competence, or comes uninvited. It integrates the invisible-support research (Bolger, Zuckerman and Kessler, 2000, JPSP 79(6)) into practical guidance on skilled, well-timed support.",
+      "credibility": "Published in Journal of Family Theory and Review 1(1), 20 to 37. Rafaeli (Bar-Ilan University and Barnard College) and Gleason (University of Texas at Austin) are close-relationships and support researchers; Gleason co-authored key diary studies on the costs of received support.",
+      "evidence_quality": "Medium to High. A peer-reviewed narrative review of a substantial diary and experimental literature; the core phenomenon (received support sometimes linked to worse mood, while subtle support helps) has been observed in several labs, although mechanisms are debated and many studies sample couples facing specific stressors such as exams.",
+      "supports": [
+        {"category": "personal-life", "subcategory": "supporting-distress"},
+        {"category": "personal-life", "subcategory": "partners"}
+      ],
+      "key_ideas_preview": [
+        "Support helps most when it fits what the person actually needs, which often means asking rather than assuming.",
+        "Highly visible or unsolicited help can make people feel indebted or less competent, offsetting its benefits.",
+        "Subtle support, such as quietly handling a task or offering help framed as shared effort, can reduce stress without these costs.",
+        "Responsiveness, meaning the person feels understood, valued and cared for, is the active ingredient of good support."
+      ],
+      "overlap_with_core_books": "Low to moderate; extends concept 2.24 and tension 3.9 with research on why advice can backfire, which the core books assert but do not document.",
+      "access": "Journal database or library (Wiley); author pages.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://api.crossref.org/works?query.bibliographic=Skilled+support+within+intimate+relationships",
+        "https://en.wikipedia.org/wiki/Invisible_support",
+        "https://hcp.hms.harvard.edu/publication/invisible-support-and-adjustment-stress"
+      ]
+    },
+    {
+      "title": "What type of communication during conflict is beneficial for intimate relationships?",
+      "authors": ["Nickola C. Overall", "James K. McNulty"],
+      "year": 2017,
+      "type": "review article",
+      "why_it_adds_value": "Strengthens the repair subcategory and adds an evidence-based counterweight to one-size-fits-all conflict rules (including some Gottman prescriptions). It shows that direct, even negative, engagement can help when problems are serious and changeable, while warmth and validation help most for minor or unchangeable issues. This gives the guide a context-dependent decision rule for partner conflict.",
+      "credibility": "Published in Current Opinion in Psychology 13, 1 to 5 (open access on PMC). Overall (University of Auckland) and McNulty (Florida State University) are prominent relationship scientists whose longitudinal and observational studies are widely cited.",
+      "evidence_quality": "High. A short peer-reviewed review of longitudinal and observational couples research from multiple labs; it explicitly reconciles conflicting findings by identifying moderators. Limitation: brief format, mostly couples data, and moderators are still being tested.",
+      "supports": [
+        {"category": "personal-life", "subcategory": "repair"},
+        {"category": "personal-life", "subcategory": "partners"}
+      ],
+      "key_ideas_preview": [
+        "No single conflict style is always good; whether a behavior helps depends on the problem and the partner.",
+        "Directly raising a serious, changeable problem can cause short-term discomfort but improve the relationship over time.",
+        "Warmth and validation are most useful for minor or unchangeable issues and with partners who become defensive.",
+        "Hinting, sulking or teasing to signal a problem rarely produces change.",
+        "Direct confrontation backfires when the partner feels too insecure to respond constructively."
+      ],
+      "overlap_with_core_books": "Relates to concept 2.22 (raise small issues early) and tension 3.9, but adds research nuance that the core books lack.",
+      "access": "Open-access paper on PMC.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5181851/",
+        "https://www.psychologytoday.com/blog/talking-apes/201703/effective-communication-during-relationship-conflict"
+      ]
+    },
+    {
+      "title": "How to Talk So Kids Will Listen and Listen So Kids Will Talk",
+      "authors": ["Adele Faber", "Elaine Mazlish"],
+      "year": 1980,
+      "type": "book",
+      "why_it_adds_value": "Fills the family gap (thin: nothing on parenting and all family tags are secondary), and is the source named in the Stage 2 gap list. It gives concrete scripts for acknowledging feelings, inviting cooperation without blaming, and solving problems together, skills that transfer to other family conversations.",
+      "credibility": "Faber and Mazlish were parent educators who trained with child psychologist Haim Ginott; the book has been a long-running bestseller with many editions and a widely delivered group program. They are practitioners, not researchers.",
+      "evidence_quality": "Medium-Low. The book itself is practitioner wisdom. The derived How-to Parenting Program has some evaluation: an uncontrolled study (Joussemet and colleagues, 2014) and a waitlist randomized trial in Quebec grade schools (protocol in BMC Pediatrics 2018; results in Family Process 2025) that found small reductions in children's externalizing problems sustained at about 6 months, with no group difference for internalizing problems. Evidence is from one research team and the effects are small.",
+      "supports": [
+        {"category": "personal-life", "subcategory": "family"},
+        {"category": "personal-life", "subcategory": "supporting-distress"}
+      ],
+      "key_ideas_preview": [
+        "Acknowledge a child's feelings with a word or name for the feeling before trying to correct behavior.",
+        "Describe the problem or give information instead of blaming, lecturing or ordering.",
+        "Offer choices and invite the child to help solve the problem, which builds cooperation and autonomy.",
+        "Praise by describing what you see rather than evaluating the person."
+      ],
+      "overlap_with_core_books": "Conceptually overlaps with feedback concept 2.14 (describe behavior, not character) and 2.24 (acknowledge before advising), applied to parenting, which no core book covers.",
+      "access": "Library and bookstores; legal publisher preview; open-access trial protocol on PMC.",
+      "priority_score": 6,
+      "sources_checked": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6090888/",
+        "https://api.crossref.org/works?query.bibliographic=How-to+Parenting+Program+randomized+waitlist+Family+Process",
+        "https://doi.org/10.1111/famp.70081"
+      ]
+    }
+  ],
+  "notes": "Recommended core additions: Seven Principles (partners, repair) plus Overall and McNulty as its evidence-based counterweight; Gable et al. for responding to good news; High and Dillard plus Rafaeli and Gleason for supporting distress; Hall plus Platonic for friendships. Family remains the weakest: Faber and Mazlish is the best-known option but rests on one team's small-effect trial. A stronger-evidence alternative for the parenting slot is Gottman and DeClaire, Raising an Emotionally Intelligent Child (1997, published in hardcover as The Heart of Parenting), based on the emotion-coaching research in Gottman, Katz and Hooven (1996, Journal of Family Psychology 10(3)); it was verified to exist but not scored here. No credible research-based source was found in this pass for conversations with aging parents; that sub-gap remains open. Gottman claims should be presented with the cross-validation caveat (Heyman and Slep, 2001). Bolger, Zuckerman and Kessler (2000) on invisible support was verified and is folded into the Rafaeli and Gleason entry rather than listed separately. Hall's paper is dated 2019 by issue (online first March 2018)."
+}

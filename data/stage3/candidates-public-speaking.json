@@ -1,0 +1,199 @@
+{"category": "public-speaking",
+ "candidates": [
+  {
+   "title": "Nonverbal Overload: A Theoretical Argument for the Causes of Zoom Fatigue",
+   "authors": ["Jeremy N. Bailenson"],
+   "year": 2021,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Fills public-speaking/virtual and written-digital/video-calls, which currently rest on one Low, unconfirmed insight. Gives a research-grounded explanation of why presenting and meeting on video feels different (and more tiring) than in person, and turns it into concrete settings changes for presenters and meeting hosts. No core book treats video as a medium with its own nonverbal rules.",
+   "credibility": "Founding director of Stanford's Virtual Human Interaction Lab; decades of peer-reviewed work on mediated and virtual communication; published in an APA journal.",
+   "evidence_quality": "Medium: a theoretical argument built on established research (gaze, cognitive load, self-focus, mobility), which the author explicitly says had not yet been tested directly on video calls. Later survey work by the same lab (Fauville et al., Zoom Exhaustion and Fatigue scale) and the Shockley et al. field experiment give partial empirical support, especially for the self-view and self-presentation mechanism.",
+   "supports": [{"category": "public-speaking", "subcategory": "virtual"}, {"category": "written-digital", "subcategory": "video-calls"}, {"category": "relationships", "subcategory": "nonverbal"}, {"category": "professional", "subcategory": "meetings"}],
+   "key_ideas_preview": [
+    "Large faces at close range on a screen mimic an intense, intimate gaze that the brain reads as high arousal, so shrink the video window or step back from the camera.",
+    "Constantly seeing your own image invites self-evaluation; hiding self-view after checking your framing reduces that load.",
+    "On video you must exaggerate and deliberately produce nonverbal signals (nods, a thumbs up) that happen automatically in person, which costs effort.",
+    "Being stuck in a fixed camera frame limits movement, which matters because movement supports thinking; periodic audio-only stretches restore it.",
+    "Design and norms, not just personal stamina, drive the fatigue, so hosts can set defaults such as camera-optional segments."
+   ],
+   "overlap_with_core_books": "Minimal. Communicate with Mastery has one Low insight on virtual presence; nothing in the core set explains the mechanisms.",
+   "access": "Open-access paper (Technology, Mind, and Behavior 2(1), doi 10.1037/tmb0000030); PDF on the Stanford VHIL site.",
+   "priority_score": 9,
+   "sources_checked": [
+    "https://vhil.stanford.edu/publications/social-interaction/nonverbal-overload-theoretical-argument-causes-zoom-fatigue",
+    "https://vhil.stanford.edu/sites/g/files/sbiybj29011/files/media/file/bailenson-apa-nonverbal-overload.pdf"
+   ]
+  },
+  {
+   "title": "The Fatiguing Effects of Camera Use in Virtual Meetings: A Within-Person Field Experiment",
+   "authors": ["Kristen M. Shockley", "Allison S. Gabriel", "Daron Robertson", "Christopher C. Rosen", "Nitya Chawla", "Mahira L. Ganster", "Maira E. Ezerins"],
+   "year": 2021,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Supplies the experimental evidence that Bailenson's argument lacks: a randomized within-person field experiment with real employees. It adds a testable, practical claim for virtual meetings and presentations (camera use, not meeting count, predicted daily fatigue) and flags who bears the cost most.",
+   "credibility": "Industrial-organizational psychologists (University of Georgia, University of Arizona, University of Arkansas and others) publishing in the Journal of Applied Psychology, a top applied journal.",
+   "evidence_quality": "Medium to High: a four-week experience-sampling field experiment that manipulated camera use (about 100 employees, over 1,400 daily observations). Strengths are random assignment and real work settings; limits are a single organization, one country, and self-reported fatigue. Not yet widely replicated in the same design.",
+   "supports": [{"category": "public-speaking", "subcategory": "virtual"}, {"category": "written-digital", "subcategory": "video-calls"}, {"category": "professional", "subcategory": "meetings"}],
+   "key_ideas_preview": [
+    "Keeping the camera on during meetings was linked to more end-of-day fatigue, while the number and length of meetings were not.",
+    "That fatigue in turn predicted less engagement and less speaking up in meetings, so camera mandates can backfire on participation.",
+    "The fatigue effect was stronger for women and for newer employees, consistent with heavier self-presentation pressure.",
+    "Camera-optional norms are a low-cost lever for hosts who want people to contribute."
+   ],
+   "overlap_with_core_books": "None; no core book reports experimental work on video meetings.",
+   "access": "Journal of Applied Psychology 106(8), 1137 to 1155, doi 10.1037/apl0000948; library access, plus university press summaries.",
+   "priority_score": 8,
+   "sources_checked": [
+    "https://experts.arizona.edu/en/publications/the-fatiguing-effects-of-camera-use-in-virtual-meetings-a-within-/",
+    "https://news.uga.edu/cameras-not-meetings-cause-zoom-fatigue/",
+    "https://eller.arizona.edu/news/2021/08/cameras-or-research-suggests-cameras-during-virtual-meetings-lowers-fatigue"
+   ]
+  },
+  {
+   "title": "Can You Hear Me? How to Connect with People in a Virtual World",
+   "authors": ["Nick Morgan"],
+   "year": 2018,
+   "type": "book",
+   "why_it_adds_value": "The practitioner guide to virtual presenting that the gap list asks for. Covers conference calls, video, webinars and email as channels that strip out feedback and emotion, with concrete techniques for presenters to compensate. Pairs with Bailenson and Shockley to give both mechanism and practice.",
+   "credibility": "Long-time speaking coach (Public Words) and former university lecturer; author of Give Your Speech, Change the World (HBR Press) and Power Cues; published by Harvard Business Review Press.",
+   "evidence_quality": "Low to Medium: practitioner book that cites research on nonverbal cues, empathy and attention, but its prescriptions are coaching-based and untested as a package. Some neuroscience framing should be handled with the same caution as other books in the library. Written before the 2020 shift to video, so some tool details are dated.",
+   "supports": [{"category": "public-speaking", "subcategory": "virtual"}, {"category": "written-digital", "subcategory": "video-calls"}, {"category": "professional", "subcategory": "meetings"}],
+   "key_ideas_preview": [
+    "Virtual channels remove the continuous feedback speakers rely on, so build in explicit check-ins and invitations to respond.",
+    "Emotion and intent are flattened online; state feelings and stakes in words rather than relying on tone to carry them.",
+    "Audiences on calls drift quickly, so shorten segments and change mode (question, poll, story) more often than in a room.",
+    "Clear turn-taking rules and an explicit agenda substitute for the physical cues that manage who speaks next."
+   ],
+   "overlap_with_core_books": "Light. Shares the audience-first principle with Think Faster Talk Smarter and Communicate with Mastery, but applies it specifically to remote channels.",
+   "access": "Library; publisher preview at HBR Store; author interviews (New Books Network).",
+   "priority_score": 6,
+   "sources_checked": [
+    "https://store.hbr.org/product/can-you-hear-me-how-to-connect-with-people-in-a-virtual-world/10193",
+    "https://newbooksnetwork.com/nick-morgan-can-you-hear-me-how-to-connect-with-people-in-a-virtual-world-hbrp-2018/",
+    "https://www.mindtools.com/ajh48g2/can-you-hear-me/"
+   ]
+  },
+  {
+   "title": "The Economic and Interpersonal Consequences of Deflecting Direct Questions",
+   "authors": ["T. Bradford Bitterly", "Maurice E. Schweitzer"],
+   "year": 2020,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Fills public-speaking/qa with experimental evidence on the hardest Q&A moment: a direct question you cannot or should not fully answer. Compares answering honestly, lying, declining and deflecting, which no core book does with data.",
+   "credibility": "Schweitzer is a Wharton professor with a long record on trust, deception and negotiation; Bitterly is a management researcher (HKUST) who also coauthored the humor work cited in the core books. Published in JPSP, a top social psychology journal.",
+   "evidence_quality": "Medium to High: eight preregistered-style experiments with consistent results in a top journal; settings are mostly negotiation and interview scenarios rather than live audience Q&A, so transfer to presentations is an inference. Note the indirect link to the core humor research (Bitterly coauthored it), which matters for independence counting only on humor, not here.",
+   "supports": [{"category": "public-speaking", "subcategory": "qa"}, {"category": "professional", "subcategory": "negotiation"}, {"category": "influence", "subcategory": "credibility"}],
+   "key_ideas_preview": [
+    "Flatly refusing to answer a direct question damages how people see you more than redirecting it does.",
+    "Getting caught in a lie costs far more reputation than deflecting.",
+    "Responding to a question with a relevant question can preserve both trust and economic outcomes when full disclosure would hurt you.",
+    "Deflection works because it still looks like engagement with the asker, so it must stay on topic to work.",
+    "It feels unnatural at first, so rehearse likely tough questions and your responses in advance."
+   ],
+   "overlap_with_core_books": "Some overlap in spirit with Think Faster Talk Smarter's Q&A advice (reframe and respond), but no core book tests response options against each other.",
+   "access": "JPSP 118(5), 945 to 990, doi 10.1037/pspi0000200; library; summaries on Knowledge at Wharton and PON Harvard.",
+   "priority_score": 8,
+   "sources_checked": [
+    "https://pubmed.ncbi.nlm.nih.gov/31318228/",
+    "https://www.pon.harvard.edu/daily/business-negotiations/how-to-respond-to-the-toughest-questions-nb/",
+    "https://bm.hkust.edu.hk/bizinsight/2022/07/deflecting-difficult-questions-interviews"
+   ]
+  },
+  {
+   "title": "The Artful Dodger: Answering the Wrong Question the Right Way",
+   "authors": ["Todd Rogers", "Michael I. Norton"],
+   "year": 2011,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Second, independent research anchor for Q&A. Shows how audiences actually evaluate answers (mostly on social impression, not relevance) and when dodges get noticed and punished. Gives a speaker an evidence-based reason to answer the question asked and to restate it, and an ethical caution for the library.",
+   "credibility": "Rogers (Harvard Kennedy School) and Norton (Harvard Business School) are prolific, well-cited behavioral scientists; Rogers also coauthored Writing for Busy Readers.",
+   "evidence_quality": "Medium: several controlled experiments with video of a speaker answering political-debate style questions; clear, plausible effects but online samples and a narrow setting; not widely replicated in organizational Q&A.",
+   "supports": [{"category": "public-speaking", "subcategory": "qa"}, {"category": "influence", "subcategory": "credibility"}],
+   "key_ideas_preview": [
+    "Listeners often fail to notice when a speaker answers a similar question instead of the one asked, because they are judging the speaker rather than checking relevance.",
+    "Dodges become visible when the answer is clearly off topic or when the question stays in view, and detected dodgers are judged more harshly.",
+    "Restating or displaying the question makes your answer's relevance obvious, which helps honest speakers and exposes evasive ones.",
+    "When you cannot answer, say so and bridge openly rather than quietly substituting a different question."
+   ],
+   "overlap_with_core_books": "None directly; complements Bitterly and Schweitzer (deflection openly with a question versus covert dodging).",
+   "access": "Journal of Experimental Psychology: Applied 17(2), 139 to 147; author PDF on Todd Rogers's Harvard site; Harvard Magazine summary.",
+   "priority_score": 7,
+   "sources_checked": [
+    "https://www.hks.harvard.edu/publications/artful-dodger-answering-wrong-question-right-way",
+    "https://toddrogers.scholars.harvard.edu/publications/artful-dodger-answering-wrong-question-right-way",
+    "https://www.harvardmagazine.com/2012/02/the-art-of-the-dodge"
+   ]
+  },
+  {
+   "title": "The Media Training Bible: 101 Things You Absolutely, Positively Need to Know Before Your Next Interview",
+   "authors": ["Brad Phillips"],
+   "year": 2013,
+   "type": "book",
+   "why_it_adds_value": "The dedicated Q&A and media-training source the gap list names. Teaches message preparation, anticipating hostile or tricky questions, bridging back to key points, and handling hypotheticals and false premises; transfers directly to town halls, panels and post-presentation Q&A.",
+   "credibility": "Former broadcast journalist who founded Phillips Media Relations in 2004 and has trained many spokespeople; widely cited in the media-training field. Self-published, and the 'best-selling' claim is the publisher's own.",
+   "evidence_quality": "Low: craft knowledge from journalism and training practice with case studies, not research. Useful as a practitioner playbook; pair with Bitterly and Schweitzer and Rogers and Norton for evidence on what audiences reward and punish.",
+   "supports": [{"category": "public-speaking", "subcategory": "qa"}, {"category": "public-speaking", "subcategory": "structure"}, {"category": "difficult", "subcategory": "bad-news"}],
+   "key_ideas_preview": [
+    "Decide your few core messages before any Q&A and prepare a short supporting point and example for each.",
+    "List the questions you most fear and rehearse answers aloud; most surprises are predictable.",
+    "Do not repeat a hostile question's loaded wording in your answer; reframe in neutral terms.",
+    "Answer the question briefly first, then bridge to a related key message, rather than ignoring the question.",
+    "It is acceptable to say you do not know and commit to follow up; guessing is riskier."
+   ],
+   "overlap_with_core_books": "Partial overlap with Think Faster Talk Smarter's Q&A material (paraphrase and reframe); far more depth on hostile and on-the-record questions.",
+   "access": "Library and library e-book (OverDrive, Hoopla); author blog material at throughlinegroup.com.",
+   "priority_score": 6,
+   "sources_checked": [
+    "https://www.overdrive.com/media/3111138/the-media-training-bible-101-things-you-absolutely-posit",
+    "https://ahml.info/catalog/record/2640370",
+    "https://www.throughlinegroup.com/?p=10699"
+   ]
+  },
+  {
+   "title": "Speech Rate, Intonation, and Pitch: Investigating the Bias and Cue Effects of Vocal Confidence on Persuasion",
+   "authors": ["Joshua J. Guyer", "Leandre R. Fabrigar", "Thomas I. Vaughan-Johnston"],
+   "year": 2019,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Gives public-speaking/delivery a research-based account of vocal delivery to replace the contested items (lower pitch for leadership, Mehrabian). Shows which vocal features make a speaker sound confident and, importantly, that this works differently depending on how closely the audience is thinking about the message.",
+   "credibility": "Fabrigar (Queen's University) is a leading attitudes and persuasion researcher; Guyer has a program of work on paralinguistic cues; published in Personality and Social Psychology Bulletin. The group also published a 2021 review of vocal confidence and persuasion.",
+   "evidence_quality": "Medium to High: three experiments with manipulated speech rate, intonation and pitch, using the well-established elaboration likelihood framework; findings are consistent with a broader paralinguistics literature, though effect sizes are modest and samples are mostly students listening to audio.",
+   "supports": [{"category": "public-speaking", "subcategory": "delivery"}, {"category": "relationships", "subcategory": "nonverbal"}, {"category": "influence", "subcategory": "credibility"}],
+   "key_ideas_preview": [
+    "A moderately quick pace and falling, not rising, intonation at the end of statements make a speaker sound more confident.",
+    "When listeners are not paying close attention, sounding confident sways them directly as a shortcut.",
+    "When listeners are engaged, sounding confident makes them think more favorably about the arguments, so content still has to be good.",
+    "Vocal confidence amplifies a message; it does not substitute for one."
+   ],
+   "overlap_with_core_books": "Overlaps with Communicate with Mastery's delivery advice but corrects its weaker claims (pitch lowering for leadership) with tested, narrower findings.",
+   "access": "PSPB 45(3), 389 to 405; library; related open review in the Durham research repository.",
+   "priority_score": 7,
+   "sources_checked": [
+    "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_miscellaneous_2084914833",
+    "https://durham-repository.worktribe.com/output/1222274/paralinguistic-features-communicated-through-voice-can-affect-appraisals-of-confidence-and-evaluative-judgments"
+   ]
+  },
+  {
+   "title": "Dominance and Prestige: Meta-Analytic Review of Experimentally Induced Body Position Effects on Behavioral, Self-Report, and Physiological Dependent Variables",
+   "authors": ["Robert Körner", "Lukas Röseler", "Astrid Schütz", "Brad J. Bushman"],
+   "year": 2022,
+   "type": "meta-analysis",
+   "why_it_adds_value": "Provides the authoritative correction the library needs for power posing (communicate-with-mastery-19). Separates what holds up (people feel somewhat more confident in upright or expansive postures) from what does not (hormone changes, reliable behavior change), so the delivery section can give honest pre-talk advice.",
+   "credibility": "Published in Psychological Bulletin, the top review journal in psychology; Bushman is a highly cited social psychologist; Körner and Schütz work on body posture and self-perception.",
+   "evidence_quality": "High: roughly 130 experiments and about 10,000 participants, published and unpublished, with tests for publication bias. Consistent with the earlier p-curve analyses (Simmons and Simonsohn 2017; Cuddy, Schultz and Fosse 2018) on self-reported feelings and with failed hormone replications (Ranehill et al. 2015).",
+   "supports": [{"category": "public-speaking", "subcategory": "delivery"}, {"category": "foundations", "subcategory": "anxiety"}, {"category": "relationships", "subcategory": "nonverbal"}],
+   "key_ideas_preview": [
+    "Upright or expansive posture reliably nudges how confident and positive people feel about themselves, a small self-report effect.",
+    "Claims that a two-minute pose changes testosterone or cortisol did not hold up.",
+    "Effects on actual behavior are weak and may reflect outliers or publication bias, so posture is not a performance hack.",
+    "Many original studies lacked proper control conditions, a reason to distrust headline claims about posture.",
+    "Practical upshot: a posture routine is fine as a calming ritual, but rehearsal and anxiety reappraisal have stronger support."
+   ],
+   "overlap_with_core_books": "Directly corrects communicate-with-mastery-19; complements the anxiety-reappraisal material in Think Faster Talk Smarter.",
+   "access": "Psychological Bulletin 148(1 to 2), 67 to 85, doi 10.1037/bul0000356; library; university press releases (Halle, Bamberg) and an open dynamic meta-analysis web app.",
+   "priority_score": 7,
+   "sources_checked": [
+    "https://www.eurekalert.org/news-releases/952692",
+    "https://idw-online.de/en/news793807",
+    "https://www.uni-bamberg.de/perspsych/news/artikel/neue-publikation-und-pressemitteilung-meta-analyse-zu-power-posing/"
+   ]
+  }
+ ],
+ "notes": "Priority gaps addressed: virtual (Bailenson; Shockley et al.; Morgan), Q&A (Bitterly and Schweitzer; Rogers and Norton; Phillips), delivery evidence (Guyer et al.; Körner et al.). Strong alternates considered but not listed to stay within eight: (1) Lapakko, D. (2007), 'Communication is 93% nonverbal: An urban legend proliferates', CTAMJ 34, 7 to 19, open access via Minnesota State Cornerstone; short, citable correction of the Mehrabian 7-38-55 misapplication (communicate-with-mastery-17), worth using as a one-line citation in the delivery or nonverbal section. (2) van Ginkel, Gulikers, Biemans and Mulder (2015), 'Towards a set of design principles for developing oral presentation competence', Educational Research Review 14, 62 to 80; a synthesis of about 52 studies showing rehearsal with specific, formative feedback (including self-review of video) drives presentation improvement; supports convergent concept 2.25 (practice, record and reflect). (3) Ebrahimi, Pallesen, Kenter and Nordgreen (2019), 'Psychological interventions for the fear of public speaking: A meta-analysis', Frontiers in Psychology 10:488, open access; 30 RCTs, overall g about 0.74, with technology-assisted delivery about as effective as face to face; belongs mainly under foundations/anxiety. Also seen but not verified in detail: Fauville et al.'s Zoom Exhaustion and Fatigue scale papers from Bailenson's lab, which provide the survey evidence behind the self-view mechanism. Caveats: no candidate tests presentation Q&A in a live audience setting; transfer from negotiation and debate experiments is an inference. Morgan's book predates pandemic-era video norms. Bitterly also coauthored the humor research behind Humor, Seriously, which is irrelevant to Q&A but worth noting for independence counting. taxonomy.md is empty in the repository; subcategory ids were taken from the Stage 2 coverage table."
+}

@@ -1,0 +1,226 @@
+{
+  "category": "foundations",
+  "candidates": [
+    {
+      "title": "Psychological Interventions for the Fear of Public Speaking: A Meta-Analysis",
+      "authors": ["Omid V. Ebrahimi", "Stale Pallesen", "Robin M. F. Kenter", "Tine Nordgreen"],
+      "year": 2019,
+      "type": "meta-analysis",
+      "why_it_adds_value": "The anxiety insights in the core books (breathing, excitement reframe, act while nervous) are practitioner toolkits whose headline reframe is contested. This meta-analysis of randomized trials gives the library an evidence anchor for what actually reduces fear of public speaking: structured cognitive and behavioral work, especially graded exposure, with gains that hold or grow after treatment. It also shows that self-guided and internet-delivered programs work about as well as face-to-face ones, which matters for a self-study library.",
+      "credibility": "Authors are clinical psychology researchers at the University of Bergen (Pallesen, Nordgreen) and VU Amsterdam (Kenter); published in Frontiers in Psychology, searched four major databases, restricted to randomized controlled trials.",
+      "evidence_quality": "High. 30 RCTs, about 1,355 participants, overall effect around g = 0.74 with low to moderate heterogeneity and a larger effect at follow-up. Caveats: self-report effects exceed behavioral and physiological ones, the authors report some signs of publication bias, and many trials use student samples.",
+      "supports": [
+        {"category": "foundations", "subcategory": "anxiety"},
+        {"category": "public-speaking", "subcategory": "delivery"}
+      ],
+      "key_ideas_preview": [
+        "Speaking fear responds well to structured cognitive and behavioral practice, not just to tips.",
+        "Repeated, graded exposure to speaking situations is a core active ingredient.",
+        "Improvement tends to continue after the program ends, so practice compounds.",
+        "Self-guided and online programs perform about as well as in-person treatment.",
+        "Feeling less afraid improves faster than visible performance, so expect the inner shift first."
+      ],
+      "overlap_with_core_books": "Complements Abrahams (Think Faster, Talk Smarter) and Schramm (Communicate with Mastery) anxiety chapters and Madson's act-while-nervous stance; none of the core books presents exposure as a deliberate, graded practice plan.",
+      "access": "Open-access paper (Frontiers in Psychology, PubMed Central).",
+      "priority_score": 9,
+      "sources_checked": [
+        "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00488",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6428748/",
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.3389/fpsyg.2019.00488"
+      ]
+    },
+    {
+      "title": "A racing heart, rattling knees, and ruminative thoughts: Defining, explaining, and treating public speaking anxiety",
+      "authors": ["Graham D. Bodie"],
+      "year": 2010,
+      "type": "review article",
+      "why_it_adds_value": "Gives the library a single, communication-discipline map of speaking anxiety: what it is, why it arises (trait, state, cognitive and physiological components) and the three classic treatment families (systematic desensitization, cognitive restructuring, skills training). It lets the final library explain why combining calm-the-body, change-the-thoughts and build-the-skill works better than any single trick, and places the core books' tips inside that structure.",
+      "credibility": "Graham Bodie is a widely cited communication scholar (listening and anxiety research); published in Communication Education, the flagship journal of the National Communication Association for instructional communication.",
+      "evidence_quality": "Medium to High. A narrative review, not a meta-analysis, but it synthesizes decades of communication apprehension research including earlier meta-analytic work on treatment combinations. Some of the trait literature relies on self-report scales.",
+      "supports": [
+        {"category": "foundations", "subcategory": "anxiety"},
+        {"category": "foundations", "subcategory": "mindset"}
+      ],
+      "key_ideas_preview": [
+        "Speaking anxiety has a stable trait part and a situation-driven state part; both can be worked on.",
+        "Anxiety shows up in body, thoughts and behavior, so remedies should target all three.",
+        "Desensitization, cognitive restructuring and skills training each help, and combinations tend to help most.",
+        "Anticipation and post-speech rumination are part of the problem, not just the moment of speaking."
+      ],
+      "overlap_with_core_books": "Organizes the same territory as Abrahams' anxiety chapters with a research framework; adds skills training as an anxiety treatment, which the core books treat separately.",
+      "access": "Library (Taylor and Francis, Communication Education 59(1), 70 to 105, DOI 10.1080/03634520903443849).",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://informahealthcare.com/doi/full/10.1080/03634520903443849",
+        "https://informahealthcare.com/doi/ref/10.1080/10410236.2011.618433"
+      ]
+    },
+    {
+      "title": "Optimizing stress responses with reappraisal and mindset interventions: an integrated model",
+      "authors": ["Jeremy P. Jamieson", "Alia J. Crum", "J. Parker Goyer", "Marisa E. Marotta", "Modupe Akinola"],
+      "year": 2018,
+      "type": "review article",
+      "why_it_adds_value": "Stage 2 rated the reappraise-anxiety cluster Medium because the excitement-relabel replication mainly reproduced felt excitement, not performance. This review offers the better-supported version of the idea: arousal reappraisal (a racing heart is fuel that helps you perform) plus a stress-is-enhancing mindset, grounded in challenge versus threat physiology. It upgrades the library's anxiety advice from a slogan to a mechanism and gives a principled reason to drop power posing.",
+      "credibility": "Jamieson (University of Rochester) leads arousal reappraisal research; Crum (Stanford) developed the stress mindset measures and interventions; Akinola (Columbia Business School) studies stress and performance. Published in Anxiety, Stress and Coping.",
+      "evidence_quality": "Medium to High. Built on multiple randomized lab and classroom experiments (for example Jamieson, Nock and Mendes 2012; Crum, Salovey and Achor 2013) with physiological as well as self-report outcomes; later large field work by Yeager and colleagues combined the two mindsets. Effects are typically small to moderate and vary by context.",
+      "supports": [
+        {"category": "foundations", "subcategory": "anxiety"},
+        {"category": "foundations", "subcategory": "mindset"}
+      ],
+      "key_ideas_preview": [
+        "Trying to suppress stress often backfires; changing what the arousal means is more effective.",
+        "Seeing the stress response as a resource shifts the body toward a challenge pattern rather than a threat pattern.",
+        "Believing stress can be enhancing is a separate, trainable mindset that adds to reappraisal.",
+        "The goal is a useful, approach-oriented level of arousal, not calm."
+      ],
+      "overlap_with_core_books": "Directly underpins think-faster-talk-smarter-03 and communicate-with-mastery-19 (reframe anxiety); replaces their excitement-only framing with a mechanism and separates it from power posing.",
+      "access": "Library (Taylor and Francis, Anxiety, Stress and Coping 31(3), 245 to 261); author-posted versions may exist.",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1080/10615806.2018.1442615",
+        "https://vufind.katalog.k.utb.cz/SummonRecord/FETCH-LOGICAL-c358t-de9c56fd21603ae17641c9eb435b6b8396b6294978596dd44fa4dc69b508ea13",
+        "https://digitalcommons.fairfield.edu/psychology-facultypubs/48"
+      ]
+    },
+    {
+      "title": "Self-talk as a regulatory mechanism: How you do it matters",
+      "authors": ["Ethan Kross", "Emma Bruehlman-Senecal", "Jiyoung Park", "Aleah Burson", "Adrienne Dougherty", "Holly Shablack", "Ryan Bremner", "Jason Moser", "Ozlem Ayduk"],
+      "year": 2014,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Adds a concrete, low-effort tool the core books lack: distanced self-talk (coaching yourself by name or as you rather than I) before a stressful speaking task. In a public-speaking study, distanced self-talk improved rater-judged performance and reduced shame and post-speech rumination. It directly addresses self-focused attention and rumination, and pairs with Kross's accessible book Chatter (Crown, 2021) for readers who want more.",
+      "credibility": "Ethan Kross (University of Michigan) and Ozlem Ayduk (UC Berkeley) are leading researchers on self-distancing and emotion regulation; published in Journal of Personality and Social Psychology.",
+      "evidence_quality": "Medium. Seven studies, total N of 585, with objective raters and an internal meta-analysis; includes socially anxious participants. Mostly student lab samples, and later work on name-based self-talk shows smaller and more variable effects, so present as a promising tool rather than a sure fix.",
+      "supports": [
+        {"category": "foundations", "subcategory": "anxiety"},
+        {"category": "foundations", "subcategory": "mindset"},
+        {"category": "public-speaking", "subcategory": "delivery"}
+      ],
+      "key_ideas_preview": [
+        "Talking to yourself by name or as you creates psychological distance from the threat.",
+        "Distanced self-talk makes a coming talk feel more like a challenge than a threat.",
+        "It reduced shame and replaying the speech afterwards, a hidden cost of nerves.",
+        "The tool takes seconds and can be used right before speaking."
+      ],
+      "overlap_with_core_books": "No direct overlap; complements Abrahams' reframe-as-opportunity step and Madson's attention-outward theme from a different mechanism.",
+      "access": "Library (APA PsycArticles, DOI 10.1037/a0035173); popular treatment in Chatter by Ethan Kross (2021), available via library or legal preview.",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1037/a0035173",
+        "https://dspace.kaist.ac.kr/handle/10203/307365?mode=full",
+        "https://en.wikipedia.org/wiki/Chatter:_The_Voice_in_Our_Head",
+        "https://www.apa.org/ed/precollege/psn/2022/03/review-chatter"
+      ]
+    },
+    {
+      "title": "The illusion of transparency and the alleviation of speech anxiety",
+      "authors": ["Kenneth Savitsky", "Thomas Gilovich"],
+      "year": 2003,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Fills the self-focused attention angle with an intervention study: speakers believe their nervousness is far more visible than it is, and simply telling them this before a speech lowered their stress and led observers to rate the speeches better. It gives the library a one-sentence, evidence-based reassurance that also explains why self-monitoring feeds anxiety.",
+      "credibility": "Thomas Gilovich (Cornell) is a leading judgment and decision-making researcher and co-originator of the spotlight effect; Savitsky (Williams College) co-authored the illusion of transparency work. Published in Journal of Experimental Social Psychology.",
+      "evidence_quality": "Medium. Two experiments with a clear manipulation and independent observer ratings; the core illusion of transparency effect has been replicated in several paradigms, but the intervention samples were small student groups and the performance effect was modest.",
+      "supports": [
+        {"category": "foundations", "subcategory": "anxiety"},
+        {"category": "foundations", "subcategory": "mindset"}
+      ],
+      "key_ideas_preview": [
+        "Your nerves are much less visible to the audience than they feel from the inside.",
+        "Knowing this, not just being reassured, reduced speakers' stress.",
+        "Less self-monitoring frees attention for the message and the audience.",
+        "Speakers rate their own performance more harshly than observers do."
+      ],
+      "overlap_with_core_books": "Extends the spotlight effect material already tagged in the library (2.4 miscalibrated expectations) and supports improv-wisdom-06 on attention; neither core book tests the explain-the-illusion intervention.",
+      "access": "Library (Elsevier, Journal of Experimental Social Psychology 39(6), 618 to 625, DOI 10.1016/S0022-1031(03)00056-8).",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://api.crossref.org/works?query.bibliographic=illusion+of+transparency+and+the+alleviation+of+speech+anxiety",
+        "https://en.wikipedia.org/wiki/Illusion_of_transparency"
+      ]
+    },
+    {
+      "title": "Speakers' overestimation of their effectiveness",
+      "authors": ["Boaz Keysar", "Anne S. Henly"],
+      "year": 2002,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Audience-goals advice in the core books is mostly practitioner framing (AIM, know your audience). This experiment shows the underlying problem: speakers systematically think they were understood more often than they were, while informed overhearers do not make this error. It justifies audience-checking habits (ask, paraphrase back, test with a newcomer). Nickerson's 1999 Psychological Bulletin review on imputing our own knowledge to others provides the broader theory and can be cited alongside it.",
+      "credibility": "Boaz Keysar (University of Chicago) is a leading researcher on perspective taking in language use; published in Psychological Science.",
+      "evidence_quality": "Medium to High. Controlled experiments with a clean comparison group, consistent with a large body of work on egocentric perspective taking and the curse of knowledge (Nickerson 1999; Kruger and colleagues 2005 on email). Lab stimuli were deliberately ambiguous sentences, so the size of the effect in everyday talk is uncertain.",
+      "supports": [
+        {"category": "foundations", "subcategory": "audience-goals"},
+        {"category": "relationships", "subcategory": "listening"},
+        {"category": "written-digital", "subcategory": "clarity-structure"}
+      ],
+      "key_ideas_preview": [
+        "Speakers overestimate how clearly their meaning came across.",
+        "Knowing what you meant makes your own words seem less ambiguous than they are.",
+        "An outside check beats self-assessment for clarity.",
+        "Build in quick comprehension checks rather than assuming understanding."
+      ],
+      "overlap_with_core_books": "Supports Made to Stick's curse of knowledge and the email-tone findings already in the library; adds direct evidence for spoken messages and a reason to verify understanding.",
+      "access": "Library (Psychological Science 13(3), 207 to 212, DOI 10.1111/1467-9280.00439); abstract on PubMed.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://pubmed.ncbi.nlm.nih.gov/12009039/",
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1111/1467-9280.00439",
+        "https://chronicle.uchicago.edu/020509/keysarresearch.shtml",
+        "https://api.crossref.org/works?query.bibliographic=How+we+know+and+sometimes+misjudge+what+others+know"
+      ]
+    },
+    {
+      "title": "A meta-analysis of how signaling affects learning with media",
+      "authors": ["Sascha Schneider", "Maik Beege", "Steve Nebel", "Gunter Daniel Rey"],
+      "year": 2018,
+      "type": "meta-analysis",
+      "why_it_adds_value": "Stage 2 found every message structure in the library is an untested practitioner framework. Signaling research (previews, headings, explicit structure cues, emphasis) is the closest rigorous evidence that making structure visible helps audiences retain and use information. It gives the library a research basis for signposting a structure out loud or on the page, whichever named framework the reader picks.",
+      "credibility": "Educational psychology researchers at TU Chemnitz in the multimedia learning tradition; published in Educational Research Review.",
+      "evidence_quality": "Medium to High. A large meta-analysis of experimental studies (a secondary source reports about 139 studies and a moderate effect on retention, not verified against the paper). Evidence comes mostly from instructional materials, not workplace talks, so transfer to business messages is an inference; other signaling meta-analyses (Richter, Scheiter and Eitel 2016; Alpizar, Adesope and Wong 2020) report smaller but positive effects.",
+      "supports": [
+        {"category": "foundations", "subcategory": "message-structures"},
+        {"category": "written-digital", "subcategory": "clarity-structure"},
+        {"category": "public-speaking", "subcategory": "structure"}
+      ],
+      "key_ideas_preview": [
+        "Telling the audience the structure in advance helps them remember the content.",
+        "Explicit cues such as headings, numbered points and verbal signposts guide attention to what matters.",
+        "Structure helps most when material is complex or unfamiliar to the audience.",
+        "The benefit comes from making organization visible, not from any specific named template."
+      ],
+      "overlap_with_core_books": "Provides evidence for the What, So What, Now What family (Abrahams, Schramm) and for leading with the core point (Made to Stick), without endorsing any one framework.",
+      "access": "Library (Elsevier, Educational Research Review 23, 1 to 24, DOI 10.1016/j.edurev.2017.11.001).",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://www.uzh.ch/cmsssl/ife/dam/jcr:a4301bea-65f1-4830-9a28-1f59849aaec9/Publikationsliste_Schneider.pdf",
+        "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/slides/UE-24-option-rech-5.pdf"
+      ]
+    },
+    {
+      "title": "Improv experience promotes divergent thinking, uncertainty tolerance, and affective well-being",
+      "authors": ["Peter Felsman", "Sanuri Gunawardena", "Colleen M. Seifert"],
+      "year": 2020,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Spontaneous speaking rests on two linked practitioner sources (Madson and Abrahams, who credits Madson). This randomized experiment is independent evidence that brief improv practice increases tolerance for uncertainty and positive affect beyond ordinary social interaction or scripted tasks. A follow-up field study in Detroit schools (Felsman, Seifert, Sinco and Himle, The Arts in Psychotherapy, 2023) linked an improv program to lower social anxiety, mediated by uncertainty tolerance.",
+      "credibility": "University of Michigan psychology researchers; Seifert is a long-standing cognitive scientist. Published in Thinking Skills and Creativity.",
+      "evidence_quality": "Low to Medium. Two randomized experiments (reported total around 205 participants) but short sessions, short-term outcomes and self-report affect measures; the divergent thinking effect was partial. The school follow-up is pre-post without a control group. Use to support improv as a practice method, not as a proven anxiety treatment.",
+      "supports": [
+        {"category": "foundations", "subcategory": "spontaneous-speaking"},
+        {"category": "foundations", "subcategory": "anxiety"}
+      ],
+      "key_ideas_preview": [
+        "Short improv exercises increase comfort with not knowing what comes next.",
+        "The benefit appears beyond what ordinary conversation or scripted practice provides.",
+        "Uncertainty tolerance may be the link between improv practice and lower social anxiety.",
+        "Low-stakes practice of spontaneity is a trainable habit, not a talent."
+      ],
+      "overlap_with_core_books": "Supports Improv Wisdom and the spontaneous-speaking chapters of Think Faster, Talk Smarter with independent empirical data; does not add new techniques.",
+      "access": "Library (Elsevier, DOI 10.1016/j.tsc.2020.100632); University of Michigan news summary is free.",
+      "priority_score": 6,
+      "sources_checked": [
+        "https://api.crossref.org/works?query.bibliographic=Improv+experience+promotes+divergent+thinking",
+        "https://news.umich.edu/?p=58508",
+        "https://news.umich.edu/?p=134882",
+        "https://prod.sdgresources.relx.com/node/16696"
+      ]
+    }
+  ],
+  "notes": "Foundations has no entries in the learning-path gaps array, so this search targeted robustness: Stage 2 rated the anxiety reframe Medium and contested, the self-focused attention claim High only via mapped research, and every message structure as untested practitioner framing. Candidates 1 to 5 build an evidence-based anxiety module (exposure, reappraisal plus stress mindset, distanced self-talk, illusion of transparency). Considered but not listed: Nickerson (1999, Psychological Bulletin) on imputing one's own knowledge to others, folded into the Keysar and Henly entry; Clark and Wells (1995) cognitive model of social phobia, a clinical source for self-focused attention that is already mapped in Stage 2; Burnette and colleagues' growth mindset intervention meta-analyses, which show small and heterogeneous effects and would only modestly support the mindset subcategory, already well covered; Kelly McGonigal's The Upside of Stress, which popularizes the Crum stress mindset work but leans on a contested mortality finding. Several publisher and PubMed pages returned captchas or rate limits, so some details were confirmed via Europe PMC and Crossref metadata and secondary summaries; effect sizes for Schneider et al. and Felsman et al. should be checked against the full texts before use."
+}

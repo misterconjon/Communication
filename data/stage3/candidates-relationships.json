@@ -1,0 +1,332 @@
+{
+  "category": "relationships",
+  "candidates": [
+    {
+      "title": "Nonverbal Communication",
+      "authors": [
+        "Judith A. Hall",
+        "Terrence G. Horgan",
+        "Nora A. Murphy"
+      ],
+      "year": 2019,
+      "type": "review article",
+      "why_it_adds_value": "Fills the relationships/nonverbal weak-evidence gap directly. It is the current authoritative overview of what nonverbal research supports: how cues in face, voice, body, touch and space are sent and read, and how accurate people actually are at reading them. It gives the library a research anchor to replace the contested items (Mehrabian's 7 percent misapplication, power posing, lower voice pitch) with claims that rest on decades of accumulated studies.",
+      "credibility": "Judith Hall (Northeastern) is one of the most cited researchers on nonverbal behavior and interpersonal sensitivity, coauthor of the standard textbook Nonverbal Communication in Human Interaction (Knapp, Hall and Horgan, 8th ed., Cengage). Horgan and Murphy are established researchers in person perception and nonverbal accuracy. Published in Annual Review of Psychology, a top invited-review venue.",
+      "evidence_quality": "High. Invited review synthesizing a large, mostly replicated literature on encoding, decoding and accuracy, with explicit attention to measurement problems. It is a review, not a meta-analysis, so individual claims inherit the strength of the studies it cites.",
+      "supports": [
+        {
+          "category": "relationships",
+          "subcategory": "nonverbal"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        }
+      ],
+      "key_ideas_preview": [
+        "Nonverbal cues are probabilistic signals: a cue is linked to a state or trait only on average, so no single gesture reliably means one thing.",
+        "People read others from nonverbal cues better than chance, but accuracy is modest and varies across people and across what is being judged.",
+        "Sending (encoding) and reading (decoding) are separate skills with separate evidence; being expressive does not make you a good reader of others.",
+        "Context and the verbal message shape how cues are interpreted, which is why rules that assign a fixed share of meaning to body language misstate the research.",
+        "How nonverbal behavior is measured (coding, ratings, automated tools) changes what studies find, so popular claims built on one method deserve caution."
+      ],
+      "overlap_with_core_books": "Low. Communicate with Mastery covers voice, posture and eye contact from a coaching perspective, including contested items; How to Know a Person and Supercommunicators touch on reading people but not on the nonverbal evidence base.",
+      "access": "Library or Annual Reviews (paywalled); abstract on PubMed (PMID 30256720). For a longer treatment, the Knapp, Hall and Horgan textbook via library.",
+      "priority_score": 9,
+      "sources_checked": [
+        "https://pubmed.ncbi.nlm.nih.gov/30256720/",
+        "https://scholars.lmu.edu/en/publications/nonverbal-communication/",
+        "https://www.cengage.com/c/nonverbal-communication-in-human-interaction-8e-knapp-hall-horgan/9781133311591"
+      ]
+    },
+    {
+      "title": "Accuracy of Deception Judgments",
+      "authors": [
+        "Charles F. Bond Jr.",
+        "Bella M. DePaulo"
+      ],
+      "year": 2006,
+      "type": "meta-analysis",
+      "why_it_adds_value": "The strongest single source for debunking a common nonverbal myth: that you can spot a liar from body language. It gives the library a well-quantified corrective that pairs with the Hall review, and supports a humility message (you read people less well than you think) that already appears in the listening stage via perspective getting.",
+      "credibility": "Bond (Texas Christian University) and DePaulo (University of Virginia, later UC Santa Barbara) are leading deception researchers; DePaulo also led the companion meta-analysis Cues to Deception (Psychological Bulletin, 2003). Published in Personality and Social Psychology Review, widely cited.",
+      "evidence_quality": "High. Meta-analysis of 206 documents and 24,483 judges; results are very consistent across studies and have held up in later work. Limitation: most studies use lab lies with low stakes.",
+      "supports": [
+        {
+          "category": "relationships",
+          "subcategory": "nonverbal"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        }
+      ],
+      "key_ideas_preview": [
+        "People judge lies versus truths correctly about 54 percent of the time, barely above the 50 percent of guessing.",
+        "People lean toward believing others (truths are classified correctly more often than lies), a truth bias that keeps everyday interaction workable.",
+        "Professionals who assess credibility for a living do not do reliably better than laypeople.",
+        "Classic tells such as averted gaze or fidgeting are weak or unreliable cues, so judging honesty from body language invites false accusations.",
+        "A better route to understanding is asking and checking, not watching for tells."
+      ],
+      "overlap_with_core_books": "None directly. Complements How to Know a Person and Talk on the limits of reading others.",
+      "access": "Library; abstract on PubMed (PMID 16859438); a full-text copy is publicly posted in an ACLU FOIA document set.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://pubmed.ncbi.nlm.nih.gov/16859438/",
+        "https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2",
+        "https://assets.aclu.org/live/uploads/document/foia/2006-Personality-and-Social-Psychology-Review-Accuracy-of-Deception-Judgements.pdf"
+      ]
+    },
+    {
+      "title": "A Meta-analytic Systematic Review and Theory of the Effects of Perceived Listening on Work Outcomes",
+      "authors": [
+        "Avraham N. Kluger",
+        "Michael Lehmann",
+        "Herman Aguinis",
+        "Guy Itzchakov",
+        "and colleagues"
+      ],
+      "year": 2024,
+      "type": "meta-analysis",
+      "why_it_adds_value": "Moves the library's listening evidence from individual Itzchakov and Kluger experiments to a registered systematic review across many independent research teams and fields. It quantifies how strongly listening relates to work outcomes, and it is candid about weaknesses (heavy reliance on self-report), which helps the library state the claim at the right strength. The companion narrative review, Kluger and Itzchakov (2022), The Power of Listening at Work, Annual Review of Organizational Psychology and Organizational Behavior 9:121-146, covers facilitators such as attention, training and genuineness.",
+      "credibility": "Kluger (Hebrew University) coauthored the influential feedback-intervention meta-analysis (Kluger and DeNisi, 1996); Itzchakov (University of Haifa) leads much experimental listening work; Aguinis (George Washington University) is a leading methodologist. Published in Journal of Business and Psychology.",
+      "evidence_quality": "Medium to High. 664 effect sizes and about 400,000 observations; average correlation of perceived listening with work outcomes about .39. About 75 percent of the data are self-report, so the link is likely inflated by common-method bias; with self-report-only data removed the listening and job performance link drops to about .21. Mostly correlational, so causality rests on the smaller experimental literature. Authors are the main proponents, so it is not an independent replication, but it pools studies from many independent labs.",
+      "supports": [
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        }
+      ],
+      "key_ideas_preview": [
+        "Feeling listened to is consistently linked with better relationships, attitudes and performance at work.",
+        "The strongest pathway appears to run through relationship quality: listening builds trust and closeness, which then helps performance.",
+        "Much of the evidence is self-report, so the true effect is smaller than headline numbers suggest, but it remains meaningful in other-rated data.",
+        "Good listening depends on available attention, training and genuine interest; listening done as a technique without real interest can backfire.",
+        "Listening is best treated as something that happens in specific episodes between two people, not only as a fixed trait."
+      ],
+      "overlap_with_core_books": "Moderate in theme with Improv Wisdom, Supercommunicators, How to Know a Person and Talk, which all urge listening; none provides this quantitative synthesis.",
+      "access": "Author-hosted PDF (hermanaguinis.com) and Springer; Annual Review companion via library or Leibniz PsychArchives preprint.",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://link.springer.com/article/10.1007/s10869-023-09897-5",
+        "https://www.hermanaguinis.com/pdf/JBPlistening.pdf",
+        "https://cris.huji.ac.il/en/publications/the-power-of-listening-at-work/",
+        "https://leibniz-psychology.org/fileadmin/user_upload/pdf/il_Kluger-and-Itzchakov-OPOB-RR.pdf"
+      ]
+    },
+    {
+      "title": "High-quality listening behaviors linked to social connection between strangers",
+      "authors": [
+        "Taylor N. West",
+        "Sara Huston",
+        "Kylie R. Chandler",
+        "Jieni Zhou",
+        "Barbara L. Fredrickson"
+      ],
+      "year": 2025,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Independent support for the listening findings, from a lab with no Itzchakov or Kluger coauthors. It codes observable listening behaviors (validation, follow-up questions) rather than relying on how listened-to people felt, and links them to connection measured by observers, partners and response timing. This addresses the brief's call for independent replication and also gives independent support to follow-up questions, reducing reliance on the Gino-coauthored question-asking paper.",
+      "credibility": "Barbara Fredrickson (University of North Carolina) is a highly cited emotion and positivity researcher; published in Communications Psychology (Nature Portfolio), open access.",
+      "evidence_quality": "Medium. Two preregistered studies, total N = 646, behaviors coded by observers. Associations are correlational at the behavior level even though an intervention was randomized; in the small-talk study the intervention did not increase listening and verbal indicators were less consistent. A single paper, recent, not yet replicated.",
+      "supports": [
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "question-design"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        }
+      ],
+      "key_ideas_preview": [
+        "Visible listening behaviors, such as verbally validating what someone said and asking follow-up questions, go with stronger connection between strangers.",
+        "Observers, partners and conversational timing all pick up the connection, not only the speaker's self-report.",
+        "A brief prompt to focus on connecting led people to ask more follow-up questions in deeper conversations, which in turn predicted connection.",
+        "In short small talk, overall listening quality mattered more than counts of specific verbal moves."
+      ],
+      "overlap_with_core_books": "Supports Talk (follow-up questions) and Supercommunicators (proving you are listening) with independent behavioral data.",
+      "access": "Open-access paper (PMC12638239).",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12638239/",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11651903/"
+      ]
+    },
+    {
+      "title": "Dormant Ties: The Value of Reconnecting",
+      "authors": [
+        "Daniel Z. Levin",
+        "Jorge Walter",
+        "J. Keith Murnighan"
+      ],
+      "year": 2011,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Gives the thin networking subcategory one of its most actionable research findings for an average professional: reconnecting with people you have lost touch with is often more valuable, and easier, than building new contacts. Directly supports following up and reaching back out, which no core book addresses as a primary topic.",
+      "credibility": "Levin (Rutgers), Walter (George Washington University) and Murnighan (Kellogg, Northwestern, deceased 2016) are established organizational researchers; Organization Science is a top management journal. Follow-up: Walter, Levin and Murnighan (2015), Reconnection Choices, Organization Science 26(5).",
+      "evidence_quality": "Medium. Multiple studies with executive MBA participants who actually contacted dormant ties for advice on real work projects; findings replicated in the authors' follow-up paper. Samples are executives in one program, outcomes are mostly perceived value, and independent replication is limited.",
+      "supports": [
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "professional",
+          "subcategory": "situations"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        }
+      ],
+      "key_ideas_preview": [
+        "Contacts you have not spoken to in years often give more novel advice than your current contacts, because they have been exposed to different people and ideas.",
+        "Reconnecting is efficient: shared history and trust persist, so conversations get useful quickly.",
+        "Formerly close ties that went dormant can deliver the novelty of weak ties together with the trust of strong ones.",
+        "People underestimate this value and hesitate to reach out; a short, specific request is usually welcome."
+      ],
+      "overlap_with_core_books": "Low. Connect and How to Know a Person deal with deepening relationships, not reactivating professional ties.",
+      "access": "Author-hosted PDF on the George Washington University site; library.",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://business.gwu.edu/sites/g/files/zaxdzs5326/files/15_FP.SP_Walter.J_15levin_2011a.pdf",
+        "https://econpapers.repec.org/RePEc:inm:ororsc:v:22:y:2011:i:4:p:923-939",
+        "https://www.kellogg.northwestern.edu/faculty/research/detail/2011/dormant-ties-the-value-of-reconnecting/?p=1"
+      ]
+    },
+    {
+      "title": "A Causal Test of the Strength of Weak Ties",
+      "authors": [
+        "Karthik Rajkumar",
+        "Guillaume Saint-Jacques",
+        "Iavor Bojinov",
+        "Erik Brynjolfsson",
+        "Sinan Aral"
+      ],
+      "year": 2022,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "The first large-scale experimental test of Granovetter's weak-ties idea, which underlies most networking advice. It refines the popular message: moderately weak ties, not the weakest, are the most useful for job moves. Gives the networking subcategory a causal anchor rather than anecdotes.",
+      "credibility": "Aral (MIT) and Brynjolfsson (Stanford) are leading researchers on networks and the digital economy; Bojinov (Harvard Business School); LinkedIn data scientists. Published in Science.",
+      "evidence_quality": "High for its specific question (randomized variation in LinkedIn recommendations across about 20 million users over five years), but narrow: outcome is job mobility on one platform. Effects differ by industry. The study drew ethics criticism about experimenting on users without explicit consent, worth noting.",
+      "supports": [
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "professional",
+          "subcategory": "situations"
+        }
+      ],
+      "key_ideas_preview": [
+        "Acquaintances you know moderately well are the contacts most likely to lead to a new job; very weak and very strong ties help less.",
+        "The benefit of weak ties is real but has diminishing returns, so collecting more distant connections is not the goal.",
+        "In more digital industries weak ties mattered more; in less digital ones, strong ties mattered more.",
+        "Practical upshot: keep moderately close acquaintances warm rather than chasing volume."
+      ],
+      "overlap_with_core_books": "None. Core books do not cover network structure.",
+      "access": "Science (paywalled); abstract on PubMed (PMID 36107999); summary on the Stanford Digital Economy Lab site.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://pubmed.ncbi.nlm.nih.gov/36107999/",
+        "https://digitaleconomy.stanford.edu/publication/a-causal-test-of-the-strength-of-weak-ties",
+        "https://www.eurekalert.org/news-releases/964356"
+      ]
+    },
+    {
+      "title": "Social Chemistry: Decoding the Patterns of Human Connection",
+      "authors": [
+        "Marissa King"
+      ],
+      "year": 2021,
+      "type": "book",
+      "why_it_adds_value": "A readable, research-based networking book for professionals that treats networks as relationships rather than transactions. It translates network science (brokerage, closure, weak and dormant ties) into choices about whom to invest in, which the core books lack. It is the most practical bridge between the networking papers above and day-to-day behavior.",
+      "credibility": "Professor of Organizational Behavior at Yale School of Management, where she teaches a course on managing strategic networks; publishes peer-reviewed network research. Reviewed by the New York Times Book Review and Financial Times.",
+      "evidence_quality": "Medium. Draws on peer-reviewed network research, including the author's own, but packages it into three network styles (expansionists, brokers, conveners) that are a heuristic rather than validated types; at least one reviewer criticizes treating them as personality types. Some anecdotes carry narrative weight.",
+      "supports": [
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        }
+      ],
+      "key_ideas_preview": [
+        "The shape of your network (how your contacts connect to each other) affects what it gives you, not only its size.",
+        "Brokers who bridge separate groups gain new ideas and opportunities; conveners in tight-knit networks gain trust and support; each has costs.",
+        "Reconnecting with dormant ties and tending weak ties are low-cost, high-value habits.",
+        "Networking feels less distasteful when framed around shared interests and giving rather than extracting value."
+      ],
+      "overlap_with_core_books": "Some with Connect and How to Know a Person on the value of close relationships; little on professional network structure.",
+      "access": "Library; publisher previews (Dutton in the US, Hodder and Stoughton in the UK).",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://www.porchlightbooks.com/products/social-chemistry-marissa-king-9781524743802",
+        "https://openlettersreview.com/posts/social-chemistry-by-marissa-king",
+        "https://nextbigideaclub.com/magazine/social-chemistry-decoding-patterns-human-connection-bookbite/25792/",
+        "https://arabnews.com/node/1793886"
+      ]
+    },
+    {
+      "title": "Effects of Networking on Career Success: A Longitudinal Study",
+      "authors": [
+        "Hans-Georg Wolff",
+        "Klaus Moser"
+      ],
+      "year": 2009,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Answers whether networking behavior actually pays off over time, using a three-year longitudinal design rather than cross-sectional correlation. It also breaks networking into concrete behaviors (building, maintaining and using contacts, inside and outside the organization), giving the library a research-based definition of what networking is.",
+      "credibility": "Wolff (University of Cologne) and Moser (University of Erlangen-Nuremberg) are work psychologists who developed a widely used networking scale; Journal of Applied Psychology is a top applied journal. Follow-up: Wolff and Moser (2010), Journal of Vocational Behavior, on internal versus external networking and mobility.",
+      "evidence_quality": "Medium. Longitudinal with objective salary data, which strengthens causal inference, but still observational, German sample, and effects are modest. Networking predicted salary growth but not change in career satisfaction.",
+      "supports": [
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        }
+      ],
+      "key_ideas_preview": [
+        "Networking is a set of learnable behaviors: building new contacts, maintaining existing ones, and using them for information or help.",
+        "People who network more earned more and saw faster salary growth over the following years.",
+        "Networking inside your organization and outside it play different roles: internal ties relate to promotion, external ties to changing employers.",
+        "Networking was linked to current career satisfaction but did not raise it over time."
+      ],
+      "overlap_with_core_books": "None.",
+      "access": "Library (APA PsycArticles).",
+      "priority_score": 6,
+      "sources_checked": [
+        "https://cris.fau.de/publications/114524784",
+        "https://scinapse.io/papers/2001220096",
+        "https://data.zhenzhi.com/details/1/874878569"
+      ]
+    }
+  ],
+  "notes": "Nonverbal: the research base supports probabilistic cue meaning and modest reading accuracy and debunks lie spotting from body language. Related myth correctives to cite alongside: power posing failed to replicate on behavior and hormones in a special issue of seven preregistered studies (Jonas et al., 2017, Comprehensive Results in Social Psychology 2(1):139-141), with only a possible small effect on felt power; the 7 percent words figure comes from narrow lab studies of single words about liking and should not be generalized. Popular body-language books (for example former FBI agent guides) were not proposed because they rely on anecdote. Listening replication: West et al. (2025, Fredrickson lab) is the clearest independent support found. A registered report in Royal Society Open Science (Moin et al., 2024) found only partial effects (positivity resonance, not authenticity or anxiety), but Itzchakov is a coauthor so it is not fully independent. Weger et al. (2014, International Journal of Listening) is independent and already cited in Stage 2; it found active listening increased feeling understood but not satisfaction beyond advice. Overall, independent work supports the core claim (being listened to builds connection) at a smaller and more conditional strength than the Itzchakov and Kluger program suggests. Networking: the four networking candidates form a coherent research spine (behaviors pay off, moderately weak ties matter, dormant ties are undervalued) plus one readable book. Casciaro, Gino and Kouchaki (2014) on networking feeling dirty was not proposed because it is Gino-coauthored. docs/taxonomy.md was empty in this checkout, so subcategory ids follow the stage2-synthesis coverage table."
+}

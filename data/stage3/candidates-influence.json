@@ -1,0 +1,234 @@
+{"category": "influence",
+ "candidates": [
+  {
+   "title": "Influence, New and Expanded: The Psychology of Persuasion",
+   "authors": ["Robert B. Cialdini"],
+   "year": 2021,
+   "type": "book",
+   "why_it_adds_value": "Directly fills the influence/reciprocity gap (currently one insight, about compliments). It is the standard reference for reciprocity, concessions and the six (now seven, with unity) principles, and it gives the library a named, research-based vocabulary for why people say yes. It should be presented principle by principle with replication status, not as a uniformly proven toolkit. Replication status as checked: (1) Reciprocity: the general norm is robust across cultures, but the door-in-the-face concession technique reliably raises verbal agreement while its effect on actual behavior is small (Feeley, Anker and Aloe 2012 meta-analysis, behavioral r about .13). (2) Commitment and consistency: the foot-in-the-door effect is real but small and inconsistent, with several moderators and some reversals (Burger 1999 review). (3) Social proof: descriptive norms generally work, but the famous hotel towel finding (Goldstein, Cialdini and Griskevicius 2008) did not replicate its specific advantage over a standard message in two German hotels (Bohner and Schlueter 2014, PLOS ONE). (4) Authority: obedience effects have been partially replicated (Burger 2009, a modified Milgram procedure), but the leap to everyday workplace persuasion is an extrapolation. (5) Liking: similarity and liking effects are well supported in the broader literature. (6) Scarcity: a meta-analysis found a modest average effect on perceived value with large heterogeneity (Lynn 1991, r about .12). (7) Unity: newest principle, mostly supported by the author's own reasoning and related social identity research, with little independent testing as a compliance tactic.",
+   "credibility": "Regents' Professor Emeritus of Psychology and Marketing at Arizona State University; decades of peer-reviewed work on social norms and compliance; one of the most cited social psychologists on persuasion. Also a paid consultant on applying influence, which gives an incentive to present effects favorably.",
+   "evidence_quality": "Medium. Built on genuine peer-reviewed research, but the book favors vivid single studies and field anecdotes; several flagship demonstrations show small, moderated or partly unreplicated effects (door-in-the-face behavior, foot-in-the-door, hotel towels, scarcity). Principles are directionally sound; specific effect sizes and tactics should be presented cautiously.",
+   "supports": [
+    {"category": "influence", "subcategory": "reciprocity"},
+    {"category": "influence", "subcategory": "credibility"},
+    {"category": "influence", "subcategory": "persuasive-structure"},
+    {"category": "professional", "subcategory": "negotiation"}
+   ],
+   "key_ideas_preview": [
+    "Giving first, with a personalized and unexpected favor, creates a felt obligation to return it.",
+    "Retreating from a large request to a smaller one is experienced as a concession and invites a reciprocal concession, though it moves words more than deeds.",
+    "People look to what similar others are doing when uncertain, so honest descriptions of peer behavior can persuade.",
+    "Establish genuine expertise and trustworthiness before making the ask, for example by admitting a weakness early.",
+    "Every principle can be used ethically to highlight real features of an offer, or exploitatively to fabricate them; the reader should learn to spot both."
+   ],
+   "overlap_with_core_books": "Made to Stick touches credibility (authorities, testable credentials) and Talk covers compliments and gratitude, but no core book treats reciprocity, concessions or social proof as influence principles. Supercommunicators and How to Know a Person touch shared identity, which overlaps with unity.",
+   "access": "Library; publisher and retailer previews; Cialdini's site (influenceatwork.com) summarizes the principles.",
+   "priority_score": 9,
+   "sources_checked": [
+    "https://www.audible.com/pd/0063097796",
+    "https://massivebookshop.com/products/9780062937650",
+    "https://iro.uiowa.edu/esploro/outputs/journalArticle/The-Door-in-the-Face-Persuasive-Message-Strategy-A/9984371078502771",
+    "https://www.buffalo.edu/ubreporter/archive/2012_11_01/feeley_ditf.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4118982",
+    "https://cbsm.com/articles/32623-the-foot-in-the-door-compliance-procedure-a-multiple-process-analysis-and-review",
+    "https://scilit.com/publications/9e7b5e6501d315cd5586be1702016cb6"
+   ]
+  },
+  {
+   "title": "The Door-in-the-Face Persuasive Message Strategy: A Meta-Analysis of the First 35 Years",
+   "authors": ["Thomas Hugh Feeley", "Ashley E. Anker", "Ariel M. Aloe"],
+   "year": 2012,
+   "type": "meta-analysis",
+   "why_it_adds_value": "Gives the reciprocity subcategory an honest quantitative anchor that no core book has. It shows that the reciprocal-concession tactic increases stated agreement but only slightly increases follow-through, which is exactly the caveat a professional needs before relying on it. Pairs naturally with Cialdini as the correction layer.",
+   "credibility": "Feeley is a communication professor at the University at Buffalo specializing in persuasion and health communication; Aloe is a meta-analysis methodologist (University of Iowa). Published in Communication Monographs, a leading peer-reviewed communication journal.",
+   "evidence_quality": "High for the summary estimate (random-effects meta-analysis of 35 years of studies, including prior meta-analyses). Limited by the age and lab-heavy nature of many primary studies and possible publication bias.",
+   "supports": [
+    {"category": "influence", "subcategory": "reciprocity"},
+    {"category": "professional", "subcategory": "negotiation"}
+   ],
+   "key_ideas_preview": [
+    "Following a refused large request with a smaller one raises agreement to the smaller one in conversation.",
+    "The gain in actual behavior (showing up, doing the task) is small, so verbal yes is not the same as commitment.",
+    "The effect is stronger for prosocial requests, consistent with a sense of social responsibility rather than pure bargaining.",
+    "Use concessions as a genuine signal of flexibility, and confirm commitment with a concrete next step."
+   ],
+   "overlap_with_core_books": "None directly; complements any future Cialdini insight on concessions.",
+   "access": "Journal (Taylor and Francis), library database; University at Buffalo news summary is free.",
+   "priority_score": 7,
+   "sources_checked": [
+    "https://iro.uiowa.edu/esploro/outputs/journalArticle/The-Door-in-the-Face-Persuasive-Message-Strategy-A/9984371078502771",
+    "https://www.buffalo.edu/ubreporter/archive/2012_11_01/feeley_ditf.html",
+    "https://medicalxpress.com/news/2012-10-famous-door-in-the-face-persuasion-strategy-results.pdf"
+   ]
+  },
+  {
+   "title": "Influence Without Authority (3rd edition)",
+   "authors": ["Allan R. Cohen", "David L. Bradford"],
+   "year": 2017,
+   "type": "book",
+   "why_it_adds_value": "Translates reciprocity into the everyday workplace problem of getting cooperation from peers, other teams and bosses you do not control. Its exchange model (find out what the other party values, their currencies, and trade for it) fills influence/reciprocity and strengthens professional/managing-up, which is all secondary tags today. Already flagged in Stage 1 under connect-12, and Bradford coauthored Connect, so it extends a core voice rather than adding an unrelated one.",
+   "credibility": "Cohen is a professor emeritus of management at Babson College; Bradford is a senior lecturer emeritus at Stanford Graduate School of Business, where he created the Interpersonal Dynamics (Touchy Feely) course. The book has been in print since 1990 and is widely used in management education.",
+   "evidence_quality": "Low to Medium. Practitioner framework built from teaching and case experience; consistent with social exchange theory and reciprocity research, but the exchange model itself has not been tested as a package.",
+   "supports": [
+    {"category": "influence", "subcategory": "reciprocity"},
+    {"category": "professional", "subcategory": "managing-up"},
+    {"category": "influence", "subcategory": "overcoming-resistance"}
+   ],
+   "key_ideas_preview": [
+    "Treat colleagues as potential allies and assume they have legitimate reasons for resisting.",
+    "Identify what the other person values (resources, recognition, learning, personal support, mission) and offer that currency.",
+    "Map their world (pressures, metrics, boss) before asking; most resistance comes from their incentives, not their character.",
+    "Build credit in advance and keep the relationship intact even when a specific trade fails."
+   ],
+   "overlap_with_core_books": "Shares an author and the relational stance of Connect; overlaps with Supercommunicators on understanding the other person's goals. Adds the explicit exchange and currency lens that neither has.",
+   "access": "Library; Wiley publisher preview; O'Reilly online.",
+   "priority_score": 7,
+   "sources_checked": [
+    "https://www.wiley-vch.de/en/areas-interest/finance-economics-law/influence-without-authority-978-1-119-34771-2",
+    "https://www.oreilly.com/library/view/-/9781119347712",
+    "https://www.porchlightbooks.com/products/influence-without-authority-allan-r-cohen-9781119347712"
+   ]
+  },
+  {
+   "title": "Motivational Interviewing: Helping People Change and Grow (4th edition), with the Lundahl et al. (2010) meta-analysis",
+   "authors": ["William R. Miller", "Stephen Rollnick"],
+   "year": 2023,
+   "type": "book",
+   "why_it_adds_value": "The best-evidenced method in this category for overcoming resistance. It replaces arguing for change with evoking the other person's own reasons, which counters the righting reflex that triggers pushback. Gives the library concrete conversational skills (open questions, affirmations, reflections, summaries; eliciting change talk) usable with direct reports, family members and clients. The companion meta-analysis (Lundahl, Kunz, Brownell, Tollefson and Burke 2010, 119 studies) supplies the honest effect size.",
+   "credibility": "Miller (professor emeritus, University of New Mexico) and Rollnick (Cardiff University) founded MI; hundreds of randomized trials and multiple meta-analyses have tested it, largely by independent groups. Published by Guilford Press.",
+   "evidence_quality": "High for existence of an effect, with honest limits: against weak or no-treatment controls MI shows small, durable effects (average g about 0.28); against other active treatments it is roughly equivalent (g about 0.09, not significant). Evidence comes mostly from health and addiction counseling, so transfer to workplace persuasion is plausible but extrapolated.",
+   "supports": [
+    {"category": "influence", "subcategory": "overcoming-resistance"},
+    {"category": "relationships", "subcategory": "listening"},
+    {"category": "personal-life", "subcategory": "family"},
+    {"category": "difficult", "subcategory": "giving-feedback"}
+   ],
+   "key_ideas_preview": [
+    "Pushing someone to change tends to make them argue the other side; let them voice their own reasons instead.",
+    "Listen for and reflect statements in favor of change, and give less airtime to arguments for the status quo.",
+    "Ask permission before offering information or advice, then ask what they make of it.",
+    "Treat ambivalence as normal rather than as stubbornness, and respect the other person's autonomy to decide.",
+    "Work through four tasks in order: engage, focus, evoke, then plan."
+   ],
+   "overlap_with_core_books": "Reinforces convergent concepts 2.1 (outward attention), 2.6 (looping and paraphrasing) and 2.15 (understand before you advocate) from Supercommunicators, Connect and Talk, and gives them an independent clinical evidence base. Adds the change-talk and autonomy mechanism none of them name.",
+   "access": "Library; Guilford Press preview; Lundahl et al. abstract is open at Utah State Digital Commons.",
+   "priority_score": 9,
+   "sources_checked": [
+    "https://www.guilford.com/books/Motivational-Interviewing/Miller-Rollnick/9781462552795",
+    "https://digitalcommons.usu.edu/sswa_facpubs/199",
+    "https://motivationalinterviewing.org/node/3739"
+   ]
+  },
+  {
+   "title": "The Catalyst: How to Change Anyone's Mind",
+   "authors": ["Jonah Berger"],
+   "year": 2020,
+   "type": "book",
+   "why_it_adds_value": "Accessible practitioner synthesis on overcoming resistance that reframes persuasion as removing barriers rather than adding pressure. Its REDUCE model (reactance, endowment, distance, uncertainty, corroborating evidence) gives the working professional a diagnostic checklist when a proposal stalls, which complements the more clinical MI method.",
+   "credibility": "Marketing professor at the Wharton School, University of Pennsylvania; publishes peer-reviewed research on word of mouth and social influence; author of Contagious and Invisible Influence.",
+   "evidence_quality": "Medium. Each barrier is grounded in established research (psychological reactance, endowment effect and status quo bias, latitude of acceptance, risk and trialability, social proof), but the book leans on narrative cases and the REDUCE package itself has not been tested. Some underlying findings (for example classic endowment effect magnitudes) have been debated.",
+   "supports": [
+    {"category": "influence", "subcategory": "overcoming-resistance"},
+    {"category": "influence", "subcategory": "framing"},
+    {"category": "professional", "subcategory": "executive-communication"}
+   ],
+   "key_ideas_preview": [
+    "When pushed, people push back; offer choices or ask questions so they persuade themselves.",
+    "Highlight the hidden cost of doing nothing, since the status quo feels free.",
+    "Ask for less if the gap between your view and theirs is too wide, then move step by step.",
+    "Lower the risk of trying (pilots, trials, reversible steps) to reduce uncertainty.",
+    "Provide several independent sources of evidence rather than repeating the same argument."
+   ],
+   "overlap_with_core_books": "Overlaps with Made to Stick on making ideas concrete and credible and with Think Faster Talk Smarter on audience focus; the barrier-removal frame and reactance focus are new to the library.",
+   "access": "Library; publisher preview (Simon and Schuster); author site jonahberger.com.",
+   "priority_score": 8,
+   "sources_checked": [
+    "https://review.firstround.com/pull-dont-push-how-catalysts-overcome-barriers-and-drive-product-adoption",
+    "https://heidicohen.com/books/the-catalyst/",
+    "https://chibe.upenn.edu/news/first-round-review-pull-dont-push-how-catalysts-overcome-barriers-and-drive-product-adoption/"
+   ]
+  },
+  {
+   "title": "Reducing Exclusionary Attitudes Through Interpersonal Conversation: Evidence From Three Field Experiments",
+   "authors": ["Joshua L. Kalla", "David E. Broockman"],
+   "year": 2020,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Rare high-quality field evidence on changing minds through conversation, for overcoming resistance. Three pre-registered field experiments (6,869 voters, 230 canvassers) found that arguments alone did not change attitudes, while the same conversations with a non-judgmental exchange of personal stories produced small effects lasting months. Gives the library a rigorous counterweight to argument-heavy persuasion advice.",
+   "credibility": "Kalla (Yale) and Broockman (UC Berkeley) are political scientists known for transparent, pre-registered field experiments, and for exposing the fabricated 2014 LaCour canvassing study before conducting their own valid version. Published in the American Political Science Review.",
+   "evidence_quality": "High. Pre-registered, randomized, large-sample field experiments with replication across three studies; effects are durable but small (d about 0.04 to 0.08), and the context is political and social attitudes rather than workplace decisions.",
+   "supports": [
+    {"category": "influence", "subcategory": "overcoming-resistance"},
+    {"category": "conversations", "subcategory": "storytelling"},
+    {"category": "relationships", "subcategory": "empathy"}
+   ],
+   "key_ideas_preview": [
+    "Piling on arguments rarely shifts a resistant person's view.",
+    "Asking for their experiences and sharing your own story, without judging, opens room for change.",
+    "Durable change in contested views is usually small per conversation, so set realistic expectations.",
+    "Perspective getting (hearing the other person's story) does more than asking them to imagine a perspective."
+   ],
+   "overlap_with_core_books": "Independently supports convergent concepts 2.5 (ask rather than infer) and 2.15 (understand before you advocate) found in How to Know a Person and Supercommunicators; adds field-experimental rigor those books lack.",
+   "access": "Open preprint and summary on Yale ISPS site; journal (Cambridge University Press).",
+   "priority_score": 8,
+   "sources_checked": [
+    "https://isps.yale.edu/research/publications/isps20-01",
+    "https://econpapers.repec.org/RePEc:cup:apsrev:v:114:y:2020:i:2:p:410-425_8"
+   ]
+  },
+  {
+   "title": "Moral reframing: A technique for effective and persuasive communication across political divides",
+   "authors": ["Matthew Feinberg", "Robb Willer"],
+   "year": 2019,
+   "type": "review article",
+   "why_it_adds_value": "Fills the influence/framing gap (thin, with the identifiable-victim anchor contested) with a research program on framing for the audience's values rather than your own. Its core lesson, that people naturally argue from their own values and so fail to persuade those who differ, generalizes to cross-functional and cross-cultural persuasion at work.",
+   "credibility": "Feinberg (University of Toronto Rotman School) and Willer (Stanford sociology and Polarization and Social Change Lab) have published the primary experiments in leading journals. Published in Social and Personality Psychology Compass.",
+   "evidence_quality": "Medium. Multiple experiments support the effect, but much of the base comes from the authors' own labs, effects are modest and vary by issue, and the underlying moral foundations theory has critics. Treat as a well-supported principle (match the frame to the audience's values) rather than a precise technique.",
+   "supports": [
+    {"category": "influence", "subcategory": "framing"},
+    {"category": "influence", "subcategory": "overcoming-resistance"},
+    {"category": "foundations", "subcategory": "audience-goals"}
+   ],
+   "key_ideas_preview": [
+    "People tend to argue from the values that convinced them, which rarely move someone with different priorities.",
+    "Reframing the same position in terms of the listener's values makes it seem more compatible with who they are.",
+    "Framing works best when the link to their values is genuine; obviously strategic framing can backfire.",
+    "Before persuading, find out which values the other person actually holds."
+   ],
+   "overlap_with_core_books": "Extends convergent concepts 2.18 (persuade through the listener's benefit) and 2.19 (identity shapes what people hear) from Supercommunicators and Communicate with Mastery with a dedicated research base.",
+   "access": "Journal (Wiley); author-hosted and course-hosted PDFs available.",
+   "priority_score": 7,
+   "sources_checked": [
+    "https://zendy.io/title/10.1111/spc3.12501",
+    "https://sdimakis.github.io/moral_psychology/readings/week_10/Feinberg_2019.pdf",
+    "https://greatergood.berkeley.edu/article/item/how_to_speak_your_opponents_language_in_a_political_debate"
+   ]
+  },
+  {
+   "title": "The relative persuasiveness of gain-framed and loss-framed messages for encouraging disease prevention behaviors: a meta-analytic review",
+   "authors": ["Daniel J. O'Keefe", "Jakob D. Jensen"],
+   "year": 2007,
+   "type": "meta-analysis",
+   "why_it_adds_value": "A myth-correcting anchor for influence/framing. Popular advice often says to frame as a loss because losses loom larger; across 93 studies (N about 21,656) the difference between gain and loss framing was small, with a slight gain-frame advantage for prevention and no meaningful advantage for loss framing in the companion detection meta-analysis. Teaches the professional that how you frame matters less than popular books suggest, and that audience fit matters more.",
+   "credibility": "O'Keefe (Northwestern University) is one of the leading meta-analysts of persuasion research and author of the standard textbook Persuasion: Theory and Research; Jensen (University of Utah) is a health communication researcher. Published in the Journal of Health Communication.",
+   "evidence_quality": "High. Large meta-analysis with a consistent follow-up in the same research program; scope is health messaging, so application to workplace messages is by analogy.",
+   "supports": [
+    {"category": "influence", "subcategory": "framing"},
+    {"category": "influence", "subcategory": "persuasive-structure"}
+   ],
+   "key_ideas_preview": [
+    "Gain versus loss framing produces only small differences in persuasion on average.",
+    "For prevention behaviors a gain frame has a slight edge; loss framing is not a reliable lever.",
+    "Treat famous framing effects as context-dependent rather than universal rules.",
+    "Substance and fit to the audience usually matter more than the valence of the frame."
+   ],
+   "overlap_with_core_books": "None; Made to Stick discusses framing through stories and concreteness but not valence framing. Corrects a common claim the library might otherwise import.",
+   "access": "PubMed abstract open; journal (Taylor and Francis) via library.",
+   "priority_score": 6,
+   "sources_checked": [
+    "https://pubmed.ncbi.nlm.nih.gov/17934941/",
+    "https://experts.umn.edu/en/publications/the-effectiveness-of-gain-framed-messages-for-encouraging-disease/"
+   ]
+  }
+ ],
+ "notes": "Priority gaps addressed: reciprocity (Cialdini, Feeley et al. door-in-the-face meta-analysis, Cohen and Bradford), overcoming resistance (Miller and Rollnick with Lundahl et al., Berger, Kalla and Broockman), and framing (Feinberg and Willer, O'Keefe and Jensen). Cialdini replication summary: reciprocity norm robust but concession tactic moves words more than behavior; foot-in-the-door small and inconsistent; hotel towel social-proof study failed a direct replication of its specific claim though descriptive norms still help; obedience to authority partially replicated (Burger 2009); scarcity effect modest and heterogeneous (Lynn 1991); unity largely untested as a tactic. Cialdini's Pre-Suasion (2016) was not proposed because it leans on priming research hit hard by the replication crisis. Considered but not included: Pornpitakpan (2004) review of five decades of source credibility research (good fit for influence/credibility, which is moderate rather than thin); Vanessa Bohns, You Have More Influence Than You Think (2021), on people underestimating others' willingness to comply with requests; Adam Grant, Give and Take (2013), on giving styles (relevant to reciprocity but some underlying claims are softer); Daniel O'Keefe's textbook Persuasion: Theory and Research as a broader meta-analytic reference. Memorable-messages was not prioritized because it is concentrated in Made to Stick but already strong in evidence. The Buffalo news release on Feeley et al. returned 403 via curl; its content was confirmed through the UB Reporter page and search summaries."
+}

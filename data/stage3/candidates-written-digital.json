@@ -1,0 +1,240 @@
+{
+  "category": "written-digital",
+  "candidates": [
+    {
+      "title": "Writing for Busy Readers: Communicate More Effectively in the Real World",
+      "authors": ["Todd Rogers", "Jessica Lasky-Fink"],
+      "year": 2023,
+      "type": "book",
+      "why_it_adds_value": "Fills the thin proposals-memos and executive-writing subcategories and strengthens email and clarity-structure with the only writing-focused source in the library that rests on randomized field experiments. The core books treat brevity and leading with the point as practitioner consensus (convergent concept 2.10, rated Medium); this book supplies causal evidence for it and adds practical rules the core books lack: one request per message, formatting for skimmers (headings, bolding the key action, bullets used sparingly), making the needed action easy, and telling readers why they should care. It also helps resolve tension 3.6 (concise versus warm) with data: in their school-board email test the warmer, longer version roughly halved responses.",
+      "credibility": "Rogers is a behavioral scientist and professor of public policy at the Harvard Kennedy School who directs the Student Social Support R&D Lab and co-founded EveryDay Labs; he has many peer-reviewed field experiments on communication and behavior change. Lasky-Fink is a research director at the Harvard Kennedy School working on the same research program. Published by Dutton (Penguin Random House).",
+      "evidence_quality": "High for the core claims (fewer words, fewer ideas, clear action), which rest on the authors' randomized field experiments with large samples (for example 7,002 school district leaders: 4.8 percent responded to a 49-word email versus 2.7 percent to a 127-word version) plus lab studies of skimming. Medium for some formatting rules, which draw partly on reading research rather than their own trials. Caveat: most trials measure response or click rates on low-stakes requests from strangers; effects on internal workplace memos and on reader judgments of warmth are less tested, and some survey research finds longer invitations can do better in specific populations.",
+      "supports": [
+        {"category": "written-digital", "subcategory": "proposals-memos"},
+        {"category": "written-digital", "subcategory": "executive-writing"},
+        {"category": "written-digital", "subcategory": "email"},
+        {"category": "written-digital", "subcategory": "clarity-structure"},
+        {"category": "written-digital", "subcategory": "async"}
+      ],
+      "key_ideas_preview": [
+        "Assume your reader will skim; design every practical message to work for someone who reads only the first lines and the highlighted parts.",
+        "Cut words and cut ideas: each extra request or paragraph lowers the chance that the main one gets done.",
+        "Make the needed action obvious and easy, placed where the reader will see it, and say why it matters to them.",
+        "Use formatting (short headings, bold for the key point, simple lists) to guide attention, but sparingly so emphasis keeps its meaning.",
+        "Writers predict that longer, warmer messages will work better, and they are usually wrong; test rather than trust intuition."
+      ],
+      "overlap_with_core_books": "Overlaps with Made to Stick (find the core) and Communicate with Mastery (parachute in, concise writing) on leading with the point, and with Think Faster Talk Smarter on conciseness. Adds experimental evidence and writing-specific mechanics none of them provide.",
+      "access": "Library; publisher page and excerpts (Behavioral Scientist excerpt, Harvard Kennedy School op-ed PDF 'Write shorter messages', Next Big Idea Club BookBite).",
+      "priority_score": 10,
+      "sources_checked": [
+        "https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20PDFs/Write%20shorter%20messages.pdf",
+        "https://news.harvard.edu/gazette/story/2023/10/tips-on-how-to-connect-with-people-who-dont-have-time-to-read",
+        "https://nextbigideaclub.com/magazine/writing-busy-readers-communicate-effectively-real-world-bookbite/45483/",
+        "https://www.goodreads.com/book/show/235175708",
+        "https://www.inc.com/jessica-stillman/double-your-chance-of-getting-a-response-to-emails-by-making-them-shorter.html"
+      ]
+    },
+    {
+      "title": "You don't need to answer right away! Receivers overestimate how quickly senders expect responses to non-urgent work emails",
+      "authors": ["Laura M. Giurge", "Vanessa K. Bohns"],
+      "year": 2021,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Directly fills the missing async subcategory on response-time norms, which no current insight addresses. Identifies an 'email urgency bias': recipients think senders expect faster replies than senders actually do, especially for after-hours messages, and this raises stress. Gives a concrete, testable fix for senders: state your response expectation in the message. Connects to the library's convergent theme that social judgments are miscalibrated (2.4) and to ask-rather-than-infer (2.5).",
+      "credibility": "Giurge is an assistant professor of behavioural science at the London School of Economics (previously London Business School); Bohns is a professor of organizational behavior at Cornell known for research on underestimating influence (author of You Have More Influence Than You Think). Published in Organizational Behavior and Human Decision Processes, a top-tier journal.",
+      "evidence_quality": "High. Eight pre-registered experiments with about 4,004 participants in a leading journal; the remedy (an explicit expectation note) was tested. Limits: mostly online and scenario-based samples, a single research team, and outcomes are perceived stress and expectations rather than long-term workplace behavior.",
+      "supports": [
+        {"category": "written-digital", "subcategory": "async"},
+        {"category": "written-digital", "subcategory": "email"},
+        {"category": "written-digital", "subcategory": "chat"}
+      ],
+      "key_ideas_preview": [
+        "People who receive a non-urgent work message tend to overestimate how fast the sender wants a reply.",
+        "The gap is largest for messages sent outside normal working hours, such as evenings and weekends.",
+        "This mismatch adds avoidable stress for the receiver and lowers wellbeing.",
+        "Senders can close the gap with one line stating when they actually need an answer."
+      ],
+      "overlap_with_core_books": "None directly. Thematically related to Wood Brooks and Epley-style miscalibration findings already in the library, but no core book covers response-time norms.",
+      "access": "Accepted manuscript in Cornell eCommons and LSE Research Online (open); journal version on ScienceDirect (DOI 10.1016/j.obhdp.2021.08.002).",
+      "priority_score": 9,
+      "sources_checked": [
+        "https://ecommons.cornell.edu/entities/publication/0ace228b-a1d7-42c4-9b4d-ac6b60655062",
+        "https://econpapers.repec.org/RePEc:eee:jobhdp:v:167:y:2021:i:c:p:114-128",
+        "https://www.london.edu/faculty-and-research/academic-research/y/you-dont-need-to-answer-right-away-receivers-overestimate-how-qui",
+        "https://researchonline.lse.ac.uk/id/eprint/115230",
+        "https://eurekalert.org/news-releases/929702"
+      ]
+    },
+    {
+      "title": "Egocentrism over e-mail: Can we communicate as well as we think?",
+      "authors": ["Justin Kruger", "Nicholas Epley", "Jason Parker", "Zhi-Wen Ng"],
+      "year": 2005,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "The primary evidence base for the tone-misreading subcategory. Currently it appears only as underlying research cited by Supercommunicators and as a related reference identified for Communicate with Mastery and Humor, Seriously. Adding the paper itself lets the guide state the finding precisely: senders are overconfident that tone (especially sarcasm and humor) will come through in text, because they hear their own intended voice. It anchors practical advice to re-read messages in a neutral or opposite voice and to make tone explicit.",
+      "credibility": "Kruger (NYU Stern, co-author of the Dunning-Kruger paper) and Epley (University of Chicago Booth, leading researcher on mind perception and author of Mindwise). Published in the Journal of Personality and Social Psychology, the flagship social psychology journal.",
+      "evidence_quality": "High for the core effect (five experiments, top journal, mechanism tested in Studies 4 and 5), and the general finding that text strips tone cues is consistent with later work (for example Byron 2008). Medium for specific percentages, which vary across secondary summaries; cite the paper directly. Samples were students and the tasks were short statements, so effect sizes in long workplace threads are uncertain.",
+      "supports": [
+        {"category": "written-digital", "subcategory": "tone-misreading"},
+        {"category": "written-digital", "subcategory": "email"},
+        {"category": "written-digital", "subcategory": "chat"}
+      ],
+      "key_ideas_preview": [
+        "Writers routinely overestimate how well readers will detect their tone, including sarcasm, humor and seriousness.",
+        "The overconfidence comes from egocentrism: you hear your own voice in your words, but the reader does not.",
+        "The gap holds even between friends, so familiarity is not a safeguard.",
+        "Speaking the message aloud conveys tone better than text; for sensitive or ironic content, choose a richer channel or state the tone plainly."
+      ],
+      "overlap_with_core_books": "Cited as underlying research by Supercommunicators (online chapter); linked by Stage 1 reviewers to Communicate with Mastery and Humor, Seriously. Adds the primary source rather than a new idea, so its value is evidence quality.",
+      "access": "Open copies on author and NYU pages; PubMed record 16393025.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://pubmed.ncbi.nlm.nih.gov/16393025/",
+        "https://stern.nyu.edu/experience-stern/faculty-research/justin-kruger-email-research",
+        "https://www.bps.org.uk/research-digest/oops-how-sarcastic-emails-fall-flat"
+      ]
+    },
+    {
+      "title": "The fatiguing effects of camera use in virtual meetings: A within-person field experiment",
+      "authors": ["Kristen M. Shockley", "Allison S. Gabriel", "Daron Robertson", "Christopher C. Rosen", "Nitya Chawla", "Mahira L. Ganster", "Maira E. Ezerins"],
+      "year": 2021,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Gives the weak video-calls subcategory its first experimental evidence. In a randomized within-person field experiment, having the camera on increased daily fatigue, which in turn reduced engagement and voice in meetings; meeting count and hours were not related to fatigue. Supports practical norms such as camera-optional meetings and gives managers a reason not to mandate cameras by default.",
+      "credibility": "Shockley (University of Georgia) and Gabriel (University of Arizona, now Purdue) are established organizational psychologists; published in the Journal of Applied Psychology, the leading journal in the field.",
+      "evidence_quality": "High for design (random assignment to camera on or off, crossover after two weeks, 1,408 daily observations from 103 employees). Medium for generalization: one health-care services firm, modest sample, short horizon; the authors themselves caution against a blanket cameras-off rule. Effects were stronger for women and newer employees.",
+      "supports": [
+        {"category": "written-digital", "subcategory": "video-calls"},
+        {"category": "public-speaking", "subcategory": "virtual"}
+      ],
+      "key_ideas_preview": [
+        "Keeping your camera on makes video meetings more tiring, independent of how many meetings you attend.",
+        "That fatigue then makes people less engaged and less likely to speak up.",
+        "The cost falls harder on women and on people new to the organization, who may feel more on display.",
+        "Make cameras optional by default and turn them on deliberately when seeing faces matters, such as first meetings or sensitive talks."
+      ],
+      "overlap_with_core_books": "None substantive; Communicate with Mastery has a short virtual-meetings section (eye contact, slides) with no research base.",
+      "access": "Journal (APA PsycNet, DOI-based); university press releases and an open author record at the University of Arizona.",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://news.uga.edu/cameras-not-meetings-cause-zoom-fatigue/",
+        "https://experts.arizona.edu/en/publications/the-fatiguing-effects-of-camera-use-in-virtual-meetings-a-within-/",
+        "https://www.psypost.org/2021/12/having-your-camera-on-during-virtual-meetings-promotes-zoom-fatigue-especially-among-women-and-newer-employees-62214"
+      ]
+    },
+    {
+      "title": "Nonverbal overload: A theoretical argument for the causes of Zoom fatigue (with the follow-up Zoom Exhaustion and Fatigue Scale studies by Fauville, Luo, Queiroz, Bailenson and Hancock)",
+      "authors": ["Jeremy N. Bailenson"],
+      "year": 2021,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Explains why video calls tire people, which the library currently handles with one Low insight. Proposes four mechanisms (close-up gaze, constant self-view, reduced mobility, extra effort to send and read cues) and concrete fixes. The follow-up large-sample survey work (Fauville and colleagues, Computers in Human Behavior Reports, 2021 and 2023) found self-view 'mirror anxiety' helps explain why women report more video fatigue. Pairs naturally with the Shockley field experiment: theory plus test.",
+      "credibility": "Bailenson is founding director of Stanford's Virtual Human Interaction Lab and a leading researcher on mediated communication and virtual reality. Published in Technology, Mind, and Behavior (APA).",
+      "evidence_quality": "Medium. The 2021 article is explicitly theoretical; the author notes the mechanisms were not directly tested there. The follow-up studies validated a fatigue scale and found correlational support for mirror anxiety in large but self-selected convenience samples. The Shockley experiment partly corroborates the self-presentation cost of cameras.",
+      "supports": [
+        {"category": "written-digital", "subcategory": "video-calls"},
+        {"category": "public-speaking", "subcategory": "virtual"}
+      ],
+      "key_ideas_preview": [
+        "Video calls put faces at an unnaturally close distance and hold eye contact far longer than in-person talk does.",
+        "Seeing yourself all day acts like a constant mirror and invites self-criticism; hide self-view after checking framing.",
+        "Being tied to a fixed camera frame limits movement; audio-only breaks or a farther camera position help.",
+        "Sending and reading cues takes deliberate effort on video, so exaggerate key signals and build in pauses."
+      ],
+      "overlap_with_core_books": "Already named by a Stage 1 reviewer as related research to a Communicate with Mastery insight, but not cited by any core book. Overlaps with the outward-attention theme (self-monitoring hurts performance).",
+      "access": "Open-access PDF on the Stanford VHIL site; follow-up papers open access in Computers in Human Behavior Reports (DOAJ).",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://vhil.stanford.edu/sites/g/files/sbiybj29011/files/media/file/bailenson-apa-nonverbal-overload.pdf",
+        "https://vhil.stanford.edu/publications/social-interaction/nonverbal-overload-theoretical-argument-causes-zoom-fatigue",
+        "https://vhil.stanford.edu/publications/social-interaction/zoom-exhaustion-fatigue-scale",
+        "https://vhil.stanford.edu/publications/videoconferencing/video-conferencing-usage-dynamics-and-nonverbal-mechanisms",
+        "https://doaj.org/article/42e02fd3bba74b2ab84e27d53de1de70"
+      ]
+    },
+    {
+      "title": "The Pyramid Principle: Logic in Writing and Thinking",
+      "authors": ["Barbara Minto"],
+      "year": 1987,
+      "type": "book",
+      "why_it_adds_value": "The standard structured-memo method for proposals-memos and executive-writing: start with the governing answer, support it with a small set of grouped, logically ordered points, and open with a Situation, Complication, Question, Answer introduction. It turns 'lead with the point' (convergent concept 2.10) into a repeatable procedure for multi-page documents, which the core books handle only for short spoken messages.",
+      "credibility": "Minto was one of the first women hired as a consultant by McKinsey and Company, where she developed the method to train consultants; it remains the default writing model in management consulting. Published in several editions (Minto International early 1980s; Pitman and FT Prentice Hall later; current Pearson edition 2021). Year given is Goodreads' first-published date; verify edition before citing.",
+      "evidence_quality": "Low to Medium. No direct experimental test of the method; its authority is practitioner adoption across consulting. Its core moves are consistent with reading research (advance organizers, conclusion-first summaries help comprehension and recall) and with the Rogers and Lasky-Fink findings. Critiques: dense and abstract to read, and the strict hierarchy can feel cold or mismatched for persuasive or relationship-sensitive messages.",
+      "supports": [
+        {"category": "written-digital", "subcategory": "proposals-memos"},
+        {"category": "written-digital", "subcategory": "executive-writing"},
+        {"category": "written-digital", "subcategory": "clarity-structure"},
+        {"category": "influence", "subcategory": "persuasive-structure"}
+      ],
+      "key_ideas_preview": [
+        "Put the main conclusion or recommendation at the top, then the reasons, then the detail.",
+        "Group supporting points into a few sets that each answer the question your previous statement raises.",
+        "Order points deliberately (by time, structure or importance) and make each group summarize what is below it.",
+        "Open with a short story the reader already accepts (situation, complication) so the question and your answer feel inevitable."
+      ],
+      "overlap_with_core_books": "Close in spirit to Communicate with Mastery (synthesis over summary, parachute in) and Think Faster Talk Smarter (What, So What, Now What). Adds hierarchical structure for long written documents.",
+      "access": "Library; publisher (Pearson) preview.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://pearson.com/en-gb/subject-catalog/p/pyramid-principle-the-logic-in-writing-and-thinking/P200000005042/9781292372266",
+        "https://www.goodreads.com/work/editions/33290-the-minto-pyramid-principle-logic-in-writing-thinking-problem-solvi",
+        "https://openlibrary.org/works/OL3012477W"
+      ]
+    },
+    {
+      "title": "Working Backwards: Insights, Stories, and Secrets from Inside Amazon",
+      "authors": ["Colin Bryar", "Bill Carr"],
+      "year": 2021,
+      "type": "book",
+      "why_it_adds_value": "The best documented description of the Amazon narrative memo (six-page prose memo read silently at the start of the meeting) and the PR/FAQ format for proposals. Fills proposals-memos and async: it shows writing used as the decision vehicle, prose forcing complete reasoning instead of slide bullets, and a meeting design that ensures everyone has actually read the document. It is the practical bridge between written proposals and meetings, a gap Stage 2 also flagged (meetings as a design problem).",
+      "credibility": "Bryar (about 12 years at Amazon, including as Jeff Bezos's technical adviser) and Carr (about 15 years at Amazon, led digital media) describe practices they ran and saw first-hand. Insider accounts, published by St. Martin's Press.",
+      "evidence_quality": "Low to Medium. A first-hand case account of one very successful company, with no controlled comparison; survivorship and halo effects are likely. Popular claims attached to it (for example information-density ratios or faster decisions) are unsourced and should not be used. The underlying ideas (prose exposes gaps in reasoning, shared pre-reading improves discussion) are plausible and align with Rogers and Lasky-Fink and Minto.",
+      "supports": [
+        {"category": "written-digital", "subcategory": "proposals-memos"},
+        {"category": "written-digital", "subcategory": "async"},
+        {"category": "written-digital", "subcategory": "executive-writing"},
+        {"category": "professional", "subcategory": "meetings"}
+      ],
+      "key_ideas_preview": [
+        "Write proposals as connected prose, not slides, so gaps in logic cannot hide behind bullets.",
+        "Start a decision meeting with silent reading of the memo so everyone discusses the same facts.",
+        "Before building something, write the press release and the likely questions from the customer's point of view.",
+        "Keep the main narrative short and push supporting data into appendices."
+      ],
+      "overlap_with_core_books": "Little; Made to Stick and Communicate with Mastery stress audience-first framing, which the PR/FAQ embodies, but none covers memo-driven meetings.",
+      "access": "Library; publisher preview; author interviews (a16z podcast).",
+      "priority_score": 6,
+      "sources_checked": [
+        "https://www.globalplayer.com/podcasts/episodes/7Drmcmr",
+        "https://www.antoinebuteau.com/lessons-from-bill-carr/",
+        "https://medium.com/@adam.kryszkiewicz/pm-library-working-backwards-12f3d1af2bba"
+      ]
+    },
+    {
+      "title": "A World Without Email: Reimagining Work in an Age of Communication Overload",
+      "authors": ["Cal Newport"],
+      "year": 2021,
+      "type": "book",
+      "why_it_adds_value": "The most developed practitioner treatment of async workflow design, the core of the missing async subcategory. Names the 'hyperactive hive mind' (work coordinated by constant unscheduled messages across email and chat) and proposes alternatives: explicit processes, task boards, office hours, batching and scheduled communication. Complements the individual-level research (Giurge and Bohns on response norms; Kushlev and Dunn on checking frequency) with a team-level view of channel choice.",
+      "credibility": "Newport is a computer science professor at Georgetown and author of Deep Work and Digital Minimalism; widely read but writes as a public intellectual rather than an organizational researcher. Published by Portfolio (Penguin Random House).",
+      "evidence_quality": "Low to Medium. Draws on some real research (interruption and attention-switching studies, a RescueTime data set, Kushlev and Dunn style findings) but leans heavily on case stories and argument. Reviewers note the fixes require team or organizational authority that an average professional may lack. Use for framing and options, backed by the peer-reviewed sources above.",
+      "supports": [
+        {"category": "written-digital", "subcategory": "async"},
+        {"category": "written-digital", "subcategory": "email"},
+        {"category": "written-digital", "subcategory": "chat"}
+      ],
+      "key_ideas_preview": [
+        "Coordinating work through endless back-and-forth messages forces constant context switching and erodes focused work.",
+        "Replace ad hoc message threads with explicit processes: who does what, where requests go, and when they are reviewed.",
+        "Batch communication into set times (for example office hours or scheduled check-ins) instead of instant replies.",
+        "Choose the channel deliberately: a quick call can settle what ten messages cannot."
+      ],
+      "overlap_with_core_books": "None; no core book addresses workflow or channel choice.",
+      "access": "Library; publisher preview; author interviews (WBUR Here and Now).",
+      "priority_score": 6,
+      "sources_checked": [
+        "https://penguinrandomhouse.com/books/575655/a-world-without-email-by-cal-newport",
+        "https://www.wbur.org/hereandnow/2021/03/30/cal-newport-world-without-email",
+        "https://www.city-journal.org/article/inboxed",
+        "https://www.tlfresearch.com/a-world-without-email/"
+      ]
+    }
+  ],
+  "notes": "Ranked: Writing for Busy Readers (10), Giurge and Bohns (9), Shockley et al. (8), Kruger et al. (7), Bailenson plus ZEF follow-ups (7), Minto (7), Working Backwards (6), Newport (6). Verified but not included as main candidates, useful as supporting citations: Kushlev and Dunn (2015), 'Checking email less frequently reduces stress', Computers in Human Behavior 43, 220-228 (within-person experiment, 124 adults, lower daily stress when limited to about three checks a day; compliance imperfect), for async and email; Byron (2008), 'Carrying too heavy a load? The communication and miscommunication of emotion by email', Academy of Management Review 33(2), 309-327 (theory paper: work emails tend to be read as more negative or neutral than intended), for tone-misreading; Barley, Meyerson and Grodal (2011), 'E-mail as a source and symbol of stress', Organization Science 22(4) (email time predicts felt overload, and email becomes a symbol of overload), for async; Yang et al. (2022), 'The effects of remote work on collaboration among information workers', Nature Human Behaviour 6, 43-54 (about 61,000 Microsoft employees; remote work made collaboration more siloed and shifted communication toward asynchronous channels), for remote-work context but less actionable for individuals. Erica Dhawan's Digital Body Language (2021) was considered for async and tone but rejected as a main candidate: its research base is the author's own unpublished surveys and interviews with no reported methods, so it would add Low-evidence material largely redundant with Kruger and Byron. Taxonomy note: docs/taxonomy.md was empty in this workspace; subcategory ids follow the category list given in the task and the Stage 2 coverage table (public-speaking/virtual, influence/persuasive-structure, professional/meetings). The professional/meetings id should be confirmed against the locked taxonomy. Access: WebFetch was unavailable; the Rogers and Lasky-Fink HKS op-ed PDF was downloaded and read via curl (it confirms the 7,002-recipient, 127 versus 49 word, 4.8 versus 2.7 percent result, and that 67 percent of 148 forecasters predicted the long email would win). Other details come from publisher, journal, university and press pages found via search; book full texts were not read."
+}

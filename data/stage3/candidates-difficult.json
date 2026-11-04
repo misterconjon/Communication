@@ -1,0 +1,327 @@
+{
+ "category": "difficult",
+ "candidates": [
+  {
+   "title": "SPIKES: A Six-Step Protocol for Delivering Bad News: Application to the Patient with Cancer",
+   "authors": [
+    "Walter F. Baile",
+    "Robert Buckman",
+    "Renato Lenzi",
+    "Gary Glober",
+    "Estela A. Beale",
+    "Andrzej P. Kudelka"
+   ],
+   "year": 2000,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Fills the bad-news gap directly: no current insight gives a delivery sequence. SPIKES (Setting, Perception, Invitation, Knowledge, Emotions, Strategy and summary) is the most widely taught bad-news structure and translates well to work (layoffs, rejected proposals, missed targets) and personal life. Pair it with Johnson and Panagioti (2018, Academic Medicine), a systematic review and meta-analysis of 17 studies showing that bad-news training produces large gains in observer-rated delivery skill (SMD 0.74) and moderate gains in confidence.",
+   "credibility": "Baile and Buckman are oncologists and communication-skills educators at MD Anderson and Toronto; published in The Oncologist and cited thousands of times; adopted in medical curricula worldwide.",
+   "evidence_quality": "Medium. The protocol was built from expert consensus and prior research, not tested as a package at launch. Training in SPIKES-style delivery reliably improves observed skill and confidence (meta-analysis), but evidence on recipient outcomes is thin (only one study in the meta-analysis measured patient distress), and Dean and Willis (2016) argue the model can be applied too rigidly. Present it as a well-supported checklist, not a proven outcome-changer.",
+   "supports": [
+    {
+     "category": "difficult",
+     "subcategory": "bad-news"
+    },
+    {
+     "category": "personal-life",
+     "subcategory": "supporting-distress"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "empathy"
+    }
+   ],
+   "key_ideas_preview": [
+    "Prepare the setting and privacy before you say anything hard.",
+    "Ask what the person already knows or suspects before telling them.",
+    "Check how much detail they want, then give a short warning shot before the news.",
+    "Deliver in plain small chunks, then pause and respond to the emotion before moving to next steps.",
+    "Close with a concrete plan and summary so the person leaves with something to hold."
+   ],
+   "overlap_with_core_books": "Low. Connects to the core books' listen-first and ask-rather-than-infer ideas (perspective getting, emotional conversations in Supercommunicators), but none offers a delivery sequence.",
+   "access": "Open-access paper (The Oncologist via PubMed); Johnson and Panagioti accepted manuscript on White Rose eprints; Dean and Willis critique on SHURA.",
+   "priority_score": 9,
+   "sources_checked": [
+    "https://pubmed.ncbi.nlm.nih.gov/10964998/",
+    "https://eprints.whiterose.ac.uk/131932/",
+    "https://shura.shu.ac.uk/12857/1/Willis%20Breaking%20bad%20news%20evidence%20and%20ethos.pdf",
+    "https://journals.sagepub.com/doi/10.1177/10499091221146296"
+   ]
+  },
+  {
+   "title": "An Exploration of the Structure of Effective Apologies",
+   "authors": [
+    "Roy J. Lewicki",
+    "Beth Polin",
+    "Robert B. Lount Jr."
+   ],
+   "year": 2016,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Gives the apology insight (synthesis 2.20) its primary research base, which Stage 1 only mapped. Tests six components and ranks them, so the library can say which parts matter most rather than offering an untested three-part form.",
+   "credibility": "Lewicki is a leading trust and negotiation scholar (Ohio State, Fisher College); Lount studies trust repair; published in Negotiation and Conflict Management Research 9(2).",
+   "evidence_quality": "Medium. Two experiments with 755 participants (MTurk adults and students), clear component ranking, but participants rated written apologies to hypothetical violations, so tone and real relationships are untested. Consistent with broader apology and forgiveness research.",
+   "supports": [
+    {
+     "category": "difficult",
+     "subcategory": "apologies"
+    },
+    {
+     "category": "personal-life",
+     "subcategory": "repair"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "trust-vulnerability"
+    }
+   ],
+   "key_ideas_preview": [
+    "Apologies with more of the six components are judged more effective.",
+    "Acknowledging responsibility is the most important component; offering repair is next.",
+    "Asking for forgiveness adds the least and can be dropped.",
+    "Apologies repair competence lapses more easily than integrity lapses, where an offer of repair matters more."
+   ],
+   "overlap_with_core_books": "Medium. Confirms and sharpens Abrahams's acknowledge and amends form and Wood Brooks's apology chapter; adds the ranking and the competence versus integrity distinction.",
+   "access": "Journal (Wiley); institutional repository listing at Eastern Kentucky University; summarized in Ohio State and APS releases.",
+   "priority_score": 8,
+   "sources_checked": [
+    "https://encompass.eku.edu/fs_research/92",
+    "https://www.sciencedaily.com/releases/2016/04/160412091111.htm",
+    "https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html"
+   ]
+  },
+  {
+   "title": "Saying No: The Negative Ramifications From Invitation Declines Are Less Severe Than We Think",
+   "authors": [
+    "Julian Givi",
+    "Colleen P. Kirk"
+   ],
+   "year": 2024,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Fills the saying-no gap (one insight) with the same kind of miscalibration evidence the library already uses well: people overestimate how hurt and angry others will be when they decline. Extends the core convergent concept 2.4 (social fears are miscalibrated) to refusals.",
+   "credibility": "Givi (West Virginia University) and Kirk (New York Institute of Technology) are consumer and social psychologists; published in Journal of Personality and Social Psychology, a top journal.",
+   "evidence_quality": "Medium to High. Five preregistered-style experiments with over 2,000 participants, including real invitations and couples; published online December 2023, print 2024. Limited to invitations, not work requests, and the authors caution that repeated declines carry real costs. Not yet independently replicated, though it fits related refusal research (Lu, Fang and Qiu, 2022).",
+   "supports": [
+    {
+     "category": "difficult",
+     "subcategory": "saying-no"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "boundaries"
+    },
+    {
+     "category": "personal-life",
+     "subcategory": "friendships"
+    }
+   ],
+   "key_ideas_preview": [
+    "People who decline expect the inviter to be far more upset than the inviter actually is.",
+    "Decliners assume the other person will fixate on the no, while inviters focus on the reasons and the thought behind it.",
+    "Most people accept unwanted invitations out of fear of the fallout; that fear is usually overblown.",
+    "An occasional, considerate no is low risk; a pattern of declines is where costs appear."
+   ],
+   "overlap_with_core_books": "Low. Same miscalibration family as Epley-lab findings in Talk and How to Know a Person, but no core book applies it to refusing.",
+   "access": "Journal (APA PsycNet); APA press release and author op-eds are free.",
+   "priority_score": 8,
+   "sources_checked": [
+    "https://www.apa.org/news/press/releases/2023/12/say-no-invitation",
+    "https://www.sciencedaily.com/releases/2023/12/231211114524.htm",
+    "https://psypost.org/new-psychology-study-reveals-we-overestimate-the-consequences-of-declining-social-invitations"
+   ]
+  },
+  {
+   "title": "Pushing in the Dark: Causes and Consequences of Limited Self-Awareness for Interpersonal Assertiveness",
+   "authors": [
+    "Daniel R. Ames",
+    "Abbie S. Wazlawek"
+   ],
+   "year": 2014,
+   "type": "peer-reviewed paper",
+   "why_it_adds_value": "Gives the boundaries and saying-no subcategories a research-grounded view of assertiveness. Shows people misjudge how assertive they come across, and that the line-crossing illusion (wrongly believing you pushed too hard) leads people to concede unnecessarily. Pairs with Ames and Flynn (2007, JPSP), which found both too little and too much assertiveness hurt perceived leadership, the most commonly cited leader weakness.",
+   "credibility": "Ames is a Columbia Business School professor and leading researcher on assertiveness and interpersonal perception; published in Personality and Social Psychology Bulletin 40(6).",
+   "evidence_quality": "Medium. Four studies (negotiation dyads among MBA students plus an online survey of about 500 adults) with partner ratings, not just self-report. Samples skew to negotiation classes; the companion 2007 paper adds multi-sample support for the curvilinear pattern.",
+   "supports": [
+    {
+     "category": "difficult",
+     "subcategory": "boundaries"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "saying-no"
+    },
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    }
+   ],
+   "key_ideas_preview": [
+    "Your sense of how assertive you seem is only loosely related to how others see you.",
+    "People who held their ground appropriately often think they overstepped and then give back concessions to repair a harm that did not happen.",
+    "Both under- and over-assertiveness cost you: one in outcomes, the other in relationships.",
+    "Check the other person's reaction before apologizing or backing off after stating a limit."
+   ],
+   "overlap_with_core_books": "Low. Echoes the core miscalibration theme and Connect's boundary insights, but supplies the evidence base those lack.",
+   "access": "Journal (SAGE); Columbia press release; author manuscripts of Ames and Flynn circulate on Columbia pages.",
+   "priority_score": 7,
+   "sources_checked": [
+    "https://journals.sagepub.com/doi/abs/10.1177/0146167214525474",
+    "https://www.sciencedaily.com/releases/2014/06/140630124859.htm",
+    "https://www.apa.org/news/press/releases/2007/02/good-leaders"
+   ]
+  },
+  {
+   "title": "The Power of a Positive No: How to Say No and Still Get to Yes",
+   "authors": [
+    "William Ury"
+   ],
+   "year": 2007,
+   "type": "book",
+   "why_it_adds_value": "The only well-regarded book devoted to refusing well, at work and at home. Its Yes, No, Yes structure (ground the no in what you are protecting, state the no plainly, offer a constructive alternative) gives the saying-no and boundaries subcategories a usable script that the research papers above do not.",
+   "credibility": "Ury cofounded the Harvard Program on Negotiation and coauthored Getting to Yes; long practice as a mediator.",
+   "evidence_quality": "Low to Medium. Practitioner synthesis from negotiation and mediation experience; consistent with interest-based negotiation research but the method itself is untested. Use as structure, cite the papers for why it is worth doing.",
+   "supports": [
+    {
+     "category": "difficult",
+     "subcategory": "saying-no"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "boundaries"
+    },
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    }
+   ],
+   "key_ideas_preview": [
+    "Root your no in the yes you are protecting (your time, values, team), which makes it steadier.",
+    "State the no clearly and respectfully, without over-explaining or apologizing for it.",
+    "End with a yes to an alternative or to the relationship so the other person has somewhere to go.",
+    "Prepare a fallback for when the other person pushes back."
+   ],
+   "overlap_with_core_books": "Low to Medium. Parallels Madson's distinction between accepting an offer and agreeing to it (tension 3.8) and Connect's boundary-setting, but goes much further.",
+   "access": "Library; publisher preview (Penguin Random House); Harvard PON review.",
+   "priority_score": 7,
+   "sources_checked": [
+    "https://www.pon.harvard.edu/resources/book-reviews/the-power-of-a-positive-no/",
+    "https://www.penguinrandomhouse.com/books/182089/the-power-of-a-positive-no-by-william-ury/readers-guide"
+   ]
+  },
+  {
+   "title": "The Delivery of Bad News in Organizations: A Framework for Analysis",
+   "authors": [
+    "Robert J. Bies"
+   ],
+   "year": 2013,
+   "type": "review article",
+   "why_it_adds_value": "Covers the organizational half of the bad-news gap (layoffs, change, rejected requests) that SPIKES does not. Organizes the research into preparation, delivery and transition phases and ties it to organizational justice findings: explanations, dignity and respect shape how people react to bad outcomes.",
+   "credibility": "Bies (Georgetown McDonough) is a founder of interactional justice research; published in Journal of Management 39(1), a top management journal.",
+   "evidence_quality": "Medium. A conceptual review rather than new data, but built on a large, replicated justice literature showing that adequate explanation and respectful treatment reduce resentment and retaliation after layoffs and pay cuts.",
+   "supports": [
+    {
+     "category": "difficult",
+     "subcategory": "bad-news"
+    },
+    {
+     "category": "professional",
+     "subcategory": "situations"
+    },
+    {
+     "category": "professional",
+     "subcategory": "executive-communication"
+    }
+   ],
+   "key_ideas_preview": [
+    "Bad news is a process with a before, during and after, not a single conversation.",
+    "A clear, honest explanation of why the decision was made reduces anger more than softening the outcome.",
+    "Treating the person with dignity during delivery shapes whether they see the process as fair.",
+    "Plan the transition: what support, next steps and follow-up the person gets after the news."
+   ],
+   "overlap_with_core_books": "Low. No core book covers organizational bad-news delivery.",
+   "access": "Journal (SAGE); library access.",
+   "priority_score": 6,
+   "sources_checked": [
+    "https://www.scilit.net/publications/1ddb310ceca6a5b5e243da3d2ae23c81",
+    "https://peeref.com/works/58449880"
+   ]
+  },
+  {
+   "title": "Thanks for the Feedback: The Science and Art of Receiving Feedback Well",
+   "authors": [
+    "Douglas Stone",
+    "Sheila Heen"
+   ],
+   "year": 2014,
+   "type": "book",
+   "why_it_adds_value": "Strengthens receiving-feedback (moderate coverage) with the clearest practical model: three triggers (truth, relationship, identity) that make us reject feedback, and separating appreciation, coaching and evaluation. Shifts the library's feedback content from the giver to the receiver, where the book argues the leverage is.",
+   "credibility": "Harvard Negotiation Project members and Harvard Law School lecturers; coauthors of Difficult Conversations; widely used in corporate training.",
+   "evidence_quality": "Medium to Low. Draws on research on wellbeing baselines, self-verification and feedback interventions, but the triggers model and techniques are practitioner synthesis and untested as a package. Subtitle overstates the science.",
+   "supports": [
+    {
+     "category": "difficult",
+     "subcategory": "receiving-feedback"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "giving-feedback"
+    },
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    }
+   ],
+   "key_ideas_preview": [
+    "Notice which trigger is firing: you think the feedback is wrong, you object to who is giving it, or it threatens your sense of self.",
+    "Clarify whether the person is offering appreciation, coaching or evaluation; mismatches cause most friction.",
+    "Ask what the feedback looks like concretely before judging it.",
+    "You can decline feedback after understanding it; receiving well is not the same as accepting."
+   ],
+   "overlap_with_core_books": "Medium. Connect's feedback-as-data stance and 2.14 cover the giver side; this adds the receiver's internal mechanics.",
+   "access": "Library; publisher preview.",
+   "priority_score": 6,
+   "sources_checked": [
+    "https://www.scmp.com/lifestyle/books/article/1464713/book-review-thanks-feedback-douglas-stone-and-sheila-heen",
+    "https://www.goodreads.com/book/show/21061069"
+   ]
+  },
+  {
+   "title": "Difficult Conversations: How to Discuss What Matters Most",
+   "authors": [
+    "Douglas Stone",
+    "Bruce Patton",
+    "Sheila Heen"
+   ],
+   "year": 1999,
+   "type": "book",
+   "why_it_adds_value": "The source model several core books implicitly build on (three conversations: what happened, feelings, identity; contribution rather than blame; separate intent from impact). Including it lets the library credit the original once and cross-reference Supercommunicators and Connect, per synthesis 4.5, and adds the contribution-mapping tool for conflict.",
+   "credibility": "Harvard Negotiation Project; foundational and widely taught in law, business and mediation programs.",
+   "evidence_quality": "Low to Medium. Practitioner wisdom from mediation and teaching; individual ideas align with research (attribution errors, intent versus impact, learning stance) but the framework has no direct empirical test.",
+   "supports": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "situations"
+    },
+    {
+     "category": "personal-life",
+     "subcategory": "repair"
+    }
+   ],
+   "key_ideas_preview": [
+    "Every hard conversation contains three: what happened, feelings, and what it says about who we are.",
+    "Separate your intentions from their impact; we judge ourselves by intent and others by impact.",
+    "Map each person's contribution to the problem instead of assigning blame.",
+    "Start from the third story, a neutral description both sides could accept."
+   ],
+   "overlap_with_core_books": "High. Synthesis notes that the conversation typologies in the core books overlap with this framework; value is attribution and the contribution tool, not new coverage.",
+   "access": "Library; publisher preview.",
+   "priority_score": 5,
+   "sources_checked": [
+    "https://www.pon.harvard.edu/"
+   ]
+  }
+ ],
+ "notes": "Ranked by priority: SPIKES (9), Lewicki et al. (8), Givi and Kirk (8), Ames and Wazlawek (7), Ury (7), Bies (6), Thanks for the Feedback (6), Difficult Conversations (5). Evaluated but not proposed as candidates: Crucial Conversations (Patterson, Grenny, McMillan, Switzler, 2002) rests on the publisher's own surveys (for example the Silence Kills report with AACN) and no peer-reviewed outcome study of the training was found; its STATE and safety ideas largely overlap Difficult Conversations and Abrahams's CLEAR, which already draws on it. Evidence Low to Medium; cite at most as a cross-reference. Radical Candor (Kim Scott, 2017) is a practitioner framework (care personally plus challenge directly) built on the author's Google and Apple management experience; no independent empirical test was located, and it is already referenced by Schramm in a core book. Evidence Low. Other verified research worth citing inside entries rather than as separate candidates: Schumann (2018, Current Directions in Psychological Science 27(2)) on barriers to apologizing (low concern for victim, self-image threat, belief the apology will not work); Ames and Flynn (2007, JPSP 92) on the curvilinear assertiveness effect; Patrick and Hagtvedt (2012, Journal of Consumer Research 39(2)) on 'I don't' versus 'I can't' framing, which concerns resisting temptation, not refusing others, so it should not be used for interpersonal refusals; Johnson and Panagioti (2018, Academic Medicine 93(9)) meta-analysis of bad-news training. A claimed Speer and Bohns 2019 refusal paper could not be verified and was excluded. The Stone and Heen author site returned 401; book existence and years (1999, 2014) are well established and were checked against reviews. Columbia Business School pages returned 403 and were skipped."
+}

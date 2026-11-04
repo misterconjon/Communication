@@ -1,0 +1,234 @@
+{
+  "category": "professional",
+  "candidates": [
+    {
+      "title": "The Surprising Science of Meetings: How You Can Lead Your Team to Peak Performance",
+      "authors": ["Steven G. Rogelberg"],
+      "year": 2019,
+      "type": "book",
+      "why_it_adds_value": "Fills the largest professional gap: meetings has 23 secondary tags but no source on running a meeting. This is the only well-known practitioner book written by the leading meeting-science researcher, and it covers deciding whether to meet, who to invite, length, agendas, facilitation, and follow-up as a design problem rather than as a side effect of conversation skills.",
+      "credibility": "Professor of organizational science, management and psychology at UNC Charlotte; well over 100 publications, many on meetings (for example Rogelberg, Leach, Warr and Burnfield, 2006, Journal of Applied Psychology); Humboldt Research Award for meeting science. Published by Oxford University Press.",
+      "evidence_quality": "High to Medium. Built on the author's own peer-reviewed survey and field studies plus the wider meeting-science literature, and consistent with independent reviews (Mroz et al., 2018). Some specific tips (for example unconventional formats or particular meeting lengths) rest on smaller studies or the author's survey data and should be presented as well-supported guidance rather than settled law. Much of the underlying work is correlational survey research.",
+      "supports": [
+        {"category": "professional", "subcategory": "meetings"},
+        {"category": "conversations", "subcategory": "group-dynamics"},
+        {"category": "professional", "subcategory": "status-updates"}
+      ],
+      "key_ideas_preview": [
+        "Treat running a meeting as stewardship of other people's time, and judge success by attendee experience, not your own impression.",
+        "Invite the smallest group that can do the work, and keep others informed in other ways.",
+        "Meetings expand to fill the slot (Parkinson's law), so schedule the shortest time that is realistic.",
+        "Frame the agenda as questions the group must answer, so you can tell when an item is done and who needs to be there.",
+        "Use alternatives such as silent idea writing or standing meetings when ordinary discussion would let a few voices dominate."
+      ],
+      "overlap_with_core_books": "Supercommunicators and Think Faster Talk Smarter touch group conversation and structure, and Talk covers turn-taking, but none teaches agenda design, attendance decisions or follow-up. Rogelberg's point about dominant speakers converges with synthesis concept 2.23 (elevate others in groups).",
+      "access": "Library; publisher preview via Oxford University Press; author summaries on the UNC Charlotte site.",
+      "priority_score": 9,
+      "sources_checked": [
+        "https://belkcollege.charlotte.edu/?p=5935",
+        "https://libcat.library.tamu.edu/Record/in00004055432",
+        "https://www.barnesandnoble.com/w/the-surprising-science-of-meetings-steven-g-rogelberg/1128234810",
+        "https://www.interruptions.net/literature/Rogelberg-JAP06-2006-00819-008.pdf"
+      ]
+    },
+    {
+      "title": "Do We Really Need Another Meeting? The Science of Workplace Meetings",
+      "authors": ["Joseph E. Mroz", "Joseph A. Allen", "Dana C. Verhoeven", "Marissa L. Shuffler"],
+      "year": 2018,
+      "type": "review article",
+      "why_it_adds_value": "A short, open-access review of roughly 200 meeting studies, organized by before, during and after the meeting. It gives the library an independent research anchor for meetings, so the subcategory does not rest on one author's book, and it covers behaviors inside meetings (lateness, complaining cycles, humor, minutes and action items) that build on the interaction research of Kauffeld and Lehmann-Willenbrock (2012, Small Group Research).",
+      "credibility": "Allen (then University of Nebraska Omaha, now University of Utah) and Shuffler (Clemson) are prominent meeting and team researchers; Allen coedited the Cambridge Handbook of Meeting Science. Published in Current Directions in Psychological Science (Association for Psychological Science).",
+      "evidence_quality": "High for a summary of the field: peer-reviewed review by active researchers. The underlying studies are mostly survey and observational designs with few experiments, which the review itself acknowledges.",
+      "supports": [
+        {"category": "professional", "subcategory": "meetings"},
+        {"category": "conversations", "subcategory": "group-dynamics"}
+      ],
+      "key_ideas_preview": [
+        "Circulate an agenda with clear goals in advance, and expect attendees to read it and arrive prepared.",
+        "Starting late and showing up late carry real social and performance costs.",
+        "Complaining spreads within a meeting and is linked to poorer group results, so the leader should redirect early to the agenda.",
+        "Send minutes and action items promptly after the meeting so decisions turn into follow-through.",
+        "How satisfied people are with their meetings is related to how satisfied they are with their job overall."
+      ],
+      "overlap_with_core_books": "Little overlap; core books mention groups but not meeting procedure. Complements Rogelberg rather than duplicating him, and the shared research base should be credited once.",
+      "access": "Open-access author manuscript via the NSF Public Access Repository and UNO DigitalCommons.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://par.nsf.gov/servlets/purl/10086888",
+        "https://core.ac.uk/download/232775527.pdf",
+        "https://socialsciencespace.com/?p=32122"
+      ]
+    },
+    {
+      "title": "Getting to Yes: Negotiating Agreement Without Giving In",
+      "authors": ["Roger Fisher", "William Ury", "Bruce Patton"],
+      "year": 1981,
+      "type": "book",
+      "why_it_adds_value": "Fills the negotiation gap with the most widely taught framework (interests over positions, options for mutual gain, objective criteria, BATNA). It gives everyday professional negotiations such as scope, deadlines, budgets and salary a usable structure that the core library lacks. Recommend the 2011 third edition.",
+      "credibility": "Developed at the Harvard Negotiation Project; Fisher was a Harvard Law professor and practicing mediator, Ury and Patton are long-standing negotiation scholars and practitioners. The book has been a standard in law, business and diplomacy teaching for four decades.",
+      "evidence_quality": "Medium. The book itself argues from cases and experience rather than data, and early reviewers criticized it for anecdote and oversimplification (for example of power imbalances and hard bargainers). Its core logic is, however, consistent with later research: the meta-analysis by De Dreu, Weingart and Kwon (2000, JPSP, 28 studies) found that cooperative motives plus firm resistance to simply yielding produced more problem solving and higher joint outcomes, and the BATNA concept is central to the research literature. The full package has not been tested as such.",
+      "supports": [
+        {"category": "professional", "subcategory": "negotiation"},
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "influence", "subcategory": "overcoming-resistance"}
+      ],
+      "key_ideas_preview": [
+        "Separate the people from the problem: protect the relationship while being firm on substance.",
+        "Ask why someone holds a position; underlying interests often fit together where positions clash.",
+        "Generate several options before judging any of them, to enlarge what can be shared.",
+        "Anchor the agreement to an outside standard both sides can accept, such as market data or precedent.",
+        "Know your best alternative to a negotiated agreement before you start; it sets when to walk away."
+      ],
+      "overlap_with_core_books": "Converges with synthesis concepts 2.15 (understand before you advocate) and 2.18 (persuade through the listener's benefit), and with Supercommunicators' listening material, but no core book offers a negotiation process.",
+      "access": "Library; publisher preview (Penguin); widely held in public libraries.",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://en.wikipedia.org/wiki/Getting_to_Yes",
+        "https://core.ac.uk/works/40122704",
+        "https://dare.uva.nl/id/403ebedc-c455-47a0-8a00-803afaed87b3"
+      ]
+    },
+    {
+      "title": "The Mind and Heart of the Negotiator (7th edition)",
+      "authors": ["Leigh L. Thompson"],
+      "year": 2020,
+      "type": "book",
+      "why_it_adds_value": "Supplies the research layer behind both popular negotiation books: a textbook that summarizes experimental negotiation research (fixed-pie bias, first-offer anchoring, reservation prices, integrative bargaining, emotion, trust, cross-cultural negotiation). It lets the library state which negotiation tips are evidence-based and which are lore, and it addresses the cross-cultural gap noted in the synthesis.",
+      "credibility": "Professor of Dispute Resolution and Organizations at Northwestern's Kellogg School; a prolific experimental negotiation researcher. Published by Pearson, now in its 7th edition.",
+      "evidence_quality": "High. Each chapter is built on cited peer-reviewed studies, including well-replicated findings such as the first-offer anchoring effect (Galinsky and Mussweiler, 2001, JPSP), which also showed that focusing on the other side's alternatives or your own target weakens the anchor. As a textbook it is denser than a trade book.",
+      "supports": [
+        {"category": "professional", "subcategory": "negotiation"},
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "professional", "subcategory": "managing-up"}
+      ],
+      "key_ideas_preview": [
+        "Most people assume the other side wants the opposite of what they want (the fixed-pie belief) and miss available joint gains.",
+        "First offers tend to anchor final outcomes, so consider making an ambitious, justified first offer when you have good information.",
+        "If the other side anchors first, think about your own target and their alternatives instead of reacting to their number.",
+        "Trade across several issues at once rather than settling them one by one, to find gains for both sides.",
+        "Set your target and walk-away point before the conversation, not during it."
+      ],
+      "overlap_with_core_books": "Minimal; no core book covers bargaining research. Overlaps with Getting to Yes on interests and alternatives, which should be cross-referenced.",
+      "access": "Library or university library; Pearson eTextbook rental. Avoid unofficial PDF copies.",
+      "priority_score": 8,
+      "sources_checked": [
+        "https://www.pearson.com/store/en-us/p/mind-and-heart-of-the-negotiator-the/P200000006425",
+        "https://www.kellogg.northwestern.edu/faculty/research/detail/2001/first-offers-as-anchors-the-role-of-perspective-taking",
+        "https://www.london.edu/faculty-and-research/academic-research/f/first-offers-as-anchors-the-role-of-perspective-taking-and-negotiator-focus"
+      ]
+    },
+    {
+      "title": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+      "authors": ["Chris Voss", "Tahl Raz"],
+      "year": 2016,
+      "type": "book",
+      "why_it_adds_value": "The most popular current negotiation book and the one many readers will already know; it adds concrete conversational tactics (labeling emotions, mirroring, calibrated how and what questions, voicing the other side's likely objections up front) that apply to tense workplace conversations. Including it with an honest rating lets the library separate useful listening tactics from hostage-derived claims that generalize poorly.",
+      "credibility": "Former FBI lead international kidnapping negotiator with long field experience; now runs a negotiation training firm, which is a commercial interest. Coauthor is a professional business writer.",
+      "evidence_quality": "Low to Medium. Based on personal experience and anecdotes from hostage and business cases; no peer-reviewed evaluation of the method as a whole was found. Some components have indirect research support (for example affect labeling research on naming emotions, and research on how question asking increases liking), while its dismissal of compromise and of Getting to Yes style rationality is argued rather than tested. Critics note it says little about power asymmetry.",
+      "supports": [
+        {"category": "professional", "subcategory": "negotiation"},
+        {"category": "relationships", "subcategory": "listening"},
+        {"category": "relationships", "subcategory": "empathy"}
+      ],
+      "key_ideas_preview": [
+        "Name the emotion you observe in the other person to lower its intensity and show you understand.",
+        "Repeat the last few words someone said to prompt them to keep explaining.",
+        "Ask open how and what questions that make the other side work on your problem.",
+        "Say the other side's likely objections aloud before they do, to defuse them.",
+        "Seek a no early, because people feel safer once they have a chance to refuse."
+      ],
+      "overlap_with_core_books": "Substantial overlap with listening and looping concepts (synthesis 2.1, 2.6) in Supercommunicators and Connect, and with Duhigg's quiet negotiation anecdote. Its distinct contribution is applying those skills under adversarial pressure.",
+      "access": "Library; publisher preview (Harper Business).",
+      "priority_score": 6,
+      "sources_checked": [
+        "https://blog.jcx.au/posts/chris-vosss-never-split-the-difference-negotiating-as-if-your-life-depended-on-it.html",
+        "https://attackonjack.substack.com/p/mirror-labeling-and-the-practice"
+      ]
+    },
+    {
+      "title": "Managing Your Boss",
+      "authors": ["John J. Gabarro", "John P. Kotter"],
+      "year": 1980,
+      "type": "practitioner article",
+      "why_it_adds_value": "Managing up has seven tags, all secondary. This is the foundational and still most cited piece on the topic: it frames the boss relationship as mutual dependence and gives a concrete method (understand the boss's goals, pressures and style, understand your own, then build a relationship that fits both). It adds a situational playbook the core books lack.",
+      "credibility": "Both were Harvard Business School professors; Kotter is a leading scholar of leadership and change. Published in Harvard Business Review (January to February 1980) and reprinted as an HBR Classic in 2005; a staple of business school and corporate training.",
+      "evidence_quality": "Medium. Derived from the authors' field research and case work with managers, not from controlled studies. Its claims are plausible and consistent with later research on leader member exchange and upward influence, but it should be presented as expert guidance.",
+      "supports": [
+        {"category": "professional", "subcategory": "managing-up"},
+        {"category": "professional", "subcategory": "status-updates"},
+        {"category": "foundations", "subcategory": "audience-goals"}
+      ],
+      "key_ideas_preview": [
+        "You and your boss depend on each other, so managing the relationship is part of your job, not flattery.",
+        "Learn your boss's goals, pressures, strengths, blind spots and preferred way of receiving information (reader or listener).",
+        "Know your own style and how you react to authority, since that shapes the relationship too.",
+        "Agree on mutual expectations explicitly instead of assuming them.",
+        "Keep your boss informed, be dependable and honest, and spend the boss's time and resources selectively."
+      ],
+      "overlap_with_core_books": "Applies the core audience-first idea (synthesis 2.11) and the advice to set expectations explicitly (2.22) to the boss relationship; no core book treats managing up directly.",
+      "access": "Harvard Business Review article purchase or library database (HBR is in many public and university library databases); HBR Classics paperback.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://library.vdot.virginia.gov/guides/hbr-top-25/managing-up",
+        "https://www.porchlightbooks.com/products/managing-your-boss-john-j-gabarro-9781422122884"
+      ]
+    },
+    {
+      "title": "Employee Voice and Silence",
+      "authors": ["Elizabeth W. Morrison"],
+      "year": 2014,
+      "type": "review article",
+      "why_it_adds_value": "Gives managing up and status communication a research base: why people speak up to those above them or stay silent, what makes upward suggestions and concerns land, and what it costs organizations when they do not. It helps the library teach both sides: how to raise ideas and problems with a boss, and how leaders can make it safe to hear them.",
+      "credibility": "Professor of management at NYU Stern and a leading voice and silence scholar; published in the Annual Review of Organizational Psychology and Organizational Behavior (volume 1, 2014), updated by her 2023 review in the same journal.",
+      "evidence_quality": "High as a synthesis: an Annual Review of a large literature, open access. Much of the underlying research is survey based and correlational, so causal claims about specific tactics are weaker than claims about the general drivers.",
+      "supports": [
+        {"category": "professional", "subcategory": "managing-up"},
+        {"category": "difficult", "subcategory": "bad-news"},
+        {"category": "relationships", "subcategory": "trust-vulnerability"}
+      ],
+      "key_ideas_preview": [
+        "Whether people speak up depends mainly on two judgements: will it make a difference, and is it safe for me.",
+        "Much silence is automatic, driven by fear and unspoken beliefs about hierarchy, not a deliberate choice.",
+        "How a concern is received depends heavily on what is said, how it is framed and to whom it goes.",
+        "Raising problems and suggesting improvements are different acts, and psychological safety matters most for problems.",
+        "Leaders who are seen as open and who act on input get more of it."
+      ],
+      "overlap_with_core_books": "Connects to synthesis 2.22 (raise small issues early) and to trust material in Connect, but the core books do not treat upward communication in hierarchies.",
+      "access": "Open access via Annual Reviews.",
+      "priority_score": 7,
+      "sources_checked": [
+        "https://explore.psychsafety.com/n/morrison-2014/",
+        "https://www.stern.nyu.edu/faculty/bio/elizabeth-morrison.md"
+      ]
+    },
+    {
+      "title": "Keeping Mum as the Project Goes Under: Toward an Explanatory Model",
+      "authors": ["H. Jeff Smith", "Mark Keil", "Gordon Depledge"],
+      "year": 2001,
+      "type": "peer-reviewed paper",
+      "why_it_adds_value": "Status updates is the thinnest professional subcategory (three secondary tags). This paper, with its follow-ups, is the main research on why status reports go wrong: people withhold or soften bad news about troubled projects (the mum effect). It explains why status updates drift toward green until a project fails, and supports practical rules such as reporting risk early, separating the message from blame, and making it routine to report red.",
+      "credibility": "Published in the Journal of Management Information Systems 18(2), a top information systems journal. Keil (Georgia State) is a leading researcher on runaway projects and bad-news reporting; the mum effect itself dates to Rosen and Tesser's social psychology work around 1970.",
+      "evidence_quality": "Medium. Experimental and survey studies with supporting follow-ups (Park, Im and Keil, 2008, on blame shifting and time urgency). A near exact replication (Petter et al., 2016, AIS Transactions on Replication Research) confirmed the core finding that a sense of responsibility drives internal reporting but differed on reporting within the chain of command. Samples are often students or IT professionals using scenarios, so generalization to all status reporting is an inference.",
+      "supports": [
+        {"category": "professional", "subcategory": "status-updates"},
+        {"category": "difficult", "subcategory": "bad-news"},
+        {"category": "professional", "subcategory": "managing-up"}
+      ],
+      "key_ideas_preview": [
+        "People reliably hesitate to pass on bad news, so project status reports tend to be too optimistic.",
+        "Feeling personally responsible for reporting makes people more willing to raise problems.",
+        "Fear of blame and time pressure both raise the urge to stay quiet.",
+        "Leaders get better status information when reporting bad news early is expected and not punished."
+      ],
+      "overlap_with_core_books": "None directly. Complements the bad-news gap and synthesis 2.22 (raise issues early).",
+      "access": "Library database (Taylor and Francis); abstract on the journal site; the replication is open access at AIS eLibrary.",
+      "priority_score": 6,
+      "sources_checked": [
+        "https://jmis-web.org/articles/885",
+        "https://aisel.aisnet.org/trr/vol2/iss1/6",
+        "https://aisel.aisnet.org/jais/vol9/iss7/17"
+      ]
+    }
+  ],
+  "notes": "docs/taxonomy.md is empty in the repository (also empty in git), so subcategory ids were taken from the coverage table in docs/stage2-synthesis.md (professional/meetings, status-updates, executive-communication, managing-up, negotiation). Supporting research verified but folded into other candidates rather than listed separately: De Dreu, Weingart and Kwon (2000, JPSP 78, 889 to 905) meta-analysis of social motives in integrative negotiation (supports Getting to Yes); Galinsky and Mussweiler (2001, JPSP 81, 657 to 669) on first-offer anchoring (in Thompson); Kauffeld and Lehmann-Willenbrock (2012, Small Group Research 43) on meeting interaction and team outcomes, and Rogelberg et al. (2006, Journal of Applied Psychology 91) on meeting load and well-being (both behind Rogelberg and Mroz). Some sources cite the mum effect model as Smith and Keil (2003); the verified original is Smith, Keil and Depledge (2001). Executive communication is moderately covered already; a structured-writing source such as Minto's Pyramid Principle or Writing for Busy Readers would also serve it but belongs to the written-digital agent. Status updates remains the weakest subcategory: no strong practitioner book on status reporting was found, so the mum effect research plus Gabarro and Kotter and Rogelberg's follow-up advice should be combined. Never Split the Difference is included for reader familiarity but rated Low to Medium; its claims should be paired with Thompson's research where they conflict. Full texts were read only for Mroz et al. (2018) and Rogelberg et al. (2006); other assessments rest on abstracts, publisher pages and secondary summaries."
+}
