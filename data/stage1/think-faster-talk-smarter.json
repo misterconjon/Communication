@@ -8,10 +8,10 @@
     ],
     "year": 2023,
     "publisher": "Simon Element (Simon & Schuster)",
-    "edition": "First hardcover edition (US), published 2023-09-26 per retailer and library listings",
+    "edition": "First hardcover edition (US), Simon Element, published 2023-09-26. An updated edition adding an in-the-moment conflict chapter (Application 7) and AI-related content was announced by the author in October 2026; insight 16 comes from that edition.",
     "isbn": "9781668010303",
     "author_credibility": "Matt Abrahams is a lecturer in organizational behavior at Stanford Graduate School of Business, where he teaches strategic communication, and hosts the Think Fast Talk Smart podcast. His methods come from long teaching and coaching practice, improv training (he credits Stanford drama professor Patricia Ryan Madson and her book Improv Wisdom), and selected psychology research. He is a practitioner and educator rather than a research scientist, and the book is partly a vehicle for his podcast, courses and coaching brand, so his frameworks are presented with more certainty than the evidence behind some of them warrants.",
-    "evidence_base": "A mix of selected peer-reviewed findings (for example Alison Wood Brooks's 2014 work on reappraising anxiety as excitement, research on breathing and anxiety, and survey data on fear of public speaking), insights from improv, guest experts from his podcast, and classroom and coaching experience. Most of the speaking structures (What/So What/Now What, Problem/Solution/Benefit, ADD, 4 I's, AAA) are practitioner heuristics that have not been tested as named frameworks in controlled studies, although they align with broader research on message organization, feedback and apologies.",
+    "evidence_base": "A mix of selected peer-reviewed findings (for example Alison Wood Brooks's 2014 work on reappraising anxiety as excitement, research on breathing and anxiety, and survey data on fear of public speaking), insights from improv, guest experts from his podcast, and classroom and coaching experience. Most of the speaking structures (What/So What/Now What, Problem/Solution/Benefit, the four pitch sentence starters, ADD, 4 I's, AAA, WHAT, CLEAR) are practitioner heuristics that have not been tested as named frameworks in controlled studies, although they align with broader research on message organization, feedback and apologies. Sources the book names in the chapters seen include Alison Wood Brooks (anxiety reappraisal), Andrew Huberman (breathing), S. Christian Wheeler, the spotlight effect, Collins Dobbs, Julia Minson (conversational receptiveness), Joseph Grenny (Crucial Conversations), and many interviewees from his podcast.",
     "legal_access": [
       {
         "type": "publisher preview",
@@ -21,17 +21,17 @@
       {
         "type": "interview",
         "url": "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
-        "note": "Stanford GSB Insights masterclass article (Sept 19, 2023), drawn from the Grit and Growth podcast; seen through search snippets only."
+        "note": "Stanford GSB Grit and Growth episode transcript (Sept 19, 2023) with Abrahams on the book; read in full."
       },
       {
         "type": "interview",
         "url": "https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and",
-        "note": "Long-form interview covering ADD for Q&A and curiosity in small talk; search snippets only."
+        "note": "Show notes for a long interview; list WHAT, ADD, 4 I's and small-talk advice; read in full."
       },
       {
         "type": "interview",
         "url": "https://www.fastcompany.com/90955724/how-to-give-constructive-feedback-according-to-a-stanford-business-school-lecturer",
-        "note": "Fast Company piece by or about Abrahams on the 4 I's feedback structure; search snippets only."
+        "note": "Abrahams's article on the 4 I's; host returns 403, contents known from search summaries."
       },
       {
         "type": "interview",
@@ -39,14 +39,9 @@
         "note": "Remarkable People podcast transcript; discusses AAA apologies and missed takes."
       },
       {
-        "type": "author excerpt",
-        "url": "https://med.stanford.edu/content/dam/sm/faculty-diversity/documents/Events/Top-10-Tips-for-Managing-Presentation-Anxiety-c-Matt-Abrahams.pdf",
-        "note": "Abrahams's own handout, Top 10 Tips for Managing Presentation Anxiety; search snippets only."
-      },
-      {
         "type": "interview",
         "url": "https://www.fastersmarter.io/200-four-keys-for-focused-communication-live-lessons-from-our-200-episodes/",
-        "note": "Author's official podcast site; episode on concision, relevance, accessibility, precision."
+        "note": "Author's podcast site; episode 200 transcript on concision, relevance, accessibility, precision; read in full."
       },
       {
         "type": "library",
@@ -56,12 +51,32 @@
       {
         "type": "author excerpt",
         "url": "https://www.podpage.com/think-fast-talk-smart-communication-techniques/175-mastering-toasts-and-tributes-making-your-words-count",
-        "note": "Podcast episode in which Abrahams reads an excerpt from the book's toasts and tributes chapter; listing seen via search summaries."
+        "note": "Author reads the toasts chapter (Application 2) from the book; transcript read in full."
       },
       {
         "type": "interview",
         "url": "https://elavateglobal.squarespace.com/ezines/how-to-give-constructive-feedback-according-to-a-stanford-business-school-lecturer",
         "note": "Mirror of Abrahams's Fast Company article on the 4 I's; seen via search summaries."
+      },
+      {
+        "type": "publisher preview",
+        "url": "https://books.google.com/books?vid=ISBN9781668010303",
+        "note": "Google Books record with contents listing and page starts (245 pages listed); preview search was rate limited."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.fastersmarter.io/bonus-episode-how-to-manage-speaking-anxiety-the-think-faster-talk-smarter-way/",
+        "note": "Author reads part of Chapter 1 (Calm), with the book's cited sources named."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.fastersmarter.io/330-quick-thinks-a-clear-way-through-conflict/",
+        "note": "Author reads the conflict chapter (Application 7) from the updated edition."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.fastersmarter.io/229-rethinks-how-to-speak-successfully-when-youre-put-on-the-spot/",
+        "note": "Interview about the book: mindset shifts, pitch structure, focus."
       }
     ]
   },
@@ -107,16 +122,18 @@
         "Answering a surprise question in a job interview"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part I, Chapters 1 to 6 (Calm: Tame the Anxiety Beast; Unlock: Maximize Mediocrity; Redefine: Mind Your Mindset; Listen: Don't Just Do Something, Stand There; Structure: Structure Your Spontaneity; Focus: The F-Word of Spontaneous Speaking)",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part I: Introduction (p. 1), then six chapters beginning at pp. 15, 34, 56, 75, 93 and 113 per the Google Books contents listing (Calm: Tame the Anxiety Beast; Unlock: Maximize Mediocrity; Redefine: Mind Your Mindset; Listen: Don't Just Do Something, Stand There; Structure: Structure Your Spontaneity; Focus: The F-Word of Spontaneous Speaking). Part II applications begin around p. 149.",
         "underlying_research": "Synthesis of the research and practitioner sources used in individual chapters; the six-step sequence itself is the author's own framework and has not been tested as a whole.",
         "urls": [
           "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
           "https://imaginarytalks.com/think-faster-talk-smarter-by-matt-abrahams/",
-          "https://thevaluequest.wordpress.com/2026/06/19/buku-think-faster-talk-smarter/"
+          "https://thevaluequest.wordpress.com/2026/06/19/buku-think-faster-talk-smarter/",
+          "https://books.google.com/books?vid=ISBN9781668010303",
+          "https://www.fastersmarter.io/229-rethinks-how-to-speak-successfully-when-youre-put-on-the-spot/"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Credible expert framework from an experienced Stanford communication teacher, and individual components draw on research, but the six-step sequence as a package is untested. Chapter titles were confirmed across several independent summaries and a table of contents listing.",
+      "confidence_rationale": "Credible expert framework from an experienced Stanford communication teacher, and individual components draw on research, but the six-step sequence as a package is untested. Chapter order and page starts confirmed from the Google Books contents listing; the author reads Chapter 1 as 'Chapter One. Calm' in a podcast excerpt.",
       "flags": [
         "none"
       ]
@@ -125,20 +142,22 @@
       "id": "think-faster-talk-smarter-02",
       "name": "Calm the Body First: Breath, Present Focus, and the ABCs of Anxiety",
       "skill_type": "technique",
-      "explanation": "Abrahams breaks speaking anxiety into three parts: Affective (the feelings), Behavioral (the physical symptoms such as shaking, sweating, fast speech) and Cognitive (the worried thoughts). Because the parts differ, so do the remedies. For the body, his top tool is slow belly breathing with an exhale roughly twice as long as the inhale, which he links to slowing heart rate. For the thoughts, he steers attention to the present moment, since most nerves are about an imagined bad future; quick ways to get there include saying a tongue twister, counting backward, or chatting with someone. For feelings, he suggests noticing and naming the nervousness as normal instead of fighting it. Small physical tricks, such as holding something cold to reduce flushing and sweating, address specific symptoms.",
+      "explanation": "Abrahams breaks speaking anxiety into ABCs: Affective symptoms (feeling stressed, vulnerable, overwhelmed), Behavioral or physiological ones (sweating, trembling, racing heart, fast speech, dry mouth, blushing) and Cognitive ones (blanking out, negative self-talk, fixating on being watched). The aim is to manage anxiety rather than eliminate it, since a moderate amount helps. For feelings, he recommends mindfulness: notice the nerves, accept them as normal, and hold them at a little psychological distance, then reframe them (see the excitement insight). For the body, his main tool is slow belly breathing with the exhale about twice as long as the inhale (he credits Andrew Huberman), plus slowing your gestures to slow your speech, holding something cold to counter flushing and sweating, and reactivating saliva beforehand with warm water, a lozenge or gum. For the mind, he suggests a confidence mantra (for example, that you have value to add), going back to go forward when you blank (repeat what you just said), keeping a generic question ready to buy time, and rationalizing the realistic odds and consequences, helped by knowing that people overestimate how much others notice their stumbles (the spotlight effect).",
       "when_to_use": "In the minutes or seconds before you speak, and in the moment when you feel your voice speed up or your mind go blank.",
-      "worked_example": "Before a tense call with his landlord about a deposit dispute, a renter notices his heart pounding and his thoughts racing ahead to worst cases. He breathes in for three counts and out for six, three times, tells himself 'this is just nerves, it is normal', and focuses on the first sentence he plans to say rather than on how the call might end. He starts the call speaking noticeably slower.",
+      "worked_example": "Before a tense call with his landlord about a deposit dispute, a renter notices his heart pounding and his thoughts racing ahead to worst cases. He tells himself the nerves are normal, breathes in for three counts and out for six, three times, and repeats 'I have a fair case to make'. He jots one fallback question ('Can you walk me through how the deduction was calculated?') in case he loses his thread. He starts the call speaking noticeably slower, and when he does blank once, he asks the question and regroups.",
       "common_mistakes": [
         "Trying to eliminate anxiety entirely rather than managing it to a workable level.",
         "Using only one remedy (for example breathing) when the main problem is catastrophic thinking.",
-        "Rushing the breath so the exhale is short, which does little to slow the body down."
+        "Rushing the breath so the exhale is short, which does little to slow the body down.",
+        "Pre-apologizing or relying on alcohol or distracting visualizations, which Abrahams says tend to do more harm than good."
       ],
       "steps": [
-        "Notice which part is dominant: feelings, body symptoms, or racing thoughts.",
-        "For the body: inhale for about three counts, exhale for about six, repeat a few times.",
-        "For the thoughts: anchor in the present with a simple task (count backward, say a tongue twister, focus on your first sentence).",
-        "For the feelings: acknowledge the nerves as normal and expected, from an observer's distance.",
-        "Address specific symptoms with small fixes (cold water bottle for flushing, slowing gestures for fast speech)."
+        "Notice which symptoms dominate: feelings, body, or thoughts.",
+        "Feelings: name the nerves as normal and observe them from a little distance rather than fighting them.",
+        "Body: breathe in for about three counts and out for about six, two or three times; slow your gestures; hold something cold if you flush or sweat.",
+        "Before likely speaking moments: sip warm water or use a lozenge to counter dry mouth.",
+        "Thoughts: repeat a short mantra; if you blank, restate your last point or ask the audience a generic question to regain your footing.",
+        "Beforehand, rationalize: estimate the real odds and real consequences of a stumble, remembering others notice far less than you think."
       ],
       "categories": [
         {
@@ -157,17 +176,17 @@
         "Speaking up for the first time in a large meeting"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 1, Calm: Tame the Anxiety Beast; also Abrahams, Top 10 Tips for Managing Presentation Anxiety (Stanford handout)",
-        "underlying_research": "The book cites research on breathing and anxiety (specific studies not visible in accessible sources). Slow breathing with extended exhalation is supported by physiological research on vagal tone and heart rate variability; mindful breathing reduced test anxiety in a randomized study of students (Cho, Ryu, Noh, Lee 2016, Iranian Journal of Public Health, PMC5072593), which is consistent with but not confirmed as cited by Abrahams. The ABC split mirrors the standard affective, behavioral, cognitive model used in psychology.",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 1, Calm: Tame the Anxiety Beast (begins p. 15; portions read by the author in a Think Fast Talk Smart bonus episode, 2024)",
+        "underlying_research": "Confirmed in the chapter text (via the author's audio excerpt): Andrew Huberman's guidance that the extended exhale drives the calming effect; an unnamed statement that studies show slow breathing calms the nervous system within seconds; rat research suggesting acute stress can promote new nerve cell growth (study not named in the excerpt, plausibly Kirby et al. 2013, eLife); Stanford professor S. Christian Wheeler on psychological distance from emotions; and the spotlight effect (the phenomenon described by Gilovich, Medvec and Savitsky 2000, Journal of Personality and Social Psychology; the excerpt names the phenomenon, not the paper). Related but not confirmed as cited: mindful breathing reduced test anxiety in a randomized study of students (Cho, Ryu, Noh, Lee 2016, Iranian Journal of Public Health). The ABC split mirrors the standard affective, behavioral, cognitive model in psychology.",
         "urls": [
-          "https://med.stanford.edu/content/dam/sm/faculty-diversity/documents/Events/Top-10-Tips-for-Managing-Presentation-Anxiety-c-Matt-Abrahams.pdf",
-          "https://www.success.com/overcoming-public-speaking-anxiety-matt-abrahams",
-          "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5072593/",
-          "https://podpage.com/think-fast-talk-smart-communication-techniques/122-how-to-be-more-confident-and-calm-in-your-communication-managing-the-abcs-of-communication"
+          "https://www.fastersmarter.io/bonus-episode-how-to-manage-speaking-anxiety-the-think-faster-talk-smarter-way/",
+          "https://www.fastersmarter.io/122-how-to-be-more-confident-and-calm-in-your-communication-managing-the-abcs-of-communication/",
+          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
+          "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5072593/"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Slow breathing and present-focused attention have reasonable research support for reducing acute anxiety. Specific tips such as the cold water bottle and tongue twisters rest on practitioner experience rather than direct studies. Rated Medium because the bundle mixes well-supported and anecdotal elements. The ABC (affective, behavioral, cognitive) breakdown and the aim of managing rather than eliminating anxiety are confirmed in Abrahams's own podcast material (episode 122) via search summaries.",
+      "confidence_rationale": "Slow breathing, mindful acceptance and the spotlight effect have reasonable research support; specific tips such as the cold bottle, lozenges and generic questions rest on practitioner experience. Content now checked against the author's own reading of Chapter 1. The earlier tongue-twister and counting-backward tips were not in the excerpt and were removed. Rated Medium because the bundle mixes well-supported and anecdotal elements.",
       "flags": [
         "none"
       ]
@@ -207,12 +226,12 @@
         "Before a first date or meeting a partner's parents"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 1 (Calm) and Chapter 3 (Redefine); discussed in Abrahams podcast interviews",
-        "underlying_research": "Alison Wood Brooks, Get Excited: Reappraising Pre-Performance Anxiety as Excitement, Journal of Experimental Psychology: General, 143(3), 2014. Participants who said 'I am excited' before singing, public speaking or math tasks felt more excited and performed better than those who said 'I am calm'; in the speech study they reported more excitement but not less anxiety, and judges rated their speeches more favorably. Search summaries of the book and its podcast excerpt (bonus episode on managing speaking anxiety) indicate Abrahams describes these experiments in the book. A later replication reproduced the self-reported excitement effect but not observable public speaking improvements.",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 1, Calm: Tame the Anxiety Beast (author's audio excerpt), where he credits his friend Alison Wood Brooks; also Chapter 3 (Redefine)",
+        "underlying_research": "Alison Wood Brooks, Get Excited: Reappraising Pre-Performance Anxiety as Excitement, Journal of Experimental Psychology: General, 143(3), 2014. Participants who said 'I am excited' before singing, public speaking or math tasks felt more excited and performed better than those who said 'I am calm'; in the speech study they reported more excitement but not less anxiety, and judges rated their speeches more favorably. Confirmed as cited: the author's reading of Chapter 1 describes Brooks's experiments by name. A later replication reproduced the self-reported excitement effect but not observable public speaking improvements.",
         "urls": [
           "https://www.apa.org/pubs/journals/releases/xge-a0035325.pdf",
           "https://guykawasaki.com/matt-abrahams-think-faster-talk-smarter/",
-          "https://metacast.app/podcast/think-fast-talk-smart-communication-techniques/0mEaU4ij/bonus-how-to-manage-speaking-anxiety-the-think-faster-talk-smarter-way/u4yGkbpC"
+          "https://www.fastersmarter.io/bonus-episode-how-to-manage-speaking-anxiety-the-think-faster-talk-smarter-way/"
         ]
       },
       "confidence": "Medium",
@@ -225,7 +244,7 @@
       "id": "think-faster-talk-smarter-04",
       "name": "Maximize Mediocrity: Connection Over Perfection",
       "skill_type": "mental model",
-      "explanation": "Perfectionism is one of the biggest blocks to spontaneous speaking: if you insist on the ideal answer, you hesitate, over-edit in your head, and freeze. Abrahams argues for deliberately lowering the bar to 'good enough', because a clear, human response that connects with the listener usually beats a polished one that arrives late or not at all. He pairs this with reframing errors as 'missed takes' (as in film, where you simply do another take) rather than failures. Much of this comes from improv, where performers are trained to act on the first reasonable idea and trust that the scene will keep moving.",
+      "explanation": "Perfectionism is one of the biggest blocks to spontaneous speaking. Abrahams tells his MBA students to strive for mediocrity so they can achieve greatness: constantly judging every word eats cognitive bandwidth, like a computer slowed by too many open apps, so turning down the inner critic frees capacity to connect and respond. He borrows the improv maxims 'dare to be dull' and 'be obvious' (from Patricia Ryan Madson and Keith Johnstone's tradition), and the image of being a useful brick rather than trying to build the whole cathedral in one moment. A phrase journalist Joan Lunden coined after reading the book sums it up: connection, not perfection. He pairs this with reframing errors as missed takes, as in film, where another take is just another try rather than proof you got it wrong.",
       "when_to_use": "When you notice yourself stalling because you are searching for the perfect phrasing, or when a past stumble makes you reluctant to speak up again.",
       "worked_example": "In a team brainstorm, a junior analyst has a half-formed idea but keeps waiting to refine it. Remembering 'good enough to connect', she says, 'This is rough, but what if we bundled the two offers?' The group builds on it. Later, when she mixes up two figures, she says 'let me redo that take' and corrects herself without apologizing at length.",
       "common_mistakes": [
@@ -260,16 +279,17 @@
         "Responding quickly in a work chat thread"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 2, Unlock: Maximize Mediocrity",
-        "underlying_research": "Mainly improv practice, especially Patricia Ryan Madson, Improv Wisdom (2005), and Abrahams's Stanford teaching. No specific controlled study of the 'maximize mediocrity' instruction was found in accessible sources; related research links perfectionism with higher performance anxiety.",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 2, Unlock: Maximize Mediocrity (begins p. 34); Grit and Growth interview (Stanford GSB, 2023); Think Fast Talk Smart episodes 116 and 229",
+        "underlying_research": "Mainly improv practice (Patricia Ryan Madson, Improv Wisdom, 2005; Keith Johnstone's 'be obvious') and Abrahams's Stanford teaching. The cognitive-bandwidth rationale is offered as an analogy, not a cited study. Related research links perfectionism with higher performance anxiety, but no controlled test of the 'maximize mediocrity' instruction was found.",
         "urls": [
-          "https://awesomeatyourjob.com/899-how-to-speak-smarter-when-put-on-the-spot-with-matt-abrahams/",
-          "https://www.ideasonstage.com/news/2024/01/17/2024-01-17-matt_abrahams_on_spontaneous_speaking_-_the_ideas_on_stage_podcast/",
-          "https://gsb.stanford.edu/insights/best-using-skills-improv-master-your-moment-communication"
+          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
+          "https://www.fastersmarter.io/229-rethinks-how-to-speak-successfully-when-youre-put-on-the-spot/",
+          "https://www.gsb.stanford.edu/insights/best-using-skills-improv-master-your-moment-communication",
+          "https://www.fastersmarter.io/116-quick-thinks-dont-sweat-the-small-talk/"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Credible expert and improv-practice evidence, and consistent with research linking perfectionism to anxiety, but the specific claim that lowering standards improves spontaneous speaking outcomes has not been directly tested.",
+      "confidence_rationale": "Confirmed in the author's own interviews about the book (mediocrity, dare to be dull, connection not perfection, missed takes). Credible expert and improv-practice evidence, consistent with research linking perfectionism to anxiety, but the specific claim that lowering standards improves spontaneous speaking has not been directly tested.",
       "flags": [
         "none"
       ]
@@ -278,7 +298,7 @@
       "id": "think-faster-talk-smarter-05",
       "name": "Redefine the Moment: Opportunity, Not Threat",
       "skill_type": "mental model",
-      "explanation": "Many people experience being put on the spot as an adversarial test where they could be exposed. Abrahams asks you to reframe these moments as opportunities to share, help, learn or connect. He pairs this with a 'yes, and' stance borrowed from improv: accept what the other person offers and build on it rather than resisting with 'no, but'. Summaries also connect the chapter to a growth-oriented view in which speaking ability is improvable through practice.",
+      "explanation": "Many people experience being put on the spot as an adversarial test. In the chapter he calls Mind Your Mindset, Abrahams argues that this threat framing makes us defensive: tight posture, curt tone, clipped answers. Reframing the moment as an opportunity to connect, learn where the other person is coming from, and collaborate opens up posture and tone. He reminds speakers that audiences rarely want them to fail (citing a Google executive's observation that questioners mostly want a good moment of connection with the speaker), and calls challenging questions gifts. From improv he borrows the idea of treating whatever others say or do as an offer to build on ('yes, and') rather than resist.",
       "when_to_use": "Before tough Q&A, interviews, challenging questions from a boss or client, and in personal conversations where you feel on trial.",
       "worked_example": "A father is cornered by his teenager's pointed question at dinner about why he changed jobs. Instead of hearing it as criticism, he treats it as a chance to show how adults make hard choices: 'Good question, and here is what I was weighing.' The conversation becomes one of the more open ones they have had.",
       "common_mistakes": [
@@ -313,15 +333,16 @@
         "Panel interview"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 3, Redefine: Mind Your Mindset",
-        "underlying_research": "Improv principles (yes, and). Summaries associate the chapter with growth mindset, but no accessible source confirms the book cites Carol Dweck directly. Related but unconfirmed-as-cited research: challenge versus threat appraisal (Blascovich, Jamieson) shows that seeing a stressor as a challenge is associated with better physiological responses and performance.",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 3, Redefine: Mind Your Mindset (begins p. 56); Grit and Growth interview (Stanford GSB, 2023)",
+        "underlying_research": "Improv principles (offers, yes and). No accessible source confirms the book cites Carol Dweck. Related but not confirmed as cited: challenge versus threat appraisal research (Blascovich; Jamieson) links seeing a stressor as a challenge with better physiological responses and performance.",
         "urls": [
-          "https://medium.com/@gangjinweichangingworld/book-note-think-faster-talk-smarter-dbcd3f98a33e",
-          "https://eauclairepartners.com/magazine/97377/think-faster-talk-smarter-by-matt-abrahams-5-takeaways/"
+          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
+          "https://www.fastersmarter.io/229-rethinks-how-to-speak-successfully-when-youre-put-on-the-spot/",
+          "https://www.gsb.stanford.edu/insights/best-using-skills-improv-master-your-moment-communication"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Reframing stress as challenge has a solid general research base, but the book's specific claims and research citations in this chapter could not be verified from accessible sources; rating relies on expert practice and the general literature.",
+      "confidence_rationale": "The opportunity-not-threat reframe is confirmed in Abrahams's own description of the chapter. Reframing stress as challenge has a solid general research base, but the book's own research citations for this chapter were not seen; rating relies on expert practice and the general literature. The earlier summary link to growth mindset is not confirmed.",
       "flags": [
         "none"
       ]
@@ -366,11 +387,11 @@
         "Clarifying a vague question during Q&A"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 4, Listen: Don't Just Do Something, Stand There",
-        "underlying_research": "Pace, space, grace framework credited to Collins Dobbs (Stanford GSB). Paraphrasing aligns with the broader active listening literature (for example Carl Rogers and later studies on perceived understanding), though specific studies cited in the chapter were not accessible.",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 4, Listen: Don't Just Do Something, Stand There (begins p. 75); Think Fast Talk Smart episode 238",
+        "underlying_research": "Pace, space, grace framework from Collins Dobbs (Stanford GSB), whom Abrahams says he interviewed for the book. In episode 238 Abrahams also credits Alison Wood Brooks's research for the claim that paraphrasing deepens connection (no paper named). Consistent with the active listening literature (Carl Rogers onward), though the chapter's own citations were not seen.",
         "urls": [
-          "https://www.constellationr.com/insights/news/matt-abrahams-disruptv-why-small-talk-big-deal-and-other-takeaways",
-          "https://www.fastersmarter.io/238-ama-why-listening-might-be-your-most-powerful-skill/"
+          "https://www.fastersmarter.io/238-ama-why-listening-might-be-your-most-powerful-skill/",
+          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams"
         ]
       },
       "confidence": "Medium",
@@ -383,7 +404,7 @@
       "id": "think-faster-talk-smarter-07",
       "name": "What, So What, Now What",
       "skill_type": "framework",
-      "explanation": "Abrahams calls this his all-purpose structure for spontaneous responses. Start with the What (the fact, idea or update), move to the So What (why it matters to this listener), and finish with the Now What (the next step, recommendation or question). Having a ready-made skeleton frees mental capacity during stressful moments and makes your answer easier for others to follow and remember, because they get the point, the relevance and the action in a predictable order.",
+      "explanation": "Abrahams calls this his all-purpose structure for spontaneous responses. Start with the What (the fact, idea or update), move to the So What (why it matters to this listener), and finish with the Now What (the next step, recommendation or question). Having a ready-made skeleton frees mental capacity during stressful moments and makes your answer easier for others to follow and remember, because they get the point, the relevance and the action in a predictable order. He applies it widely: to emails (the Now What can serve as the subject line), to in-the-moment feedback, and even to small talk. To build the habit, he suggests drilling it after any podcast, meeting or article: what was it about, why does it matter, how can I use it, and then trying to say it again in half the words.",
       "when_to_use": "Status updates, answering 'how did it go?', impromptu remarks, quick emails and chat replies, giving context to a family member about a decision.",
       "worked_example": "A team lead is asked in a weekly meeting about a delayed release. What: 'The release is slipping one week because a security test failed.' So What: 'That means the client demo on the 12th uses the current version.' Now What: 'I will confirm the fix by Thursday and send a revised date; Priya, can you prepare the demo on the current build?' The same shape works at home: 'The car needs a new transmission; that means we skip the trip budget this month; let us decide tonight whether to repair or replace.'",
       "common_mistakes": [
@@ -421,15 +442,17 @@
         "Explaining a household decision to a partner"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 5, Structure: Structure Your Spontaneity",
-        "underlying_research": "The structure itself derives from reflective practice models (the What, So What, Now What cycle associated with Rolfe and colleagues in reflective learning). The broader claim that structured messages are easier to process and remember is supported by research on message organization and memory, though the book's specific citations were not accessible.",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 5, Structure: Structure Your Spontaneity (begins p. 93); Grit and Growth interview (Stanford GSB, 2023); Think Fast Talk Smart episodes 200 and 203",
+        "underlying_research": "The structure echoes reflective practice models (the What, So What, Now What cycle associated with Rolfe and colleagues); Lenny's show notes link a model-thinking page on it, but no source shows Abrahams citing Rolfe. The broader claim that structured messages are easier to process and remember is supported by research on message organization and memory; the book's specific citations were not seen.",
         "urls": [
-          "https://www.podbean.com/ew/dir-4uj5e-2fbf603a",
-          "https://www.antoinebuteau.com/lessons-from-matt-abrahams/"
+          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
+          "https://www.fastersmarter.io/200-four-keys-for-focused-communication-live-lessons-from-our-200-episodes/",
+          "https://www.fastersmarter.io/203-no-script-no-problem-final-secrets-to-speaking-under-pressure-bonus/",
+          "https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Widely used and consistent with research that organized messages are better understood and recalled, but this particular structure has not been tested as a speaking intervention. Strong expert and practice evidence.",
+      "confidence_rationale": "Confirmed as the author's favorite all-purpose structure in multiple first-person sources. Widely used and consistent with research that organized messages are better understood and recalled, but not tested as a speaking intervention.",
       "flags": [
         "none"
       ]
@@ -438,7 +461,7 @@
       "id": "think-faster-talk-smarter-08",
       "name": "Problem, Solution, Benefit",
       "skill_type": "framework",
-      "explanation": "For moments when you need to persuade on the spot, Abrahams offers a three-part structure: name a problem the listener recognizes, propose a solution, and spell out the benefit of acting on it. Leading with the problem gets attention and agreement before you ask for anything, and ending with benefits answers the listener's unspoken question of what is in it for them. A variant he discusses runs Benefit first for audiences who need the payoff upfront.",
+      "explanation": "For moments when you need to persuade on the spot, Abrahams recommends a three-part structure he notes most advertisements follow: name a problem the listener recognizes, propose a solution, and spell out the benefit of acting on it. Leading with the problem gets attention and agreement before you ask for anything, and ending with benefits answers the listener's unspoken question of what is in it for them. He stresses flexibility: the 'problem' can be an opportunity, where nothing is wrong but things could be better.",
       "when_to_use": "Impromptu pitches, proposing a change in a meeting, asking for resources, persuading a friend or partner to try a new plan.",
       "worked_example": "An engineer asks her manager for a second test environment. Problem: 'We lost about six hours last sprint waiting for the shared environment.' Solution: 'A second, smaller environment for QA only would cost about 300 dollars a month.' Benefit: 'We would reclaim those hours and catch bugs before release, which is what the client complained about.' At home: 'We keep arguing about dinner at 6 pm (problem); what if we plan meals on Sunday (solution); we would both have calmer evenings (benefit).'",
       "common_mistakes": [
@@ -472,15 +495,15 @@
         "Proposing a new household routine"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 5 (Structure) and Part II chapter on pitches",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 5 (Structure) and Part II Application 3, Make That (Im)perfect Pitch (begins p. 175); Grit and Growth interview (Stanford GSB, 2023); Think Fast Talk Smart episode 203",
         "underlying_research": "Practitioner structure with roots in classic persuasive speech organization (for example the problem-solution pattern and Monroe's Motivated Sequence). No specific study of this exact framework was identified.",
         "urls": [
-          "https://www.antoinebuteau.com/lessons-from-matt-abrahams/",
-          "https://www.goodreads.com/book/show/101021597"
+          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
+          "https://www.fastersmarter.io/203-no-script-no-problem-final-secrets-to-speaking-under-pressure-bonus/"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Long-established persuasive structure taught across communication courses; supported by expert consensus rather than direct controlled tests of this specific form.",
+      "confidence_rationale": "Confirmed in the author's own interviews. A long-established persuasive structure taught across communication courses; supported by expert consensus rather than direct controlled tests of this form. The earlier claim of a benefit-first variant was not found and was replaced with the opportunity variant he does describe.",
       "flags": [
         "none"
       ]
@@ -525,11 +548,12 @@
         "Explaining a medical or financial decision to family"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 6, Focus: The F-Word of Spontaneous Speaking; Think Fast Talk Smart podcast episode 200",
-        "underlying_research": "Practitioner guidance; consistent with research on the curse of knowledge (for example Elizabeth Newton's tapping study and Camerer, Loewenstein and Weber) and on processing fluency, though accessible sources do not confirm the book cites these. In a CNBC piece Abrahams points to Daniel Oppenheimer (2006, Applied Cognitive Psychology), which found that needlessly complex wording made writers seem less intelligent; this supports the accessibility point but is not confirmed as cited in the book.",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Chapter 6, Focus: The F-Word of Spontaneous Speaking (begins p. 113); Think Fast Talk Smart episodes 200 and 229; Grit and Growth interview",
+        "underlying_research": "In discussing the book Abrahams invokes the curse of knowledge (a concept associated with Camerer, Loewenstein and Weber, 1989) and the long-standing finding that personally relevant messages are processed more thoroughly (consistent with Petty and Cacioppo's elaboration likelihood model); neither paper is confirmed as cited in the book. In press pieces he points to Daniel Oppenheimer (2006, Applied Cognitive Psychology), which found that needlessly complex wording made writers seem less intelligent; not confirmed as cited in the book. The four-part precision, relevance, accessibility, concision checklist is laid out in episode 200, which draws on interviews done for the book.",
         "urls": [
           "https://www.fastersmarter.io/200-four-keys-for-focused-communication-live-lessons-from-our-200-episodes/",
-          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams"
+          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
+          "https://www.fastersmarter.io/229-rethinks-how-to-speak-successfully-when-youre-put-on-the-spot/"
         ]
       },
       "confidence": "Medium",
@@ -542,15 +566,17 @@
       "id": "think-faster-talk-smarter-10",
       "name": "The 4 I's of In-the-Moment Feedback",
       "skill_type": "framework",
-      "explanation": "For feedback that has to be given on the spot, Abrahams uses a four-part structure designed to be collaborative rather than accusatory: Information (the objective, observable facts that anyone present would agree on), Impact (the effect it had, stated in 'I' language), Invitation (asking the other person to work on it with you, which can be phrased as a question or, if the issue has come up before or time is short, as a direct statement), and Implications (what follows if they do or do not change, which can be positive, negative or both). Starting from facts reduces defensiveness, and the invitation turns a verdict into a joint problem-solving conversation.",
+      "explanation": "For feedback that has to be given on the spot, Abrahams uses a four-part structure designed to be collaborative rather than accusatory: Information (the objective, observable facts that anyone present would agree on), Impact (the effect it had, stated in 'I' language), Invitation (asking the other person to work on it with you, which can be phrased as a question or, if the issue has come up before or time is short, as a direct statement), and Implications (what follows if they do or do not change, which can be positive, negative or both). Starting from facts reduces defensiveness, and the invitation turns a verdict into a joint problem-solving conversation. Before giving feedback, Abrahams advises getting clear on exactly what you want changed, ideally something measurable (for example 'speak last in meetings' rather than 'be less assertive'), and considering what might have led the person to act that way, since context can change how the feedback should be delivered.",
       "when_to_use": "Right after a meeting, call or incident when timely feedback matters, with colleagues, direct reports, peers, and in personal relationships when a pattern needs addressing.",
       "worked_example": "After a client call, a manager says to a direct report: 'You answered three of the client's questions before they finished asking (Information). They seemed frustrated and repeated themselves, and I worry it made us look like we were not listening (Impact). How did the call feel from your side, and what might help? (Invitation). If we let them finish, I think we will have a much easier renewal conversation next month (Implications).' The same shape works with a roommate about dishes.",
       "common_mistakes": [
         "Opening with a judgment ('you were rude') instead of observable information.",
         "Skipping the Invitation, which turns feedback into a lecture.",
-        "Stating the Implication as a threat rather than a realistic outcome."
+        "Stating the Implication as a threat rather than a realistic outcome.",
+        "Giving vague targets such as 'be more strategic' that neither person could recognize when they see it."
       ],
       "steps": [
+        "Before speaking: define the specific, observable change you want and consider what might be driving the behavior.",
         "Information: describe the specific behavior you observed.",
         "Impact: explain its effect on you, others or the work.",
         "Invitation: invite them to solve it with you, as a question or, when time is short or the issue is recurring, as a direct request.",
@@ -577,12 +603,14 @@
         "Coaching a volunteer or junior colleague"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II chapter on giving feedback; also Fast Company article on constructive feedback",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II application on giving feedback (application number not verified); Abrahams's Fast Company article on constructive feedback; Grit and Growth interview (Stanford GSB, 2023); Lenny's Podcast show notes",
         "underlying_research": "Practitioner framework. Its first two parts resemble established models such as the Center for Creative Leadership's Situation-Behavior-Impact. Research on feedback interventions (Kluger and DeNisi 1996) supports focusing on task and behavior rather than the person, though the book's specific citations were not accessible.",
         "urls": [
           "https://www.fastcompany.com/90955724/how-to-give-constructive-feedback-according-to-a-stanford-business-school-lecturer",
           "https://www.antoinebuteau.com/lessons-from-matt-abrahams/",
-          "https://elavateglobal.squarespace.com/ezines/how-to-give-constructive-feedback-according-to-a-stanford-business-school-lecturer"
+          "https://elavateglobal.squarespace.com/ezines/how-to-give-constructive-feedback-according-to-a-stanford-business-school-lecturer",
+          "https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and",
+          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams"
         ]
       },
       "confidence": "Medium",
@@ -595,7 +623,7 @@
       "id": "think-faster-talk-smarter-11",
       "name": "ADD for Answering Questions",
       "skill_type": "framework",
-      "explanation": "In Q&A, Abrahams recommends treating questions as opportunities rather than attacks and answering with a three-part shape: Answer the question directly in one sentence, Detail it with a concrete example, and Describe its relevance or value to the person asking. This prevents both the too-short answer that sounds evasive and the rambling answer that never lands.",
+      "explanation": "In Q&A, Abrahams recommends treating questions as opportunities and first paraphrasing the question, which confirms what is being asked, rewards the asker, buys thinking time and lets you reframe a hostile question. Then answer with ADD: Answer the question in one clear declarative sentence, Detail it with a specific, concrete example, and Describe the benefit or relevance of your answer to the person asking. This prevents both the too-short answer that sounds evasive and the rambling answer that never lands. He also advises closing a Q&A session by restating your core message rather than ending on the last question.",
       "when_to_use": "Q&A after presentations, job interviews, client calls, town halls, and personal conversations where someone asks for your opinion or advice.",
       "worked_example": "In an interview, a candidate is asked, 'Can you work with ambiguity?' Answer: 'Yes, I do my best work when I have to define the problem myself.' Detail: 'When our team lost its product owner, I drafted the roadmap from customer calls and got it approved in two weeks.' Describe: 'Since this role is new, that is the kind of shaping work I would expect to do here.'",
       "common_mistakes": [
@@ -626,14 +654,15 @@
         "Friend asking for your advice"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II chapter on Q&A; Lenny's Newsletter interview",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II Application 4, Rocking the Q&A (begins p. 183); the ADD method also appears in Appendix C of his earlier book Speaking Up Without Freaking Out (Kendall Hunt, 2016), read by the author in Think Fast Talk Smart episode 193; Lenny's Podcast show notes",
         "underlying_research": "Practitioner framework; no specific research cited in accessible sources. Consistent with general findings that concrete examples increase persuasiveness and memorability.",
         "urls": [
-          "https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and"
+          "https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and",
+          "https://www.fastersmarter.io/193-conquer-questions-adding-value-to-your-answers/"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Credible expert technique, widely taught and consistent with good practice in interviewing (similar in spirit to STAR), but not directly tested. Confirmed by two independent secondary sources.",
+      "confidence_rationale": "Confirmed in the author's own material (full ADD wording in his 2016 book excerpt; listed as the Q&A structure in show notes for an interview about this book). Credible expert technique, similar in spirit to STAR, but not directly tested. The exact text of the Q&A chapter in this book was not seen.",
       "flags": [
         "none"
       ]
@@ -677,12 +706,13 @@
         "Apologizing for interrupting or snapping at a colleague"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II chapter on apologizing (chapter listed in third-party summaries; AAA placement in the chapter not checked against the text); Remarkable People podcast with Guy Kawasaki; DisrupTV interview",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II Application 6, The Secrets to Saying We're Sorry (begins p. 208 per Google Books contents; AAA placement in the chapter not checked against the text); Remarkable People podcast with Guy Kawasaki; DisrupTV interview",
         "underlying_research": "Practitioner framework. Consistent with research on apology components, for example Lewicki, Polin and Lount (2016), which found acknowledgment of responsibility and an offer of repair to be among the most important elements; this study is not confirmed as cited in the book. The third step is Amends in Abrahams's own interviews (DisrupTV, Remarkable People); the single 'Action' label came from a reader review and is not supported.",
         "urls": [
           "https://guykawasaki.com/matt-abrahams-think-faster-talk-smarter/",
           "https://www.constellationr.com/blog-news/insights/matt-abrahams-disruptv-why-small-talk-big-deal-and-other-takeaways",
-          "https://www.glam.com/1455237/aaa-method-apologizing-smoothing-over-messy-mistakes-explained"
+          "https://www.glam.com/1455237/aaa-method-apologizing-smoothing-over-messy-mistakes-explained",
+          "https://books.google.com/books?vid=ISBN9781668010303"
         ]
       },
       "confidence": "Medium",
@@ -695,7 +725,7 @@
       "id": "think-faster-talk-smarter-13",
       "name": "Small Talk Through Curiosity: Be Interested, Not Interesting",
       "skill_type": "technique",
-      "explanation": "Abrahams argues that small talk matters because it builds the relationships that bigger conversations rest on, and that the pressure to say something clever is what makes it hard. His advice is to shift the goal from being interesting to being interested: listen actively, ask genuine follow-up questions, and use simple prompts such as 'tell me more', which he credits to a former communication teacher. Curiosity takes pressure off you and makes the other person feel valued.",
+      "explanation": "Abrahams argues that small talk is a misnomer: it is where people connect, learn and set up future opportunities, and it feels hard mainly because there is no script and we treat it as a test of being clever. He adopts matchmaker Rachel Greenwald's goal of being interested rather than interesting: listen actively, paraphrase, and ask genuine follow-ups, including the simple prompt 'tell me more', which he credits to a former communication teacher and says must be delivered with real curiosity. He suggests opening with questions tied to the specific setting rather than stock lines, using What, So What, Now What to keep a conversation moving, and exiting gracefully with Greenwald's white flag approach: signal that you need to go soon, then ask one last question so the conversation ends together rather than abruptly.",
       "when_to_use": "Networking events, the first minutes of meetings or video calls, meeting a partner's friends, school-gate or neighbor conversations.",
       "worked_example": "At a conference reception, a new manager who dreads mingling asks a stranger what brought them to the event. When the stranger mentions they are switching from nonprofit work, she says 'tell me more about that', then follows up on what surprised them most. Twenty minutes later they exchange contacts, and she has barely talked about herself.",
       "common_mistakes": [
@@ -704,10 +734,11 @@
         "Turning each answer back to your own experience too quickly."
       ],
       "steps": [
-        "Open with a simple, situational question.",
+        "Open with a question tied to the specific setting rather than 'what do you do?'.",
         "Listen for a detail that genuinely interests you.",
-        "Follow up with 'tell me more' or a specific question about that detail.",
-        "Share a related bit about yourself to keep it two-way, then hand the conversation back."
+        "Follow up with 'tell me more' or a specific question about that detail, said with real curiosity.",
+        "Share a related bit about yourself to keep it two-way, then hand the conversation back.",
+        "To exit, signal you need to leave soon, then ask one final question before parting (white flag)."
       ],
       "categories": [
         {
@@ -730,16 +761,16 @@
         "Chatting with neighbors or other parents"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II chapter on small talk; Lenny's Newsletter interview; Huberman Lab episode",
-        "underlying_research": "Accessible sources do not confirm specific studies cited. Consistent with Huang, Yeomans, Brooks, Minson and Gino (2017), which found that asking more questions, especially follow-up questions, increases liking. Integrity note: Francesca Gino is a co-author of Huang et al. (2017, Journal of Personality and Social Psychology); this paper is not among her retracted papers, and its lead analyses were run by other authors, but readers should be aware of the broader concerns about her work.",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II application on small talk (application number not verified); Think Fast Talk Smart episode 116 (with Harvard Business Review); Lenny's Podcast show notes",
+        "underlying_research": "The 'interested, not interesting' goal and the white flag exit are credited to Rachel Greenwald (matchmaker and author). Accessible sources do not confirm specific studies cited. Consistent with Huang, Yeomans, Brooks, Minson and Gino (2017, Journal of Personality and Social Psychology), which found that asking more questions, especially follow-up questions, increases liking. Integrity note: Francesca Gino is a co-author of Huang et al. (2017); this paper is not among her retracted papers, but readers should be aware of the broader concerns about her work.",
         "urls": [
+          "https://www.fastersmarter.io/116-quick-thinks-dont-sweat-the-small-talk/",
           "https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and",
-          "https://www.hubermanlab.com/episode/speak-clearly-with-confidence-matt-abrahams",
-          "https://www.constellationr.com/blog-news/insights/matt-abrahams-disruptv-why-small-talk-big-deal-and-other-takeaways"
+          "https://www.hubermanlab.com/episode/speak-clearly-with-confidence-matt-abrahams"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Strongly consistent with research showing follow-up questions increase liking, but the book's own evidence for this chapter could not be verified, so rated Medium rather than High.",
+      "confidence_rationale": "Confirmed in the author's own material. Strongly consistent with research showing follow-up questions increase liking, but the book's own evidence for this chapter was not seen, so rated Medium rather than High.",
       "flags": [
         "none"
       ]
@@ -748,7 +779,7 @@
       "id": "think-faster-talk-smarter-14",
       "name": "WHAT Toast Structure: Why, How, Anecdote, Thanks",
       "skill_type": "framework",
-      "explanation": "For unexpected requests to say a few words at a celebration or tribute, Abrahams offers the WHAT structure: Why (name why everyone has gathered), How (explain how you are connected to the person or occasion), Anecdote (share one brief story that is relevant and easy for everyone in the room to follow), and Thanks (close with gratitude, a positive note, or a raised glass). He also advises keeping it to a couple of minutes, managing emotion, and keeping the focus on the honoree rather than yourself. The acronym makes a toast quick to assemble without notes.",
+      "explanation": "For unexpected requests to give a toast, tribute or introduction, Abrahams treats the remarks as a gift to the honoree and the audience and offers his four-part WHAT structure: Why are we here (name the purpose of the gathering), How are you connected (say who you are and your relationship to the honoree), Anecdotes or learnings (one or two short, relatable, appropriate stories or lessons), and Thank (close with gratitude to the honoree and audience). His tips: be brief, plan for strong emotion, keep the spotlight off yourself (watch how often you say 'I'), keep stories accessible and appropriate, seek common ground, and set up whoever speaks next for success.",
       "when_to_use": "Birthdays, retirements, farewell lunches, weddings, family holidays, team celebrations when you are asked to speak with little warning.",
       "worked_example": "At a colleague's farewell lunch, someone asks the analyst beside her to 'say a few words'. He says: 'We are here to send off Dana after six years (why). I sat next to her for three of them (how). The week our system crashed, she brought in a toaster and made everyone breakfast while we fixed it (anecdote). Thank you, Dana, and good luck (thanks).'",
       "common_mistakes": [
@@ -759,8 +790,8 @@
       "steps": [
         "Why: name the occasion and why people have gathered.",
         "How: say briefly how you are connected to the person or group.",
-        "Anecdote: share one short, widely accessible story that shows a quality you admire.",
-        "Thanks: close by thanking or toasting the honoree."
+        "Anecdotes or learnings: share one short, widely accessible story or lesson that shows a quality you admire.",
+        "Thank: close by thanking the honoree and audience, and hand off cleanly to whoever comes next."
       ],
       "categories": [
         {
@@ -783,23 +814,128 @@
         "Celebrating a team milestone"
       ],
       "source": {
-        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II chapter on toasts, tributes and introductions (excerpted by the author in Think Fast Talk Smart episode 175, December 2024); also Abrahams in Lenny's Newsletter and TIME",
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II Application 2, Toasts That Tantalize (begins p. 165), read by the author in Think Fast Talk Smart episode 175 (December 2024); also Lenny's Podcast show notes",
         "underlying_research": "None identified; practitioner guidance.",
         "urls": [
-          "https://www.podpage.com/think-fast-talk-smart-communication-techniques/175-mastering-toasts-and-tributes-making-your-words-count",
-          "https://time.com/7301914/how-to-give-a-good-toast/",
+          "https://www.fastersmarter.io/175-mastering-toasts-and-tributes-making-your-words-count/",
           "https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and",
-          "https://journal.getabstract.com/en/?p=126815"
+          "https://books.google.com/books?vid=ISBN9781668010303"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Raised from Low: the structure is now confirmed as Abrahams's own (WHAT acronym in his interviews, a TIME piece and summaries of the book, and the topic is a book chapter he excerpted on his podcast), so it rests on credible expert practice like the book's other structures. No research underlies it, and the exact label of the last step varies (Thanks, Toast or Tribute).",
+      "confidence_rationale": "Raised from Low to Medium in the first verification pass and now confirmed against the author's own reading of the book chapter: the WHAT structure and its labels (A is anecdotes or learnings; T is thank) are his. Rests on credible expert practice like the book's other structures; no research underlies it.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "think-faster-talk-smarter-15",
+      "name": "Four Sentence Starters for an On-the-Spot Pitch",
+      "skill_type": "framework",
+      "explanation": "For a tight elevator pitch or executive summary, Abrahams offers four sentence starters he developed working with entrepreneurs at Stanford: 'What if you could...' (the appealing possibility), 'So that...' (the benefit it brings), 'For example...' (a concrete illustration), and 'And that's not all...' (an extra feature or advantage). Completing all four produces a short pitch that is clear, relevant to the listener and easy to remember, even when you are asked about your work with no warning.",
+      "when_to_use": "When someone asks 'so what do you do?' or 'what is your idea?' at a networking event, in an elevator, in an investor or leadership chat, or when introducing a project to a new stakeholder.",
+      "worked_example": "At a neighborhood gathering, a founder of a small tutoring service is asked what her company does. 'What if your kid could get homework help from a trained tutor within ten minutes of asking, so that evenings stop ending in tears and arguments? For example, last week a seventh grader got through a fractions worksheet in twenty minutes with one of our tutors on video. And that's not all: parents get a two-line summary of what their child struggled with.'",
+      "common_mistakes": [
+        "Filling 'What if you could' with a feature instead of an outcome the listener wants.",
+        "Using a generic example rather than a specific, vivid one.",
+        "Turning 'And that's not all' into a long feature list that buries the pitch."
+      ],
+      "steps": [
+        "What if you could: describe the outcome or possibility your idea enables.",
+        "So that: state the benefit to this listener.",
+        "For example: give one concrete case or data point.",
+        "And that's not all: add one further advantage, then stop."
+      ],
+      "categories": [
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "message-structures"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        }
+      ],
+      "situations": [
+        "Elevator pitch to a senior leader",
+        "Explaining your startup at a networking event",
+        "Answering 'what do you do?' at a party",
+        "Introducing a new project to a stakeholder"
+      ],
+      "source": {
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter (2023), Part II Application 3, Make That (Im)perfect Pitch (begins p. 175; the structure's placement in this chapter is inferred from the author's interviews); Grit and Growth interview (Stanford GSB, 2023); Think Fast Talk Smart episode 229",
+        "underlying_research": "Practitioner structure developed from the author's work with entrepreneurs; no research cited. Consistent with general persuasion advice to lead with listener benefits and concrete examples.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
+          "https://www.fastersmarter.io/229-rethinks-how-to-speak-successfully-when-youre-put-on-the-spot/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Confirmed in two first-person interviews about the book, where the interviewer cites it as the book's pitching structure. Credible expert practice, but untested.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "think-faster-talk-smarter-16",
+      "name": "CLEAR Framework for In-the-Moment Conflict",
+      "skill_type": "framework",
+      "explanation": "When a sharp remark or sudden disagreement catches you off guard, Abrahams suggests laying groundwork before responding, using five steps. Check yourself: notice physical signs of being triggered, pause for a breath, and reframe the threat as a chance to learn. Listen with receptiveness: show real curiosity and openness, for example by saying you want to understand their view (drawing on Julia Minson's research on conversational receptiveness). Explore their perspective: ask what concerns or motives might make their behavior reasonable, and challenge the victim, villain and helpless stories we tell ourselves under threat (from Joseph Grenny of Crucial Conversations). Acknowledge before advocating: paraphrase their position and use 'and' rather than 'but' when you disagree. Respond strategically: with the relationship in mind, choose your goal, structure (such as What, So What, Now What) and even the medium.",
+      "when_to_use": "When someone criticizes you unexpectedly, makes a snide comment, undercuts you in a meeting, or a family discussion suddenly turns heated.",
+      "worked_example": "In a planning meeting, a peer announces a timeline that ignores what the two of them agreed. Feeling her face flush, a product lead takes a breath (Check). She asks, 'Help me understand what changed since Tuesday?' and listens without interrupting (Listen). She learns the peer is under pressure from a client renewal (Explore). She says, 'So the renewal makes an earlier date critical for you, and I want to find a way to hit it without dropping the security review' (Acknowledge). She proposes a phased release and suggests the two of them sketch it after the meeting (Respond).",
+      "common_mistakes": [
+        "Responding while still flooded, before checking yourself.",
+        "Listening only to collect ammunition for a rebuttal.",
+        "Saying 'I understand, but...', which cancels the acknowledgment.",
+        "Pushing to win the point at the cost of the relationship."
+      ],
+      "steps": [
+        "Check yourself: notice triggers, pause and breathe, reframe the moment as a chance to learn.",
+        "Listen with receptiveness: signal openness and ask respectful, open questions.",
+        "Explore their perspective: consider their concerns and motives; question the villain story.",
+        "Acknowledge before advocating: paraphrase their view; use 'and' instead of 'but'.",
+        "Respond strategically: clarify your goal, pick a structure and medium, and protect the relationship."
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
+      ],
+      "situations": [
+        "Being undercut by a colleague in front of the boss",
+        "A snide remark from a relative at a family dinner",
+        "Unexpected criticism from a client",
+        "A partner's sudden accusation"
+      ],
+      "source": {
+        "citation": "Matt Abrahams, Think Faster, Talk Smarter, updated edition (Application 7, Staying Calm, Focused, and Clear When Conflict Strikes; listed at p. 219 in the Google Books contents), read by the author in Think Fast Talk Smart episode 330 (October 2026). The author says this chapter was added in the updated edition, so it is not in the original 2023 printing.",
+        "underlying_research": "Julia Minson's conversational receptiveness research, which the chapter cites: Yeomans, Minson, Collins, Chen and Gino (2020), Conversational receptiveness: Improving engagement with opposing views, Organizational Behavior and Human Decision Processes. Integrity note: Francesca Gino is a co-author; this paper is not among her retracted papers, but readers should be aware of the broader concerns about her work. Also draws on Joseph Grenny and colleagues, Crucial Conversations, and NYU professor Jenn Wynn. The chapter notes that research links well-handled conflict to better outcomes and relationships and describes conflict spirals, without naming studies in the excerpt.",
+        "urls": [
+          "https://www.fastersmarter.io/330-quick-thinks-a-clear-way-through-conflict/",
+          "https://books.google.com/books?vid=ISBN9781668010303"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Confirmed from the author's own reading of the chapter. Its components (pausing to regulate, receptive listening, perspective taking, acknowledging before advocating) are backed by credible research and expert consensus, but the five-step package is an untested synthesis. Note that it belongs to the updated edition.",
       "flags": [
         "none"
       ]
     }
   ],
-  "research_notes": "Sources actually read: WebFetch could not resolve any host tried (annieduke.substack.com, simonandschuster.ca, shortform.com), so per instructions further fetches were not attempted and all research was done through WebSearch result summaries and snippets. Hosts to allow for deeper verification: annieduke.substack.com, www.simonandschuster.ca, www.shortform.com, and likely gsb.stanford.edu and fastersmarter.io. Content was drawn from search-surfaced material from: Stanford GSB Insights (masterclass article, improv articles), Abrahams's Stanford anxiety handout, the Think Fast Talk Smart podcast site (fastersmarter.io), Lenny's Newsletter, Fast Company, Guy Kawasaki's Remarkable People transcript, Constellation Research DisrupTV write-up, Huberman Lab listing, Awesome at Your Job and Ideas on Stage podcasts, Success.com, secondary summaries (Antoine Buteau, Imaginary Talks, Eau Claire Partners, Medium book note, Wise Words, value-quest blog table of contents), Goodreads reviews, library catalog records, and the Brooks (2014) APA paper. A search result linked to what appears to be an unauthorized full-text PDF of the book (hostnezt.com) and a Scribd upload; these were deliberately not used. Verified: title, subtitle, publisher (Simon Element), hardcover ISBN 9781668010303, US publication date 2023-09-26, six-step chapter titles and two-part structure. Page count differs by source (245 per library record, 256 per retailers), so it is omitted. Uncertainties: the book's specific footnoted studies could not be inspected; research named in underlying_research that is marked 'not confirmed as cited' (Dweck, Blascovich and Jamieson, Lewicki et al., Huang et al., Kluger and DeNisi, curse of knowledge) is related evidence added for confidence rating, not a claim about the book's citations. Brooks (2014) is confirmed as relied on by Abrahams via an excerpt and podcast transcript. The 4 I's first term is reported as 'information' in most sources but wording varies; the AAA third step is labeled 'Amends' by most sources and 'Action' by one reviewer; the toast structure comes from a single reader review. The book also covers pitches and introductions in Part II, but details beyond Problem/Solution/Benefit were not verifiable and are not included. Stage 1b update (2026-11-04): network access was still restricted in the verification session. Direct fetches of www.gsb.stanford.edu and www.fastcompany.com failed with DNS resolution errors, so no pages were read in full; verification again relied on WebSearch result summaries. See the verification object.",
+  "research_notes": "Sources actually read: WebFetch could not resolve any host tried (annieduke.substack.com, simonandschuster.ca, shortform.com), so per instructions further fetches were not attempted and all research was done through WebSearch result summaries and snippets. Hosts to allow for deeper verification: annieduke.substack.com, www.simonandschuster.ca, www.shortform.com, and likely gsb.stanford.edu and fastersmarter.io. Content was drawn from search-surfaced material from: Stanford GSB Insights (masterclass article, improv articles), Abrahams's Stanford anxiety handout, the Think Fast Talk Smart podcast site (fastersmarter.io), Lenny's Newsletter, Fast Company, Guy Kawasaki's Remarkable People transcript, Constellation Research DisrupTV write-up, Huberman Lab listing, Awesome at Your Job and Ideas on Stage podcasts, Success.com, secondary summaries (Antoine Buteau, Imaginary Talks, Eau Claire Partners, Medium book note, Wise Words, value-quest blog table of contents), Goodreads reviews, library catalog records, and the Brooks (2014) APA paper. A search result linked to what appears to be an unauthorized full-text PDF of the book (hostnezt.com) and a Scribd upload; these were deliberately not used. Verified: title, subtitle, publisher (Simon Element), hardcover ISBN 9781668010303, US publication date 2023-09-26, six-step chapter titles and two-part structure. Page count differs by source (245 per library record, 256 per retailers), so it is omitted. Uncertainties: the book's specific footnoted studies could not be inspected; research named in underlying_research that is marked 'not confirmed as cited' (Dweck, Blascovich and Jamieson, Lewicki et al., Huang et al., Kluger and DeNisi, curse of knowledge) is related evidence added for confidence rating, not a claim about the book's citations. Brooks (2014) is confirmed as relied on by Abrahams via an excerpt and podcast transcript. The 4 I's first term is reported as 'information' in most sources but wording varies; the AAA third step is labeled 'Amends' by most sources and 'Action' by one reviewer; the toast structure comes from a single reader review. The book also covers pitches and introductions in Part II, but details beyond Problem/Solution/Benefit were not verifiable and are not included. Stage 1b update (2026-11-04): network access was still restricted in the verification session. Direct fetches of www.gsb.stanford.edu and www.fastcompany.com failed with DNS resolution errors, so no pages were read in full; verification again relied on WebSearch result summaries. See the verification object. Second verification pass (2026-11-04): pages were read in full with curl. Key primary sources: the Stanford GSB Grit and Growth transcript, fastersmarter.io transcripts in which the author reads book chapters aloud (Chapter 1 Calm, Application 2 toasts, Application 7 conflict), interview transcripts (episodes 116, 200, 203, 229, 238), Lenny's Podcast show notes, the Huberman Lab transcript, and the Google Books record with its contents listing. Blocked: simonandschuster.com and .ca (403), fastcompany.com (403), guykawasaki.com and constellationr.com (403), med.stanford.edu (TLS chain error, not bypassed), Google Books in-book search (429 rate limit). The Google Books contents listing names Applications 2, 3, 4, 6 and 7 with page starts; Applications 1 and 5 (presumably small talk and feedback) and a section titled Project Your Unique Presence (p. 134) were not resolved. Page count remains ambiguous: Google Books lists 245, Open Library and retailers 256, so it is omitted.",
   "verification": {
     "date": "2026-11-04",
     "sources_read": [
@@ -813,7 +949,23 @@
       "https://podpage.com/think-fast-talk-smart-communication-techniques/122-how-to-be-more-confident-and-calm-in-your-communication-managing-the-abcs-of-communication",
       "https://metacast.app/podcast/think-fast-talk-smart-communication-techniques/0mEaU4ij/bonus-how-to-manage-speaking-anxiety-the-think-faster-talk-smarter-way/u4yGkbpC",
       "https://www.antoinebuteau.com/lessons-from-matt-abrahams/",
-      "https://nbcdfw.com/news/business/money-report/these-2-simple-tips-can-help-you-sound-smarter-says-communication-expert/3429489"
+      "https://nbcdfw.com/news/business/money-report/these-2-simple-tips-can-help-you-sound-smarter-says-communication-expert/3429489",
+      "Second pass, read in full via curl: https://www.gsb.stanford.edu/insights/how-think-faster-talk-smarter-masterclass-matt-abrahams",
+      "https://www.gsb.stanford.edu/insights/best-using-skills-improv-master-your-moment-communication",
+      "https://books.google.com/books?vid=ISBN9781668010303",
+      "https://openlibrary.org/isbn/9781668010303.json",
+      "https://www.fastersmarter.io/bonus-episode-how-to-manage-speaking-anxiety-the-think-faster-talk-smarter-way/",
+      "https://www.fastersmarter.io/175-mastering-toasts-and-tributes-making-your-words-count/",
+      "https://www.fastersmarter.io/330-quick-thinks-a-clear-way-through-conflict/",
+      "https://www.fastersmarter.io/229-rethinks-how-to-speak-successfully-when-youre-put-on-the-spot/",
+      "https://www.fastersmarter.io/200-four-keys-for-focused-communication-live-lessons-from-our-200-episodes/",
+      "https://www.fastersmarter.io/203-no-script-no-problem-final-secrets-to-speaking-under-pressure-bonus/",
+      "https://www.fastersmarter.io/193-conquer-questions-adding-value-to-your-answers/",
+      "https://www.fastersmarter.io/116-quick-thinks-dont-sweat-the-small-talk/",
+      "https://www.fastersmarter.io/238-ama-why-listening-might-be-your-most-powerful-skill/",
+      "https://www.fastersmarter.io/107-think-faster-talk-smarter-how-to-speak-successfully-when-youre-put-on-the-spot/",
+      "https://www.lennysnewsletter.com/p/how-to-speak-more-confidently-and",
+      "https://www.hubermanlab.com/episode/speak-clearly-with-confidence-matt-abrahams"
     ],
     "changes": [
       "think-faster-talk-smarter-03: underlying_research now states Brooks (2014) is described in the book (per summaries of the book and its podcast excerpt), adds volume and the speech-study detail (more excitement, not less anxiety) and the replication caveat; confidence stays Medium, flag contested kept.",
@@ -824,14 +976,32 @@
       "think-faster-talk-smarter-12: third A confirmed as Amends (commitment not to repeat, from Abrahams's interviews); the 'Action' label from a reader review is rejected; no-blame point added; citation clarified.",
       "think-faster-talk-smarter-13: added Gino integrity note for Huang et al. (2017).",
       "think-faster-talk-smarter-14: renamed to the WHAT structure (Why, How, Anecdote, Thanks), sourced to the author's own material (podcast ep 175 book excerpt, TIME, Lenny's Newsletter) instead of a Goodreads review; confidence raised Low to Medium because the source is now the author.",
-      "book.legal_access: removed Goodreads entry; added podcast ep 175 and the Fast Company mirror."
+      "book.legal_access: removed Goodreads entry; added podcast ep 175 and the Fast Company mirror.",
+      "Second pass think-faster-talk-smarter-01: chapter page starts added from Google Books contents.",
+      "Second pass think-faster-talk-smarter-02: rewritten against the author's reading of Chapter 1 (mindfulness and distancing, mantras, go back to go forward, generic questions, rationalizing, spotlight effect, dry mouth); removed tongue-twister and counting-backward tips not found in the chapter; sources the chapter names added to underlying_research.",
+      "Second pass think-faster-talk-smarter-03: Brooks (2014) now confirmed as cited from the chapter text itself.",
+      "Second pass think-faster-talk-smarter-04: confirmed; added dare to be dull, cognitive bandwidth rationale, brick and cathedral image, Joan Lunden phrase; sources replaced with author transcripts.",
+      "Second pass think-faster-talk-smarter-05: confirmed (Mind Your Mindset is about threat versus opportunity); added audience-wants-you-to-succeed point and improv offers; Medium unchanged.",
+      "Second pass think-faster-talk-smarter-06: Dobbs and pace, space, grace confirmed as interviewed for the book (episode 238); Brooks paraphrasing claim noted.",
+      "Second pass think-faster-talk-smarter-07: confirmed; added email, feedback and practice drill uses.",
+      "Second pass think-faster-talk-smarter-08: confirmed; removed unverified benefit-first variant, added opportunity variant; pitch chapter page added.",
+      "Second pass think-faster-talk-smarter-09: underlying research updated (curse of knowledge and relevance claims Abrahams makes about the book; papers not confirmed as cited).",
+      "Second pass think-faster-talk-smarter-10: added pre-feedback preparation (measurable target, consider causes) from the GSB interview.",
+      "Second pass think-faster-talk-smarter-11: ADD wording confirmed from author's 2016 book excerpt; noted ADD predates this book; added paraphrase-first and close-with-core-message tips; Q&A chapter page added.",
+      "Second pass think-faster-talk-smarter-12: chapter title and page (Application 6) added; AAA content still from interview summaries only.",
+      "Second pass think-faster-talk-smarter-13: 'interested, not interesting' credited to Rachel Greenwald, not Abrahams; added white flag exit and context-based openers.",
+      "Second pass think-faster-talk-smarter-14: confirmed from the author's reading of the toasts chapter; A is 'anecdotes or learnings', T is 'thank'; tips added; stays Medium.",
+      "think-faster-talk-smarter-15: added four-sentence pitch structure (What if you could, So that, For example, And that's not all), from two author interviews.",
+      "think-faster-talk-smarter-16: added CLEAR conflict framework from the updated edition's Application 7, with Yeomans et al. (2020) and a Gino integrity note.",
+      "book: edition note on the October 2026 updated edition; legal_access updated; evidence_base lists sources named in chapters seen."
     ],
     "still_unverified": [
-      "No pages were fetched: gsb.stanford.edu and fastcompany.com failed DNS resolution in this session, and hosts such as fastersmarter.io, simonandschuster.com and books.google.com need to be allowed for a real full-text check.",
-      "The book's endnotes were not inspected; apart from Brooks (2014), no study is confirmed as cited in the book. All other named studies remain related evidence only.",
-      "Exact chapter numbers for Part II chapters (small talk, toasts, pitches, Q&A, feedback, apologies) not verified.",
-      "Insights 04, 05, 07, 08, 11 and 13 were not re-checked beyond the first pass because pages could not be fetched.",
-      "Page count (245 vs 256) still unresolved."
+      "AAA apology (12): no page with the framework could be read (guykawasaki.com and constellationr.com return 403); content rests on search summaries of Abrahams's interviews.",
+      "4 I's (10): Fast Company returns 403; labels confirmed via Lenny's show notes, but the feedback chapter text and its application number were not seen.",
+      "Application numbers for small talk and feedback (presumably 1 and 5) and the section Project Your Unique Presence (p. 134) not resolved; Google Books in-book search was rate limited.",
+      "Whether ADD (11) and the four-sentence pitch (15) appear word for word in this book's chapters, rather than only in the author's interviews and earlier book.",
+      "The book's endnotes were not inspected. Confirmed as named in chapter text: Brooks (anxiety reappraisal), Huberman, Wheeler, spotlight effect, Dobbs, Minson, Grenny. All other studies in underlying_research remain related evidence only.",
+      "Page count (245 vs 256) and the updated edition's ISBN and date."
     ]
   }
 }

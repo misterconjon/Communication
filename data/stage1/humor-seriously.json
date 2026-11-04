@@ -3,20 +3,67 @@
     "book_id": "humor-seriously",
     "title": "Humor, Seriously",
     "subtitle": "Why Humor Is a Secret Weapon in Business and Life (and how anyone can harness it. Even you.)",
-    "authors": ["Jennifer Aaker", "Naomi Bagdonas"],
+    "authors": [
+      "Jennifer Aaker",
+      "Naomi Bagdonas"
+    ],
     "year": 2021,
-    "publisher": "Currency (Penguin Random House); UK edition titled Humour, Seriously (Penguin Business)",
-    "edition": "First edition, 2021",
+    "publisher": "Currency, an imprint of Crown, Penguin Random House (listed by PRH as Crown Currency); UK edition titled Humour, Seriously (Penguin)",
+    "edition": "First edition, US hardcover, published February 2, 2021, 272 pages (per Penguin Random House product page; Open Library records 257 numbered pages)",
     "isbn": "9780593135280",
     "author_credibility": "Jennifer Aaker is a behavioral scientist and professor at Stanford Graduate School of Business; Naomi Bagdonas is a Stanford GSB lecturer, executive coach, and former management consultant who trained in improv and sketch comedy at the Upright Citizens Brigade Theatre. The book grows out of their Stanford GSB course on humor in business. As teachers and promoters of a course, a TED talk and a speaking practice built on the premise that humor is underused at work, they have an incentive to emphasize benefits over limits.",
-    "evidence_base": "A mix of peer-reviewed behavioral science (notably work from Maurice Schweitzer, Alison Wood Brooks and T. Bradford Bitterly on humor and status, plus laughter and bonding research), a large Gallup survey on daily laughter, interviews with comedians and business leaders, and many anecdotes from students and executives. Several headline statistics circulated in promotion (for example that leaders with humor are a certain percent more motivating) could not be traced to a primary study during this research. Comedy craft advice (truth and misdirection, rule of three, truth, pain and distance) rests on practitioner expertise from improv and Second City rather than experiments.",
+    "evidence_base": "A mix of peer-reviewed behavioral science (Bitterly, Brooks and Schweitzer on humor and status; Gray, Parkinson and Dunbar on laughter and self-disclosure; Bazzini and colleagues on shared laughter in couples; Lehmann-Willenbrock and Allen on humor in team meetings; O'Quin and Aronoff on humor in a price negotiation), older or less transparent surveys (a Gallup global item on smiling or laughing, a 1987 survey of 290 workers on supervisor humor, a Hodge-Cronin survey of CEOs, the authors' own survey of roughly 700 people on why they avoid humor at work), interviews with comedians and executives, and many anecdotes. Several headline percentages (27 percent more motivating, 18 to 20 percent more paid with a joke, 30 percent more disclosure) are the authors' or press restatements of single older studies and cannot be checked against the abstracts, which do not report them in that form. Some brain-chemistry claims (dopamine, oxytocin, cortisol, endorphins) are stated more confidently than the underlying evidence supports. Comedy craft advice (truth and misdirection, rule of three, truth, pain and distance) rests on practitioner expertise from improv and The Second City rather than experiments.",
     "legal_access": [
-      {"type": "interview", "url": "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously", "note": "TED talk; host blocked by network policy, content seen only via search snippets"},
-      {"type": "interview", "url": "https://www.gsb.stanford.edu/insights/make-em-laugh-how-humor-can-be-secret-weapon-your-communication", "note": "Stanford GSB Think Fast, Talk Smart episode 13 (June 2020); host blocked, seen via search snippets"},
-      {"type": "interview", "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-somebody-tell-a-joke", "note": "McKinsey Author Talks interview; seen via search snippets"},
-      {"type": "summary", "url": "https://www.blinkist.com/en/books/humor-seriously-en", "note": "Commercial summary; seen via search snippets"},
-      {"type": "summary", "url": "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously", "note": "Review describing truth, pain and distance check; seen via search snippets"},
-      {"type": "summary", "url": "https://www.charterworks.com/book-briefing-humor-seriously-by-jennifer-aaker-and-naomi-bagdonas/", "note": "Charter book briefing; host blocked, seen via search snippets"}
+      {
+        "type": "publisher preview",
+        "url": "https://www.penguinrandomhouse.com/books/611544/humor-seriously-by-jennifer-aaker-and-naomi-bagdonas/9780593135280/",
+        "note": "Publisher product page: description, formats, ISBN, page count, pub date. Read 2026-11-04."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously/transcript",
+        "note": "TED talk transcript read in full: humor cliff, 27 percent leader figure, pet frog sales line, truth over funny, punching down, distance."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.gsb.stanford.edu/insights/make-em-laugh-how-humor-can-be-secret-weapon-your-communication",
+        "note": "Stanford GSB Think Fast, Talk Smart podcast (June 2020), full transcript read: mining life for truth, levity as mindset, being generous with laughter, State of the Union salmon example."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.gsb.stanford.edu/insights/humor-serious-business",
+        "note": "Stanford GSB Insights article (2017) on the authors' course: humor cliff, Gray et al. 2015, Bazzini 2007, O'Quin and Aronoff frog study, Bitterly et al., punching down, polite laughter."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.gsb.stanford.edu/insights/not-joke-cost-being-humorless",
+        "note": "Stanford GSB Insights review of the book by Joel Stein (Jan 2021): 27 percent and 15 percent figures, 18 percent sales line, failed-joke chart, rule of three."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.gsb.stanford.edu/insights/class-takeaways-humor-serious-business",
+        "note": "Stanford GSB Class Takeaways video transcript: four humor styles defined, sign-offs, punching down, distance."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously",
+        "note": "Review with short quotations and page numbers (pp. 12 to 209), used to locate ideas in the book."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.permanentequity.com/content/bringing-your-funny-to-work-in-humor-seriously",
+        "note": "Review naming the Four Deadly Humor Myths and Chapter 4, Putting Your Funny to Work."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.calstatela.edu/sites/default/files/book_review-why_humor_is_a_secret_weapon_in_business_and_life.pdf",
+        "note": "Academic book review (Business Forum 29(1)): eight chapters, Humor Audit, Humor Styles Mini Quiz in appendix, three-step recovery from a humor fail."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-somebody-tell-a-joke",
+        "note": "McKinsey Author Talks interview; the host refused connections during verification, content known only via search snippets."
+      }
     ]
   },
   "insights": [
@@ -33,55 +80,84 @@
         "Measuring success by volume of laughter rather than by whether people felt more connected"
       ],
       "steps": [
-        "For one week, jot down small moments that made you smile or felt absurd (a habit the authors describe as mining your life for material)",
+        "For one week, jot down small moments that made you smile or felt odd (the authors' students log about ten observations a week, a habit they call mining your life for material)",
         "Look for the true, specific detail rather than a punchline",
         "Share one light observation in a low-stakes setting such as a team chat or a friend text",
         "Judge it by whether the mood or connection improved, not by laughs"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
       ],
-      "situations": ["Feeling too serious or stiff at work", "Opening a weekly team update", "Lightening a stressful day with a partner", "Starting a new job and wanting to seem approachable"],
+      "situations": [
+        "Feeling too serious or stiff at work",
+        "Opening a weekly team update",
+        "Lightening a stressful day with a partner",
+        "Starting a new job and wanting to seem approachable"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, early chapters on the humor mindset; TED talk 'Why great leaders take humor seriously'; McKinsey Author Talks interview",
-        "underlying_research": "Practitioner and teaching experience from the authors' Stanford GSB course; no single study isolates a 'humor mindset' construct",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 1 (The Humor Cliff, including the Four Deadly Humor Myths, pp. 26 to 38, where levity is defined as a mindset) and Chapter 3 (The Anatomy of Funny, p. 69, ask what is true rather than what is funny); TED talk; Stanford GSB Think Fast, Talk Smart podcast",
+        "underlying_research": "Practitioner and teaching experience from the authors' Stanford GSB course (students log observations weekly); no single study isolates a 'humor mindset' construct. The book's claim that humor is a learnable skill is argued from comedy training rather than an intervention study.",
         "urls": [
-          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously",
-          "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-somebody-tell-a-joke"
+          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously/transcript",
+          "https://www.gsb.stanford.edu/insights/make-em-laugh-how-humor-can-be-secret-weapon-your-communication",
+          "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Consistent with broad humor research showing humor appreciation and production vary and can be practiced, and consistent across the authors' public talks. But the specific 'mindset' framing is the authors' own synthesis, not a tested intervention.",
-      "flags": ["none"]
+      "confidence_rationale": "Confirmed in the book (levity defined as a mindset, the Being Funny and Born With It myths, ask what is true) and in the authors' talks. The framing is the authors' synthesis, consistent with research that humor appreciation and production vary and can be practiced, but not a tested intervention.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "humor-seriously-02",
       "name": "The Humor Cliff",
       "skill_type": "mental model",
-      "explanation": "The authors use a large Gallup survey, which asked people in many countries whether they smiled or laughed a lot the previous day, to argue that self-reported daily laughter drops sharply in early adulthood (they point to around age 23, roughly when people enter the workforce) and does not recover until much later in life. Their interpretation is that people adopt a belief that professionalism requires solemnity. Use it as a prompt to question whether your seriousness at work is a choice rather than a requirement, not as precise science.",
+      "explanation": "The authors cite a Gallup poll of about 1.4 million respondents in 166 countries that asked whether people smiled or laughed a lot the previous day, and say the answer starts to plummet around age 23, roughly when people enter the workforce, and does not climb back until around 80. They call this the humor cliff and read it as people adopting a belief that professionalism requires solemnity. Their own graph tells a softer story: a clear majority of adults at every age still report smiling or laughing a lot, and the decline appears to begin in the teens rather than at 23. Use it as a prompt to ask whether your seriousness at work is a choice, not as precise science.",
       "when_to_use": "When you notice you have become more guarded or humorless at work than in the rest of your life; when making the case to a team that levity is allowed.",
       "worked_example": "A new team lead notices that her team is lively in the hallway but silent and formal on video calls. At the next retro she says she wants meetings to feel more like the hallway and invites one 'small win or absurd moment' from each person at the start. She frames it as a deliberate choice about culture, not a mandate to be funny.",
       "common_mistakes": [
         "Citing 'age 23' as a precise scientific fact",
+        "Claiming most working adults no longer laugh, when the data show a modest drop in a majority",
         "Concluding that you should joke constantly at work to compensate"
       ],
       "steps": [],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
       ],
-      "situations": ["Reflecting on a stiff or overly formal work persona", "Pitching a lighter meeting culture to a team"],
+      "situations": [
+        "Reflecting on a stiff or overly formal work persona",
+        "Pitching a lighter meeting culture to a team"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, opening chapter; TED talk",
-        "underlying_research": "Gallup global survey item on whether respondents smiled or laughed a lot yesterday (widely reported as about 1.4 million respondents in 166 countries, circa 2013). Sample size and year are as reported in secondary coverage and were not verified against Gallup's own release.",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 1, The Humor Cliff (graph and Gallup claim on p. 22; laughter-per-day comparison on p. 23); TED talk",
+        "underlying_research": "Gallup global survey item 'Did you smile or laugh a lot yesterday?', described in the book as 1.4 million respondents in 166 countries. The book page was confirmed via a quotation in Richard Garber's 2024 blog post; Gallup's own release, survey years, and age breakdown were not located. Garber's reading of the graph: about 83 percent at 13, 74 percent at 25, 68 percent at 50, a low near 61 percent around 83.",
         "urls": [
-          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously"
+          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously/transcript",
+          "https://www.gsb.stanford.edu/insights/humor-serious-business",
+          "https://joyfulpublicspeaking.blogspot.com/2024/08/first-look-at-data-then-look-at-words.html"
         ]
       },
       "confidence": "Low",
-      "confidence_rationale": "The underlying data are large-sample but cross-sectional self-report, so they cannot show that working causes the drop. At least one critic who examined the graph argues the decline begins earlier than 23, and secondary sources disagree on when laughter recovers (age 70 versus 80). Useful as a motivating story, weak as a causal claim.",
-      "flags": ["contested", "pop-psychology"]
+      "confidence_rationale": "Large-sample but cross-sectional self-report, so it cannot show that work causes the drop, and age effects are confounded with cohort and country mix. The 'age 23' framing and the TED wording (answer becomes no) overstate a graph in which most adults still answer yes and the slope starts earlier. Recovery is placed around 80 by the authors themselves (TED and book), resolving the earlier 70 versus 80 question. Useful as a motivating story, weak as a causal claim.",
+      "flags": [
+        "contested",
+        "pop-psychology"
+      ]
     },
     {
       "id": "humor-seriously-03",
@@ -97,22 +173,39 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "influence", "subcategory": "credibility"},
-        {"category": "professional", "subcategory": "executive-communication"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "influence",
+          "subcategory": "credibility"
+        },
+        {
+          "category": "professional",
+          "subcategory": "executive-communication"
+        }
       ],
-      "situations": ["Job interview", "Presenting to senior leadership", "First meeting with a new client", "Giving a toast or short speech"],
+      "situations": [
+        "Job interview",
+        "Presenting to senior leadership",
+        "First meeting with a new client",
+        "Giving a toast or short speech"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapter on the business case for humor; Stanford GSB Think Fast, Talk Smart episode 13",
-        "underlying_research": "Bitterly, T. B., Brooks, A. W., and Schweitzer, M. E. (2017). Risky business: When humor increases and decreases status. Journal of Personality and Social Psychology, 112(3), 431-455. Eight experiments; status effects mediated by perceived confidence and competence.",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 1, the Failure Myth (p. 29) with a two-by-two chart of appropriate versus inappropriate and funny versus unfunny; Chapter 2, This Is Your Brain on Humor (p. 44, humor and power); Stanford GSB review of the book",
+        "underlying_research": "Bitterly, T. B., Brooks, A. W., and Schweitzer, M. E. (2017). Risky business: When humor increases and decreases status. Journal of Personality and Social Psychology, 112(3), 431-455. doi:10.1037/pspi0000079. Eight experiments; successful humor raises status via perceived confidence and competence; appropriate and inappropriate jokes both signal confidence, but inappropriate jokes signal low competence and lower status. The book's Swiss flag pun example (37 percent higher status) comes from this paper.",
         "urls": [
-          "https://faculty.wharton.upenn.edu/wp-content/uploads/2017/03/2016-54537-001.pdf",
-          "https://www.gsb.stanford.edu/insights/make-em-laugh-how-humor-can-be-secret-weapon-your-communication"
+          "https://pubmed.ncbi.nlm.nih.gov/27831701/",
+          "https://www.gsb.stanford.edu/insights/not-joke-cost-being-humorless",
+          "https://www.gsb.stanford.edu/insights/humor-serious-business"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Peer-reviewed, eight experiments within one paper with a clear mechanism, published in a top journal. However, it comes from one research group, uses largely online and lab samples with scripted jokes, and I found no independent large-scale replication. Effect sizes and methods were not checked directly because the PDF host was blocked.",
-      "flags": ["unreplicated"]
+      "confidence_rationale": "Confirmed in the book and matches the published abstract. Peer-reviewed, eight experiments in a top journal with a clear mechanism, but from one research group, using largely online and lab samples with scripted jokes; no independent large-scale replication found.",
+      "flags": [
+        "unreplicated"
+      ]
     },
     {
       "id": "humor-seriously-04",
@@ -132,22 +225,39 @@
         "If you are senior, discount the laughs you get and watch for genuine signs (others building on the joke, teasing you back)"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "conversations", "subcategory": "group-dynamics"},
-        {"category": "professional", "subcategory": "meetings"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
       ],
-      "situations": ["Leading a team meeting as the manager", "Hosting a family gathering", "Onboarding a new hire", "Running an all-hands"],
+      "situations": [
+        "Leading a team meeting as the manager",
+        "Hosting a family gathering",
+        "Onboarding a new hire",
+        "Running an all-hands"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapter on humor and status / when humor goes wrong",
-        "underlying_research": "Authors' synthesis of status and hierarchy research plus comedy practice; specific studies on laughter as a response to hierarchy were not identified in sources available to this research",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 7, Navigating the Gray Areas of Humor (status and context), Chapter 4 (p. 121, people mirror the highest-status person); TED talk on never punching down; Stanford GSB 2017 article quoting Seth Meyers on real versus polite laughter",
+        "underlying_research": "Authors' synthesis of status research and comedy practice. The point that subordinates may laugh from social deference is attributed in the authors' course material to Seth Meyers, not to a cited study.",
         "urls": [
-          "https://www.blinkist.com/en/books/humor-seriously-en",
+          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously/transcript",
+          "https://www.gsb.stanford.edu/insights/humor-serious-business",
           "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Well aligned with broad research and expert consensus that power changes how behavior is interpreted and that disparaging humor directed at lower-status people harms them, and with long-standing comedy norms. The specific 'punch up' guidance is expert advice rather than a single tested finding.",
-      "flags": ["none"]
+      "confidence_rationale": "Confirmed in the book and talks. Well aligned with research and consensus that power changes how behavior is interpreted and that disparaging humor aimed at lower-status people harms them. The specific punch-up guidance and the deference-laughter point are expert advice rather than tested findings.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "humor-seriously-05",
@@ -168,22 +278,39 @@
         "If you are new or low-status in the room, choose humor about the situation rather than about yourself"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "relationships", "subcategory": "trust-vulnerability"},
-        {"category": "public-speaking", "subcategory": "delivery"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        }
       ],
-      "situations": ["Opening a talk as the senior expert", "Owning a small mistake in a meeting", "Meeting a partner's family for the first time", "Running a training session"],
+      "situations": [
+        "Opening a talk as the senior expert",
+        "Owning a small mistake in a meeting",
+        "Meeting a partner's family for the first time",
+        "Running a training session"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapter on humor and status; Stanford GSB Think Fast, Talk Smart episode 13",
-        "underlying_research": "Status and humor research associated with Bitterly, Brooks and Schweitzer; Bitterly and Schweitzer (2019), The impression management benefits of humorous self-disclosures, Organizational Behavior and Human Decision Processes 151, 73-89 (relevant boundary condition; not verified as cited in the book)",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 4, Putting Your Funny to Work (p. 108, self-deprecate with caution); Chapter 5, Leading with Humor (pp. 146 to 147, Dick Costolo on being self-effacing); Stanford GSB 2017 article",
+        "underlying_research": "Book cites status research by Bitterly, Brooks and Schweitzer. Bitterly and Schweitzer (2019), The impression management benefits of humorous self-disclosures, Organizational Behavior and Human Decision Processes 151, 73-89, doi:10.1016/j.obhdp.2019.01.005, is a relevant boundary condition but was not verified as cited in the book.",
         "urls": [
-          "https://www.gsb.stanford.edu/insights/make-em-laugh-how-humor-can-be-secret-weapon-your-communication",
-          "https://ideas.repec.org/a/eee/jobhdp/v151y2019icp73-89.html"
+          "https://www.gsb.stanford.edu/insights/humor-serious-business",
+          "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously",
+          "https://doi.org/10.1016/j.obhdp.2019.01.005"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Supported by credible experimental research on humorous self-disclosure and by broad practitioner consensus. The claim that it works best at higher status is the authors' interpretation and was not traced to a specific study.",
-      "flags": ["none"]
+      "confidence_rationale": "Confirmed in the book, including the caution that self-deprecation is risky early in a career or about a job-relevant skill. Supported by experimental research on humorous self-disclosure and practitioner consensus; the status asymmetry is the authors' interpretation rather than a directly tested finding.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "humor-seriously-06",
@@ -202,28 +329,45 @@
         "If it is a minor admission where you mainly want rapport, a light touch is fine"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "difficult", "subcategory": "bad-news"},
-        {"category": "difficult", "subcategory": "boundaries"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "bad-news"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        }
       ],
-      "situations": ["Telling a manager you are overloaded", "Flagging a project risk", "Admitting a weakness in an interview", "Raising a recurring issue with a partner"],
+      "situations": [
+        "Telling a manager you are overloaded",
+        "Flagging a project risk",
+        "Admitting a weakness in an interview",
+        "Raising a recurring issue with a partner"
+      ],
       "source": {
-        "citation": "Related research from the authors' cited research group; not verified as discussed in Humor, Seriously",
-        "underlying_research": "Bitterly, T. B., and Schweitzer, M. E. (2019). The impression management benefits of humorous self-disclosures: How humor influences perceptions of veracity. Organizational Behavior and Human Decision Processes, 151, 73-89. Five studies; proposes a Speaker's Inferred Motive model.",
+        "citation": "Not found in Humor, Seriously in any source read; included as a boundary condition from the same research group the book draws on",
+        "underlying_research": "Bitterly, T. B., and Schweitzer, M. E. (2019). The impression management benefits of humorous self-disclosures: How humor influences perceptions of veracity. Organizational Behavior and Human Decision Processes, 151, 73-89. doi:10.1016/j.obhdp.2019.01.005. Five studies; disclosures paired with humor are judged less likely to be true, and humor can boost perceived warmth and competence; proposes the Speaker's Inferred Motive model.",
         "urls": [
-          "https://ideas.repec.org/a/eee/jobhdp/v151y2019icp73-89.html",
-          "https://faculty.wharton.upenn.edu/wp-content/uploads/2020/02/The-impression-management-benefits-of-humorous-self-disclosures-How-humor-influences-perceptions-of-veracity..pdf"
+          "https://doi.org/10.1016/j.obhdp.2019.01.005",
+          "https://ideas.repec.org/a/eee/jobhdp/v151y2019icp73-89.html"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Peer-reviewed, five studies, plausible mechanism. Single research group and not independently replicated as far as found. Included as a boundary condition on the book's encouragement of humor; its presence in the book itself could not be confirmed.",
-      "flags": ["unreplicated"]
+      "confidence_rationale": "Abstract read and matches the explanation. Peer-reviewed, five studies, plausible mechanism, single research group, no independent replication found. Not confirmed in the book: none of the reviews, talks, or excerpts read mention it.",
+      "flags": [
+        "unreplicated",
+        "not-confirmed-in-book"
+      ]
     },
     {
       "id": "humor-seriously-07",
       "name": "Four Humor Styles: Stand-up, Sweetheart, Magnet, Sniper",
       "skill_type": "framework",
-      "explanation": "The authors sort humor into four styles along two dimensions: content (from warm and affiliative to edgier and more aggressive) and delivery (from expressive and spontaneous to subtle and planned). The Stand-up is bold and willing to ruffle feathers; the Sweetheart is earnest, understated and uplifting; the Magnet is warm, animated and expressive; the Sniper is dry, sarcastic and edgy. Each style has strengths and blind spots, and people can flex across styles depending on context. Knowing your default, and your team's, helps you predict where your humor might misfire.",
+      "explanation": "The authors sort humor into four styles along two dimensions: content (from affiliative and uplifting to edgier and more aggressive) and delivery (from expressive and spontaneous to subtle and planned). The Stand-up is a bold, natural entertainer willing to ruffle feathers; the Sweetheart is earnest and understated and uses humor to lighten the mood; the Magnet is expressive, charismatic and happy to be silly; the Sniper is edgy, sarcastic and nuanced, a master of the unexpected dig. They say most people fall mainly into one or two styles and can flex depending on context. Knowing your default, and your team's, helps you predict where your humor might misfire.",
       "when_to_use": "When joining a new team or culture; when your humor has landed badly and you want to understand why; when managing people whose humor differs from yours.",
       "worked_example": "A sales manager with a Sniper style realizes his deadpan sarcasm reads as cutting on video calls with a new overseas team who do not know him. He shifts toward a warmer, more Sweetheart-like register with them (appreciative, specific callbacks to their wins) while keeping his dry humor for colleagues who know his intent. With friends who share his style, nothing changes.",
       "common_mistakes": [
@@ -238,21 +382,39 @@
         "Flex toward warmer, more affiliative content with people who do not know you well"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "relationships", "subcategory": "rapport"},
-        {"category": "foundations", "subcategory": "audience-goals"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        }
       ],
-      "situations": ["Joining a new team", "Working across cultures", "Understanding why sarcasm hurt someone", "Managing a team with mixed personalities"],
+      "situations": [
+        "Joining a new team",
+        "Working across cultures",
+        "Understanding why sarcasm hurt someone",
+        "Managing a team with mixed personalities"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapter on humor styles (includes a self-assessment); McKinsey Author Talks interview",
-        "underlying_research": "Authors' own typology. It resembles the two-dimension structure of academic humor-style models (for example Rod Martin's Humor Styles Questionnaire distinguishing affiliative from aggressive humor), but I could not verify that the book derives its styles from or validates them against that research.",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, humor styles material with a Humor Styles Mini Quiz in the appendix; online quiz at humorseriously.com; Stanford GSB Class Takeaways video",
+        "underlying_research": "Authors' own typology, described in the GSB video as coming from 'our research', with no published validation located. It resembles the two-dimension logic of the academic Humor Styles Questionnaire (Martin, Puhlik-Doris, Larsen, Gray and Weir, 2003, Journal of Research in Personality 37, 48-75), which distinguishes affiliative, self-enhancing, aggressive and self-defeating humor, but the book was not verified as deriving from or validating against it.",
         "urls": [
-          "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-somebody-tell-a-joke"
+          "https://www.gsb.stanford.edu/insights/class-takeaways-humor-serious-business",
+          "https://www.humorseriously.com/",
+          "https://www.calstatela.edu/sites/default/files/book_review-why_humor_is_a_secret_weapon_in_business_and_life.pdf"
         ]
       },
       "confidence": "Low",
-      "confidence_rationale": "A useful reflective tool, but the four-style typology does not appear to be psychometrically validated; it is a popular framework similar to personality-type quizzes. The general point that affiliative humor is safer than aggressive humor has stronger support in the academic literature.",
-      "flags": ["pop-psychology"]
+      "confidence_rationale": "Confirmed in the book and on the authors' site. No reliability or validity data for the four-style typology or its quiz were found in any source checked; it works like a personality-type quiz. The general point that affiliative humor is safer than aggressive humor has stronger support from HSQ research.",
+      "flags": [
+        "pop-psychology"
+      ]
     },
     {
       "id": "humor-seriously-08",
@@ -274,21 +436,39 @@
         "Keep it short and move on; look for a natural later moment to call back to it"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "public-speaking", "subcategory": "structure"},
-        {"category": "influence", "subcategory": "memorable-messages"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        }
       ],
-      "situations": ["Opening a presentation", "Giving a wedding or birthday toast", "Writing a team newsletter", "Closing a long workshop"],
+      "situations": [
+        "Opening a presentation",
+        "Giving a wedding or birthday toast",
+        "Writing a team newsletter",
+        "Closing a long workshop"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapter on the anatomy of a joke",
-        "underlying_research": "Comedy craft from improv and stand-up practitioners interviewed by the authors; broadly consistent with incongruity-resolution theories of humor in psychology",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 3, The Anatomy of Funny (Principle 1, truth, p. 69; Principle 2, surprise and misdirection, p. 70); Stanford GSB review of the book on the rule of three",
+        "underlying_research": "Comedy craft from improv and stand-up practitioners (The Second City's Anne Libera and Kelly Leonard among others); the book links misdirection to incongruity-resolution theory",
         "urls": [
-          "https://www.blinkist.com/en/books/humor-seriously-en"
+          "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously",
+          "https://www.gsb.stanford.edu/insights/not-joke-cost-being-humorless",
+          "https://www.gsb.stanford.edu/insights/make-em-laugh-how-humor-can-be-secret-weapon-your-communication"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Strong practitioner consensus among comedy writers, and incongruity-based accounts of humor are widely accepted in humor research. Specific devices (rule of three, end placement) are craft knowledge rather than experimentally tested. The exact list of devices in the book was reconstructed from summaries, not the text.",
-      "flags": ["none"]
+      "confidence_rationale": "Truth and misdirection principles and the rule of three are confirmed in the book; specificity is confirmed in the authors' podcast. Strong practitioner consensus and incongruity accounts are widely accepted in humor research. Devices such as end placement and callbacks were not confirmed in sources read and remain craft knowledge rather than tested findings.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "humor-seriously-09",
@@ -310,28 +490,44 @@
         "If any answer is doubtful, choose a different target or skip the joke"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "relationships", "subcategory": "empathy"},
-        {"category": "written-digital", "subcategory": "tone-misreading"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "tone-misreading"
+        }
       ],
-      "situations": ["After layoffs or a reorg", "When a colleague is grieving or ill", "Posting in a company-wide chat channel", "Comforting a friend after a breakup"],
+      "situations": [
+        "After layoffs or a reorg",
+        "When a colleague is grieving or ill",
+        "Posting in a company-wide chat channel",
+        "Comforting a friend after a breakup"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapter on when humor goes wrong; reviews by Thrive Street Advisors and others",
-        "underlying_research": "Anne Libera (The Second City), truth, pain and distance framework from comedy practice; related to the benign violation theory of humor (McGraw and Warren, 2010), which the book was not verified as citing",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 7, Navigating the Gray Areas of Humor (pp. 181 to 186: truth, pain and distance; examine the truth, consider pain and distance, read the room); TED talk on checking your distance",
+        "underlying_research": "Anne Libera (The Second City, Columbia College Chicago), truth, pain and distance framework from comedy practice; related to benign violation theory (McGraw and Warren, 2010), which the book was not verified as citing",
         "urls": [
           "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously",
-          "https://www.charterworks.com/book-briefing-humor-seriously-by-jennifer-aaker-and-naomi-bagdonas/"
+          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously/transcript"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Credible expert framework from a leading comedy institution, consistent with academic theories that humor requires a violation that also feels safe or distant. Not itself an empirically tested decision rule.",
-      "flags": ["none"]
+      "confidence_rationale": "Confirmed in the book with page references. Credible expert framework from a leading comedy institution, consistent with academic theories that humor needs a violation that also feels safe or distant. Not itself an empirically tested decision rule.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "humor-seriously-10",
       "name": "Recovering After Crossing the Line",
       "skill_type": "technique",
-      "explanation": "The authors distinguish between a joke that simply falls flat (usually harmless, best ignored or lightly acknowledged) and a joke that crosses a line, often without the teller noticing. When you have offended someone, the advice is to accept that a line may have been crossed rather than defending your intent or suggesting the listener is too sensitive, work out why it hurt, and make it right with a direct, specific acknowledgment.",
+      "explanation": "The authors distinguish between a joke that simply falls flat (usually harmless) and one that crosses a line, often without the teller noticing. The book offers a three-step recovery: recognize that a line was crossed, work out why it hurt so it does not recur, and correct it with an apology. In practice that means not defending your intent or suggesting the listener is too sensitive, and making the acknowledgment direct and specific.",
       "when_to_use": "When a joke gets silence plus visible discomfort, when someone tells you afterward that a remark hurt, or when a written joke draws a negative reaction.",
       "worked_example": "In a meeting, a team lead jokes that a colleague 'only speaks in acronyms like an engineer from the 90s.' Later the colleague, who is the oldest on the team, says it stung. Instead of saying 'it was just a joke,' the lead thanks him for telling her, says she can see it touched on his age, apologizes specifically, and, at the next meeting, avoids age-related humor entirely. With a sibling, the same approach works after a family dinner where a teasing comment about a job loss went too far.",
       "common_mistakes": [
@@ -341,33 +537,52 @@
       ],
       "steps": [
         "Distinguish a flop (move on) from harm (address it)",
-        "If harm: thank the person for telling you and do not defend intent",
-        "Identify what made it hurtful (target, pain, distance, status)",
-        "Apologize specifically and briefly; change the behavior going forward"
+        "Acknowledge: if harm, thank the person for telling you and accept that a line was crossed rather than defending intent",
+        "Diagnose: identify what made it hurtful (truth, pain, distance, status, audience)",
+        "Correct: apologize specifically and briefly, and change the behavior going forward"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "difficult", "subcategory": "apologies"},
-        {"category": "difficult", "subcategory": "receiving-feedback"},
-        {"category": "personal-life", "subcategory": "repair"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "apologies"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        }
       ],
-      "situations": ["A joke offended a colleague", "A teasing comment hurt a family member", "Your joke in a group chat drew a negative reaction"],
+      "situations": [
+        "A joke offended a colleague",
+        "A teasing comment hurt a family member",
+        "Your joke in a group chat drew a negative reaction"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapter on navigating the line; secondary summaries",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 7, Navigating the Gray Areas of Humor (p. 181 notes the framework helps explain in retrospect why humor crossed a line); three-step recovery process described in Blaszczynski's review in Business Forum",
         "underlying_research": "Practitioner guidance; no specific study identified",
         "urls": [
+          "https://www.calstatela.edu/sites/default/files/book_review-why_humor_is_a_secret_weapon_in_business_and_life.pdf",
           "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Expert advice consistent with broader research and consensus on effective apologies (acknowledging harm, taking responsibility). The book's specific recovery steps were reconstructed from summaries rather than read directly, so details may differ.",
-      "flags": ["none"]
+      "confidence_rationale": "The three-step recovery (recognize, diagnose, apologize) is confirmed by an academic review of the book. Some detail in the steps (thanking the person, not defending intent) is my paraphrase of the spirit rather than confirmed wording. Consistent with research and consensus on effective apologies, but not itself tested.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "humor-seriously-11",
       "name": "Shared Laughter Opens People Up",
       "skill_type": "mental model",
-      "explanation": "The authors argue that laughing together builds trust and connection quickly. Supporting research found that strangers who had just laughed together at a video went on to share more personal information with each other, as rated by observers, than those who watched neutral clips, even though the participants did not notice the difference themselves. Related work links social laughter to raised pain thresholds, interpreted as a sign of endorphin release that may support bonding. The practical point: a moment of shared laughter early in a relationship can make subsequent conversation more open.",
+      "explanation": "The authors argue that laughing together builds trust and connection quickly. They cite research in which strangers who watched a funny clip before a get-to-know-you exercise disclosed more intimate information than those who watched a neutral clip (the book and its promotion give the figure as about 30 percent more); in the paper the effect showed up in observers' ratings, not in participants' own. They also cite work finding that couples who recalled laughing together reported higher relationship satisfaction. Related research links social laughter to raised pain thresholds, read as a sign of endorphin release that may support bonding. The practical point: shared laughter early in a relationship can make the conversation that follows more open.",
       "when_to_use": "At the start of a new working relationship, a kickoff, an offsite, a first date, or any meeting where you need candor.",
       "worked_example": "Before a sensitive project retrospective, a facilitator opens with a quick exercise where each person shares the most ridiculous workaround they used during the project. The laughter that follows makes it easier for people to be honest about what actually went wrong. In personal life, a couple trying to reconnect plans an evening watching a comedy together before talking about something they have been avoiding.",
       "common_mistakes": [
@@ -377,27 +592,45 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "relationships", "subcategory": "rapport"},
-        {"category": "relationships", "subcategory": "trust-vulnerability"},
-        {"category": "conversations", "subcategory": "humor"}
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        }
       ],
-      "situations": ["Project kickoff with a new team", "Team offsite", "First date", "Opening a candid retrospective"],
+      "situations": [
+        "Project kickoff with a new team",
+        "Team offsite",
+        "First date",
+        "Opening a candid retrospective"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapter on humor and connection; TED talk",
-        "underlying_research": "Gray, A. W., Parkinson, B., and Dunbar, R. I. (2015). Laughter's influence on the intimacy of self-disclosure. Human Nature, 26(1), 28-43 (112 Oxford students in groups of four strangers). Dunbar, R. I. M., et al. (2012). Social laughter is correlated with an elevated pain threshold. Proceedings of the Royal Society B. Whether the book cites these exact papers was not verified.",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 2, This Is Your Brain on Humor (p. 44, humor builds bonds by quickening trust and self-disclosure); Chapter 8, A Secret Weapon in Life (p. 205); TED talk; Stanford GSB 2017 article",
+        "underlying_research": "Gray, A. W., Parkinson, B., and Dunbar, R. I. M. (2015). Laughter's influence on the intimacy of self-disclosure. Human Nature, 26(1), 28-43 (cited by the authors). Bazzini, D. G., Stack, E. R., Martincin, P. D., and Davis, C. P. (2007). The effect of reminiscing about laughter on relationship satisfaction. Motivation and Emotion, 31(1), 25-34 (cited by the authors). Dunbar, R. I. M., et al. (2012). Social laughter is correlated with an elevated pain threshold. Proceedings of the Royal Society B, 279(1731), 1161-1167 (related; not confirmed as cited, though the book claims laughter releases endorphins).",
         "urls": [
-          "https://link.springer.com/article/10.1007/s12110-015-9225-8"
+          "https://pubmed.ncbi.nlm.nih.gov/25762120/",
+          "https://www.gsb.stanford.edu/insights/humor-serious-business",
+          "https://doi.org/10.1098/rspb.2011.1373"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Peer-reviewed findings from a respected lab, and the general idea that shared positive experiences build bonds is well supported. But the disclosure study is a modest student sample, the effect appeared only in observer ratings, and the endorphin mechanism is inferred from indirect proxies rather than measured directly.",
-      "flags": ["unreplicated"]
+      "confidence_rationale": "Confirmed in the book; Gray et al. and Bazzini et al. confirmed as cited. Peer-reviewed findings, and the broader idea that shared positive experiences build bonds is well supported. But the disclosure study is a modest student sample, the effect appeared only in observer ratings, the 30 percent figure is not in the abstract, and the hormone claims in the book (oxytocin, dopamine, cortisol) go beyond what these studies measured.",
+      "flags": [
+        "unreplicated"
+      ]
     },
     {
       "id": "humor-seriously-12",
       "name": "A Light Opener Warms a Negotiation",
       "skill_type": "technique",
-      "explanation": "The authors argue that a small dose of humor at the start or at a tense moment of a negotiation can build trust and improve outcomes. Supporting research on email negotiations found that pairs where one side opened with a humorous message reported more trust and satisfaction and reached better joint outcomes, and the person who used the humor also did better individually. The book also describes a negotiation study involving a light, playful line attached to a final offer; its exact details and size of effect could not be verified.",
+      "explanation": "The authors argue that a small dose of humor can make you more persuasive in a negotiation or sale. Their headline example is a 1981 experiment in which participants haggled over the price of a piece of art: when the seller's final offer ended with a throwaway line about including a pet frog, buyers made larger concessions (the authors report about 18 percent more, rounded to nearly 20 percent in their TED talk). Separate research on email negotiations found that pairs where one side opened with a humorous message reported more trust and satisfaction and reached better joint outcomes, with the person who used humor also doing better individually.",
       "when_to_use": "Opening an email negotiation with a vendor or client, salary discussions where tension is rising, or any back-and-forth where the other side may see you as an adversary.",
       "worked_example": "Before a contract renewal with a supplier, a procurement lead opens her email with a short, friendly line about how both companies' legal teams must be competing for a record in comment bubbles, then states her position clearly. The reply comes back warmer, and the counterpart is more forthcoming about what flexibility they have. She keeps the humor to one line and does not joke about the price itself.",
       "common_mistakes": [
@@ -411,21 +644,40 @@
         "If tension rises later, a light, self-directed comment can reset the tone"
       ],
       "categories": [
-        {"category": "professional", "subcategory": "negotiation"},
-        {"category": "written-digital", "subcategory": "email"},
-        {"category": "conversations", "subcategory": "humor"}
+        {
+          "category": "professional",
+          "subcategory": "negotiation"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        }
       ],
-      "situations": ["Negotiating a vendor contract by email", "Salary negotiation", "Resolving a billing dispute with a client", "Splitting household chores with a partner or roommate"],
+      "situations": [
+        "Negotiating a vendor contract by email",
+        "Salary negotiation",
+        "Resolving a billing dispute with a client",
+        "Splitting household chores with a partner or roommate"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapter on the business case for humor (negotiation examples)",
-        "underlying_research": "Kurtzberg, T. R., Naquin, C. E., and Belkin, L. Y. (2009). Humor as a relationship-building tool in online negotiations. International Journal of Conflict Management, 20(4), 377-397 (two experiments with MBA students). The book's own negotiation-study example and any percentage effect were not verified.",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 2, This Is Your Brain on Humor (humor and power, p. 44); TED talk (pet frog line); Stanford GSB 2017 and 2021 articles",
+        "underlying_research": "O'Quin, K., and Aronoff, J. (1981). Humor as a technique of social influence. Social Psychology Quarterly, 44(4), 349-357, doi:10.2307/3033903 (the book's frog study; the 18 percent figure comes from the authors' summaries, not checked against the paper). Kurtzberg, T. R., Naquin, C. E., and Belkin, L. Y. (2009). Humor as a relationship-building tool in online negotiations. International Journal of Conflict Management, 20(4), 377-397 (two experiments, 122 executive MBA and 216 MBA students; abstract read; not confirmed as cited in the book).",
         "urls": [
-          "https://emerald.com/insight/content/doi/10.1108/10444060910991075/full/html"
+          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously/transcript",
+          "https://www.gsb.stanford.edu/insights/humor-serious-business",
+          "https://doi.org/10.2307/3033903",
+          "https://doi.org/10.1108/10444060910991075"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Peer-reviewed experimental evidence, but small samples of MBA students in simulated negotiations, with no large replication found. Specific statistics reported in popular coverage (for example percent more profit) could not be traced to a verified primary source.",
-      "flags": ["unreplicated"]
+      "confidence_rationale": "The book's negotiation study is now identified (O'Quin and Aronoff, 1981). It is a single, old lab study whose effect size is known here only from the authors' summaries. Kurtzberg et al. add peer-reviewed experimental support with student samples in simulated negotiations. No large replication found, so Medium rather than High.",
+      "flags": [
+        "unreplicated"
+      ]
     },
     {
       "id": "humor-seriously-13",
@@ -446,34 +698,56 @@
         "Check for tone misreading: would a stranger or a senior leader read it as intended?"
       ],
       "categories": [
-        {"category": "written-digital", "subcategory": "email"},
-        {"category": "written-digital", "subcategory": "chat"},
-        {"category": "written-digital", "subcategory": "tone-misreading"},
-        {"category": "conversations", "subcategory": "humor"}
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "chat"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "tone-misreading"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        }
       ],
-      "situations": ["Writing a weekly status email", "Setting an out-of-office message", "Posting in team chat", "Sending a thank-you note"],
+      "situations": [
+        "Writing a weekly status email",
+        "Setting an out-of-office message",
+        "Posting in team chat",
+        "Sending a thank-you note"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapters on everyday humor and practical exercises; TED talk",
-        "underlying_research": "Practitioner advice; tone-misreading risk in text is consistent with research on email egocentrism (Kruger, Epley and colleagues, 2005), not verified as cited in the book",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 4, Putting Your Funny to Work (communicating with levity: email sign-offs, out-of-office messages, Deloitte's Bullfighter tool for jargon); TED talk; Stanford GSB Class Takeaways video",
+        "underlying_research": "Practitioner advice and case stories; the book's argument that language shapes behavior is framed loosely. Tone-misreading risk in text is consistent with research on email egocentrism (Kruger, Epley, Parker and Ng, 2005), not verified as cited in the book.",
         "urls": [
-          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously"
+          "https://www.permanentequity.com/content/bringing-your-funny-to-work-in-humor-seriously",
+          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously/transcript",
+          "https://www.gsb.stanford.edu/insights/class-takeaways-humor-serious-business"
         ]
       },
       "confidence": "Low",
-      "confidence_rationale": "Plausible and low-risk advice from credible authors, but no direct evidence that small levity in routine messages improves outcomes. The caution about sarcasm in text rests on separate, stronger research.",
-      "flags": ["none"]
+      "confidence_rationale": "Confirmed in the book's Chapter 4. Plausible, low-risk advice, but no direct evidence that small levity in routine messages improves outcomes. The caution about sarcasm in text rests on separate, stronger research.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "humor-seriously-14",
       "name": "Leaders Set the Levity Culture",
       "skill_type": "framework",
-      "explanation": "The authors argue that the most powerful way a leader shapes a culture of humor is not by being the funniest person but by making room for others: laughing at others' jokes, being willing to be the target of gentle teasing, celebrating small absurdities, and building light rituals into team life. Gravity and levity can coexist: you can take the work seriously without taking yourself too seriously. They report that leaders with a sense of humor are seen as more motivating and their teams more engaged, but the specific statistics often quoted were not traceable to primary studies.",
+      "explanation": "The authors argue that the most powerful way a leader shapes a culture of humor is not by being the funniest person but by making room for others: laughing at others' jokes, being willing to be the target of gentle teasing, celebrating small absurdities, and building light rituals into team life. Gravity and levity can coexist: you can take the work seriously without taking yourself too seriously. They cite a field study of 54 team meetings in which back-and-forth humor patterns (a joke, then laughter, then another joke) went with better team performance immediately and two years later, though not in teams with high job insecurity. They also report that employees who see their boss as having any sense of humor rate that boss 27 percent more motivating and admired and are 15 percent more satisfied; treat those percentages loosely.",
       "when_to_use": "When you lead a team, run a recurring meeting, plan an offsite, or notice that people are guarded and quiet.",
       "worked_example": "A new engineering manager notices her team rarely jokes in her presence. She starts by being an appreciative audience (genuinely laughing at a teammate's dry comment in standup), shares a small mistake of her own lightly, and introduces a monthly 'best bug of the month' award with a silly trophy. Over a few months, people start teasing her gently about her many sticky notes, which she takes as a sign of trust. A parent can do the same at the dinner table by laughing at kids' jokes rather than always being the one making them.",
       "common_mistakes": [
-        "Mandating fun or forcing participation in humor activities",
+        "Mandating fun or forcing participation in humor activities (the book quotes Ed Catmull: fun is not top-down)",
         "Being the only one allowed to joke",
-        "Using humor to dodge accountability during serious moments"
+        "Using humor to dodge accountability during serious moments",
+        "Pushing levity while people fear for their jobs, when the research shows its benefit fades"
       ],
       "steps": [
         "Be a generous audience: laugh at and build on others' humor",
@@ -482,23 +756,202 @@
         "Keep serious moments serious; levity complements rather than replaces gravity"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "humor"},
-        {"category": "conversations", "subcategory": "group-dynamics"},
-        {"category": "professional", "subcategory": "meetings"},
-        {"category": "relationships", "subcategory": "trust-vulnerability"}
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        }
       ],
-      "situations": ["Becoming a new manager", "Running a weekly standup", "Planning a team offsite", "Family dinners"],
+      "situations": [
+        "Becoming a new manager",
+        "Running a weekly standup",
+        "Planning a team offsite",
+        "Family dinners"
+      ],
       "source": {
-        "citation": "Aaker and Bagdonas, Humor, Seriously, chapters on leading with humor and building a culture of levity; McKinsey Author Talks; Talks at Google",
-        "underlying_research": "Leader-humor survey statistics quoted in promotional material (for example a '27 percent more motivating' figure) could not be traced to a primary study; general support from organizational research on leader humor and team outcomes, not verified as the book's specific citations",
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 5, Leading with Humor (pp. 134 to 147) and Chapter 6, Creating a Culture of Levity (pp. 155 to 161); TED talk; Stanford GSB podcast (being generous with laughter)",
+        "underlying_research": "Lehmann-Willenbrock, N., and Allen, J. A. (2014). How fun are your meetings? Investigating the relationship between humor patterns in team interactions and team performance. Journal of Applied Psychology, 99(6), 1278-1287 (54 videotaped team meetings; humor patterns, not humor alone, predicted performance; boundary condition of job insecurity). The 27 percent figure: CNBC reports the authors cite a study in Social Behavior and Personality; the matching paper appears to be Decker, W. H. (1987), Managerial humor and subordinate satisfaction, Social Behavior and Personality 15(2), 225-232 (survey of 290 workers; those rating supervisors high in humor reported higher job satisfaction and rated supervisors higher on other qualities). The abstract does not report 27 or 15 percent, so the mapping is inferred. The book also cites a 2018 Gallup engagement report on approachable managers.",
         "urls": [
-          "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-somebody-tell-a-joke"
+          "https://pubmed.ncbi.nlm.nih.gov/25314363/",
+          "https://www.sbp-journal.com/index.php/sbp/article/view/532",
+          "https://www.gsb.stanford.edu/insights/not-joke-cost-being-humorless",
+          "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously/transcript",
+          "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Raised from Low to Medium: verification found a peer-reviewed field study the book cites (Lehmann-Willenbrock and Allen, 2014) with real teams and a two-year follow-up, plus a likely source for the leader statistic. Still not High: the field study is correlational with an important boundary condition, the 1987 survey is cross-sectional same-source self-report from which the exact percentages cannot be checked, and much of the chapter rests on executive anecdotes.",
+      "flags": [
+        "pop-psychology"
+      ]
+    },
+    {
+      "id": "humor-seriously-15",
+      "name": "The Bad Idea Brainstorm",
+      "skill_type": "technique",
+      "explanation": "Asking a group for good ideas makes people censor anything that sounds silly, and that filter also removes many unusual ideas worth having. The authors describe a leader who instead asks for the silliest, worst ideas possible. The request lowers the stakes, makes the session playful, and gives people permission to say odd things, some of which turn out to be useful once the group starts building on them. The book also argues that starting a work session with levity helps people break out of habitual thinking.",
+      "when_to_use": "When a brainstorm keeps producing safe, predictable ideas; when a team is anxious about looking foolish; when kicking off a creative session.",
+      "worked_example": "A product team stuck on how to reduce customer churn spends ten minutes generating the worst possible retention ideas: hide the cancel button inside a riddle, send a sad violin video to anyone who leaves, call each customer's mother. After the laughter, the facilitator asks what is underneath each bad idea. The 'call their mother' idea leads to a real one: a personal call from a support rep in the first month, aimed at customers who have not set up the product. At home, a family planning a cheap holiday does the same, and 'camp in the backyard' turns into a weekend at a nearby campsite.",
+      "common_mistakes": [
+        "Mocking the bad ideas or the people who offer them, which shuts the exercise down",
+        "Stopping at the laughter without flipping the bad ideas into usable ones",
+        "Announcing it as a fun team-building exercise in a way that feels forced"
+      ],
+      "steps": [
+        "Frame the ask explicitly: we want the worst, silliest ideas we can come up with",
+        "Set a short time box and capture everything without judgment",
+        "For each bad idea, ask what makes it bad and what the opposite or underlying need is",
+        "Pick the most promising flipped ideas and develop them in a normal round"
+      ],
+      "categories": [
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        }
+      ],
+      "situations": [
+        "Running a stuck brainstorm",
+        "Kicking off a creative workshop",
+        "Planning something with family or friends",
+        "Helping a nervous team speak up"
+      ],
+      "source": {
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 4 material on shifting mindsets and unlocking creativity on teams (pp. 119 to 124), quoting Teller, the head of Alphabet's X lab (Astro Teller)",
+        "underlying_research": "Leader anecdote; the book also cites a general claim that humor reveals new connections and creates psychological safety. No study testing the bad-idea format specifically was identified in sources read.",
+        "urls": [
+          "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously"
         ]
       },
       "confidence": "Low",
-      "confidence_rationale": "Sensible advice that fits broad consensus on psychological safety and leader modeling, and it rests heavily on executive anecdotes and company case stories. The headline statistics appear to come from surveys whose methods could not be verified, so treat numeric claims as popular claims.",
-      "flags": ["pop-psychology", "single-anecdote"]
+      "confidence_rationale": "Confirmed in the book via a review's quotations, but it rests on one leader's practice. It is plausible and low-risk and fits wider brainstorming practice (reverse brainstorming), yet thinly supported as a tested technique.",
+      "flags": [
+        "single-anecdote"
+      ]
+    },
+    {
+      "id": "humor-seriously-16",
+      "name": "A Light Line Makes the Point Stick",
+      "skill_type": "mental model",
+      "explanation": "The authors argue that humor makes ideas more memorable, so a small, well-placed light moment can become the thing an audience remembers. Their example is a long State of the Union address in which a brief, mild joke about overlapping regulation of salmon became the word listeners most often recalled the next day. Lab research supports the general effect: humorous sentences are recalled better than plain versions of the same content, apparently because they draw more attention and rehearsal. The practical lesson is to attach the light moment to the point you most want remembered, not to a side detail.",
+      "when_to_use": "When a long presentation, training or update has one point that must stick; when writing an all-hands message or a pitch.",
+      "worked_example": "A safety manager giving a 40-minute quarterly briefing has one critical message: badge in at the loading dock every time. Instead of a joke in the opener, she places a short, true line right on that point: the loading dock door has now been propped open by more people than attended last year's holiday party. Weeks later, people repeat the line, and with it the rule. A parent uses the same idea, putting the silly rhyme on the one house rule that matters.",
+      "common_mistakes": [
+        "Putting the memorable joke on a tangent, so people remember the joke and not the point",
+        "Using so much humor that nothing stands out",
+        "Assuming a remembered joke means the message was persuasive"
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        }
+      ],
+      "situations": [
+        "Delivering a long training or briefing",
+        "Writing an all-hands announcement",
+        "Pitching an idea to executives",
+        "Teaching a child a house rule"
+      ],
+      "source": {
+        "citation": "Aaker and Bagdonas, Humor, Seriously, Chapter 2, This Is Your Brain on Humor (p. 44, humor makes our ideas more memorable); Stanford GSB Think Fast, Talk Smart podcast (State of the Union salmon example and NPR listener survey); Stanford GSB 2017 article",
+        "underlying_research": "Schmidt, S. R. (1994). Effects of humor on sentence memory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20(4), 953-967 (humorous sentences better recalled; effect strongest when humorous and plain items are mixed). Not confirmed as cited in the book. The salmon example is an informal NPR listener poll, and the authors' dopamine explanation is not tested in these sources.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/make-em-laugh-how-humor-can-be-secret-weapon-your-communication",
+          "https://www.gsb.stanford.edu/insights/humor-serious-business",
+          "https://pubmed.ncbi.nlm.nih.gov/8064254/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The claim is confirmed in the authors' material and the memory advantage for humorous material is supported by peer-reviewed lab work. But the lab effect is largely limited to mixed lists, the book's example is anecdotal, and memorability does not equal persuasion.",
+      "flags": [
+        "none"
+      ]
     }
   ],
-  "research_notes": "Network policy blocked direct fetches of nearly every host attempted (ted.com, gsb.stanford.edu, faculty.wharton.upenn.edu, npr.org, charterworks.com, calstatela.edu, mbareads.com). All content was therefore gathered through web search result snippets and their summaries, covering: the TED talk listing, Stanford GSB Think Fast, Talk Smart episode 13 descriptions, McKinsey Author Talks interview, Blinkist summary, Thrive Street Advisors and Medium reviews, Gulf Times and Natalia Bojanic articles, and abstracts or index pages for Bitterly, Brooks and Schweitzer (2017), Bitterly and Schweitzer (2019), Gray, Parkinson and Dunbar (2015), and Kurtzberg, Naquin and Belkin (2009). I did not read the book text or a publisher preview. Unverified or uncertain points: the exact Gallup sample size and year; whether laughter recovers at 70 or 80; the book's own negotiation 'frog' study and any percent effect; the '27 percent more motivating' leader statistic; the exact list of joke devices in the anatomy-of-a-joke chapter; the exact recovery steps for crossing a line; whether the book itself cites Bitterly and Schweitzer (2019), Gray et al. (2015), Dunbar (2012), Rod Martin's Humor Styles Questionnaire, benign violation theory, or email-tone research. Insights 06 and 11 lean on research related to but not confirmed as cited in the book and are marked as such. Publisher and ISBN are for the US hardcover (Currency, 2021) as commonly listed; edition details were not checked against a publisher page. Recommend allowing ted.com, gsb.stanford.edu and faculty.wharton.upenn.edu for a verification pass."
+  "research_notes": "Stage 1 was built from search snippets. In the 2026-11-04 verification pass, pages were read in full via curl: the TED transcript, four Stanford GSB pages (2017 article on the course, 2021 review of the book, Class Takeaways video transcript, Think Fast Talk Smart transcript), the Penguin Random House product page, Open Library's edition record, reviews with page-referenced quotations (Thrive Street Advisors, Permanent Equity, Blaszczynski in Business Forum), Richard Garber's critique of the humor cliff graph, and abstracts or records for each cited paper via PubMed, Crossref and the SBP journal. The book text itself and its endnotes were not read, so chapter assignments come from catalog listings of chapter titles plus page numbers in reviews and may be off by one in places. McKinsey and CNBC could not be fetched. See the verification object for remaining gaps.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.ted.com/talks/jennifer_aaker_and_naomi_bagdonas_why_great_leaders_take_humor_seriously/transcript",
+      "https://www.penguinrandomhouse.com/books/611544/humor-seriously-by-jennifer-aaker-and-naomi-bagdonas/9780593135280/",
+      "https://openlibrary.org/isbn/9780593135280.json",
+      "https://www.gsb.stanford.edu/insights/humor-serious-business",
+      "https://www.gsb.stanford.edu/insights/not-joke-cost-being-humorless",
+      "https://www.gsb.stanford.edu/insights/class-takeaways-humor-serious-business",
+      "https://www.gsb.stanford.edu/insights/make-em-laugh-how-humor-can-be-secret-weapon-your-communication",
+      "https://www.gsb.stanford.edu/faculty-research/books/humor-seriously",
+      "https://www.humorseriously.com/",
+      "https://www.thrivestreetadvisors.com/leadership-library/humor-seriously",
+      "https://www.permanentequity.com/content/bringing-your-funny-to-work-in-humor-seriously",
+      "https://www.calstatela.edu/sites/default/files/book_review-why_humor_is_a_secret_weapon_in_business_and_life.pdf",
+      "https://joyfulpublicspeaking.blogspot.com/2024/08/first-look-at-data-then-look-at-words.html",
+      "https://pubmed.ncbi.nlm.nih.gov/27831701/",
+      "https://pubmed.ncbi.nlm.nih.gov/25762120/",
+      "https://pubmed.ncbi.nlm.nih.gov/25314363/",
+      "https://pubmed.ncbi.nlm.nih.gov/8064254/",
+      "https://www.sbp-journal.com/index.php/sbp/article/view/532",
+      "https://api.crossref.org/works/10.2139/ssrn.2926766",
+      "https://doi.org/10.2307/3033903",
+      "https://doi.org/10.1108/10444060910991075",
+      "https://doi.org/10.1098/rspb.2011.1373",
+      "https://doi.org/10.1007/s11031-006-9045-6",
+      "https://doi.org/10.1016/j.obhdp.2019.01.005"
+    ],
+    "changes": [
+      "book: publisher refined to Currency (Crown Currency, PRH); edition set to first edition US hardcover, Feb 2 2021, 272 pages per PRH; ISBN 9780593135280 confirmed; evidence_base rewritten with identified sources; legal_access replaced with pages actually read.",
+      "humor-seriously-01: confirmed in book (Ch 1 myths, levity as mindset p. 38, ask what is true p. 69); citation and urls updated; step 1 adds the authors' weekly observation exercise.",
+      "humor-seriously-02: Gallup figures (1.4 million, 166 countries, p. 22) confirmed as the book's claim; recovery age resolved to about 80 per authors; added that the graph shows a majority still laughing and a decline starting in the teens; Gallup release itself not found; stays Low.",
+      "humor-seriously-03: confirmed in book (Failure Myth p. 29, two-by-two chart); abstract read and matches; citation updated with DOI; removed note about blocked PDF.",
+      "humor-seriously-04: confirmed via TED and GSB (punching down, polite laughter from Seth Meyers, mirroring the highest-status person p. 121); citation updated.",
+      "humor-seriously-05: confirmed in book p. 108 (self-deprecate with caution early in career); rationale updated.",
+      "humor-seriously-06: not found in any book source; added flag not-confirmed-in-book; abstract read and claim matches; added DOI.",
+      "humor-seriously-07: styles and appendix mini quiz confirmed; descriptions aligned with authors' own wording; no validation found; HSQ citation completed (Martin et al. 2003); stays Low.",
+      "humor-seriously-08: truth and misdirection principles confirmed pp. 69 to 70 and rule of three confirmed; rationale notes end placement and callbacks not confirmed.",
+      "humor-seriously-09: confirmed pp. 181 to 186 with Anne Libera attribution; citation updated to Ch 7.",
+      "humor-seriously-10: three-step recovery (recognize, diagnose, apologize) confirmed via Blaszczynski review; explanation and steps restructured to match.",
+      "humor-seriously-11: Gray et al. 2015 and Bazzini et al. 2007 confirmed as cited; added Bazzini; noted the 30 percent figure and observer-only effect; Dunbar citation corrected to Proc R Soc B 279(1731) 1161-1167.",
+      "humor-seriously-12: book's negotiation study identified as O'Quin and Aronoff 1981 (pet frog, art price, about 18 percent more concessions); explanation rewritten; Kurtzberg kept as related, not confirmed as cited.",
+      "humor-seriously-13: confirmed in Ch 4 Putting Your Funny to Work (sign-offs, out-of-office, Bullfighter); citation updated.",
+      "humor-seriously-14: confidence Low to Medium because the book cites a peer-reviewed field study (Lehmann-Willenbrock and Allen 2014) and the 27 percent figure was traced to a likely source (Decker 1987, Social Behavior and Personality); flag single-anecdote removed; added job-insecurity boundary condition and a related common mistake.",
+      "humor-seriously-15: added Bad Idea Brainstorm (book pp. 119 to 124), Low, single-anecdote.",
+      "humor-seriously-16: added humor and memorability (book p. 44, salmon example; Schmidt 1994 as related research), Medium."
+    ],
+    "still_unverified": [
+      "Exact source of the 27 percent and 15 percent leader figures: Decker (1987) is inferred from CNBC's report of a Social Behavior and Personality citation; the book's endnote and the paper's full text were not read.",
+      "Gallup humor cliff data: survey years, Gallup release, and age breakdown not located; only the book's description and a third-party reading of its graph.",
+      "Effect size in O'Quin and Aronoff (1981): 18 percent comes from the authors' summaries; paper full text not read.",
+      "Whether the book cites Kurtzberg et al. (2009), Dunbar et al. (2012), Bitterly and Schweitzer (2019), the Humor Styles Questionnaire, benign violation theory, Schmidt (1994), or email-tone research.",
+      "Any validation data for the four humor styles quiz.",
+      "Exact chapter numbering: titles come from a library catalog and reviews; numbers other than Chapter 4 are inferred from order and page references.",
+      "Claims in the book not carried into insights, such as the four-year-old laughing 300 times a day (p. 23) and the Hodge-Cronin CEO survey, appear weakly sourced."
+    ]
+  }
 }

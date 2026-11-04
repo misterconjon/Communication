@@ -3,18 +3,47 @@
     "book_id": "made-to-stick",
     "title": "Made to Stick",
     "subtitle": "Why Some Ideas Survive and Others Die",
-    "authors": ["Chip Heath", "Dan Heath"],
+    "authors": [
+      "Chip Heath",
+      "Dan Heath"
+    ],
     "year": 2007,
     "publisher": "Random House",
-    "edition": "First edition, hardcover (US)",
+    "edition": "First edition, hardcover (US), Random House, published January 2, 2007, 336 pages per the publisher and Google Books listings (library catalogs record 291 numbered pages of main text); ISBN-10 1400064287. Trade paperback ISBN 9780812982008 (not separately verified on the publisher site).",
     "isbn": "9781400064281",
     "author_credibility": "Chip Heath is a professor of organizational behavior at Stanford Graduate School of Business and has published peer-reviewed work on why ideas spread, including a study of urban legends (Heath, Bell and Sternberg, 2001, Journal of Personality and Social Psychology). Dan Heath is a senior fellow at Duke University's CASE center and a former course developer and educational publisher. The book blends Chip's academic research and teaching with practitioner case stories. As popular business authors with a commercial framework to sell (the SUCCESs checklist), they tend to choose vivid confirming cases and rarely discuss null or contrary findings.",
-    "evidence_base": "Mixed. Some principles rest on peer-reviewed psychology (the curse of knowledge in economics and cognitive psychology, concreteness effects on memory, Loewenstein's information gap theory of curiosity, the identifiable victim research of Small, Loewenstein and Slovic, mental simulation research by Pham and Taylor, and Heath's own urban legend study). Much of the book is case evidence and anecdote (Southwest Airlines, the Army's Commander's Intent, Subway's Jared, the Don't Mess with Texas campaign, Nordstrom stories) plus classroom exercises from Chip Heath's Stanford course that are not peer-reviewed. Some cited findings have since weakened under replication, notably the identifiable victim effect and a well-known curse of knowledge study (Birch and Bloom, 2007).",
+    "evidence_base": "Mixed. Some principles rest on peer-reviewed psychology (the curse of knowledge in economics and cognitive psychology, concreteness effects on memory, Loewenstein's information gap theory of curiosity, the identifiable victim research of Small, Loewenstein and Slovic, mental simulation research by Pham and Taylor, and Chip Heath's own urban legend study). Much of the book is case evidence and anecdote (Southwest Airlines, the Army's Commander's Intent, Subway's Jared, the Don't Mess with Texas campaign, Nordstrom stories) plus classroom exercises from Chip Heath's Stanford course that are not peer-reviewed. Each principle chapter ends with a 'Clinic' applying it to a case. Some cited findings have since weakened under replication, notably the identifiable victim effect (a pre-registered replication found no effect) and a well-known adult curse of knowledge paradigm (Birch and Bloom, 2007), whose effect a large replication estimated at less than half the original size.",
     "legal_access": [
-      {"type": "author excerpt", "url": "https://heathbrothers.com/", "note": "The authors' site hosts free resources for the book (model summaries and teaching materials). The host was blocked by the session network policy, so it was not read directly."},
-      {"type": "publisher preview", "url": "https://www.penguinrandomhouse.com/books/isbn/9781400064281", "note": "Publisher listing for the 2007 Random House hardcover. Blocked by network policy; bibliographic details confirmed via search snippets and library catalog records."},
-      {"type": "library", "url": "https://opac.westchesterlibraries.org/Record/3262070", "note": "Public library catalog record (New York: Random House, 2007). Widely held in public libraries."},
-      {"type": "summary", "url": "https://fourweekmba.com/success-model/", "note": "Third-party summary of the SUCCESs model, seen via search results."}
+      {
+        "type": "author excerpt",
+        "url": "https://heathbrothers.com/books/made-to-stick/",
+        "note": "The authors' book page (read 2026-11-04): accolades, description and links to free resources. The free Chapter 1 download and other resources require free registration and were not read."
+      },
+      {
+        "type": "publisher preview",
+        "url": "https://www.penguinrandomhouse.com/books/77687/made-to-stick-by-chip-heath-and-dan-heath/9781400064281/",
+        "note": "Publisher page (read 2026-11-04): hardcover published January 2, 2007, 336 pages, ISBN 978-1-4000-6428-1; includes a free text excerpt of the opening of the Introduction (Kidney Heist urban legend and the CSPI movie popcorn campaign)."
+      },
+      {
+        "type": "publisher preview",
+        "url": "https://books.google.com/books?vid=ISBN9781400064281",
+        "note": "Google Books record (read 2026-11-04): Random House, January 2, 2007, 336 pages; publisher description names the human scale principle, Velcro Theory of Memory, curiosity gaps and the Mother Teresa Effect."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://hbr.org/2006/12/the-curse-of-knowledge",
+        "note": "Chip and Dan Heath, 'The Curse of Knowledge', Harvard Business Review, December 2006 (summary page readable; full text paywalled). Author material that previews the book's central villain."
+      },
+      {
+        "type": "library",
+        "url": "https://opac.westchesterlibraries.org/Record/3262070",
+        "note": "Public library catalog record (New York: Random House, 2007). Widely held in public libraries. Could not be re-read in 2026-11-04 session (blocked by the catalog host)."
+      },
+      {
+        "type": "summary",
+        "url": "https://ssir.org/book_reviews/entry/review_made_to_stick",
+        "note": "Stanford Social Innovation Review book review (Summer 2007), read 2026-11-04."
+      }
     ]
   },
   "insights": [
@@ -33,10 +62,22 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "foundations", "subcategory": "audience-goals"},
-        {"category": "foundations", "subcategory": "mindset"},
-        {"category": "written-digital", "subcategory": "clarity-structure"},
-        {"category": "professional", "subcategory": "executive-communication"}
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "professional",
+          "subcategory": "executive-communication"
+        }
       ],
       "situations": [
         "Explaining a technical issue to a non-technical manager",
@@ -46,16 +87,20 @@
         "Teaching a skill you have done for years"
       ],
       "source": {
-        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Introduction",
-        "underlying_research": "Elizabeth Newton's 1990 Stanford doctoral study ('tappers and listeners'): tappers predicted listeners would name about half of tapped songs; listeners named about 3 of 120 (2.5 percent). The term comes from Camerer, Loewenstein and Weber (1989), Journal of Political Economy 97(5). Related work: Birch and Bloom (2007), Psychological Science, on the curse of knowledge in false-belief reasoning.",
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Introduction: What Sticks? (tappers and listeners; the Curse of Knowledge as the villain of the book)",
+        "underlying_research": "Elizabeth Newton's 1990 Stanford psychology dissertation ('tappers and listeners'), as reported in the book: tappers predicted listeners would name about half of the tapped songs; listeners named 3 of 120 (2.5 percent). The term comes from Camerer, Loewenstein and Weber (1989), 'The curse of knowledge in economic settings: An experimental analysis', Journal of Political Economy 97(5), 1232-1254. Related work: Birch and Bloom (2007), 'The curse of knowledge in reasoning about false beliefs', Psychological Science 18(5), 382-386; a seven-experiment high-powered replication (Ryskin and Brown-Schmidt, 2014, PLoS ONE 9(3), e92406) found an effect in the same direction but less than half the original size.",
         "urls": [
-          "https://en.wikipedia.org/wiki/Curse_of_knowledge",
-          "https://madoc.bib.uni-mannheim.de/57750"
+          "https://hbr.org/2006/12/the-curse-of-knowledge",
+          "https://doi.org/10.1086/261651",
+          "https://doi.org/10.1371/journal.pone.0092406",
+          "https://en.wikipedia.org/wiki/Curse_of_knowledge"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The broad phenomenon (difficulty ignoring privileged knowledge, closely related to hindsight bias and egocentric projection) is well supported across economics and psychology. However, the tapping study the book leans on is an unpublished dissertation not widely replicated as a standalone experiment, and at least one prominent curse of knowledge paradigm (Birch and Bloom, 2007) has had failed or weaker replications. Rated Medium rather than High for these reasons; the practical advice to test messages on outsiders is low-risk.",
-      "flags": ["unreplicated"]
+      "confidence_rationale": "The broad phenomenon (difficulty ignoring privileged knowledge, closely related to hindsight bias and egocentric projection) is well supported across economics and psychology, and the authors also published it as an HBR article. However, the tapping study the book leans on is an unpublished dissertation not replicated as a standalone experiment, and a high-powered replication of a prominent adult curse of knowledge paradigm (Birch and Bloom, 2007) found the effect to be real but less than half as large. Rated Medium rather than High for these reasons; the practical advice to test messages on outsiders is low-risk.",
+      "flags": [
+        "unreplicated"
+      ]
     },
     {
       "id": "made-to-stick-02",
@@ -78,9 +123,18 @@
         "Test it: tell it to someone outside the topic, wait a while, and ask what they remember"
       ],
       "categories": [
-        {"category": "influence", "subcategory": "memorable-messages"},
-        {"category": "foundations", "subcategory": "message-structures"},
-        {"category": "public-speaking", "subcategory": "structure"}
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "message-structures"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        }
       ],
       "situations": [
         "Preparing a pitch or proposal",
@@ -90,22 +144,25 @@
         "Setting a household rule children will remember"
       ],
       "source": {
-        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Introduction and Epilogue (overview of the six principles; one chapter per principle)",
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Introduction: What Sticks? (the six principles); Chapters 1 to 6 (Simple, Unexpected, Concrete, Credible, Emotional, Stories, one per principle, each ending in a 'Clinic'); Epilogue: What Sticks",
         "underlying_research": "Authors' synthesis of case studies, urban legend analysis (Heath, Bell and Sternberg, 2001), and classroom exercises. The framework itself has not been tested as a whole in controlled studies.",
         "urls": [
-          "https://fourweekmba.com/success-model/",
+          "https://en.wikipedia.org/wiki/Made_to_Stick",
+          "https://heathbrothers.com/books/made-to-stick/",
           "https://www.supersummary.com/made-to-stick/summary/"
         ]
       },
       "confidence": "Medium",
       "confidence_rationale": "Several individual components have research support (concreteness, curiosity, emotional content in spread), but the six-part framework is the authors' synthesis, supported mainly by selected cases. It is a useful diagnostic, not a validated model.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "made-to-stick-03",
       "name": "Find the Core (Commander's Intent)",
       "skill_type": "technique",
-      "explanation": "Simple, in the Heaths' sense, means finding the single most important thing and ruthlessly cutting everything else, even good points. They borrow the military idea of Commander's Intent: a short plain statement of what success looks like, so people can still act sensibly when the detailed plan falls apart. A well-found core works as a decision filter. Their example is Southwest Airlines framing itself as the low-fare airline, which let employees reject an appealing idea (adding a meal) because it did not serve the core. The discipline is forced prioritization: if you say three things, you say nothing.",
+      "explanation": "Simple, in the Heaths' sense, means finding the single most important thing and ruthlessly cutting everything else, even good points. They borrow the military idea of Commander's Intent: a short plain statement of what success looks like, so people can still act sensibly when the detailed plan falls apart. A well-found core works as a decision filter. Their example is Southwest Airlines framing itself as THE low-fare airline: former CEO Herb Kelleher illustrated it with a hypothetical marketing proposal to serve a chicken Caesar salad on the Houston to Las Vegas route, which fails the test because it does not make Southwest the low-fare carrier on that route. The discipline is forced prioritization: if you say three things, you say nothing.",
       "when_to_use": "When delegating, kicking off a project, writing a long email or report, setting team priorities, or when people keep making decisions that drift from what you wanted.",
       "worked_example": "A manager going on two weeks' leave writes a five-page handover. Instead she adds one line at the top: 'If you only remember one thing: the client launch on the 14th must not slip; everything else can wait.' Her deputy later faces a choice between fixing an internal dashboard and testing the client release, and the one line settles it. At home, a couple planning a renovation agrees on a core ('the kitchen must work for cooking together') and uses it to say no to an expensive island that blocks the walkway.",
       "common_mistakes": [
@@ -122,10 +179,22 @@
         "Lead with the core in speech and writing, then add detail beneath it"
       ],
       "categories": [
-        {"category": "foundations", "subcategory": "message-structures"},
-        {"category": "professional", "subcategory": "executive-communication"},
-        {"category": "written-digital", "subcategory": "executive-writing"},
-        {"category": "influence", "subcategory": "memorable-messages"}
+        {
+          "category": "foundations",
+          "subcategory": "message-structures"
+        },
+        {
+          "category": "professional",
+          "subcategory": "executive-communication"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "executive-writing"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        }
       ],
       "situations": [
         "Delegating a task before going on leave",
@@ -136,15 +205,18 @@
       ],
       "source": {
         "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 1: Simple",
-        "underlying_research": "US Army doctrine on Commander's Intent; Southwest Airlines case (anecdotal, attributed to former CEO Herb Kelleher). The chapter also discusses decision-paralysis research (choice under conflict); not verified in this session.",
+        "underlying_research": "US Army doctrine on Commander's Intent; Southwest Airlines case: Kelleher's chicken Caesar salad illustration, which the Heaths take from James Carville and Paul Begala's book Buck Up, Suck Up... and Come Back When You Foul Up (2002), as noted by readers' summaries. The chapter's discussion of decision paralysis relates to Tversky and Shafir (1992), 'Choice under conflict: The dynamics of deferred decision', Psychological Science 3(6), 358-361; that the book cites this specific paper was not confirmed.",
         "urls": [
           "https://www.shortform.com/blog/?p=45730",
+          "https://til.secretgeek.net/reading_notes/Heath_MadeToStick.html",
           "https://www.pdma.org/review_made_to_stick"
         ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Commander's Intent is established military practice and leading with the main point is a strong consensus in professional writing guidance. Evidence in the book is case-based rather than experimental, and the Southwest salad story is a single anecdote whose details vary across retellings.",
-      "flags": ["single-anecdote"]
+      "confidence_rationale": "Commander's Intent is established military practice and leading with the main point is a strong consensus in professional writing guidance. Evidence in the book is case-based rather than experimental. The Southwest salad story is a single anecdote, framed by Kelleher as a hypothetical illustration and reaching the book secondhand through Carville and Begala.",
+      "flags": [
+        "single-anecdote"
+      ]
     },
     {
       "id": "made-to-stick-04",
@@ -167,10 +239,22 @@
         "Check: can listeners use it to answer a new question correctly?"
       ],
       "categories": [
-        {"category": "influence", "subcategory": "memorable-messages"},
-        {"category": "influence", "subcategory": "framing"},
-        {"category": "written-digital", "subcategory": "clarity-structure"},
-        {"category": "public-speaking", "subcategory": "structure"}
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "influence",
+          "subcategory": "framing"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        }
       ],
       "situations": [
         "Explaining a technical concept to executives",
@@ -182,12 +266,15 @@
         "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 1: Simple (schemas, generative analogies)",
         "underlying_research": "General cognitive psychology of schemas and analogical reasoning; the book's support is mainly illustrative examples (pomelo, Disney cast members, Hollywood high-concept pitches).",
         "urls": [
+          "https://dansilvestre.com/?p=3913",
           "https://www.supersummary.com/made-to-stick/summary/"
         ]
       },
       "confidence": "Medium",
       "confidence_rationale": "That prior knowledge (schemas) aids comprehension and that analogies support learning has broad support in education research, but the book itself relies on examples rather than citing specific studies; specific claims about 'generative' analogies are expert judgment.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "made-to-stick-05",
@@ -210,9 +297,18 @@
         "Explain it so the surprise makes sense and points back to the core"
       ],
       "categories": [
-        {"category": "influence", "subcategory": "memorable-messages"},
-        {"category": "public-speaking", "subcategory": "structure"},
-        {"category": "influence", "subcategory": "overcoming-resistance"}
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "overcoming-resistance"
+        }
       ],
       "situations": [
         "Opening a presentation",
@@ -224,12 +320,15 @@
         "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 2: Unexpected",
         "underlying_research": "General attention and schema-violation research on surprise; book support is largely anecdote and examples (Nordstrom stories, a journalism teacher's lesson on leads, airline safety announcements).",
         "urls": [
-          "https://www.supersummary.com/made-to-stick/summary/"
+          "https://www.supersummary.com/made-to-stick/summary/",
+          "https://dansilvestre.com/?p=3913"
         ]
       },
       "confidence": "Medium",
       "confidence_rationale": "That novelty and expectation violation capture attention is well established in psychology, but the specific practice advice is supported by illustrative cases rather than controlled comparisons of message openings.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "made-to-stick-06",
@@ -252,9 +351,18 @@
         "Close the gap clearly and link the answer to your core point"
       ],
       "categories": [
-        {"category": "public-speaking", "subcategory": "structure"},
-        {"category": "influence", "subcategory": "memorable-messages"},
-        {"category": "conversations", "subcategory": "storytelling"}
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        }
       ],
       "situations": [
         "Presenting quarterly results",
@@ -264,15 +372,18 @@
       ],
       "source": {
         "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 2: Unexpected (gap theory of curiosity)",
-        "underlying_research": "George Loewenstein (1994), 'The psychology of curiosity: A review and reinterpretation', Psychological Bulletin 116(1), 75-98. Tested by Kang et al. (2009), which found an inverted-U relation between confidence and curiosity consistent with the theory.",
+        "underlying_research": "George Loewenstein (1994), 'The psychology of curiosity: A review and reinterpretation', Psychological Bulletin 116(1), 75-98 (the book names Loewenstein and his gap theory). Tested by Kang, Hsu, Krajbich, Loewenstein and colleagues (2009), 'The wick in the candle of learning', Psychological Science 20(8), 963-973, which found an inverted-U relation between confidence and curiosity consistent with the theory.",
         "urls": [
-          "https://stafforini.com/works/loewenstein-1994-psychology-curiosity-review/",
-          "https://www.cmu.edu/dietrich/sds/docs/golman/golman_loewenstein_curiosity.pdf"
+          "https://doi.org/10.1037/0033-2909.116.1.75",
+          "https://doi.org/10.1111/j.1467-9280.2009.02402.x",
+          "https://www.nateliason.com/notes/made-stick-chip-dan-heath"
         ]
       },
       "confidence": "Medium",
       "confidence_rationale": "Loewenstein's theory is influential and has supporting experiments (for example Kang et al., 2009), but it is a theoretical framework with competing accounts (novelty-based curiosity) and no direct replication program of applied communication effects. Practical use is low-risk.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "made-to-stick-07",
@@ -295,10 +406,22 @@
         "Check that two different people would picture the same thing"
       ],
       "categories": [
-        {"category": "written-digital", "subcategory": "clarity-structure"},
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "influence", "subcategory": "memorable-messages"},
-        {"category": "personal-life", "subcategory": "partners"}
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
       ],
       "situations": [
         "Giving feedback to a direct report",
@@ -309,15 +432,18 @@
       ],
       "source": {
         "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 3: Concrete",
-        "underlying_research": "Concreteness effect in memory and comprehension: Allan Paivio's dual coding theory (concrete material is encoded both verbally and as imagery); Sadoski, Goetz and Fritz (1993) on concrete text being rated more comprehensible and interesting and better recalled. Caveat from Marschark and colleagues that the imagery explanation is debated.",
+        "underlying_research": "Concreteness effect in memory and comprehension: Allan Paivio's dual coding theory (concrete material is encoded both verbally and as imagery); Sadoski, Goetz and Fritz (1993), 'Impact of concreteness on comprehensibility, interest, and memory for text', Journal of Educational Psychology 85(2), 291-304 (concrete text rated more comprehensible and interesting and better recalled). Caveat from Marschark and colleagues that the imagery explanation is debated. The 'Velcro Theory of Memory' is the authors' own term (named in the publisher description).",
         "urls": [
+          "https://doi.org/10.1037/0022-0663.85.2.291",
           "https://link.springer.com/content/pdf/10.3758/BF03197531.pdf",
-          "https://www.scribd.com/doc/171991178/Dual-Coding-Theory-Paivio"
+          "https://heathbrothers.com/books/made-to-stick/"
         ]
       },
       "confidence": "High",
       "confidence_rationale": "The concreteness advantage in recall and comprehension is one of the more robust findings in memory research, replicated from single words to longer text. The mechanism (dual coding) is debated, but the practical effect is well supported. The Velcro metaphor is the authors' framing, not a technical model.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "made-to-stick-08",
@@ -340,10 +466,22 @@
         "Where possible, invite the listener to verify the claim themselves"
       ],
       "categories": [
-        {"category": "influence", "subcategory": "credibility"},
-        {"category": "influence", "subcategory": "overcoming-resistance"},
-        {"category": "professional", "subcategory": "managing-up"},
-        {"category": "written-digital", "subcategory": "proposals-memos"}
+        {
+          "category": "influence",
+          "subcategory": "credibility"
+        },
+        {
+          "category": "influence",
+          "subcategory": "overcoming-resistance"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "proposals-memos"
+        }
       ],
       "situations": [
         "Proposing an idea as a junior employee",
@@ -355,18 +493,22 @@
         "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 4: Credible",
         "underlying_research": "Mostly case examples (for example the 'Where's the beef?' advertising campaign as a testable credential, and a smoking-harm spokesperson as an anti-authority). No controlled studies verified in this session for the Sinatra test or testable credentials specifically.",
         "urls": [
+          "https://www.nateliason.com/notes/made-stick-chip-dan-heath",
+          "https://dansilvestre.com/?p=3913",
           "https://www.supersummary.com/made-to-stick/summary/"
         ]
       },
       "confidence": "Medium",
       "confidence_rationale": "Ideas such as human-scale numbers and verifiable evidence fit broader persuasion and numeracy research, and the advice is credible practitioner guidance. However, the specific tools are named and supported by cases rather than tested experimentally; some vivid-detail claims rest on single studies the book summarizes briefly.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "made-to-stick-09",
       "name": "One Person, Not a Million (Identifiable Victim)",
       "skill_type": "mental model",
-      "explanation": "The Heaths argue that people care more about one specific individual than about large statistics (they call it the Mother Teresa principle, after a remark attributed to her that she would act for the one, not the mass). They cite research in which people gave more to help one named, pictured girl than in response to statistics about millions suffering, and gave less when statistics were added to her story, suggesting that putting people into analytic mode dampens feeling. The communication lesson: when you want people to care, show a specific person or case before (or instead of) aggregate numbers. Important caveat: the underlying research has replicated poorly, so treat the size of this effect with caution.",
+      "explanation": "The Heaths argue that people care more about one specific individual than about large statistics (the publisher calls it the Mother Teresa Effect, after a remark attributed to her that she would act for the one, not the mass). They cite a study in which people given five dollars donated, on average, more than twice as much after reading about Rokia, a seven-year-old girl in Mali, as after reading statistics about millions facing hunger, and gave less when the statistics were added to her story, suggesting that putting people into analytic mode dampens feeling. The communication lesson: when you want people to care, show a specific person or case before (or instead of) aggregate numbers. Important caveat: the underlying research has replicated poorly, so treat the size of this effect with caution.",
       "when_to_use": "Fundraising or volunteer appeals, making the case for a customer-facing fix, explaining why a policy matters to real people, or persuading friends and family to care about a cause.",
       "worked_example": "A product manager asking for engineering time to fix accessibility bugs starts with Maria, a long-time customer who uses a screen reader and was locked out of paying her invoice for a week, and only then shows that 4 percent of users rely on assistive technology. For a neighborhood food bank drive, a volunteer writes about one family's week rather than leading with county hunger statistics.",
       "common_mistakes": [
@@ -377,9 +519,18 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "influence", "subcategory": "framing"},
-        {"category": "influence", "subcategory": "persuasive-structure"},
-        {"category": "conversations", "subcategory": "storytelling"}
+        {
+          "category": "influence",
+          "subcategory": "framing"
+        },
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        }
       ],
       "situations": [
         "Writing a fundraising appeal",
@@ -389,16 +540,20 @@
       ],
       "source": {
         "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 5: Emotional",
-        "underlying_research": "Small, Loewenstein and Slovic (2007), 'Sympathy and callousness', Organizational Behavior and Human Decision Processes 102(2), 143-153 (the 'Rokia' study). Replication: Maier et al. (2024), a pre-registered replication published in Collabra, found no support for the identifiable victim effect; Lee and Feeley's (2016) meta-analysis found a significant but small effect (r = .05), which a later bias-corrected reanalysis by Maier and colleagues suggests may be near zero.",
+        "underlying_research": "Small, Loewenstein and Slovic (2007), 'Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims', Organizational Behavior and Human Decision Processes 102(2), 143-153. Study 3 (159 participants, each given five one-dollar bills): mean donations were $2.38 for the Rokia letter, $1.14 for the statistics letter and $1.43 for Rokia plus statistics; the book reports the $2.38 versus $1.14 comparison. Replication: Maier, Wong and Feldman (2024), 'Revisiting and rethinking the identifiable victim effect: Replication and extension of Small, Loewenstein, and Slovic (2007)', Collabra: Psychology 9(1), 90203, a pre-registered far replication of Studies 1 and 3 using hypothetical (not real) donations, found no support for the effect; the same paper's robust Bayesian reanalysis of Lee and Feeley's (2016) meta-analysis (Social Influence 11(3), 199-215, which reported a significant but modest r = .05 across 41 studies) indicated publication bias.",
         "urls": [
-          "https://en.wikipedia.org/wiki/Identifiable_victim_effect",
-          "https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/understanding-emotional-appeals-how-to-get-chartiable-donations/",
-          "https://pure.skku.edu/en/publications/the-identifiable-victim-effect-a-meta-analytic-review/"
+          "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Sympathy_and_callousness.pdf",
+          "https://doi.org/10.1525/collabra.90203",
+          "https://pure.skku.edu/en/publications/the-identifiable-victim-effect-a-meta-analytic-review/",
+          "https://www.gsb.stanford.edu/insights/increase-charitable-donations-appeal-heart-not-head"
         ]
       },
       "confidence": "Low",
-      "confidence_rationale": "The original study was influential, but a pre-registered replication of Small et al. (2007) failed and meta-analytic evidence suggests a small effect that may disappear after correcting for publication bias. The general advice to pair data with a concrete human example is still reasonable on concreteness grounds, but the specific claim that statistics reduce giving should be treated as contested.",
-      "flags": ["contested", "unreplicated"]
+      "confidence_rationale": "The original study was influential, but a pre-registered replication of Small et al. (2007) found no identifiable victim effect, and a bias-corrected reanalysis of the meta-analytic evidence suggests the average effect may be near zero. The replication used hypothetical rather than real donations, so the question is not fully settled. The general advice to pair data with a concrete human example is still reasonable on concreteness grounds, but the specific claim that statistics reduce giving should be treated as contested.",
+      "flags": [
+        "contested",
+        "unreplicated"
+      ]
     },
     {
       "id": "made-to-stick-10",
@@ -421,10 +576,22 @@
         "Keep claims realistic so the picture survives contact with reality"
       ],
       "categories": [
-        {"category": "influence", "subcategory": "persuasive-structure"},
-        {"category": "influence", "subcategory": "framing"},
-        {"category": "professional", "subcategory": "negotiation"},
-        {"category": "foundations", "subcategory": "audience-goals"}
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "framing"
+        },
+        {
+          "category": "professional",
+          "subcategory": "negotiation"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        }
       ],
       "situations": [
         "Rolling out a new tool to a team",
@@ -434,21 +601,24 @@
       ],
       "source": {
         "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 5: Emotional (self-interest and Maslow's hierarchy)",
-        "underlying_research": "Gregory, Cialdini and Carpenter (1982), 'Self-relevant scenarios as mediators of likelihood estimates and compliance: Does imagining make it so?', Journal of Personality and Social Psychology 43(1), 89-99 (cable TV door-to-door study in Tempe, Arizona). Maslow's hierarchy of needs as a framing device. The authors also cite a Chip Heath study on people assuming others are more motivated by extrinsic rewards than they themselves are (not verified in this session).",
+        "underlying_research": "Gregory, Cialdini and Carpenter (1982), 'Self-relevant scenarios as mediators of likelihood estimates and compliance: Does imagining make it so?', Journal of Personality and Social Psychology 43(1), 89-99 (cable TV door-to-door study in Tempe, Arizona; the book's contents list a section on cable television in Tempe). Maslow's hierarchy of needs as a framing device ('Avoiding Maslow's basement' is a section of the chapter). The extrinsic incentives point matches Chip Heath (1999), 'On the social psychology of agency relationships: Lay theories of motivation overemphasize extrinsic incentives', Organizational Behavior and Human Decision Processes 78(1), 25-62; that the book cites this paper by name was not confirmed.",
         "urls": [
-          "https://scilit.net/publications/e164b37b31b26aa534e999f81712ce2b",
+          "https://doi.org/10.1037/0022-3514.43.1.89",
+          "https://doi.org/10.1006/obhd.1999.2826",
           "https://persuasion-and-influence.blogspot.com/2015/01/imagine-that.html"
         ]
       },
       "confidence": "Medium",
       "confidence_rationale": "Focusing on audience benefits is strong consensus in persuasion practice, and the imagery study is a published peer-reviewed experiment; however, it is a single 1980s study and later research has found that imagery appeals can backfire when the scenario is hard to imagine. Maslow's hierarchy as a strict hierarchy has weak empirical support, so it is used here only as a reminder that people value non-material benefits.",
-      "flags": ["unreplicated"]
+      "flags": [
+        "unreplicated"
+      ]
     },
     {
       "id": "made-to-stick-11",
       "name": "Appeal to Identity",
       "skill_type": "technique",
-      "explanation": "People often decide not by calculating costs and benefits but by asking 'what would someone like me do here?' The Heaths draw on James March's identity-based model of decision-making and use the Don't Mess with Texas anti-litter campaign as an example: rather than appealing to guilt or fines, it framed littering as something real Texans do not do, using figures the target audience admired. The lesson is to connect your request to who your audience believes they are (a professional, a good parent, a team player, a proud member of a community).",
+      "explanation": "People often decide not by calculating costs and benefits but by asking 'what would someone like me do here?' The Heaths list appealing to identity as one of their three ways of making people care (alongside associations and self-interest), and use the Don't Mess with Texas anti-litter campaign as the example: rather than appealing to civic duty or fines, it framed littering as something real Texans do not do, aimed at the young men who littered most and using figures they admired. The identity-based model of decision-making associated with James March fits this idea. The lesson is to connect your request to who your audience believes they are (a professional, a good parent, a team player, a proud member of a community).",
       "when_to_use": "Behavior change requests, culture-setting messages, persuading groups with a strong shared identity, and personal requests where values matter more than incentives.",
       "worked_example": "An engineering manager wants more thorough code reviews. Instead of announcing a new policy with penalties, she says: 'We're the team other teams copy. The way we review code is part of what people mean when they say our work is solid.' In a family, a parent encourages a teenager to call an elderly grandparent by saying 'you're the one in this family who always notices when someone is lonely', which lands better than a reminder about obligations.",
       "common_mistakes": [
@@ -465,10 +635,22 @@
         "Avoid implying they are failing at the identity"
       ],
       "categories": [
-        {"category": "influence", "subcategory": "framing"},
-        {"category": "influence", "subcategory": "overcoming-resistance"},
-        {"category": "personal-life", "subcategory": "family"},
-        {"category": "professional", "subcategory": "meetings"}
+        {
+          "category": "influence",
+          "subcategory": "framing"
+        },
+        {
+          "category": "influence",
+          "subcategory": "overcoming-resistance"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
       ],
       "situations": [
         "Changing team habits without new rules",
@@ -478,12 +660,17 @@
       ],
       "source": {
         "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 5: Emotional (appealing to identity)",
-        "underlying_research": "James G. March's distinction between consequence-based and identity-based (appropriateness) decision-making; Don't Mess with Texas campaign as a case study.",
-        "urls": []
+        "underlying_research": "Don't Mess with Texas campaign (created in 1985 by Tim McClure and Mike Blair of the agency GSD&M for the Texas Department of Transportation) as a case study. James G. March's identity-based (logic of appropriateness) model of decision-making; the Heaths explicitly use March's identity model in their later book Switch (2010), but whether Made to Stick names March was not confirmed.",
+        "urls": [
+          "https://en.wikipedia.org/wiki/Don%27t_Mess_with_Texas",
+          "https://www.nateliason.com/notes/made-stick-chip-dan-heath"
+        ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Identity-based motivation and social identity effects are well studied in social psychology, and March's framework is a respected theory, but the book's support is a case study (a single, famous campaign) rather than experiments directly testing identity framing.",
-      "flags": ["single-anecdote"]
+      "confidence_rationale": "Identity-based motivation and social identity effects are well studied in social psychology, and March's framework is a respected theory, but the book's support is a case study (a single, famous campaign) rather than experiments directly testing identity framing. Appealing to identity is confirmed as a book theme; the March attribution within this book is not confirmed.",
+      "flags": [
+        "single-anecdote"
+      ]
     },
     {
       "id": "made-to-stick-12",
@@ -507,10 +694,22 @@
         "Tell it with concrete detail, and state the lesson briefly if it is not obvious"
       ],
       "categories": [
-        {"category": "conversations", "subcategory": "storytelling"},
-        {"category": "public-speaking", "subcategory": "structure"},
-        {"category": "influence", "subcategory": "memorable-messages"},
-        {"category": "professional", "subcategory": "meetings"}
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
       ],
       "situations": [
         "Onboarding or training new staff",
@@ -520,16 +719,20 @@
         "Opening a keynote or toast"
       ],
       "source": {
-        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 6: Stories",
-        "underlying_research": "Pham and Taylor (1999), 'From thought to action: Effects of process- versus outcome-based mental simulations on performance', Personality and Social Psychology Bulletin 25, 250-260 (students who simulated the study process studied more and earned better grades than those imagining the outcome). The stories-versus-statistics recall result (reported as about 63 percent recalling stories versus about 5 percent recalling any statistic) comes from Chip Heath's classroom exercise, not a peer-reviewed study.",
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 6: Stories (flight simulator, Jared, the three plots); the Stanford crime-speech exercise is described in the Epilogue",
+        "underlying_research": "Pham and Taylor (1999), 'From thought to action: Effects of process- versus outcome-based mental simulations on performance', Personality and Social Psychology Bulletin 25(2), 250-260 (students who simulated the study process studied more and earned better grades than those imagining the outcome). The stories-versus-statistics result comes from Chip Heath's classroom exercise, not a peer-reviewed study: in one-minute speeches about nonviolent crime, the typical student used about 2.5 statistics and only one in ten told a story, yet on recall about ten minutes later 63 percent of listeners remembered the stories and 5 percent remembered any individual statistic.",
         "urls": [
-          "https://journals.sagepub.com/doi/10.1177/0146167299025002010",
-          "https://mannerofspeaking.org/2009/10/13/making-it-stick-tell-stories/"
+          "https://doi.org/10.1177/0146167299025002010",
+          "https://mannerofspeaking.org/2009/10/13/making-it-stick-tell-stories/",
+          "https://www.theologyofwork.org/the-high-calling/what-sticks/",
+          "https://dansilvestre.com/?p=3913"
         ]
       },
       "confidence": "Medium",
       "confidence_rationale": "Process simulation is supported by a published experiment and related mental-simulation research, and narrative advantages in engagement are broadly accepted. The memorable classroom figures are informal and frequently misquoted (and inflated claims such as 'stories are 22 times more memorable' have no verifiable source). The three plot types are the authors' taxonomy rather than an empirical finding.",
-      "flags": ["unreplicated"]
+      "flags": [
+        "unreplicated"
+      ]
     },
     {
       "id": "made-to-stick-13",
@@ -546,9 +749,18 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "influence", "subcategory": "memorable-messages"},
-        {"category": "difficult", "subcategory": "bad-news"},
-        {"category": "written-digital", "subcategory": "chat"}
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "bad-news"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "chat"
+        }
       ],
       "situations": [
         "Correcting an office rumor",
@@ -557,17 +769,134 @@
         "Announcing uncertain news before details are final"
       ],
       "source": {
-        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Introduction and Chapter 5: Emotional",
-        "underlying_research": "Heath, Bell and Sternberg (2001), 'Emotional selection in memes: The case of urban legends', Journal of Personality and Social Psychology 81(6), 1028-1041 (legends with more disgust-evoking motifs were more widely distributed and people were more willing to pass them on).",
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Introduction: What Sticks? (urban legends such as the Kidney Heist) and Chapter 5: Emotional; the urban legend research is Chip Heath's own",
+        "underlying_research": "Heath, Bell and Sternberg (2001), 'Emotional selection in memes: The case of urban legends', Journal of Personality and Social Psychology 81(6), 1028-1041 (people were more willing to pass on versions that evoked stronger disgust, and legends with more disgust motifs were more widely distributed on urban legend websites). That the book cites this paper by name was not confirmed; its use of urban legends and emotional selection is.",
         "urls": [
           "https://bec.ucla.edu/wp-content/uploads/sites/108/archive/papers/Heath_Emotional_Selection.pdf",
-          "https://read.qxmd.com/read/11761305/emotional-selection-in-memes-the-case-of-urban-legends"
+          "https://doi.org/10.1037/0022-3514.81.6.1028",
+          "https://stanfordmag.org/contents/legendary-subjects"
         ]
       },
       "confidence": "Medium",
       "confidence_rationale": "Supported by a peer-reviewed study by one of the authors, consistent with later research showing emotional and novel content spreads further online. The study focused on disgust and urban legends, so generalizing to all emotions and workplace communication is an extrapolation; note the author has an interest in the finding.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "made-to-stick-14",
+      "name": "Translate Numbers to Human Scale",
+      "skill_type": "technique",
+      "explanation": "Large or technical numbers rarely land on their own. The Heaths' human scale principle says to re-express a statistic in terms of something people already know and can picture, because what you want them to remember is usually the relationship, not the figure. Their examples include an activist who conveyed the size of the world's nuclear arsenal by dropping BBs into a metal bucket, one BB per Hiroshima bomb, and a comparison of how rarely sharks kill people with how often deer do. The aim is not to drop the number but to give it a familiar comparison so the audience can feel its size and act on it. The Heaths later devoted a whole book (Making Numbers Count, 2022) to this idea.",
+      "when_to_use": "Presenting budgets, risks, performance data or survey results to people who are not specialists; writing reports, pitches or donation appeals that rely on a key figure; explaining a bill, loan or medical risk to family.",
+      "worked_example": "An IT manager wants funding to fix slow laptops. Instead of '11,000 hours lost per year', she says: 'Our staff lose about the same time each year as six full-time employees sitting idle, just waiting for laptops to start.' At home, someone weighing a car loan reframes '$4,800 in interest' as 'about four months of our grocery budget', which makes the cost easy to compare with the alternatives.",
+      "common_mistakes": [
+        "Choosing a comparison the audience does not actually know well",
+        "Using a vivid comparison that distorts the real size of the number",
+        "Translating every number, so the key one gets lost",
+        "Dropping the original figure entirely when decision-makers need it"
+      ],
+      "steps": [
+        "Pick the one number that matters most for the decision",
+        "Decide what you want people to grasp about it (size, rate, comparison)",
+        "Find a familiar unit or everyday comparison the audience uses (time, people, money, a known object)",
+        "State the comparison first, then give the precise figure",
+        "Check with someone outside the topic that the comparison leaves the right impression"
+      ],
+      "categories": [
+        {
+          "category": "influence",
+          "subcategory": "credibility"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "professional",
+          "subcategory": "executive-communication"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        }
+      ],
+      "situations": [
+        "Presenting a budget request",
+        "Explaining a risk or metric to leadership",
+        "Writing a fundraising appeal with statistics",
+        "Comparing loan or purchase costs with a partner"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 4: Credible (statistics and the human scale principle; the BBs in a bucket and deer versus shark examples)",
+        "underlying_research": "Barrio, Goldstein and Hofman (2016), 'Improving comprehension of numbers in the news', Proceedings of CHI 2016, 2729-2739: across three randomized online experiments with over 3,200 participants, short 'perspective' sentences that re-expressed numbers improved recall, estimation and error detection. Not cited in the book (it postdates it); supports the principle independently. Book examples (Ainscow's BBs in a bucket; deer versus shark) are confirmed through quoted passages in reader notes.",
+        "urls": [
+          "https://books.google.com/books?vid=ISBN9781400064281",
+          "https://www.nateliason.com/notes/made-stick-chip-dan-heath",
+          "https://doi.org/10.1145/2858036.2858510",
+          "https://heathbrothers.com/books/making-numbers-count/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The principle is named in the publisher's description and in reader summaries of the Credible chapter, and randomized experiments (Barrio et al., 2016, and follow-up work by the same group) support re-expressing numbers to improve comprehension and recall. Rated Medium because that evidence comes mainly from one research group and online samples, and the book itself supports the principle with cases.",
+      "flags": [
+        "none"
+      ]
     }
   ],
-  "research_notes": "Network access: WebFetch was blocked for every host attempted (heathbrothers.com, readingraphics.com, forrt.org, penguinrandomhouse.com, gsb.stanford.edu), so no page was read in full. All verification came from WebSearch result snippets and summaries of: third-party book summaries (supersummary, fourweekmba, shortform, pdma review, mannerofspeaking), library catalog and bookseller records (Random House, 2007, ISBN 9781400064281, ISBN-10 1400064287; one catalog lists 2008, likely a reprint), Wikipedia entries on the curse of knowledge and identifiable victim effect, abstracts and indexes for Camerer, Loewenstein and Weber (1989), Birch and Bloom (2007), Loewenstein (1994), Small, Loewenstein and Slovic (2007), Lee and Feeley (2016), Maier et al. (2024), Pham and Taylor (1999), Gregory, Cialdini and Carpenter (1982), Heath, Bell and Sternberg (2001), and concreteness/dual coding literature (Paivio; Sadoski et al.). Chapter structure (Introduction; Simple; Unexpected; Concrete; Credible; Emotional; Stories; Epilogue) and several book examples (pomelo, Disney cast members, Don't Mess with Texas, Maslow's basement, March's identity model, Sinatra test, the three plots) are described from general knowledge of the book and corroborated by summaries in search results, but were not checked against the book text in this session. Details to verify against the book: the Southwest salad anecdote (details vary across retellings), the exact Rokia donation figures (not confirmed), the decision-paralysis studies mentioned in Chapter 1, and the Chip Heath study on extrinsic incentive bias. Newton's tapping study is an unpublished 1990 Stanford dissertation; sources disagree on her exact status. The classroom stories-versus-statistics figures (63 percent vs 5 percent) are informal and inconsistently reported. Edition field reflects the first US hardcover; page count not verified."
+  "research_notes": "Network access: WebFetch was blocked for every host attempted (heathbrothers.com, readingraphics.com, forrt.org, penguinrandomhouse.com, gsb.stanford.edu), so no page was read in full. All verification came from WebSearch result snippets and summaries of: third-party book summaries (supersummary, fourweekmba, shortform, pdma review, mannerofspeaking), library catalog and bookseller records (Random House, 2007, ISBN 9781400064281, ISBN-10 1400064287; one catalog lists 2008, likely a reprint), Wikipedia entries on the curse of knowledge and identifiable victim effect, abstracts and indexes for Camerer, Loewenstein and Weber (1989), Birch and Bloom (2007), Loewenstein (1994), Small, Loewenstein and Slovic (2007), Lee and Feeley (2016), Maier et al. (2024), Pham and Taylor (1999), Gregory, Cialdini and Carpenter (1982), Heath, Bell and Sternberg (2001), and concreteness/dual coding literature (Paivio; Sadoski et al.). Chapter structure (Introduction; Simple; Unexpected; Concrete; Credible; Emotional; Stories; Epilogue) and several book examples (pomelo, Disney cast members, Don't Mess with Texas, Maslow's basement, March's identity model, Sinatra test, the three plots) are described from general knowledge of the book and corroborated by summaries in search results, but were not checked against the book text in this session. Details to verify against the book: the Southwest salad anecdote (details vary across retellings), the exact Rokia donation figures (not confirmed), the decision-paralysis studies mentioned in Chapter 1, and the Chip Heath study on extrinsic incentive bias. Newton's tapping study is an unpublished 1990 Stanford dissertation; sources disagree on her exact status. The classroom stories-versus-statistics figures (63 percent vs 5 percent) are informal and inconsistently reported. Edition field reflects the first US hardcover; page count not verified. VERIFICATION PASS (2026-11-04): WebFetch failed for all hosts, but curl through the session proxy worked for heathbrothers.com, penguinrandomhouse.com, Google Books (record page only; in-book search hit a captcha and was not pursued), Publishers Weekly, Crossref, the Wharton copy of Small et al. (2007), FORRT, PLOS, Stanford GSB, Stanford Magazine, HBR (summary only), SSIR and several reader summaries. Blocked or rate limited: Westchester and Texas A&M library catalogs, Wikipedia API (after one page read), web.archive.org, Goodreads, SuperSummary chapter pages, Time. Details are logged in the verification object.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://heathbrothers.com/books/made-to-stick/",
+      "https://heathbrothers.com/member-content/made-to-stick-chapter-1/",
+      "https://www.penguinrandomhouse.com/books/77687/made-to-stick-by-chip-heath-and-dan-heath/9781400064281/",
+      "https://books.google.com/books?vid=ISBN9781400064281",
+      "https://www2.publishersweekly.com/9781400064281",
+      "https://openlibrary.org/search.json?isbn=9781400064281",
+      "https://en.wikipedia.org/wiki/Made_to_Stick",
+      "https://en.wikipedia.org/wiki/Don%27t_Mess_with_Texas",
+      "https://hbr.org/2006/12/the-curse-of-knowledge",
+      "https://ssir.org/book_reviews/entry/review_made_to_stick",
+      "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Sympathy_and_callousness.pdf",
+      "https://api.crossref.org/works/10.1525/collabra.90203",
+      "https://forrt.org/flora-replication-atlas/doi/10.1525/collabra.90203/",
+      "https://pure.skku.edu/en/publications/the-identifiable-victim-effect-a-meta-analytic-review/",
+      "https://www.gsb.stanford.edu/insights/increase-charitable-donations-appeal-heart-not-head",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092406",
+      "https://stanfordmag.org/contents/legendary-subjects",
+      "https://www.shortform.com/blog/?p=45730",
+      "https://til.secretgeek.net/reading_notes/Heath_MadeToStick.html",
+      "https://www.nateliason.com/notes/made-stick-chip-dan-heath",
+      "https://dansilvestre.com/?p=3913",
+      "https://mannerofspeaking.org/2009/10/13/making-it-stick-tell-stories/",
+      "https://www.theologyofwork.org/the-high-calling/what-sticks/",
+      "https://bakadesuyo.com/2012/11/secret-communicating-memorably/",
+      "Crossref API records for DOIs 10.1086/261651, 10.1111/j.1467-9280.2007.01909.x, 10.1037/0033-2909.116.1.75, 10.1111/j.1467-9280.2009.02402.x, 10.1037/0022-0663.85.2.291, 10.1016/j.obhdp.2006.01.005, 10.1080/15534510.2016.1216891, 10.1037/0022-3514.43.1.89, 10.1006/obhd.1999.2826, 10.1177/0146167299025002010, 10.1037/0022-3514.81.6.1028, 10.1111/j.1467-9280.1992.tb00047.x, 10.1145/2858036.2858510"
+    ],
+    "changes": [
+      "book: edition expanded with verified publication date (January 2, 2007), 336 pages (publisher and Google Books) and ISBN-10; evidence_base updated for the Clinic sections and corrected Birch and Bloom replication wording; legal_access notes rewritten from pages actually read, publisher URL corrected, HBR author article, Google Books and SSIR review added.",
+      "made-to-stick-01: citation narrowed to Introduction: What Sticks?; Camerer et al. pages and Birch and Bloom details added; 'failed or weaker replications' corrected to Ryskin and Brown-Schmidt (2014), which found the same direction at less than half the size; HBR author article added as URL.",
+      "made-to-stick-02: citation now lists the chapter structure and Clinic sections (confirmed by Wikipedia); URLs updated.",
+      "made-to-stick-03: Southwest example corrected: Kelleher's hypothetical chicken Caesar salad on the Houston to Las Vegas route, which the Heaths take from Carville and Begala (2002); unverified decision-paralysis reference replaced with the Tversky and Shafir (1992) citation, marked as not confirmed in the book; URLs updated.",
+      "made-to-stick-04, 05, 08: URLs added to summaries that confirm the pomelo, Disney cast member, Sinatra test (Fort Knox) and testable credentials examples.",
+      "made-to-stick-06: Kang et al. (2009) full citation added; DOIs added; Loewenstein's gap theory confirmed as named in the book.",
+      "made-to-stick-07: Sadoski, Goetz and Fritz (1993) full citation added; Velcro Theory of Memory confirmed from the publisher description.",
+      "made-to-stick-09: Rokia figures verified from the original paper (Study 3, n = 159: $2.38, $1.14, $1.43); explanation now states 'more than twice as much'; Maier et al. citation corrected to Maier, Wong and Feldman (2024), Collabra: Psychology 9(1), 90203, and the hypothetical-donation limitation noted; the bias-corrected reanalysis is placed in that same paper rather than a separate one; Lee and Feeley (2016) citation completed; URLs replaced with primary sources.",
+      "made-to-stick-10: Gregory et al. DOI and Chip Heath (1999) OBHDP citation added, with the book-citation caveat; Tempe cable TV and Maslow's basement sections confirmed from the book's contents list.",
+      "made-to-stick-11: URLs added (the identity insight had none); explanation reframed so that identity is confirmed as one of the book's three ways to make people care, and the James March attribution is described as fitting rather than confirmed for this book (March's model is explicit in the Heaths' later Switch); campaign origin (1985, GSD&M) added.",
+      "made-to-stick-12: classroom exercise figures corrected and completed (about 2.5 statistics per speech, one student in ten tells a story, 63 percent recall stories, 5 percent recall any statistic) and located in the Epilogue; Pham and Taylor issue number added.",
+      "made-to-stick-13: citation clarified (urban legends in the Introduction confirmed via the publisher excerpt); note added that the 2001 paper is the author's own research but an explicit book citation was not confirmed; Stanford Magazine coverage and DOI added.",
+      "made-to-stick-14: new insight on the human scale principle, named in the publisher description, with independent experimental support (Barrio, Goldstein and Hofman, 2016).",
+      "No insights removed; no confidence ratings changed (existing ratings fit the evidence found)."
+    ],
+    "still_unverified": [
+      "Chapter assignments rest on the publisher description, Wikipedia and several consistent reader summaries; the book text beyond the publisher's Introduction excerpt was not read (the free Chapter 1 download on heathbrothers.com requires registration, and Google Books search inside the book was blocked).",
+      "Whether Made to Stick itself names James March's identity model (confirmed only for the Heaths' later book Switch).",
+      "Whether the book explicitly cites Heath, Bell and Sternberg (2001), Tversky and Shafir (1992) or Heath (1999).",
+      "The journalism teacher lead example (made-to-stick-05) and the Pam Laffin anti-authority example (made-to-stick-08) were not checked against a source in this session.",
+      "Newton's tapping study year and status (1990 dissertation) come from secondary sources only.",
+      "Exact subscription rates in the Gregory, Cialdini and Carpenter (1982) cable TV study were not checked (no figures are claimed in the file)."
+    ]
+  }
 }
