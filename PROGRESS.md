@@ -6,7 +6,7 @@ Last updated: 2026-11-04
 | Stage | Status |
 |---|---|
 | 0. Taxonomy co-design (Checkpoint 1) | Complete: taxonomy locked 2026-11-04 |
-| 1. Book deep-dives (Checkpoint 2) | Complete, awaiting user approval: 117 insights across 9 books |
+| 1. Book deep-dives (Checkpoint 2) | Approved 2026-11-04. Verification pass (1b) running against primary sources |
 | 2. Cross-book synthesis | Not started |
 | 3. Expansion research (Checkpoint 3) | Not started |
 | 4. Interactive artifact (Checkpoint 4) | Not started |
@@ -14,6 +14,9 @@ Last updated: 2026-11-04
 | 6. Quality assurance | Not started |
 
 ## Decisions made
+- Keep all 18 Low-confidence insights, clearly flagged.
+- Keep Gino-coauthored studies with an integrity note (no downgrade).
+- Run verification pass (docs/verification-brief.md) before Stage 2.
 - Think Faster, Talk Smarter (Abrahams) is a core book.
 - Questioning and listening merged into Relationships and connection.
 - Written and digital communication merged into one category.
@@ -45,7 +48,7 @@ Last updated: 2026-11-04
 ## Open questions / blockers
 - fivebooks.com blocked by network policy; user supplied the list directly.
 - GitHub repo: misterconjon/communication (connected).
-- Network policy blocks most source sites; verification pass deferred unless user widens access.
+- Network access opened by user 2026-11-04; Fivebooks list confirmed to match.
 
 ## Next steps
 - On approval: run Stage 2 cross-book synthesis, then Stage 3 expansion research targeting the gaps above.
