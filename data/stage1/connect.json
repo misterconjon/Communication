@@ -3,23 +3,92 @@
     "book_id": "connect",
     "title": "Connect",
     "subtitle": "Building Exceptional Relationships with Family, Friends, and Colleagues",
-    "authors": ["David L. Bradford", "Carole Robin"],
+    "authors": [
+      "David L. Bradford",
+      "Carole Robin"
+    ],
     "year": 2021,
-    "publisher": "Currency (Penguin Random House); UK edition Penguin Life",
-    "edition": "First edition, hardcover",
+    "publisher": "Currency (Crown Currency, an imprint of Random House, Penguin Random House); UK edition Penguin Life",
+    "edition": "First edition, US hardcover, published February 9, 2021; 320 pages (publisher page). E-book ISBN 9780593237106; UK Penguin Life hardback ISBN 9780241406809 and trade paperback 9780241406816 (UK copyright page). Back matter includes Appendix A 'Vocabulary of Feelings', Appendix B 'Furthering Your Learning', Notes and Index.",
     "isbn": "9780593237090",
-    "author_credibility": "Bradford is Eugene O'Kelly II Senior Lecturer Emeritus in Leadership at Stanford GSB and Robin was the Dorothy J. King Lecturer in Leadership there; together they taught or ran the Interpersonal Dynamics ('Touchy Feely') elective for a combined roughly 75 years, a course introduced in 1968 that more than 90 percent of Stanford MBAs take. Both hold PhDs and Robin later co-founded the nonprofit Leaders in Tech. Their authority is primarily pedagogical and clinical (T-group facilitation), not experimental research; they have an obvious interest in promoting the course method and its descendant programs.",
-    "evidence_base": "Mostly decades of classroom and coaching observation, presented through composite stories of pairs of people (colleagues, partners, parents and adult children, friends) based on dynamics the authors say they witnessed or experienced, plus end-of-chapter self-assessments and exercises. The methods descend from Kurt Lewin's T-group (laboratory training) tradition. Several ideas line up with independent research (self-disclosure and liking, the intimacy process model, correspondence bias, affect labeling, feedback-intervention research), but I could not verify from accessible material which studies the book itself cites, so links to research below are my mapping unless stated otherwise.",
+    "author_credibility": "Bradford is Eugene O'Kelly II Senior Lecturer Emeritus in Leadership at Stanford GSB and Robin was the Dorothy J. King Lecturer in Leadership there; together they taught or ran the Interpersonal Dynamics ('Touchy Feely') elective for a combined roughly 75 years, a course Bradford developed over fifty years ago (he is called its 'father') and in which, per the book, over 85 percent of Stanford MBA students enroll; Robin joined about twenty years before publication and helped double the program. Both hold PhDs and Robin later co-founded the nonprofit Leaders in Tech. Their authority is primarily pedagogical and clinical (T-group facilitation), not experimental research; they have an obvious interest in promoting the course method and its descendant programs.",
+    "evidence_base": "The authors state the conceptual material is based on social science research, especially interpersonal psychology, plus their own experience. In practice the book relies mostly on decades of classroom and coaching observation, presented through composite stories of pairs of people (colleagues, partners, parents and adult children, friends) which the authors describe as amalgamations of real relationships they had or saw; five pair scenarios run through the book, plus end-of-chapter self-assessments and exercises. The methods descend from Kurt Lewin's T-group (laboratory training) tradition. Several ideas line up with independent research (self-disclosure and liking, the intimacy process model, correspondence bias, affect labeling, feedback-intervention research), but I could not verify which studies the book itself cites (the Notes section is only about four pages long, pages 289 to 292, suggesting few formal citations; I could not read it), so links to research below are my mapping unless stated otherwise. Structure (verified from the publisher extract's contents page): chapters 1 and 2 introduce the continuum; Part I 'Getting to the Meadow' (chapters 3 to 12) builds robust, functional relationships; Part II 'Tackling the Summit' (chapters 13 to 17) covers moving to exceptional; then an epilogue. The meadow and summit come from Bradford's mountain-climbing metaphor.",
     "legal_access": [
-      {"type": "summary", "url": "https://www.gsb.stanford.edu/faculty-research/books/connect-building-exceptional-relationships-family-friends-colleagues", "note": "Stanford GSB book page; read via search snippet only (direct fetch not attempted after network blocks)."},
-      {"type": "interview", "url": "https://www.cnbc.com/2021/07/12/researchers-behind-stanford-most-popular-mba-class-say-the-most-successful-relationship-have-6-traits.html", "note": "Authors' own CNBC article on the six traits and the comfort-zone disclosure model; read via search snippets."},
-      {"type": "summary", "url": "https://poetsandquants.com/2021/07/25/stanford-gsb-6-traits-that-build-successful-relationships/", "note": "Poets&Quants recap of the six traits, 15 percent stretch, and feedback as a start to problem solving; snippets only."},
-      {"type": "author excerpt", "url": "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/", "note": "Robin's own five-insight Bookbite; only the disclosure/15 percent insight was visible in snippets."},
-      {"type": "interview", "url": "https://www.gsb.stanford.edu/insights/how-build-better-relationships", "note": "GSB Insights Q&A with the authors; snippets confirm the net metaphor and feedback-model rationale."},
-      {"type": "interview", "url": "https://www.gsb.stanford.edu/insights/carole-robin-how-create-feedback-rich-environment", "note": "Robin (2015) on feedback as data and feedback-rich environments; snippets only."},
-      {"type": "interview", "url": "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin", "note": "Lenny's Podcast with Robin (three realities, the net, 15 percent rule, inquiry, defensiveness). Host blocked by network policy; only episode descriptions seen via search."},
-      {"type": "summary", "url": "https://www.goodreads.com/book/show/53720447-connect", "note": "Reader reviews and highlight notes (three realities, feelings vs thoughts); snippets only."},
-      {"type": "summary", "url": "https://www.gsb.stanford.edu/sites/gsb/files/article-idftp-power-tgroups-experiential-learning.pdf", "note": "Robin's 2016 GSB handout on T-groups and experiential learning; title and fragment seen only."}
+      {
+        "type": "publisher preview",
+        "url": "https://static.fnac-static.com/multimedia/PT/pdf/9780241406809.pdf",
+        "note": "Penguin Life UK publisher extract (32 pages): jacket copy, copyright page, full contents with page numbers, Chapter 1 and the start of Chapter 2. Read in Stage 1b; source for the six hallmarks and table of contents."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.penguinrandomhouse.com/books/645809/connect-by-david-bradford-and-carole-robin/",
+        "note": "Publisher page; read in Stage 1b for ISBN, date, imprint and page count."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.gsb.stanford.edu/faculty-research/books/connect-building-exceptional-relationships-family-friends-colleagues",
+        "note": "Stanford GSB book page; fetched in Stage 1b."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.cnbc.com/2021/07/12/researchers-behind-stanford-most-popular-mba-class-say-the-most-successful-relationship-have-6-traits.html",
+        "note": "Authors' own CNBC article on the six traits; returned 403 to direct fetch, so still known only from search snippets."
+      },
+      {
+        "type": "summary",
+        "url": "https://poetsandquants.com/2021/07/25/stanford-gsb-6-traits-that-build-successful-relationships/",
+        "note": "Poets&Quants recap; returned 403 to direct fetch, so still known only from search snippets."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/",
+        "note": "Robin's own five-insight Bookbite; read in full in Stage 1b (continuum and meadow, 15 percent rule and three zones, reciprocal curiosity and why questions, feelings, feedback and three realities)."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.gsb.stanford.edu/insights/how-build-better-relationships",
+        "note": "GSB Insights Q&A with the authors (January 2021); read in full in Stage 1b. Confirms the 15 percent rule, three realities and the net (the 'interpersonal cycle'), and behavior versus personality change."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.gsb.stanford.edu/insights/carole-robin-how-create-feedback-rich-environment",
+        "note": "Robin (2015) on feedback as data and feedback-rich environments; read in full in Stage 1b."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin",
+        "note": "Lenny's Podcast with Robin; show notes and takeaways read in full in Stage 1b (three realities, 15 percent rule, pinches and crunches, avoiding why questions, 'I feel that', early mental models). Transcript not read."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.goodreads.com/book/show/53720447-connect",
+        "note": "Reader reviews and highlight notes (three realities, feelings vs thoughts); snippets only. Not re-read in Stage 1b."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.gsb.stanford.edu/sites/gsb/files/article-idftp-power-tgroups-experiential-learning.pdf",
+        "note": "Robin's 2016 GSB handout on T-groups and experiential learning; title and fragment seen only. Not re-read in Stage 1b."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.forbes.com/sites/rodgerdeanduncan/2022/02/14/invigorate-your-relationships-by-learning-to-connect/",
+        "note": "Forbes Q&A with the authors (2022); returned 403 to direct fetch, known from search snippets only."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://connectandrelate.com/book/",
+        "note": "Authors' own site for the book; seen in search results only. Not re-read in Stage 1b."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.barnesandnoble.com/w/connect-david-bradford-phd/1137150590",
+        "note": "Retailer listing with table of contents (chapter titles and order); snippets only. Not re-read in Stage 1b."
+      },
+      {
+        "type": "summary",
+        "url": "https://nutreats.co.za/connect-david-bradford-carole-robin-lessons/",
+        "note": "Reader review (2022) with five lessons, including the ways people give away influence and the kintsugi repair image; read in full in Stage 1b."
+      }
     ]
   },
   "insights": [
@@ -27,33 +96,114 @@
       "id": "connect-01",
       "name": "The Relationship Continuum and Six Hallmarks",
       "skill_type": "framework",
-      "explanation": "Relationships are not either good or bad; they sit on a continuum from purely functional to exceptional, and you can move any relationship further along it. The authors describe six hallmarks of the exceptional end: each person can be more fully themselves rather than managing an image; both are willing to be vulnerable; each trusts that disclosures will not be used against them; they can be honest with each other; they handle conflict productively; and both are committed to each other's growth. Not every relationship needs to be exceptional, but knowing the hallmarks tells you which specific muscle a relationship is missing.",
+      "explanation": "Relationships sit on a continuum, from contact without real connection at one end to feeling known, supported, affirmed, and fully accepted at the other, and you can move any relationship along it. The authors name six hallmarks of the exceptional end: you can each be more fully yourselves; both are willing to be vulnerable; you trust that disclosures will not be used against you; you can be honest with each other; you deal with conflict productively; and both are committed to each other's growth and development. The first three center on self-disclosure and the last three on feedback and conflict. Using a climbing metaphor, they describe first reaching a 'meadow' of functional, robust relationships, which any relationship can reach, and only some going on to the summit of exceptional. Not every relationship needs to, and exceptional is not an end state, since relationships can always deepen.",
       "when_to_use": "When a relationship feels stuck, polite but shallow, or brittle, and you want to diagnose what is missing rather than just feeling vaguely dissatisfied.",
       "worked_example": "A product manager realizes that she and her longtime peer in engineering get along well but never disagree openly; issues surface only in their managers' meetings. Checking the hallmarks, she sees honesty and productive conflict are weak while trust is fine. She chooses to work on one hallmark: at their next one-on-one she raises a small disagreement directly. Separately, she notices her relationship with her brother scores high on honesty but low on mutual growth, which tells her to ask more about his goals instead of debating politics.",
-      "common_mistakes": ["Trying to make every relationship exceptional, including ones that only need to be functional", "Treating the hallmarks as a pass/fail checklist rather than directions to move in", "Working on the other person's hallmarks instead of your own contribution"],
-      "steps": ["Pick one relationship you want to deepen", "Rate it informally on each of the six hallmarks", "Choose the weakest hallmark that matters most to you", "Take one small, low-risk step in that area (a disclosure, an honest comment, a question about their goals)", "Notice how the other person responds and adjust"],
-      "categories": [{"category": "relationships", "subcategory": "trust-vulnerability"}, {"category": "personal-life", "subcategory": "friendships"}, {"category": "foundations", "subcategory": "mindset"}],
-      "situations": ["Deepening a cordial but distant peer relationship", "Reconnecting with an adult sibling", "Turning a new manager relationship into a real partnership", "Assessing a romantic relationship that feels stuck"],
-      "source": {"citation": "Bradford and Robin, Connect, introduction and Part I", "underlying_research": "Primarily the authors' teaching experience. The hallmarks broadly echo the intimacy process model (Reis and Shaver, 1988) and research on responsiveness, but I could not verify that the book cites these.", "urls": ["https://www.cnbc.com/2021/07/12/researchers-behind-stanford-most-popular-mba-class-say-the-most-successful-relationship-have-6-traits.html", "https://www.gsb.stanford.edu/faculty-research/books/connect-building-exceptional-relationships-family-friends-colleagues"]},
+      "common_mistakes": [
+        "Trying to make every relationship exceptional, including ones that only need to be functional",
+        "Treating the hallmarks as a pass/fail checklist rather than directions to move in",
+        "Working on the other person's hallmarks instead of your own contribution"
+      ],
+      "steps": [
+        "Pick one relationship you want to deepen",
+        "Rate it informally on each of the six hallmarks",
+        "Choose the weakest hallmark that matters most to you",
+        "Take one small, low-risk step in that area (a disclosure, an honest comment, a question about their goals)",
+        "Notice how the other person responds and adjust"
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
+      ],
+      "situations": [
+        "Deepening a cordial but distant peer relationship",
+        "Reconnecting with an adult sibling",
+        "Turning a new manager relationship into a real partnership",
+        "Assessing a romantic relationship that feels stuck"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 1 'Seeking Exceptional' (hallmarks listed on p. 4); meadow and summit structure of Part I 'Getting to the Meadow' and Part II 'Tackling the Summit'",
+        "underlying_research": "Primarily the authors' teaching experience. The hallmarks broadly echo the intimacy process model (Reis and Shaver, 1988) and research on responsiveness, but I could not verify that the book cites these.",
+        "urls": [
+          "https://static.fnac-static.com/multimedia/PT/pdf/9780241406809.pdf",
+          "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/",
+          "https://www.gsb.stanford.edu/insights/how-build-better-relationships"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "Accessible sources confirm a six-hallmark framework and name authenticity (dropping image management), vulnerability, honesty, productive conflict, and shared commitment to growth; the exact wording of all six could not be verified from accessible text. The framework is expert synthesis rather than a tested model.",
-      "flags": ["none"]
+      "confidence_rationale": "Six hallmarks verified directly against the book's Chapter 1 in the publisher extract; the meadow metaphor verified in Robin's Bookbite. The framework is expert synthesis from teaching experience rather than a tested model, so Medium.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "connect-02",
       "name": "The 15 Percent Rule for Disclosure",
       "skill_type": "technique",
-      "explanation": "Picture three rings: an inner comfort zone of things you share without thinking, a middle learning zone where sharing feels a bit risky, and an outer danger zone where the risk feels too high. Deepen relationships by stretching about 15 percent into the learning zone, not by leaping into the danger zone. If the other person responds well and reciprocates, the comfort zone grows and you can stretch another 15 percent. The number is a heuristic for 'a little more than feels safe', not a precise measure.",
+      "explanation": "Picture three rings: an inner comfort zone of things you share without thinking, a middle learning zone where sharing feels a bit risky, and an outer danger zone where the risk feels too high. Deepen relationships by stretching about 15 percent into the learning zone, not by leaping into the danger zone. If the other person responds well and reciprocates, the comfort zone grows and you can stretch another 15 percent. The number is a heuristic for 'a little more than feels safe', not a precise measure. Robin adds that disclosure tends to be reciprocal, and that when status differs the higher-status person should disclose first and somewhat more, since expecting someone who feels one-down to go first is a lot to ask.",
       "when_to_use": "When you want more closeness or trust with someone but feel exposed, or when you notice you keep conversations safe and superficial.",
       "worked_example": "A new team lead usually shares only project status with her director. Before a planning meeting she adds one modest disclosure: she is unsure how to handle a high performer who seems disengaged and would value his view. He responds by sharing a similar struggle from his first year. A month later she feels able to mention that she is worried about burning out. In personal life, a man who never talks about his father's illness with friends mentions over dinner that it has been a hard month, without going into the full story.",
-      "common_mistakes": ["Oversharing a deeply personal story too early, which can alarm the listener and feel like a burden", "Waiting for the other person to go first indefinitely", "Disclosing opinions or judgments and calling it vulnerability, rather than sharing feelings or needs", "Ignoring how the other person reacts before taking the next step"],
-      "steps": ["Notice what you normally keep in your comfort zone with this person", "Pick something slightly beyond it (a feeling, a concern, a hope) that is relevant to the relationship", "Share it briefly and without demanding a particular response", "Watch the reaction: do they reciprocate, acknowledge, or pull back?", "If it went well, stretch a little further next time; if not, discuss it or slow down"],
-      "categories": [{"category": "relationships", "subcategory": "trust-vulnerability"}, {"category": "relationships", "subcategory": "rapport"}, {"category": "personal-life", "subcategory": "friendships"}, {"category": "foundations", "subcategory": "anxiety"}],
-      "situations": ["Building trust with a new boss", "Deepening a friendship beyond small talk", "Opening up to a partner about a worry", "Letting a team see you as human without oversharing"],
-      "source": {"citation": "Bradford and Robin, Connect, early chapters on self-disclosure; Robin, Next Big Idea Club Bookbite; CNBC article by the authors", "underlying_research": "Self-disclosure and liking meta-analysis (Collins and Miller, 1994); social penetration theory (Altman and Taylor, 1973); escalating reciprocal disclosure in the closeness-induction study (Aron et al., 1997). The specific 15 percent figure is the authors' teaching heuristic, not an empirical value.", "urls": ["https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/", "https://poetsandquants.com/2021/07/25/stanford-gsb-6-traits-that-build-successful-relationships/"]},
+      "common_mistakes": [
+        "Oversharing a deeply personal story too early, which can alarm the listener and feel like a burden",
+        "Waiting for the other person to go first indefinitely",
+        "Disclosing opinions or judgments and calling it vulnerability, rather than sharing feelings or needs",
+        "Ignoring how the other person reacts before taking the next step"
+      ],
+      "steps": [
+        "Notice what you normally keep in your comfort zone with this person",
+        "Pick something slightly beyond it (a feeling, a concern, a hope) that is relevant to the relationship",
+        "Share it briefly and without demanding a particular response",
+        "Watch the reaction: do they reciprocate, acknowledge, or pull back?",
+        "If it went well, stretch a little further next time; if not, discuss it or slow down"
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        }
+      ],
+      "situations": [
+        "Building trust with a new boss",
+        "Deepening a friendship beyond small talk",
+        "Opening up to a partner about a worry",
+        "Letting a team see you as human without oversharing"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 3 'To Share, or Not to Share' (self-disclosure chapter; exact page of the 15 percent passage unverified); Robin, Next Big Idea Club Bookbite; GSB Insights interview (2021)",
+        "underlying_research": "Self-disclosure and liking meta-analysis (Collins and Miller, 1994, Psychological Bulletin); social penetration theory (Altman and Taylor, 1973, Social Penetration); escalating reciprocal disclosure in the closeness-induction study (Aron et al., 1997, Personality and Social Psychology Bulletin). These are my mapping, not confirmed as cited. The specific 15 percent figure is the authors' teaching heuristic, not an empirical value.",
+        "urls": [
+          "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/",
+          "https://www.gsb.stanford.edu/insights/how-build-better-relationships",
+          "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "That gradual, reciprocated disclosure builds liking and closeness is well replicated (High on its own). The specific 15 percent number and three-zone model are a classroom heuristic with no research behind the figure, so the technique as packaged is Medium. Research also shows disclosure that is too intimate too early can reduce liking, which supports the 'small stretch' caution.",
-      "flags": ["pop-psychology"]
+      "confidence_rationale": "Three zones and the 15 percent rule confirmed in Robin's Bookbite and the GSB interview. That gradual, reciprocated disclosure builds liking and closeness is well replicated, but the specific 15 percent figure and three-zone model are a classroom heuristic, so the packaged technique is Medium. Research also shows overly intimate early disclosure can reduce liking, which supports the 'small stretch' caution.",
+      "flags": [
+        "pop-psychology"
+      ]
     },
     {
       "id": "connect-03",
@@ -62,14 +212,57 @@
       "explanation": "In any interaction there are three realities: the other person's intentions, motives, and feelings (known only to them); their behavior (observable by both of you); and the impact that behavior has on you (known only to you). Imagine a tennis net between you. Your side holds the impact on you; their side holds their intentions. You can speak with authority about what you saw and how it affected you, but when you announce what they meant or why they did it, you have jumped the net, and they will rightly resist because you are claiming knowledge you do not have.",
       "when_to_use": "Any time you are about to say 'you were trying to', 'you don't care', or 'you always do that because'; when preparing feedback; when a conversation turns defensive.",
       "worked_example": "Instead of telling a colleague 'You clearly wanted to undercut me in front of the client', an account manager says 'When you corrected my pricing figure during the client call, I felt embarrassed and worried the client would doubt me.' The colleague, not attacked on motive, explains he was afraid the client would sign at the wrong price, and they agree to flag such things over chat during calls. At home, a parent swaps 'You don't respect my time' for 'When you arrive 40 minutes late without texting, I get anxious and then annoyed.'",
-      "common_mistakes": ["Disguising a motive accusation as a feeling ('I feel like you don't care')", "Assuming that because the impact was bad, the intent must have been bad", "Defending your own good intentions when someone tells you about your impact, instead of acknowledging the impact", "Labeling the person ('you're passive aggressive') instead of describing behavior"],
-      "steps": ["Separate in your head: what did they actually do or say? How did it affect me? What am I guessing about why?", "Speak only about the first two", "If you are curious about their intent, ask rather than assert", "When receiving feedback, accept their impact as real data even if your intent was good"],
-      "categories": [{"category": "difficult", "subcategory": "giving-feedback"}, {"category": "difficult", "subcategory": "conflict"}, {"category": "relationships", "subcategory": "empathy"}, {"category": "personal-life", "subcategory": "partners"}],
-      "situations": ["Confronting a colleague who seemed to undermine you", "Responding to a partner who keeps arriving late", "Writing an email about a frustrating behavior without sounding accusatory", "Receiving criticism when you meant well"],
-      "source": {"citation": "Bradford and Robin, Connect, chapters on feedback; GSB Insights interview; Lenny's Podcast episode segment on the three realities and the net", "underlying_research": "Consistent with correspondence bias / fundamental attribution error research (Ross, 1977; Gilbert and Malone, 1995) and the intent-impact distinction also found in Difficult Conversations (Stone, Patton, Heen). The three-realities model itself comes from the authors' T-group teaching, not experimental testing.", "urls": ["https://www.gsb.stanford.edu/insights/how-build-better-relationships", "https://www.goodreads.com/book/show/53720447-connect"]},
+      "common_mistakes": [
+        "Disguising a motive accusation as a feeling ('I feel like you don't care')",
+        "Assuming that because the impact was bad, the intent must have been bad",
+        "Defending your own good intentions when someone tells you about your impact, instead of acknowledging the impact",
+        "Labeling the person ('you're passive aggressive') instead of describing behavior"
+      ],
+      "steps": [
+        "Separate in your head: what did they actually do or say? How did it affect me? What am I guessing about why?",
+        "Speak only about the first two",
+        "If you are curious about their intent, ask rather than assert",
+        "When receiving feedback, accept their impact as real data even if your intent was good"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
+      ],
+      "situations": [
+        "Confronting a colleague who seemed to undermine you",
+        "Responding to a partner who keeps arriving late",
+        "Writing an email about a frustrating behavior without sounding accusatory",
+        "Receiving criticism when you meant well"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, described by the authors as the 'interpersonal cycle'; most likely in Chapters 7 and 8 on feedback (exact location unverified); GSB Insights interview (2021); Robin's Bookbite; Lenny's Podcast",
+        "underlying_research": "Consistent with correspondence bias research (Ross, 1977, Advances in Experimental Social Psychology; Gilbert and Malone, 1995, Psychological Bulletin) and the intent-impact distinction also found in Difficult Conversations (Stone, Patton, Heen). Not confirmed as cited. The three-realities model itself comes from the authors' T-group teaching, not experimental testing.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/how-build-better-relationships",
+          "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/",
+          "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin",
+          "https://nutreats.co.za/connect-david-bradford-carole-robin-lessons/"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "The tendency to over-attribute others' behavior to disposition and intent is well documented, which supports the logic, but the specific model's effect on conversation outcomes has not been tested. Accessible snippets confirm the net metaphor and the 'only two of three realities' idea; exact book wording not verified.",
-      "flags": ["none"]
+      "confidence_rationale": "Model confirmed in the authors' own GSB interview, Robin's Bookbite and the podcast notes, including the net metaphor and the point that people act as amateur psychologists about others' motives. The attribution-bias research supports the logic, but the model's effect on outcomes is untested, so Medium.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "connect-04",
@@ -78,62 +271,234 @@
       "explanation": "Useful feedback names a specific behavior the other person can recognize and then states the impact on you, usually as a feeling. It stays on your side of the net, avoids labels and motive guesses, and is offered as data to open a conversation, not a verdict meant to force the other person to change. The authors argue against the feedback sandwich, because padding criticism with praise blurs the message and teaches people to discount compliments.",
       "when_to_use": "When someone's behavior is affecting you or the work and you want them to understand it without triggering defensiveness; also for positive feedback, which becomes more credible when equally specific.",
       "worked_example": "A manager tells a direct report: 'In the last two design reviews, you answered for the junior designer before she finished her points. I felt uncomfortable, and I'm concerned she's stopped speaking up. What's your take?' The report says he thought he was helping her save time; they agree he will wait and ask if she wants input. A friend uses the same shape: 'When you checked your phone during my story about the interview, I felt like it didn't matter much to you.'",
-      "common_mistakes": ["Being vague ('you're not a team player') so the person cannot tell what to change", "Starting with praise purely to soften the blow", "Treating the feedback as the final word instead of the opening of problem solving", "Saving feedback for a formal review months later", "Delivering it only in writing when emotions are involved"],
-      "steps": ["Pick one specific, recent behavior", "Describe it in neutral, observable terms", "State the impact on you (a real feeling word) and, if relevant, on the work", "Stop and invite their view; be open to information you lacked", "Move together to what each of you could do differently"],
-      "categories": [{"category": "difficult", "subcategory": "giving-feedback"}, {"category": "professional", "subcategory": "managing-up"}, {"category": "personal-life", "subcategory": "family"}, {"category": "written-digital", "subcategory": "tone-misreading"}],
-      "situations": ["Telling a direct report they interrupt others", "Giving a peer feedback on a missed handoff", "Telling a friend their lateness bothers you", "Giving your boss feedback on last-minute requests"],
-      "source": {"citation": "Bradford and Robin, Connect, feedback chapters; Robin, GSB Insights 'Feedback is a gift' (2013) and 'How to create a feedback-rich environment' (2015); Poets&Quants summary", "underlying_research": "Feedback intervention meta-analysis (Kluger and DeNisi, 1996) found feedback directed at the self rather than the task often lowers performance, supporting behavior-specific feedback. Evidence on the feedback sandwich is thin and mixed. I could not verify which studies the book cites.", "urls": ["https://www.gsb.stanford.edu/insights/carole-robin-feedback-gift", "https://www.gsb.stanford.edu/insights/carole-robin-how-create-feedback-rich-environment", "https://poetsandquants.com/2021/07/25/stanford-gsb-6-traits-that-build-successful-relationships/"]},
+      "common_mistakes": [
+        "Being vague ('you're not a team player') so the person cannot tell what to change",
+        "Starting with praise purely to soften the blow",
+        "Treating the feedback as the final word instead of the opening of problem solving",
+        "Saving feedback for a formal review months later",
+        "Delivering it only in writing when emotions are involved"
+      ],
+      "steps": [
+        "Pick one specific, recent behavior",
+        "Describe it in neutral, observable terms",
+        "State the impact on you (a real feeling word) and, if relevant, on the work",
+        "Stop and invite their view; be open to information you lacked",
+        "Move together to what each of you could do differently"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "tone-misreading"
+        }
+      ],
+      "situations": [
+        "Telling a direct report they interrupt others",
+        "Giving a peer feedback on a missed handoff",
+        "Telling a friend their lateness bothers you",
+        "Giving your boss feedback on last-minute requests"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 7 'Why Feedback Is the Breakfast of Champions' and Chapter 8 'Challenges in Using Feedback Effectively'; Robin, GSB Insights 'Feedback is a gift' (2013) and 'How to create a feedback-rich environment' (2015); Poets&Quants summary",
+        "underlying_research": "Feedback intervention meta-analysis (Kluger and DeNisi, 1996, Psychological Bulletin) found that in over a third of cases feedback lowered performance, especially when it drew attention to the self rather than the task, supporting behavior-specific feedback. Evidence on the feedback sandwich is thin and mixed. Not confirmed as cited in the book.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/carole-robin-how-create-feedback-rich-environment",
+          "https://www.gsb.stanford.edu/insights/how-build-better-relationships",
+          "https://nutreats.co.za/connect-david-bradford-carole-robin-lessons/"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "Specific, task- or behavior-focused feedback is supported by research and broad practitioner consensus; the claim that the sandwich backfires is plausible but not strongly tested. The specific behavior-plus-feeling formula is a teaching model. Some secondary summaries render it as 'When you..., I feel..., because...'; exact book phrasing unverified.",
-      "flags": ["none"]
+      "confidence_rationale": "Behavior-plus-impact feedback is confirmed in the authors' own material (staying on your side of the net; naming specific behavior and its effect). Specific, behavior-focused feedback is supported by research and practitioner consensus. The critique of the feedback sandwich was seen only in secondary summaries and remains unverified in the book. Medium.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "connect-05",
       "name": "Pinches Before Crunches",
       "skill_type": "mental model",
-      "explanation": "A pinch is a small irritation: a remark that stings, a habit that grates. Left unspoken, pinches accumulate and you start building a story about the other person, until a minor event triggers a crunch, a much bigger and more emotional blowup that is harder to resolve. Raising a pinch while it is fresh and small, in non-accusatory language, keeps the stakes low and lets both sides adjust. The usual instinct is to say nothing because it seems petty; that silence is what turns pinches into crunches.",
+      "explanation": "A pinch is a small irritation: a remark that stings, a habit that grates. Left unspoken, pinches accumulate and you start building a story about the other person, until a minor event triggers a crunch, a much bigger and more emotional blowup that is harder to resolve. Raising a pinch while it is fresh and small, in non-accusatory language, keeps the stakes low and lets both sides adjust. The usual instinct is to say nothing because it seems petty; that silence is what turns pinches into crunches. The authors add that unaddressed pinches reinforce a negative story about the other person, after which we start selectively collecting evidence to build a case for it.",
       "when_to_use": "When you notice yourself thinking 'it's not worth mentioning' about something that keeps coming back to mind, or when you catch yourself venting to a third party about someone.",
       "worked_example": "A remote worker is mildly annoyed that a teammate replies-all to correct small details in her messages. Instead of letting it slide for months, she messages him privately after the second time: 'Small thing: when corrections come on reply-all, I feel a bit exposed. Could you send those to me directly?' He had no idea and agrees. Similarly, a couple agrees that either can say 'pinch' to flag a small irritation, so it gets aired the same evening instead of surfacing in a fight weeks later.",
-      "common_mistakes": ["Waiting for a pattern to become 'big enough' to justify raising it", "Raising several stored-up pinches at once, which feels like an ambush", "Using the pinch conversation to accuse rather than describe", "Venting to others instead of talking to the person involved"],
-      "steps": ["Notice the pinch and name it to yourself", "Raise it soon, privately, briefly, in behavior-plus-impact terms", "Keep the tone light and proportional to the size of the issue", "Listen to their side and agree a small adjustment", "If a crunch has already formed, acknowledge the backlog and take more time"],
-      "categories": [{"category": "difficult", "subcategory": "conflict"}, {"category": "personal-life", "subcategory": "repair"}, {"category": "personal-life", "subcategory": "partners"}, {"category": "difficult", "subcategory": "boundaries"}],
-      "situations": ["Addressing a teammate's annoying habit early", "Raising a small irritation with a roommate or partner", "Stopping resentment from building with an in-law", "Responding to a slightly hurtful comment from a friend"],
-      "source": {"citation": "Bradford and Robin, Connect, chapters on raising issues and conflict; Robin interviews", "underlying_research": "The pinch-crunch model predates the book: it is generally credited to John J. Sherwood and John C. Glidewell's 1970s 'planned renegotiation' model, but I could not verify the book's attribution. Related couples research on soft versus harsh startup and on addressing complaints before they turn into criticism (Gottman) is consistent but not confirmed as cited.", "urls": ["https://www.goodreads.com/book/show/62709867", "https://www.tobysinclair.com/post/connect-book-summary-by-david-bradford-carole-robin-building-exceptional-relationships"]},
+      "common_mistakes": [
+        "Waiting for a pattern to become 'big enough' to justify raising it",
+        "Raising several stored-up pinches at once, which feels like an ambush",
+        "Using the pinch conversation to accuse rather than describe",
+        "Venting to others instead of talking to the person involved"
+      ],
+      "steps": [
+        "Notice the pinch and name it to yourself",
+        "Raise it soon, privately, briefly, in behavior-plus-impact terms",
+        "Keep the tone light and proportional to the size of the issue",
+        "Listen to their side and agree a small adjustment",
+        "If a crunch has already formed, acknowledge the backlog and take more time"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        }
+      ],
+      "situations": [
+        "Addressing a teammate's annoying habit early",
+        "Raising a small irritation with a roommate or partner",
+        "Stopping resentment from building with an in-law",
+        "Responding to a slightly hurtful comment from a friend"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 6 'Pinches and Crunches' (p. 85, Elena and Sanjay, Part 3); Lenny's Podcast takeaways",
+        "underlying_research": "The pinch-crunch model predates the book: it originates with John J. Sherwood and John C. Glidewell's 'planned renegotiation' model, an organization development intervention published in the University Associates Annual Handbook for Group Facilitators (sources date it variously 1972 to 1975, most often 1973). Whether the book credits them could not be verified. Couples research on soft versus harsh startup (Gottman) is consistent but not confirmed as cited.",
+        "urls": [
+          "https://nutreats.co.za/connect-david-bradford-carole-robin-lessons/",
+          "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin",
+          "https://www.researchgate.net/figure/Pinch-Crunch-Model-Sherwood-and-Glidewell-1973_fig3_334170879"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "Reviews and podcast snippets confirm the pinch/crunch concept is in the book. The underlying advice has strong practitioner consensus and is consistent with couples research, but the model itself is not experimentally validated. Origin attribution is from my background knowledge and is unverified.",
-      "flags": ["none"]
+      "confidence_rationale": "The chapter title confirms the concept is central to the book. The underlying advice has strong practitioner consensus and is consistent with couples research, but the model is not experimentally validated. Origin with Sherwood and Glidewell is now confirmed by independent OD sources; the book's own attribution remains unverified.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "connect-06",
       "name": "Feelings Are Not 'I Feel That'",
       "skill_type": "technique",
-      "explanation": "Many statements that start with 'I feel' are really thoughts or judgments: 'I feel that you're dominating the meeting' is an accusation in disguise. A genuine feeling is usually one or two words (annoyed, hurt, anxious, relieved). Naming real feelings gives the other person accurate information about your inner state, which they cannot argue with, while disguised judgments invite debate. Building a richer feelings vocabulary is part of the work, because many professionals default to 'fine', 'frustrated', or 'good'.",
+      "explanation": "Many statements that start with 'I feel' are really thoughts or judgments: 'I feel that you're dominating the meeting' is an accusation in disguise. A genuine feeling is usually one or two words (annoyed, hurt, anxious, relieved). Naming real feelings gives the other person accurate information about your inner state, which they cannot argue with, while disguised judgments invite debate. Building a richer feelings vocabulary is part of the work, because many professionals default to 'fine', 'frustrated', or 'good'. Robin's framing is that feelings give meaning to facts: the same event reported as exhilarating or terrifying tells the listener very different things, and intensity matters too. The book includes a vocabulary-of-feelings appendix for this reason.",
       "when_to_use": "When giving feedback, apologizing, disclosing, or any time you want to express your reaction without triggering a debate about facts.",
       "worked_example": "Drafting a message to a cofounder, an entrepreneur deletes 'I feel like you never consult me' and writes 'When the vendor contract was signed without my input, I felt sidelined and worried about our process.' At home, a teenager's parent says 'I'm scared when you don't answer at midnight' instead of 'I feel you're being irresponsible.'",
-      "common_mistakes": ["Using 'I feel like' or 'I feel that' to wrap an opinion", "Using pseudo-feelings that imply blame ('I feel ignored, manipulated, disrespected')", "Leaving feelings out entirely in professional settings, so the other person underestimates the impact", "Exaggerating the intensity of a feeling to win the point"],
-      "steps": ["Test your sentence: if you can replace 'I feel' with 'I think' without changing the meaning, it is a thought", "Find a one or two word emotion that fits", "Pair it with the specific behavior that triggered it", "Calibrate intensity honestly (mildly irritated vs furious)"],
-      "categories": [{"category": "relationships", "subcategory": "empathy"}, {"category": "difficult", "subcategory": "giving-feedback"}, {"category": "personal-life", "subcategory": "family"}, {"category": "written-digital", "subcategory": "email"}],
-      "situations": ["Telling a cofounder you felt left out of a decision", "Talking to a teenager about broken curfew", "Writing a sensitive Slack message", "Explaining to a partner why a comment hurt"],
-      "source": {"citation": "Bradford and Robin, Connect, chapters on expressing feelings; Goodreads reader highlights", "underlying_research": "Affect labeling reduces emotional reactivity (Lieberman et al., 2007); emotional granularity research (Barrett, Kashdan) links finer emotion vocabulary with better regulation. The thought-versus-feeling distinction also appears in Nonviolent Communication (Rosenberg). Not verified as cited in the book.", "urls": ["https://www.goodreads.com/notes/55287844-connect/7552515-erhan/013c5a93-c586-4697-987e-5d709da99d99"]},
+      "common_mistakes": [
+        "Using 'I feel like' or 'I feel that' to wrap an opinion",
+        "Using pseudo-feelings that imply blame ('I feel ignored, manipulated, disrespected')",
+        "Leaving feelings out entirely in professional settings, so the other person underestimates the impact",
+        "Exaggerating the intensity of a feeling to win the point"
+      ],
+      "steps": [
+        "Test your sentence: if you can replace 'I feel' with 'I think' without changing the meaning, it is a thought",
+        "Find a one or two word emotion that fits",
+        "Pair it with the specific behavior that triggered it",
+        "Calibrate intensity honestly (mildly irritated vs furious)"
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        }
+      ],
+      "situations": [
+        "Telling a cofounder you felt left out of a decision",
+        "Talking to a teenager about broken curfew",
+        "Writing a sensitive Slack message",
+        "Explaining to a partner why a comment hurt"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, likely Chapter 10 'Own Your Emotions or They Will Own You' (p. 154; placement of the 'I feel that' passage unverified) and Appendix A 'Vocabulary of Feelings' (p. 281); Robin's Bookbite; Lenny's Podcast takeaways",
+        "underlying_research": "Affect labeling reduces amygdala response to emotional images (Lieberman et al., 2007, Psychological Science); emotional granularity research (Barrett; Kashdan, Barrett and McKnight, 2015, Current Directions in Psychological Science) links finer emotion vocabulary with better regulation. The thought-versus-feeling distinction also appears in Nonviolent Communication (Rosenberg). Not verified as cited in the book.",
+        "urls": [
+          "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/",
+          "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin",
+          "https://www.goodreads.com/notes/55287844-connect/7552515-erhan/013c5a93-c586-4697-987e-5d709da99d99"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "A reader highlight confirms the 'I feel that' example is in the book. Research supports benefits of precise emotion labeling for the speaker; evidence that it improves the listener's response is mostly practitioner consensus.",
-      "flags": ["none"]
+      "confidence_rationale": "Confirmed in Robin's podcast takeaways (avoid 'I feel that' and 'I feel like'; follow 'I feel' with a feeling word), her Bookbite, and the book's feelings-vocabulary appendix. Research supports precise emotion labeling for the speaker; evidence that it improves the listener's response is mostly practitioner consensus. Medium.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "connect-07",
       "name": "Feedback Is Data, and a Gift",
       "skill_type": "mental model",
-      "explanation": "Since you can never directly see the impact of your own behavior on others, feedback is the only way to learn the third reality. Treating all feedback, even badly delivered feedback, as data gives you more options and reduces the stress of flying blind. You do not have to agree with it or act on it, but it tells you something real about how you land with at least one person. Relationships and teams that exchange small amounts of feedback often (a feedback-rich environment) avoid the big, shocking reviews.",
+      "explanation": "Since you can never directly see the impact of your own behavior on others, feedback is the only way to learn the third reality. Treating all feedback, even badly delivered feedback, as data gives you more options and reduces the stress of flying blind. You do not have to agree with it or act on it, but it tells you something real about how you land with at least one person. Relationships and teams that exchange small amounts of feedback often (a feedback-rich environment) avoid the big, shocking reviews. Robin also notes that a feedback exchange teaches both people, since feedback often reveals as much about the giver as the receiver.",
       "when_to_use": "When you receive criticism and feel defensive; when you lead a team and want problems surfaced early; when a relationship feels like it is drifting and you do not know why.",
       "worked_example": "After a presentation, a VP hears from a junior analyst that his jokes about the finance team felt dismissive. His instinct is to explain he was being playful. Instead he says 'Thanks, that's useful. Did others react that way too?' and later asks two peers, who confirm it. In a marriage, one partner starts a monthly 'what's one thing I could do differently' check-in, which surfaces a small irritation about weekend planning before it becomes a fight.",
-      "common_mistakes": ["Debating whether the feedback is 'fair' before understanding it", "Explaining your intentions as a rebuttal to their impact", "Asking for feedback only once a year or only in formal settings", "Punishing the messenger, which ensures you never get data again"],
-      "steps": ["Thank the person and resist explaining yourself immediately", "Ask clarifying questions for specific examples", "Separate their impact (data) from what you choose to do about it (decision)", "Check whether others see the same pattern", "Close the loop later by telling them what you changed"],
-      "categories": [{"category": "difficult", "subcategory": "receiving-feedback"}, {"category": "foundations", "subcategory": "mindset"}, {"category": "professional", "subcategory": "meetings"}, {"category": "personal-life", "subcategory": "partners"}],
-      "situations": ["Hearing critical feedback after a presentation", "Building a team culture where issues are raised early", "Asking a partner how you could be easier to live with", "Receiving harsh feedback in a performance review"],
-      "source": {"citation": "Bradford and Robin, Connect, feedback chapters; Robin, GSB Insights 'Feedback is a gift' (2013) and 'How to create a feedback-rich environment' (2015); Authority Magazine interview", "underlying_research": "Psychological safety and team learning (Edmondson, 1999) is consistent with the feedback-rich environment idea; self-assessment research showing people misjudge how they come across (Dunning and colleagues) supports needing others' data. Not verified as cited.", "urls": ["https://www.gsb.stanford.edu/insights/carole-robin-feedback-gift", "https://www.gsb.stanford.edu/insights/carole-robin-how-create-feedback-rich-environment", "https://medium.com/authority-magazine/carole-robin-of-leaders-in-tech-giving-feedback-how-to-be-honest-without-being-hurtful-fac663c2d0a"]},
+      "common_mistakes": [
+        "Debating whether the feedback is 'fair' before understanding it",
+        "Explaining your intentions as a rebuttal to their impact",
+        "Asking for feedback only once a year or only in formal settings",
+        "Punishing the messenger, which ensures you never get data again"
+      ],
+      "steps": [
+        "Thank the person and resist explaining yourself immediately",
+        "Ask clarifying questions for specific examples",
+        "Separate their impact (data) from what you choose to do about it (decision)",
+        "Check whether others see the same pattern",
+        "Close the loop later by telling them what you changed"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
+      ],
+      "situations": [
+        "Hearing critical feedback after a presentation",
+        "Building a team culture where issues are raised early",
+        "Asking a partner how you could be easier to live with",
+        "Receiving harsh feedback in a performance review"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 7 'Why Feedback Is the Breakfast of Champions' (p. 98) and Chapter 8 'Challenges in Using Feedback Effectively' (p. 118); Robin, GSB Insights 'How to create a feedback-rich environment' (2015); Robin's Bookbite",
+        "underlying_research": "Psychological safety and team learning (Edmondson, 1999, Administrative Science Quarterly) is consistent with the feedback-rich environment idea; research showing people misjudge how they come across (Dunning, Heath and Suls, 2004, Psychological Science in the Public Interest) supports needing others' data. Not verified as cited.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/carole-robin-how-create-feedback-rich-environment",
+          "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/",
+          "https://www.gsb.stanford.edu/insights/how-build-better-relationships"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "Directly confirmed in Robin's own published interviews. Supported by adjacent research on self-knowledge blind spots and psychological safety, but the 'all feedback is positive' framing is a stance rather than a finding.",
-      "flags": ["none"]
+      "confidence_rationale": "Read directly in Robin's 2015 GSB article (feedback is a gift and is data; more data gives more choices; flying blind causes stress; avoid justifying) and her Bookbite. Supported by adjacent research on self-knowledge blind spots and psychological safety, but 'all feedback is good data' is a stance rather than a finding. Medium.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "connect-08",
@@ -142,30 +507,111 @@
       "explanation": "The point of giving feedback is not to make the other person change but to open a joint problem-solving conversation. The giver usually lacks part of the picture (the other person's constraints, intentions, or their own pinches with you), so the conversation should leave room for both people to learn and for the solution to involve changes on both sides. Asking why something is not working is more productive than assigning blame.",
       "when_to_use": "When feedback conversations stall into 'you should' versus 'no I shouldn't'; when a recurring issue keeps coming back despite having been raised.",
       "worked_example": "A team lead tells a designer that late handoffs keep pushing engineering into weekend work. Rather than demanding earlier delivery, she asks what gets in the way. The designer explains that requirements change late because the lead approves scope changes in hallway conversations. They agree she will route changes through a shared doc and he will share drafts midweek. A couple facing recurring arguments over chores uses the same approach: each describes what the current split costs them before proposing anything.",
-      "common_mistakes": ["Arriving with the solution fully decided", "Treating the other person's explanation as an excuse", "Assuming only the other person needs to change", "Ending the conversation once the feedback is delivered, without agreeing next steps"],
-      "steps": ["Deliver the behavior-plus-impact feedback briefly", "Ask what is going on from their side", "Look for your own contribution to the pattern", "Brainstorm options together", "Agree on a small experiment and a time to check in"],
-      "categories": [{"category": "difficult", "subcategory": "conflict"}, {"category": "difficult", "subcategory": "giving-feedback"}, {"category": "professional", "subcategory": "negotiation"}, {"category": "personal-life", "subcategory": "partners"}],
-      "situations": ["Fixing recurring late handoffs on a team", "Dividing household chores fairly", "Resolving a repeated scheduling clash with a co-parent", "Addressing a client relationship that keeps going sideways"],
-      "source": {"citation": "Bradford and Robin, Connect, feedback and conflict chapters; Poets&Quants summary of the authors' CNBC piece", "underlying_research": "Consistent with interest-based problem solving (Fisher and Ury) and the contribution concept in Difficult Conversations; rests mainly on the authors' teaching experience.", "urls": ["https://poetsandquants.com/2021/07/25/stanford-gsb-6-traits-that-build-successful-relationships/", "https://www.cnbc.com/2021/07/12/researchers-behind-stanford-most-popular-mba-class-say-the-most-successful-relationship-have-6-traits.html"]},
+      "common_mistakes": [
+        "Arriving with the solution fully decided",
+        "Treating the other person's explanation as an excuse",
+        "Assuming only the other person needs to change",
+        "Ending the conversation once the feedback is delivered, without agreeing next steps"
+      ],
+      "steps": [
+        "Deliver the behavior-plus-impact feedback briefly",
+        "Ask what is going on from their side",
+        "Look for your own contribution to the pattern",
+        "Brainstorm options together",
+        "Agree on a small experiment and a time to check in"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "professional",
+          "subcategory": "negotiation"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
+      ],
+      "situations": [
+        "Fixing recurring late handoffs on a team",
+        "Dividing household chores fairly",
+        "Resolving a repeated scheduling clash with a co-parent",
+        "Addressing a client relationship that keeps going sideways"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapters 7 and 8 (feedback, pp. 98 to 135) and Chapter 12 'Using Conflict Productively' (p. 181); GSB Insights interview (2021)",
+        "underlying_research": "Consistent with interest-based problem solving (Fisher and Ury) and the contribution concept in Difficult Conversations; rests mainly on the authors' teaching experience.",
+        "urls": [
+          "https://poetsandquants.com/2021/07/25/stanford-gsb-6-traits-that-build-successful-relationships/",
+          "https://www.cnbc.com/2021/07/12/researchers-behind-stanford-most-popular-mba-class-say-the-most-successful-relationship-have-6-traits.html"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "Confirmed by a summary of the authors' own article; credible expert practice with broad consensus but no direct experimental test of this framing.",
-      "flags": ["none"]
+      "confidence_rationale": "Confirmed by a summary of the authors' own article, and a book excerpt quoted in reviews makes the related point that asking why something is not working beats blaming. Credible expert practice with broad consensus but no direct experimental test of this framing, so Medium.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "connect-09",
       "name": "Inquiry Before Advice",
       "skill_type": "technique",
-      "explanation": "When someone brings you a problem, the urge is to fix it quickly with advice. The authors encourage genuine inquiry first: open questions that help the person explore what is really going on and what they feel, so that you understand before you respond and so they feel heard. Curiosity also applies in conflict: asking about the other person's experience, instead of assuming it, keeps you on your side of the net.",
+      "explanation": "When someone brings you a problem, the urge is to fix it quickly with advice. The authors argue that advice is limiting and encourage genuine inquiry first: open questions, usually starting with how, when, where, or what, that help the person explore what is going on and what they feel. They specifically suggest avoiding why questions when inviting someone to open up, because why tends to sound like a demand for justification. They also suggest checking whether the advice you want to give serves your own need (to feel useful, to end your discomfort) rather than theirs. Listening for the emotion under the story and helping it be fully expressed is part of the skill.",
       "when_to_use": "When a friend, partner, or colleague shares a problem or worry; when you feel the urge to say 'have you tried'; when you catch yourself assuming you know why someone acted as they did.",
       "worked_example": "A colleague says she is thinking of quitting. Instead of listing job sites, a peer asks 'What's been building up?' and 'What would need to change for you to want to stay?' It turns out the issue is one conflict with a manager that she has not raised. At home, when a partner comes back upset from a family call, the other asks 'What part of that is staying with you?' before offering any view on the relatives.",
-      "common_mistakes": ["Disguising advice as a question ('Have you thought about just quitting?')", "Asking why in a way that sounds like an accusation", "Moving to solutions before the feeling has been acknowledged", "Turning the conversation to your own similar story too fast"],
-      "steps": ["Pause the urge to solve", "Ask an open question about their experience or feelings", "Reflect back what you heard and check it", "Ask what they want from you (listening, ideas, help)", "Only then offer advice, if invited"],
-      "categories": [{"category": "relationships", "subcategory": "listening"}, {"category": "relationships", "subcategory": "question-design"}, {"category": "personal-life", "subcategory": "supporting-distress"}],
-      "situations": ["A colleague confiding they want to quit", "Supporting a partner after a hard family call", "A direct report bringing you a problem", "A friend venting about a breakup"],
-      "source": {"citation": "Bradford and Robin, Connect, chapters on helping and supporting others; Lenny's Podcast segment on the art of inquiry", "underlying_research": "Consistent with research on follow-up questions increasing liking (Huang et al., 2017) and perceived responsiveness (Reis). The book's specific question guidance could not be verified from accessible text.", "urls": ["https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin"]},
+      "common_mistakes": [
+        "Disguising advice as a question ('Have you thought about just quitting?')",
+        "Asking why, which can sound like an accusation or a demand to justify",
+        "Moving to solutions before the feeling has been acknowledged",
+        "Giving advice mainly to relieve your own discomfort",
+        "Turning the conversation to your own similar story too fast"
+      ],
+      "steps": [
+        "Pause the urge to solve and ask yourself whose need the advice would serve",
+        "Ask an open question that starts with how, when, where, or what",
+        "Listen for the feeling underneath and name or reflect it",
+        "Ask what they want from you (listening, ideas, help)",
+        "Only then offer advice, if invited"
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "question-design"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "supporting-distress"
+        }
+      ],
+      "situations": [
+        "A colleague confiding they want to quit",
+        "Supporting a partner after a hard family call",
+        "A direct report bringing you a problem",
+        "A friend venting about a breakup"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 4 'Helping Others Be Known' (p. 50, Ben and Liam); Robin's Bookbite (reciprocal curiosity); Lenny's Podcast segments 'The art of inquiry' and 'Advice hinders relationships'",
+        "underlying_research": "Consistent with research on follow-up questions increasing liking (Huang, Yeomans, Brooks, Minson and Gino, 2017, Journal of Personality and Social Psychology; integrity note: Gino coauthored this paper, though it is not among those flagged in the 2023 data investigations) and perceived partner responsiveness (Reis and Shaver, 1988). My mapping, not confirmed as cited.",
+        "urls": [
+          "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/",
+          "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "Inquiry is confirmed as a theme in Robin's interviews (episode topic list), and question-asking is supported by research, but I could not read the book's specific treatment, so the detailed steps are partly my synthesis.",
-      "flags": ["none"]
+      "confidence_rationale": "Now confirmed in Robin's own Bookbite (open how/when/where/what questions; closed questions narrow and can feel judgmental; avoid why because it implies a demand for justification; suspend judgment) and podcast notes ('Advice hinders relationships' segment). The chapter assignment is inferred from its title. Question-asking is supported by research; Medium.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "connect-10",
@@ -174,31 +620,363 @@
       "explanation": "Much of what blocks closeness is the effort to appear competent, calm, and in control at all times. Managing your image costs you authenticity: people relate to the polished version, not to you, and they rarely feel safe to drop their own guard. The authors see being more fully yourself as the first hallmark of an exceptional relationship, while noting the tension at work: disclosure that casts doubt on your basic competence can reduce influence, so authenticity should be about feelings and uncertainties, not undermining yourself on core skills.",
       "when_to_use": "When you notice yourself performing in a relationship (always upbeat, never admitting uncertainty), or when people seem guarded with you.",
       "worked_example": "A newly promoted director has always projected total confidence. In a team meeting she admits she is still learning budgeting at this level and has asked a peer for help; two team members later raise concerns they had been sitting on. In a friendship, someone stops pretending a career change is going 'great' and admits it has been lonely, which prompts the friend to share a similar struggle.",
-      "common_mistakes": ["Confusing authenticity with saying every thought or criticism", "Disclosing incompetence on the core of your job rather than feelings or learning edges", "Expecting others to drop their image first"],
+      "common_mistakes": [
+        "Confusing authenticity with saying every thought or criticism",
+        "Disclosing incompetence on the core of your job rather than feelings or learning edges",
+        "Expecting others to drop their image first"
+      ],
       "steps": [],
-      "categories": [{"category": "relationships", "subcategory": "trust-vulnerability"}, {"category": "influence", "subcategory": "credibility"}, {"category": "professional", "subcategory": "executive-communication"}],
-      "situations": ["Leading a team as a new manager", "Admitting you're struggling to a close friend", "Building trust in a leadership team", "Interviewing or networking without sounding scripted"],
-      "source": {"citation": "Bradford and Robin, Connect, opening chapters; authors' CNBC article; Poets&Quants recap", "underlying_research": "Related findings on disclosure and leadership, and on the 'beautiful mess' effect (Bruk et al., 2018), suggest others view our vulnerability more positively than we expect. Not verified as cited in the book.", "urls": ["https://www.cnbc.com/2021/07/12/researchers-behind-stanford-most-popular-mba-class-say-the-most-successful-relationship-have-6-traits.html", "https://poetsandquants.com/2021/07/25/stanford-gsb-6-traits-that-build-successful-relationships/"]},
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "influence",
+          "subcategory": "credibility"
+        },
+        {
+          "category": "professional",
+          "subcategory": "executive-communication"
+        }
+      ],
+      "situations": [
+        "Leading a team as a new manager",
+        "Admitting you're struggling to a close friend",
+        "Building trust in a leadership team",
+        "Interviewing or networking without sounding scripted"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 1 'Seeking Exceptional' (cost of editing and spinning who you are) and Chapter 3 'To Share, or Not to Share'; GSB Insights interview (2021)",
+        "underlying_research": "The 'beautiful mess' effect (Bruk, Scholl and Bless, 2018, Journal of Personality and Social Psychology) suggests others view our vulnerability more positively than we expect. Not verified as cited in the book.",
+        "urls": [
+          "https://static.fnac-static.com/multimedia/PT/pdf/9780241406809.pdf",
+          "https://www.gsb.stanford.edu/insights/how-build-better-relationships",
+          "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/"
+        ]
+      },
       "confidence": "Medium",
-      "confidence_rationale": "Image management and the competence caveat are confirmed by snippets of the authors' own article and the Poets&Quants recap. The leadership claims rest on teaching experience; research on vulnerability perception is promising but limited.",
-      "flags": ["none"]
+      "confidence_rationale": "Verified in Chapter 1 of the publisher extract (presented image versus real self; spinning is exhausting and invites others to spin) and the GSB interview (students are more likable when they stop spinning their image). The competence caveat comes from the CNBC article via snippets only. Research on vulnerability perception is promising but limited. Medium.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "connect-11",
       "name": "Early Rules That No Longer Fit",
       "skill_type": "mental model",
-      "explanation": "Many of the habits that hold people back in relationships (do not show weakness, avoid conflict, keep the peace, handle it alone) are rules learned early in life that once served a purpose. As adults, those rules can limit closeness and honesty. Recognizing a rule as learned rather than true opens the option of experimenting with different behavior in low-risk settings.",
+      "explanation": "Many of the habits that hold people back in relationships (do not show weakness, avoid conflict, keep the peace, handle it alone) are beliefs about what works that were learned early, in childhood or early in a career, and that once served a purpose. Robin describes them as deeply grooved, so people usually need new experiences before they even believe the beliefs could be tested. Recognizing a rule as learned rather than true opens the option of experimenting with different behavior in low-risk settings.",
       "when_to_use": "When you notice a recurring pattern across relationships, such as never asking for help or always smoothing over disagreements.",
       "worked_example": "An engineer realizes she never asks for help because in her family needing help meant being a burden. She tests a small change by asking a peer to review a design she is unsure about, and finds the peer is pleased to be asked. Later she tries the same with her sister about childcare.",
-      "common_mistakes": ["Over-analyzing the origin instead of trying a small new behavior", "Assuming the rule is always wrong; some early lessons still serve you", "Blaming family of origin instead of taking ownership now"],
+      "common_mistakes": [
+        "Over-analyzing the origin instead of trying a small new behavior",
+        "Assuming the rule is always wrong; some early lessons still serve you",
+        "Blaming family of origin instead of taking ownership now"
+      ],
       "steps": [],
-      "categories": [{"category": "foundations", "subcategory": "mindset"}, {"category": "personal-life", "subcategory": "family"}],
-      "situations": ["Struggling to ask for help at work", "Avoiding conflict with a partner", "Noticing the same friction across several relationships"],
-      "source": {"citation": "Robin on Lenny's Podcast (episode topic: mental models built early in life holding you back); book treatment not verified", "underlying_research": "Broadly consistent with attachment and schema research, but no specific study confirmed as cited.", "urls": ["https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin"]},
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
+      ],
+      "situations": [
+        "Struggling to ask for help at work",
+        "Avoiding conflict with a partner",
+        "Noticing the same friction across several relationships"
+      ],
+      "source": {
+        "citation": "Robin on Lenny's Podcast (segment 'Understanding mental models'); book treatment not verified (Chapter 9 'Can People Really Change?' may be related, unconfirmed)",
+        "underlying_research": "Broadly consistent with attachment and schema research, but no specific study confirmed as cited.",
+        "urls": [
+          "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin",
+          "https://www.gsb.stanford.edu/insights/how-build-better-relationships",
+          "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/"
+        ]
+      },
       "confidence": "Low",
-      "confidence_rationale": "Confirmed only as a podcast topic heading; I could not verify how, or whether, the book develops it. Kept because it is a useful framing, but the details are thin.",
-      "flags": ["unreplicated"]
+      "confidence_rationale": "Robin's own view, confirmed in podcast show notes, the GSB interview (beliefs held for years that have ceased to serve, such as 'feedback will ruin a relationship') and her Bookbite story of shedding an internalized message that no longer served her. Not confirmed as a developed theme in the book itself, so flagged not-confirmed-in-book and kept Low.",
+      "flags": [
+        "unreplicated",
+        "not-confirmed-in-book"
+      ]
+    },
+    {
+      "id": "connect-12",
+      "name": "Keep Influence in Balance",
+      "skill_type": "technique",
+      "explanation": "Healthy relationships let both people influence each other. Most relationships have a higher-influence and a lower-influence person; change is easier for the higher-influence side to start, but the lower-influence person often gives power away without noticing, through habits such as avoiding disagreement to keep things nice, not raising a problem until they have a solution, and assuming their own needs come second. When one side consistently gets their way, resentment builds quietly in the other. Restoring balance starts with stating your wants openly and being willing to revisit old agreements that no longer work, so that both sides can look for solutions each can live with.",
+      "when_to_use": "When you notice you usually defer to someone (a partner, a dominant peer, a boss) and feel quietly resentful, or when you suspect the other person defers to you and has stopped saying what they want.",
+      "worked_example": "A designer realizes that in every scoping discussion with a forceful product lead she proposes an idea, gets one objection, and drops it. Afterward she complains to colleagues. She decides to try two changes: at the next meeting she states her recommendation plainly and, when challenged, says she still thinks it is right and explains why. She also raises an old agreement that she would always handle last-minute asset requests, saying it no longer works for her workload. They settle on a cutoff time. At home, a husband notices he always picks the vacation and asks his wife what she has wanted but not said.",
+      "common_mistakes": [
+        "Waiting for the other person to notice the imbalance and fix it",
+        "Swinging to dominance or ultimatums instead of open requests",
+        "Treating every past agreement as permanent",
+        "Assuming the more powerful person must be acting in bad faith rather than simply not knowing what you want"
+      ],
+      "steps": [
+        "Notice where decisions in the relationship usually land",
+        "List the specific habits through which you give influence away",
+        "State one want clearly, without apology or over-explanation",
+        "When you meet pushback, stay with your view long enough to discuss it",
+        "Revisit one old agreement that no longer fits and renegotiate it",
+        "If you hold more influence, ask the other person directly what they want"
+      ],
+      "categories": [
+        {
+          "category": "influence",
+          "subcategory": "overcoming-resistance"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
+      ],
+      "situations": [
+        "Speaking up to a dominant colleague",
+        "Renegotiating household responsibilities",
+        "Pushing back on a boss's default plan",
+        "Noticing a partner has stopped voicing preferences"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 5 'Influence in Balance' (p. 69, Maddie and Adam, Part 1); Forbes interview with the authors (2022)",
+        "underlying_research": "Rests on the authors' teaching; Bradford also coauthored Influence Without Authority (Cohen and Bradford), a separate work on reciprocity-based influence. Related research on power in close relationships (for example Kelley and Thibaut's interdependence theory) is my mapping, not confirmed as cited.",
+        "urls": [
+          "https://nutreats.co.za/connect-david-bradford-carole-robin-lessons/",
+          "https://www.forbes.com/sites/rodgerdeanduncan/2022/02/14/invigorate-your-relationships-by-learning-to-connect/",
+          "https://www.goodreads.com/work/quotes/84042320-connect-building-exceptional-relationships-with-family-friends-and-co"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Chapter verified in the contents; the influence imbalance idea and three of the habits of giving influence away are confirmed in a reader review that read the book, and the rebalancing advice in third-party summaries. The full list (reportedly ten habits) was not seen. Expert synthesis, not tested, so Medium.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "connect-13",
+      "name": "Boundaries That Keep You Close",
+      "skill_type": "technique",
+      "explanation": "Setting a boundary can feel like pulling away, but the authors argue that boundaries handled with care usually make relationships closer, because both people know what to expect and resentment has nowhere to build. Much friction comes from mismatched expectations that were never said aloud. The work is to make expectations explicit, raise mismatches early, state your limits as your own needs rather than verdicts on the other person, and treat boundaries as revisable as circumstances change.",
+      "when_to_use": "When a friend, relative, or colleague keeps asking for more than you want to give; when you feel taken for granted; when two people's unspoken assumptions about a relationship differ.",
+      "worked_example": "A manager has become friends with a direct report, who has started expecting inside information about reorganizations. Rather than going cold, the manager says she values the friendship and wants to keep it, and that there are things she cannot share because of her role; if she goes quiet on a topic, it is the role, not him. He says he had wondered whether she trusted him, and they agree to keep work and weekend topics separate. In a family, an adult son tells his mother he loves her calls but cannot talk during work hours, and suggests a regular Sunday call instead.",
+      "common_mistakes": [
+        "Assuming a boundary will damage the relationship, so never stating it",
+        "Announcing a boundary as an accusation or rule for the other person",
+        "Letting mismatched expectations simmer until they become a crunch",
+        "Treating a boundary as fixed forever rather than open to revision"
+      ],
+      "steps": [
+        "Identify the expectation that is being stretched or violated",
+        "Check what the other person expects; they may not know yours",
+        "State your limit in terms of your needs and feelings",
+        "Affirm what you value in the relationship",
+        "Agree on what each of you will do and when to revisit it"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "saying-no"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "professional",
+          "subcategory": "situations"
+        }
+      ],
+      "situations": [
+        "Being friends with someone you manage",
+        "Limiting a parent's daytime calls",
+        "Turning down repeated favors from a friend",
+        "Clarifying availability with a demanding colleague"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 14 'Boundaries and Expectations' (p. 215, Elena and Sanjay, Parts 5 and 6), Part II 'Tackling the Summit'",
+        "underlying_research": "Rests on the authors' teaching experience; no specific study confirmed as cited.",
+        "urls": [
+          "https://static.fnac-static.com/multimedia/PT/pdf/9780241406809.pdf",
+          "https://www.shortform.com/summary/connect-summary-david-bradford-and-carole-robin",
+          "https://www.bookey.app/book/connect"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Chapter title and case pairing verified in the publisher contents page, and the publisher jacket highlights setting healthy boundaries. The core guidance (boundaries handled with care can increase closeness; make expectations explicit and revisit them) comes from third-party summaries of varying quality and was not read in the book. Medium as credible expert advice with practitioner consensus.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "connect-14",
+      "name": "Rupture Can Be Repaired",
+      "skill_type": "mental model",
+      "explanation": "Even exceptional relationships go badly wrong at times, and a serious rupture does not have to be the end. The authors describe their own falling out: one felt so hurt that she initially refused to meet, then months later agreed to try a repair conversation. The relationship moved from distant and formal, to gradually warmer, to where it had been, and then to stronger than before. Their lesson is that mistakes and misunderstandings are inevitable, repair is possible, and surviving a near break can give both people confidence that they can handle future disagreements. Approaching the breakdown with curiosity about why things stopped working, rather than blame, is what makes repair possible. A reader review notes they compare repair to kintsugi, mending broken pottery with gold so that the history of the break becomes part of the strength.",
+      "when_to_use": "After a serious falling out with a colleague, friend, or family member that you would like to recover; when you are tempted to write off a relationship after one big hurt.",
+      "worked_example": "Two cofounders stop speaking beyond logistics after one sold a product line without fully consulting the other. Months later, one sends a short note asking for a real conversation about what happened, not a negotiation. In the meeting each describes the impact on them and their own part in the breakdown, without arguing intentions. Things stay formal for a while, but after a few honest check-ins they are more candid than before, and later disagreements are easier because they know they survived worse.",
+      "common_mistakes": [
+        "Waiting for the other person to make the first move",
+        "Opening the repair conversation by relitigating who was right",
+        "Expecting the relationship to snap back immediately rather than warm in stages",
+        "Concluding that one rupture proves the relationship was never real"
+      ],
+      "steps": [
+        "Decide whether the relationship matters enough to try",
+        "Ask for a conversation explicitly framed as repair",
+        "Share the impact on you and own your contribution",
+        "Ask what it was like for them, staying on your side of the net",
+        "Expect a gradual rebuild and check in along the way"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "apologies"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        }
+      ],
+      "situations": [
+        "Reconciling with an estranged cofounder or colleague",
+        "Repairing a friendship after a betrayal",
+        "Reconnecting with a sibling after a family fight"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, Connect, Chapter 17 'An Exceptional Relationship Gone Awry, and Back Again' (p. 261), previewed in Chapter 1",
+        "underlying_research": "The authors' own experience. Consistent with couples research on repair attempts (Gottman) and rupture-repair research in psychotherapy (Safran and Muran), which are my mapping, not confirmed as cited.",
+        "urls": [
+          "https://static.fnac-static.com/multimedia/PT/pdf/9780241406809.pdf",
+          "https://nutreats.co.za/connect-david-bradford-carole-robin-lessons/",
+          "https://doosho.com/en/64/17"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Verified in Chapter 1 of the publisher extract: the authors nearly lost their relationship after something David did (or did not do), recovered it, and say mistakes and misunderstandings happen and repair is possible; details of the arc come from chapter excerpts seen in search. The specific case is a single anecdote, but repair is supported by couples and therapy research, so Medium with a single-anecdote flag.",
+      "flags": [
+        "single-anecdote"
+      ]
+    },
+    {
+      "id": "connect-15",
+      "name": "Ask for Behavior Change, Not Personality Change",
+      "skill_type": "mental model",
+      "explanation": "People can change what they do much more readily than who they are. Asking someone to stop being an introvert, a perfectionist, or 'so intense' is unfair and rarely works, but asking for a specific behavior change is reasonable. Robin's example: an extreme extrovert cannot stop being one, but can learn to leave more room for others to speak. The more clearly a person understands how their behavior affects someone they care about, the more motivated they are to change it, and when they do, the relationship improves, which reinforces the new behavior.",
+      "when_to_use": "When you are frustrated with someone's 'personality'; when someone tells you that you are too much of something; when deciding whether a relationship problem is fixable.",
+      "worked_example": "A team lead is tempted to tell a senior engineer he is 'too negative'. Instead she identifies the behavior: in planning meetings he lists risks for every idea before anyone has finished explaining it, and others stop proposing things. She describes that and its effect, and asks whether he would hold risk comments until the end of each pitch. He is still a cautious thinker, but the meetings change. At home, a person who is told she is 'controlling' asks her partner which specific moments feel that way, and they focus on one: rearranging the dishwasher after he loads it.",
+      "common_mistakes": [
+        "Labeling traits ('you're selfish') instead of naming behaviors",
+        "Expecting a change in temperament rather than in a few actions",
+        "Assuming people cannot change at all because their personality is fixed",
+        "Not explaining the impact, which removes the motivation to change"
+      ],
+      "steps": [
+        "Translate the trait you dislike into one or two specific behaviors",
+        "Describe the impact of those behaviors on you",
+        "Ask for a concrete, doable change, not a different personality",
+        "Notice and acknowledge when the change happens"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
+      ],
+      "situations": [
+        "Giving feedback to a dominating colleague",
+        "Dealing with a partner's irritating habit",
+        "Hearing that you come on too strong"
+      ],
+      "source": {
+        "citation": "Bradford and Robin, GSB Insights interview (January 2021); likely developed in Connect, Chapter 9 'Can People Really Change?' (p. 136, Phil and Rachel), not read",
+        "underlying_research": "Consistent with research on the relative stability of personality traits alongside changeable behavior; no specific study confirmed as cited.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/how-build-better-relationships"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Stated directly by Robin in the authors' GSB interview about the book; the link to Chapter 9 is inferred from its title only. Credible expert advice consistent with the behavior-focused feedback research cited for connect-04, but not itself tested. Medium.",
+      "flags": [
+        "none"
+      ]
     }
   ],
-  "research_notes": "Network policy blocked direct fetches of lennysnewsletter.com and scaleworks.com (DNS ENOTFOUND); per session guidance I stopped attempting further WebFetch calls, so everything here comes from WebSearch result snippets, not full-page reads. Sources seen via snippets: Stanford GSB book page, GSB Insights pieces (how to build better relationships; Robin 2013 'Feedback is a gift'; Robin 2015 'feedback-rich environment'), Stanford GSB course page and Robin's T-group handout title, the authors' CNBC article (July 2021), Poets&Quants recap (July 2021), Next Big Idea Club Bookbite (only the disclosure insight visible), SCMP article (opening only), Goodreads reviews and reader highlights, Toby Sinclair summary (section headings only: 'Pinches and Crunches', 'Connect Feedback Model'), Lenny's Podcast episode topic list, Authority Magazine interview with Robin, Wikipedia on Robin. Verified as in the book or in the authors' own material: six hallmarks (partially named), 15 percent rule with comfort/learning/danger zones, three realities and the net, behavior-based feedback and critique of the feedback sandwich, pinch and crunch, 'I feel that' as a thought, feedback as data, feedback as start of problem solving, image management. Less verified: inquiry before advice (podcast topic), early life mental models (podcast topic only). I could not see the table of contents, so chapter numbers are omitted; I also could not confirm the exact wording of all six hallmarks, the book's own attribution of the pinch-crunch model (I believe it originates with Sherwood and Glidewell's planned renegotiation model, unverified), or which studies the endnotes cite. All named research in underlying_research fields is my mapping to relevant literature unless explicitly marked as cited. Not found in accessible sources: the book's chapters on influence, boundaries, and repairing damaged relationships (mentioned in publisher copy), so they were not turned into insights. Tenure discrepancy across sources: Robin taught the course roughly 17 to 20+ years depending on source."
+  "research_notes": "Network policy blocked direct fetches of lennysnewsletter.com and scaleworks.com (DNS ENOTFOUND); per session guidance I stopped attempting further WebFetch calls, so everything here comes from WebSearch result snippets, not full-page reads. Sources seen via snippets: Stanford GSB book page, GSB Insights pieces (how to build better relationships; Robin 2013 'Feedback is a gift'; Robin 2015 'feedback-rich environment'), Stanford GSB course page and Robin's T-group handout title, the authors' CNBC article (July 2021), Poets&Quants recap (July 2021), Next Big Idea Club Bookbite (only the disclosure insight visible), SCMP article (opening only), Goodreads reviews and reader highlights, Toby Sinclair summary (section headings only: 'Pinches and Crunches', 'Connect Feedback Model'), Lenny's Podcast episode topic list, Authority Magazine interview with Robin, Wikipedia on Robin. Verified as in the book or in the authors' own material: six hallmarks (partially named), 15 percent rule with comfort/learning/danger zones, three realities and the net, behavior-based feedback and critique of the feedback sandwich, pinch and crunch, 'I feel that' as a thought, feedback as data, feedback as start of problem solving, image management. Less verified: inquiry before advice (podcast topic), early life mental models (podcast topic only). I could not see the table of contents, so chapter numbers are omitted; I also could not confirm the exact wording of all six hallmarks, the book's own attribution of the pinch-crunch model (I believe it originates with Sherwood and Glidewell's planned renegotiation model, unverified), or which studies the endnotes cite. All named research in underlying_research fields is my mapping to relevant literature unless explicitly marked as cited. Not found in accessible sources: the book's chapters on influence, boundaries, and repairing damaged relationships (mentioned in publisher copy), so they were not turned into insights. Tenure discrepancy across sources: Robin taught the course roughly 17 to 20+ years depending on source. Stage 1b (2026-11-04): pages fetched with curl and read in full: Penguin Life UK publisher extract PDF (contents with page numbers, Chapter 1, start of Chapter 2), PRH product page, GSB book page, GSB Insights interview (2021), Robin's 2015 GSB feedback article, Robin's Next Big Idea Club Bookbite, Lenny's Podcast show notes, and a reader review (nutreats). CNBC, Poets&Quants and Forbes returned 403; other details (Sherwood and Glidewell origin, boundaries and repair chapter content) came from search snippets. Verified contents: 1 Seeking Exceptional (3); 2 A World-Class Course, One Chapter at a Time (11); Part I Getting to the Meadow: 3 To Share, or Not to Share (25); 4 Helping Others Be Known (50); 5 Influence in Balance (69); 6 Pinches and Crunches (85); 7 Why Feedback Is the Breakfast of Champions (98); 8 Challenges in Using Feedback Effectively (118); 9 Can People Really Change? (136); 10 Own Your Emotions or They Will Own You (154); 11 Breaking the Logjam (168); 12 Using Conflict Productively (181); Part II Tackling the Summit: 13 Resolving Contentious Issues (203); 14 Boundaries and Expectations (215); 15 Entangled Issues (230); 16 When Exceptional Isn't in the Cards (243); 17 An Exceptional Relationship Gone Awry, and Back Again (261); Epilogue (275); Appendices A and B; Notes (289); Index (293). Page numbers are from the UK Penguin Life edition, which appears to share US pagination (both 320 pages). Correction: the earlier '90 percent of MBAs' figure is given in the book as over 85 percent.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://static.fnac-static.com/multimedia/PT/pdf/9780241406809.pdf",
+      "https://www.penguinrandomhouse.com/books/645809/connect-by-david-bradford-and-carole-robin/",
+      "https://www.gsb.stanford.edu/faculty-research/books/connect-building-exceptional-relationships-family-friends-colleagues",
+      "https://www.gsb.stanford.edu/insights/how-build-better-relationships",
+      "https://www.gsb.stanford.edu/insights/carole-robin-how-create-feedback-rich-environment",
+      "https://nextbigideaclub.com/magazine/connect-building-exceptional-relationships-family-friends-colleagues-bookbite/26924/",
+      "https://www.lennysnewsletter.com/p/build-robust-relationships-carole-robin",
+      "https://nutreats.co.za/connect-david-bradford-carole-robin-lessons/"
+    ],
+    "changes": [
+      "book: publisher and edition verified against PRH page and UK copyright page (Feb 9, 2021; 320 pages; UK ISBNs); author_credibility corrected from 'more than 90 percent' to the book's 'over 85 percent' enrollment and Bradford's role as developer; evidence_base adds authors' stated research basis, composite cases and verified part structure; legal_access adds the publisher extract and PRH page and updates read status",
+      "connect-01: all six hallmarks verified against Chapter 1 (p. 4) of the publisher extract; explanation adds the self-disclosure/feedback split and meadow-summit metaphor; confidence unchanged",
+      "connect-02: citation set to Chapter 3 'To Share, or Not to Share'; journals added to research citations",
+      "connect-03: citation narrowed to feedback chapters 7 and 8 (exact location unverified); journals added",
+      "connect-04: citation set to Chapters 7 and 8; Kluger and DeNisi finding stated more precisely",
+      "connect-05: citation set to Chapter 6 'Pinches and Crunches'; Sherwood and Glidewell planned renegotiation origin confirmed from independent OD sources (date given as range); book's own attribution still unverified",
+      "connect-06: added Kashdan, Barrett and McKnight (2015) citation for granularity",
+      "connect-07: citation set to Chapter 7; Dunning, Heath and Suls (2004) named",
+      "connect-08: citation adds Chapter 12 (Using Conflict Productively); rationale notes book excerpt on curiosity over blame",
+      "connect-09: now confirmed in Chapter 4 'Helping Others Be Known'; explanation, mistakes and steps revised to reflect the book's advice (open what/how/when questions, avoid why questions, advice is limiting, check whose need advice serves); Huang et al. 2017 given full authors with Gino integrity note; confidence stays Medium",
+      "connect-10: Bruk et al. citation completed; citation refined to Chapters 1 to 3",
+      "connect-11: flagged not-confirmed-in-book; explanation adds Robin's point that early-career beliefs also apply and need new experiences to test; stays Low",
+      "connect-12: added from Chapter 5 'Influence in Balance'",
+      "connect-13: added from Chapter 14 'Boundaries and Expectations'",
+      "connect-14: added from Chapter 17 on the authors' own rupture and repair",
+      "connect-02: adds Robin's point that higher-status people should disclose first; zones confirmed in Bookbite and GSB interview",
+      "connect-03 to connect-10: chapter and page references added from the verified contents page; urls switched to pages actually read; connect-06 gains feelings-give-meaning-to-facts and the vocabulary appendix",
+      "connect-15: added (behavior change versus personality change) from the authors' GSB interview"
+    ],
+    "still_unverified": [
+      "Book endnotes (pp. 289 to 292): which studies the book cites; all underlying_research is my mapping",
+      "Whether the book credits Sherwood and Glidewell for pinch and crunch",
+      "Exact chapter for the three realities and the 'I feel that' passages",
+      "The book's critique of the feedback sandwich (seen only in secondary summaries)",
+      "Full list of ten ways to give away influence (connect-12)",
+      "Details of the boundaries guidance (connect-13) beyond chapter title",
+      "Whether early-life mental models (connect-11) are developed in the book",
+      "Content of Chapter 16 'When Exceptional Isn't in the Cards' and Chapter 15 'Entangled Issues' (not turned into insights)",
+      "CNBC, Poets&Quants and Forbes returned 403; Google Books and full podcast transcript not read"
+    ]
+  }
 }

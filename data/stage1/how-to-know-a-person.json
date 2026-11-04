@@ -3,22 +3,66 @@
     "book_id": "how-to-know-a-person",
     "title": "How to Know a Person",
     "subtitle": "The Art of Seeing Others Deeply and Being Deeply Seen",
-    "authors": ["David Brooks"],
+    "authors": [
+      "David Brooks"
+    ],
     "year": 2023,
     "publisher": "Random House",
-    "edition": "First edition, hardcover (published October 24, 2023)",
+    "edition": "First edition, hardcover, Random House, October 24, 2023, 320 pages (publisher page). UK: Allen Lane 2023; Penguin Books paperback 2025, ISBN 9781802064308. Page references below follow the US hardcover pagination as given in a church discussion guide; the UK paperback contents page shows the same chapter start pages.",
     "isbn": "9780593230060",
-    "author_credibility": "David Brooks is a long-time New York Times opinion columnist and author of several books on character and social life (The Social Animal, The Road to Character, The Second Mountain). He is not a psychologist or researcher; the book is a synthesis of psychology, philosophy, literature and personal experience. He is candid that he wrote it partly to fix his own reserved, emotionally distant habits, which makes it personal and motivational but also means some advice reflects his temperament and moral outlook more than tested method.",
-    "evidence_base": "Mixed. Some chapters lean on solid peer-reviewed work (Nicholas Epley's lab on deep conversation and perspective getting, Dan McAdams on narrative identity, Big Five personality research, developmental psychology from Erik Erikson and others). Much of the practical advice (Illuminators versus Diminishers, accompaniment, conversation tips, looping, hard conversations) is drawn from essays, philosophers such as Simone Weil, practitioners, interviews and Brooks's own experience. The chapter on supporting a friend in despair rests largely on one case: his friend Peter Marks, who died by suicide after years of depression. Reviewers note the book is engaging but in places anecdotal and thin on step-by-step method.",
+    "author_credibility": "David Brooks is a long-time New York Times opinion columnist (and, per his publisher, a writer for The Atlantic and regular PBS NewsHour commentator) and author of several books on character and social life (The Social Animal, The Road to Character, The Second Mountain). He is not a psychologist or researcher; the book is a synthesis of psychology, philosophy, literature and personal experience. He says he wrote it partly to fix his own reserved, emotionally distant habits, which makes it personal and motivational but also means some advice reflects his temperament and moral outlook more than tested method.",
+    "evidence_base": "Mixed. Some passages lean on peer-reviewed work: William Ickes on empathic accuracy and Nicholas Epley on the 'lesser minds' problem (both in the opening chapters, confirmed in the publisher sample), Dan McAdams's life-story interviews (Chapter 15), Big Five personality research and a 2022 review by Brent Roberts and Hee J. Yoon on personality change (Chapter 13), and developmental psychology for the life-tasks chapter (Erikson; summaries also name Robert Kegan). Much of the practical advice (Illuminators versus Diminishers, accompaniment, the Good Talks tips including looping and loud listening, the hard-conversations tools) comes from essays, philosophers such as Simone Weil and Iris Murdoch, practitioners, interviews and Brooks's own experience. The chapter on a friend in despair rests largely on one case, his friend Peter Marks, who died by suicide after years of depression. Reviewers find it engaging and practical but in places anecdotal.",
     "legal_access": [
-      {"type": "publisher preview", "url": "https://www.penguinrandomhouse.com/books/652822/how-to-know-a-person-by-david-brooks/9780593230060", "note": "Publisher page with description; found via search, not fetched (network policy)."},
-      {"type": "publisher preview", "url": "https://cdn.penguin.co.uk/dam-assets/books/9781802064308/9781802064308-sample.pdf", "note": "UK publisher sample PDF; located via search, not fetched due to network policy."},
-      {"type": "author excerpt", "url": "", "note": "Brooks, 'How Do You Serve a Friend in Despair?', New York Times, February 2023; became the book's chapter on Peter Marks. Content verified only through secondary commentary in search results."},
-      {"type": "author excerpt", "url": "", "note": "Brooks, 'The Essential Skills for Being Human', New York Times, October 19, 2023; adapted from the book. Not an Atlantic piece as far as searches could confirm."},
-      {"type": "interview", "url": "https://katebowler.com/podcasts/how-to-really-know-someone/", "note": "Kate Bowler podcast interview with Brooks; located, not fetched."},
-      {"type": "interview", "url": "https://www.rnz.co.nz/national/programmes/afternoons/audio/2018917384/david-brooks-how-to-know-another-person", "note": "RNZ radio interview; located, not fetched."},
-      {"type": "summary", "url": "https://readingraphics.com/book-summary-how-to-know-a-person/", "note": "Commercial summary; content seen only through search snippets."},
-      {"type": "summary", "url": "https://www.supersummary.com/how-to-know-a-person/summary/", "note": "Chapter-level study guide; content seen only through search snippets."}
+      {
+        "type": "publisher preview",
+        "url": "https://www.penguinrandomhouse.com/books/652822/how-to-know-a-person-by-david-brooks/9780593230060",
+        "note": "Publisher page, read 2026-11-04: confirms hardcover Oct 24, 2023, 320 pages, ISBN 9780593230060; paperback Oct 21, 2025."
+      },
+      {
+        "type": "publisher preview",
+        "url": "https://cdn.penguin.co.uk/dam-assets/books/9781802064308/9781802064308-sample.pdf",
+        "note": "UK Penguin paperback sample, read 2026-11-04: full contents page plus Chapters 1 and 2 (to about p. 23)."
+      },
+      {
+        "type": "publisher preview",
+        "url": "https://www.penguinrandomhouse.com/books/652822/how-to-know-a-person-by-david-brooks/readers-guide/",
+        "note": "Publisher reader's guide (discussion questions only)."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.nytimes.com/2023/10/19/opinion/social-skills-connection.html",
+        "note": "Brooks, 'The Essential Skills for Being Human', New York Times, Oct 19, 2023, adapted from the book. Paywalled; content checked through a detailed public commentary (zhurnaly.com)."
+      },
+      {
+        "type": "author excerpt",
+        "url": "",
+        "note": "Brooks, 'How Do You Serve a Friend in Despair?', New York Times, February 2023; became Chapter 10. Not read directly (paywalled); checked through a blog that quotes the chapter."
+      },
+      {
+        "type": "interview",
+        "url": "https://detroitpbs.org/news-media/one-detroit/best-selling-author-david-brooks-discusses-his-latest-book-how-to-know-a-person",
+        "note": "Detroit PBS interview write-up; source for the 54 percent statistic."
+      },
+      {
+        "type": "interview",
+        "url": "https://katebowler.com/podcasts/how-to-really-know-someone/",
+        "note": "Kate Bowler podcast interview; not read."
+      },
+      {
+        "type": "summary",
+        "url": "https://notes.blairnangle.com/how-to-know-a-person",
+        "note": "Reader's chapter-by-chapter notes, read 2026-11-04."
+      },
+      {
+        "type": "summary",
+        "url": "https://sive.rs/book/KnowPerson",
+        "note": "Derek Sivers's book notes, read 2026-11-04."
+      },
+      {
+        "type": "summary",
+        "url": "https://static1.squarespace.com/static/58dd21473e00be49e40a73de/t/66f9555a2e49b62c6032543e/1727616347006/Final+Discussion+of+Brooks+book+Sep+29+2024.pdf",
+        "note": "Church discussion guide with US page references for every chapter, read 2026-11-04."
+      }
     ]
   },
   "insights": [
@@ -36,25 +80,46 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "relationships", "subcategory": "rapport"},
-        {"category": "foundations", "subcategory": "mindset"},
-        {"category": "relationships", "subcategory": "listening"}
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        }
       ],
-      "situations": ["One-on-one with a direct report", "First date", "Family dinner", "Networking coffee", "Onboarding a new colleague"],
+      "situations": [
+        "One-on-one with a direct report",
+        "First date",
+        "Family dinner",
+        "Networking coffee",
+        "Onboarding a new colleague"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Part 1, 'I See You', early chapters on the power of being seen; also NYT column 'The Essential Skills for Being Human' (Oct 19, 2023).",
-        "underlying_research": "None specific; a conceptual framing. Brooks cites survey data that a majority of Americans report no one knows them well (reported by reviewers as 54 percent), but the Illuminator/Diminisher typology itself is his own.",
-        "urls": ["https://www.colgate.edu/news/stories/david-brooks-gives-his-insight-how-know-person", "https://joemoran.net/2024/03/02/how-to-know-a-person/"]
+        "citation": "David Brooks, How to Know a Person (2023), Part 1 'I See You': Chapter 1 'The Power of Being Seen' (Illuminators and Diminishers defined, pp. 12 to 14, with the Bell Labs story of Harry Nyquist as an Illuminator); Chapter 2 'How Not to See a Person' (Diminisher habits: the quick size-up, egotism, anxiety, naive realism, the lesser-minds problem, objectivism, essentialism, the static mindset, pp. 20 to 22); Chapter 3 'Illumination' (Illuminator qualities: tenderness, receptivity, active curiosity, affection, generosity, a holistic attitude, pp. 32 to 35). Also NYT essay 'The Essential Skills for Being Human' (Oct 19, 2023).",
+        "underlying_research": "The typology is Brooks's own. Chapter 1 supports the claim that we read others poorly with William Ickes's empathic-accuracy research, and Chapter 2 cites Nicholas Epley on the lesser-minds problem. The 54 percent figure (Americans who say nobody knows them well) is confirmed from Brooks's own interview remarks; the underlying survey was not identified.",
+        "urls": [
+          "https://cdn.penguin.co.uk/dam-assets/books/9781802064308/9781802064308-sample.pdf",
+          "https://zhurnaly.com/z/David%20Brooks%20on%20Being%20Human.html",
+          "https://joemoran.net/2024/03/02/how-to-know-a-person/"
+        ]
       },
       "confidence": "Low",
-      "confidence_rationale": "Memorable and practically useful as a reflective lens, but it is an essayist's typology, not a validated construct. The term echoes Liz Wiseman's earlier 'Multipliers versus Diminishers' leadership framing, which is also practitioner-based. Rated Low on evidence, not on usefulness.",
-      "flags": ["pop-psychology"]
+      "confidence_rationale": "Confirmed in the book text (publisher sample, Chapter 1). Memorable and practically useful as a reflective lens, but it is an essayist's typology, not a validated construct; the term echoes Liz Wiseman's practitioner framing 'Multipliers versus Diminishers'. Rated Low on evidence, not on usefulness.",
+      "flags": [
+        "pop-psychology"
+      ]
     },
     {
       "id": "how-to-know-a-person-02",
       "name": "Accompaniment: walk beside, do not steer",
       "skill_type": "mental model",
-      "explanation": "Before deep knowing comes ordinary companionship: spending unhurried time alongside someone without an agenda to fix, impress or extract. Brooks describes accompaniment as having several qualities: patience (respecting the other person's timetable rather than forcing depth, which he links to Simone Weil's idea of holding back, or 'negative effort'), playfulness (light shared activity where the content matters less than the togetherness), other-centeredness (turning down your own self-importance), and presence (staying with someone rather than rushing to solve). Trust and openness grow out of this shared ordinary time.",
+      "explanation": "Before deep knowing comes ordinary companionship: spending unhurried time alongside someone without an agenda to fix, impress or extract. Brooks names four qualities of good accompaniment: patience (trust builds slowly, so you hold back and respect the other person's timetable, which he links to Simone Weil's idea of 'negative effort'), playfulness (shared activity where being together matters more than the content), other-centeredness (turning down your own self-importance so the other person can be fully themselves), and presence (simply being there, especially in hard times). Talking regularly about small things is what makes it possible to talk about big things later.",
       "when_to_use": "Early in any relationship, when someone is going through a hard stretch but is not ready to talk, with teenagers or reserved colleagues, and when rebuilding distance in a family relationship.",
       "worked_example": "A father wants to know what is going on with his quiet 15-year-old. Instead of a sit-down talk, he starts driving her to practice and stopping for food afterward, keeping it light. Weeks later, on one of those drives, she brings up a friendship falling apart. At work, a team lead does something similar with a guarded new hire: regular coffee walks with no agenda, which later make a frank conversation about workload possible.",
       "common_mistakes": [
@@ -64,26 +129,49 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "relationships", "subcategory": "trust-vulnerability"},
-        {"category": "personal-life", "subcategory": "family"},
-        {"category": "personal-life", "subcategory": "friendships"},
-        {"category": "relationships", "subcategory": "rapport"}
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        }
       ],
-      "situations": ["Reconnecting with a teenager", "Building trust with a guarded new hire", "Supporting a friend who will not talk yet", "Visiting an aging parent"],
+      "situations": [
+        "Reconnecting with a teenager",
+        "Building trust with a guarded new hire",
+        "Supporting a friend who will not talk yet",
+        "Visiting an aging parent"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Part 1, Chapter 4 'Accompaniment'.",
-        "underlying_research": "Philosophical rather than empirical: Simone Weil (attention, negative effort). No specific study identified in sources reviewed.",
-        "urls": ["https://www.supersummary.com/how-to-know-a-person/key-takeaways"]
+        "citation": "David Brooks, How to Know a Person (2023), Part 1, Chapter 4 'Accompaniment' (pp. 43 to 54): patience p. 46, playfulness p. 47, other-centeredness p. 50, presence p. 52.",
+        "underlying_research": "Philosophical rather than empirical: Simone Weil's 'negative effort' (confirmed via a blog quoting the chapter). No empirical study identified.",
+        "urls": [
+          "https://static1.squarespace.com/static/58dd21473e00be49e40a73de/t/66f9555a2e49b62c6032543e/1727616347006/Final+Discussion+of+Brooks+book+Sep+29+2024.pdf",
+          "https://risewithdrew.com/willfulness-or-willingness/",
+          "https://notes.blairnangle.com/how-to-know-a-person"
+        ]
       },
       "confidence": "Low",
-      "confidence_rationale": "Chapter existence and its themes (patience, playfulness, presence, other-centeredness) are confirmed by several summaries and a reading guide, but support is philosophical and anecdotal. Plausible and consistent with common relationship wisdom; not tested as stated.",
-      "flags": ["pop-psychology"]
+      "confidence_rationale": "Chapter and its four qualities confirmed with page references in a discussion guide; the Weil link confirmed via a blog quoting the book. Support is philosophical and anecdotal. Plausible and consistent with common relationship wisdom, but not tested as stated.",
+      "flags": [
+        "pop-psychology"
+      ]
     },
     {
       "id": "how-to-know-a-person-03",
       "name": "Attention is a switch, not a dimmer (be a loud listener)",
       "skill_type": "technique",
-      "explanation": "Brooks argues that half-attention is visible and diminishing, so attention should be all on or deliberately off. When you listen, make it obvious: an active, responsive body and face, small verbal signals, and follow-up questions that show you tracked what was said. He calls this being a loud listener, and summaries report he endorses the classroom acronym SLANT (sit up, lean forward, ask questions, nod, track the speaker). He also advises hearing the whole point before composing your reply.",
+      "explanation": "Brooks argues that half-attention is visible and diminishing, so attention should be all on or deliberately off: an on/off switch, not a dimmer. When you listen, make it obvious, or as he puts it, be a loud listener: an active, responsive face and body, small verbal encouragements, and follow-up questions that show you tracked what was said, because passive listening nudges speakers toward holding back. He mentions the SLANT routine (sit up, lean forward, ask questions, nod, track the speaker), crediting it only to 'some experts'. He also advises not fearing the pause and framing your reply after the other person finishes.",
       "when_to_use": "Any conversation where the other person is telling you something that matters to them: a report raising a concern, a partner describing a bad day, a client explaining a problem, a video call where cues are weaker.",
       "worked_example": "On a video call, an engineer explains why a deadline slipped. Her manager closes his other tabs, keeps his camera on, nods visibly, says 'okay, so the vendor API changed' at a natural pause, and asks what she would need to recover. At home that evening, when his partner starts describing a conflict with her sister, he puts his phone in another room before answering rather than half-listening from the couch.",
       "common_mistakes": [
@@ -99,19 +187,39 @@
         "Wait until they finish the point before forming your reply; then ask one follow-up question about what they said."
       ],
       "categories": [
-        {"category": "relationships", "subcategory": "listening"},
-        {"category": "relationships", "subcategory": "nonverbal"},
-        {"category": "written-digital", "subcategory": "video-calls"}
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "nonverbal"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "video-calls"
+        }
       ],
-      "situations": ["Report raising a concern in a one-on-one", "Partner describing a bad day", "Client explaining a problem", "Video call with cameras on"],
+      "situations": [
+        "Report raising a concern in a one-on-one",
+        "Partner describing a bad day",
+        "Client explaining a problem",
+        "Video call with cameras on"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Chapter 6 'Good Talks' (attention as on/off switch, reported around p. 74 by a discussion guide); loud-listener advice reported by several reviewers.",
-        "underlying_research": "No specific study named in sources reviewed. SLANT is a classroom engagement routine associated with charter-school practice (often credited to Doug Lemov's Teach Like a Champion); attribution within the book not verified.",
-        "urls": ["https://alexandra-harrington-l64e.squarespace.com/s/Brooks_Session-1_How-to-know-a-person.pdf", "https://www.mickmel.com/notes-from-how-to-know-a-person-by-david-brooks/"]
+        "citation": "David Brooks, How to Know a Person (2023), Part 1, Chapter 6 'Good Talks': attention as on/off switch (p. 74), be a loud listener (p. 75), don't fear the pause (p. 77). Also in the NYT essay 'The Essential Skills for Being Human' (Oct 19, 2023).",
+        "underlying_research": "No study named. Brooks introduces SLANT as a method 'some experts' use, without naming a source (per a blog quoting the book). SLANT is a classroom engagement routine widely associated with Doug Lemov's Teach Like a Champion and charter-school practice; Brooks does not credit Lemov as far as could be verified.",
+        "urls": [
+          "https://alexandra-harrington-l64e.squarespace.com/s/Brooks_Session-1_How-to-know-a-person.pdf",
+          "https://risewithdrew.com/five-tips-for-becoming-a-better-conversationalist/",
+          "https://commonreader.wustl.edu/david-brooks-wants-us-to-take-our-conversations-deeper/"
+        ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Brooks's support is experiential, but the general point that visibly attentive, responsive listening makes speakers feel understood is consistent with broader listening research not cited here. Specific tactics (SLANT) are practitioner tools rather than tested conversational interventions.",
-      "flags": ["none"]
+      "confidence_rationale": "Confirmed in the book via two discussion guides with page references and a review of a Brooks talk. Brooks's support is experiential, but the general point that visibly attentive, responsive listening makes speakers feel understood is consistent with broader listening research not cited here. SLANT is a practitioner tool, not a tested conversational intervention.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "how-to-know-a-person-04",
@@ -127,26 +235,50 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "conversations", "subcategory": "small-talk"},
-        {"category": "relationships", "subcategory": "question-design"},
-        {"category": "relationships", "subcategory": "networking"},
-        {"category": "foundations", "subcategory": "anxiety"}
+        {
+          "category": "conversations",
+          "subcategory": "small-talk"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "question-design"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        }
       ],
-      "situations": ["Conference dinner with a stranger", "Getting to know a coworker", "Meeting a partner's friends", "Mentoring conversation", "Talking with in-laws"],
+      "situations": [
+        "Conference dinner with a stranger",
+        "Getting to know a coworker",
+        "Meeting a partner's friends",
+        "Mentoring conversation",
+        "Talking with in-laws"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Chapter 7 'The Right Questions' and Chapter 15 'Life Stories' (Epley's work referenced).",
-        "underlying_research": "Kardas, M., Kumar, A., and Epley, N. (2022). Overly shallow? Miscalibrated expectations create a barrier to deeper conversation. Journal of Personality and Social Psychology, 122(3). Twelve experiments, more than 1,800 participants. Related: Epley and Schroeder (2014) on underestimating the pleasure of talking to strangers.",
-        "urls": ["https://www.apa.org/news/press/releases/2021/09/deep-conversations-strangers", "https://www.chicagobooth.edu/review/deep-conversations-strangers-are-more-fulfilling-small-talk"]
+        "citation": "David Brooks, How to Know a Person (2023), Chapter 15 'Life Stories' (reader notes record that people misjudge how much they will enjoy conversation and how willing others are to talk); Chapter 7 'The Right Questions' makes the related point that people are too shy about asking, not too prying.",
+        "underlying_research": "Kardas, M., Kumar, A., and Epley, N. (2022). Overly shallow?: Miscalibrated expectations create a barrier to deeper conversation. Journal of Personality and Social Psychology, 122(3), 367 to 398. doi:10.1037/pspa0000281. Abstract read: strangers' conversations felt less awkward and more connecting than expected, the gap was largest for deep conversations, and it arose because people underestimated how much partners cared about their disclosures (experiments labeled 1a to 7b; the press-release figure of twelve experiments with more than 1,800 participants was not re-confirmed). Related: Epley and Schroeder (2014) on talking to strangers. Brooks names Epley in the book; whether his endnotes cite this specific paper was not verified.",
+        "urls": [
+          "https://pubmed.ncbi.nlm.nih.gov/34591541/",
+          "https://www.chicagobooth.edu/review/deep-conversations-strangers-are-more-fulfilling-small-talk",
+          "https://notes.blairnangle.com/how-to-know-a-person"
+        ]
       },
       "confidence": "High",
-      "confidence_rationale": "Twelve experiments in a top journal with consistent effects, plus convergent findings from related work on talking to strangers. Caveat: mostly one lab group and mostly structured stranger pairings, so generalization to every workplace or cultural setting is less certain. Brooks's specific link to Epley here was confirmed via summaries mentioning Epley, not verbatim text.",
-      "flags": ["none"]
+      "confidence_rationale": "Multi-experiment paper in a top journal with consistent effects (abstract confirmed), plus convergent findings on talking to strangers. Caveats: one lab group, mostly structured stranger pairings, and people predicted close-other conversations accurately, so the effect is about acquaintances and strangers. The idea is in the book (Chapter 15); the exact citation is not confirmed.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "how-to-know-a-person-05",
       "name": "Ask big, open questions (crossroads questions)",
       "skill_type": "technique",
-      "explanation": "Brooks recommends questions that are open-ended and specific enough to answer, and that invite the other person to step back and look at their own life from a higher vantage point. Examples attributed to him in summaries include asking what crossroads someone is at, or what the next chapter of their life is about. He contrasts these with closed or dead-end questions, and suggests asking how someone came to believe something rather than just what they believe. Good questions make the other person the author of the conversation, not a witness answering a quiz.",
+      "explanation": "Brooks recommends questions that are specific but open-ended, and big questions that lift people out of their daily routine so they see their life from a distance. His examples include what crossroads someone is at, what the current chapter of their life is about if the next five years were a chapter, and what they would do if they were not afraid. He warns against closed questions and evaluating questions that signal you are about to judge (where did you go to college), and suggests simple prompts such as asking what happened next. Elsewhere he suggests asking how someone came to believe something rather than what they believe. Good questions hand the other person control of the conversation and make them the author of their story, not a witness answering a quiz.",
       "when_to_use": "When a conversation is stuck at status updates; in mentoring, career conversations, reunions with old friends, long car rides with a partner, or first dates past the logistics stage.",
       "worked_example": "In a quarterly career chat, instead of asking a senior engineer 'Are you happy here?', a manager asks 'What crossroads do you feel like you are at right now?' The engineer talks about wanting to try leading people but fearing losing hands-on work, which reshapes the development plan. On a weekend walk, the same manager asks an old college friend how she came to believe that moving back home was the right call, and hears a story about her mother's health she had never shared.",
       "common_mistakes": [
@@ -163,19 +295,40 @@
         "Let it go if they deflect; offer the question again another time."
       ],
       "categories": [
-        {"category": "relationships", "subcategory": "question-design"},
-        {"category": "conversations", "subcategory": "small-talk"},
-        {"category": "professional", "subcategory": "meetings"}
+        {
+          "category": "relationships",
+          "subcategory": "question-design"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "small-talk"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
       ],
-      "situations": ["Career conversation with a direct report", "Catching up with an old friend", "Long drive with a partner", "Mentoring session", "Second or third date"],
+      "situations": [
+        "Career conversation with a direct report",
+        "Catching up with an old friend",
+        "Long drive with a partner",
+        "Mentoring session",
+        "Second or third date"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Chapter 7 'The Right Questions'.",
-        "underlying_research": "Indirect support from Kardas, Kumar and Epley (2022) on deeper conversation. Separately, Huang et al. (2017) on question-asking and liking is often cited in this area, but I could not confirm Brooks cites it.",
-        "urls": ["https://commonreader.wustl.edu/david-brooks-wants-us-to-take-our-conversations-deeper/", "https://www.colgate.edu/news/stories/david-brooks-gives-his-insight-how-know-person"]
+        "citation": "David Brooks, How to Know a Person (2023), Chapter 7 'The Right Questions' (pp. 82 to 96); 'make them authors, not witnesses' in Chapter 6 (p. 76); 'how did you come to believe' in Chapter 15. Big-question examples also in the NYT essay (Oct 19, 2023) and in his public talks.",
+        "underlying_research": "Indirect support from Kardas, Kumar and Epley (2022) on deeper conversation. Huang et al. (2017) on follow-up questions and liking is often cited in this area, but is not confirmed as cited by Brooks.",
+        "urls": [
+          "https://sive.rs/book/KnowPerson",
+          "https://zhurnaly.com/z/David%20Brooks%20on%20Being%20Human.html",
+          "https://commonreader.wustl.edu/david-brooks-wants-us-to-take-our-conversations-deeper/"
+        ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The general direction (open, deeper questions build connection) has research support, but the specific question wordings are Brooks's recommendations and have not been tested as such. Exact wording of his example questions was seen only in secondary summaries.",
-      "flags": ["none"]
+      "confidence_rationale": "Question examples now confirmed in three independent sources (NYT essay commentary, Sivers's notes, a review of a Brooks talk). The general direction (open, deeper questions build connection) has research support, but the specific wordings are Brooks's recommendations and have not been tested as such.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "how-to-know-a-person-06",
@@ -191,26 +344,49 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "relationships", "subcategory": "empathy"},
-        {"category": "relationships", "subcategory": "question-design"},
-        {"category": "influence", "subcategory": "overcoming-resistance"},
-        {"category": "personal-life", "subcategory": "partners"}
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "question-design"
+        },
+        {
+          "category": "influence",
+          "subcategory": "overcoming-resistance"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
       ],
-      "situations": ["Predicting stakeholder reactions", "Figuring out why a partner is upset", "Understanding a customer need", "Negotiation preparation"],
+      "situations": [
+        "Predicting stakeholder reactions",
+        "Figuring out why a partner is upset",
+        "Understanding a customer need",
+        "Negotiation preparation"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023); summaries report he cites Nicholas Epley on perspective receiving.",
-        "underlying_research": "Eyal, T., Steffel, M., and Epley, N. (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective. Journal of Personality and Social Psychology, 114(4). 25 experiments; one secondary source reports about 2,600 participants (not independently confirmed).",
-        "urls": ["https://www.sciencedaily.com/releases/2018/06/180621000339.htm", "https://greatergood.berkeley.edu/article/item/how_putting_yourself_in_someone_elses_shoes_may_backfire"]
+        "citation": "David Brooks, How to Know a Person (2023). Brooks cites Nicholas Epley in Chapter 2 on the lesser-minds problem (confirmed in the publisher sample), and in the NYT essay advises asking about someone's view several times in different ways. Whether the book cites the perspective-getting study itself was not confirmed.",
+        "underlying_research": "Eyal, T., Steffel, M., and Epley, N. (2018). Perspective mistaking: Accurately understanding the mind of another requires getting perspective, not taking perspective. Journal of Personality and Social Psychology, 114(4), 547 to 571. doi:10.1037/pspa0000115. 25 experiments; the abstract reports no consistent accuracy gain from perspective taking (if anything a decrease, sometimes with higher confidence), reduced egocentrism, and a final experiment where getting perspective through conversation increased accuracy. The paper does not state a single total sample in its abstract; its main analysis of Experiments 1 to 15 alone covers 1,103 participants. The secondary figure of about 2,600 total remains unconfirmed.",
+        "urls": [
+          "https://pubmed.ncbi.nlm.nih.gov/29620401/",
+          "https://www.sciencedaily.com/releases/2018/06/180621000339.htm",
+          "https://greatergood.berkeley.edu/article/item/how_putting_yourself_in_someone_elses_shoes_may_backfire"
+        ]
       },
       "confidence": "High",
-      "confidence_rationale": "Many experiments in a top journal, consistent pattern. Caveats: tasks were specific (reading emotions from faces, detecting lies, predicting a partner's preferences), the authors note perspective taking may help in conditions they did not test, and it does reduce egocentrism. The practical advice to ask rather than assume is robust.",
-      "flags": ["none"]
+      "confidence_rationale": "Research rating High: 25 experiments in a top journal with a consistent pattern (abstract and paper read). Caveats: tasks were specific (emotion from faces and postures, fake smiles, lie detection, a spouse's preferences), and perspective taking does reduce egocentrism. Flagged because the link to this book is not confirmed: Brooks cites Epley on related points, and his own empathy chapter actually describes mentalizing as projecting your own experience, which this research suggests should be checked by asking.",
+      "flags": [
+        "not-confirmed-in-book"
+      ]
     },
     {
       "id": "how-to-know-a-person-07",
       "name": "Looping: say it back and check",
       "skill_type": "technique",
-      "explanation": "Looping means paraphrasing what the other person said and asking whether you got it right, then letting them correct you until they confirm. It reduces miscommunication because speakers usually believe they were clearer than they were, and it proves to them that you were listening. Brooks presents it as a conversation-expert technique, and summaries report he cautions that doing it mechanically can feel unnatural, so a lighter paraphrase often works just as well.",
+      "explanation": "Looping means paraphrasing what the other person said and asking whether you got it right, then letting them correct you until they confirm. Brooks says you will be surprised how often you did not actually understand what someone just told you, and that looping also shows you are listening. Summaries report he cautions that doing it mechanically can feel unnatural, so a lighter paraphrase often works as well.",
       "when_to_use": "In disagreements, emotionally loaded conversations, when receiving feedback, clarifying requirements, and any moment where the cost of misunderstanding is high. Also useful in writing: restating a request at the top of a reply email before answering.",
       "worked_example": "A client says the new dashboard is 'not usable'. Instead of defending it, the account lead says: 'So what I'm hearing is the data is fine, but your team can't find the weekly numbers quickly enough. Is that right?' The client corrects her: it is the filters, not navigation. In a different setting, a woman whose mother says 'You never call' loops back: 'It sounds like you feel I only reach out when I need something?' Her mother says no, she just misses hearing about the kids, which turns an argument into a plan for a weekly call.",
       "common_mistakes": [
@@ -227,26 +403,50 @@
         "Only once they confirm, give your response."
       ],
       "categories": [
-        {"category": "relationships", "subcategory": "listening"},
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "difficult", "subcategory": "receiving-feedback"},
-        {"category": "written-digital", "subcategory": "email"}
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        }
       ],
-      "situations": ["Client complaint", "Argument with a parent or partner", "Receiving critical feedback", "Clarifying project requirements", "Replying to an ambiguous email"],
+      "situations": [
+        "Client complaint",
+        "Argument with a parent or partner",
+        "Receiving critical feedback",
+        "Clarifying project requirements",
+        "Replying to an ambiguous email"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), conversation chapters (Part 1); reported in reader notes and summaries.",
-        "underlying_research": "Practitioner technique from mediation and conflict work (looping is associated with mediators such as Gary Friedman and Jack Himmelstein and was popularized by Amanda Ripley's High Conflict); I could not confirm whom Brooks credits. Related research on high-quality listening (for example Itzchakov and Kluger) is not confirmed as cited by Brooks.",
-        "urls": ["https://medium.com/@creativeaspirant/how-to-know-a-person-summary-david-brooks-056f067e7e8a"]
+        "citation": "David Brooks, How to Know a Person (2023), Part 1, Chapter 6 'Good Talks', 'Do the looping' (p. 78); also in the NYT essay 'The Essential Skills for Being Human' (Oct 19, 2023).",
+        "underlying_research": "Practitioner technique from mediation (associated with Gary Friedman and Jack Himmelstein, and popularized by Amanda Ripley's High Conflict). None of the sources read show Brooks crediting a named originator; summaries describe it only as a practice psychologists or experts use. Research on high-quality listening (for example Itzchakov and Kluger) is not confirmed as cited.",
+        "urls": [
+          "https://alexandra-harrington-l64e.squarespace.com/s/Brooks_Session-1_How-to-know-a-person.pdf",
+          "https://notes.blairnangle.com/how-to-know-a-person",
+          "https://zhurnaly.com/z/David%20Brooks%20on%20Being%20Human.html"
+        ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Widely used by trained mediators and consistent with research on reflective listening, but Brooks's treatment is short and the specific step format here is synthesized. Presence of looping in the book confirmed by multiple summaries; exact page and attribution not verified.",
-      "flags": ["none"]
+      "confidence_rationale": "Confirmed in the book (Chapter 6, p. 78) and the NYT adaptation. Widely used by trained mediators and consistent with research on reflective listening, but Brooks's treatment is short and the step format here is synthesized. Attribution in the book is unverified.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "how-to-know-a-person-08",
       "name": "Conversation as joint exploration (be a midwife, not a lecturer)",
       "skill_type": "mental model",
-      "explanation": "A good conversation is not two people trading statements; it is shared exploration, where one person offers an idea and the other builds on it and hands it back. Brooks uses the image of a midwife: your role is to help the other person bring out their own thinking, not to deliver your conclusions for them. Practically this means building on what they said, asking how they arrived at a view, and resisting the urge to top their story with your own.",
+      "explanation": "Brooks defines a good conversation as joint exploration rather than people making statements at each other: someone floats a half-formed idea, the other person grabs its core, adds their own angle and hands it back, and the talk ends somewhere neither started. He offers a midwife model, where your role is to help the other person bring out their own thinking. In disagreements he suggests keeping the shared core value at the center and looking for the deeper disagreement beneath the surface one. And he warns against topping: answering someone's story with a bigger one of your own.",
       "when_to_use": "Brainstorms, coaching conversations, dinner-table debates, helping a friend think through a decision, discussing politics or values with someone who disagrees.",
       "worked_example": "A friend is torn about whether to take a job in another city. Instead of listing pros and cons from his own experience, the listener asks what parts of the new job she keeps thinking about, then builds on her answer: 'You said you light up talking about the team, what would you miss here?' She reaches her own decision. In a work planning session, a team lead uses the same approach with a junior colleague's half-formed idea, asking what problem it solves first instead of critiquing it.",
       "common_mistakes": [
@@ -256,26 +456,48 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "conversations", "subcategory": "group-dynamics"},
-        {"category": "relationships", "subcategory": "question-design"},
-        {"category": "personal-life", "subcategory": "friendships"},
-        {"category": "professional", "subcategory": "meetings"}
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "question-design"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
       ],
-      "situations": ["Helping a friend with a big decision", "Coaching a junior colleague", "Team brainstorm", "Dinner-table debate"],
+      "situations": [
+        "Helping a friend with a big decision",
+        "Coaching a junior colleague",
+        "Team brainstorm",
+        "Dinner-table debate"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Chapter 6 'Good Talks'.",
-        "underlying_research": "No specific study identified; draws on conversation practitioners and the Socratic midwife metaphor.",
-        "urls": ["https://alexandra-harrington-l64e.squarespace.com/s/Brooks_Session-1_How-to-know-a-person.pdf", "https://commonreader.wustl.edu/david-brooks-wants-us-to-take-our-conversations-deeper/"]
+        "citation": "David Brooks, How to Know a Person (2023), Chapter 6 'Good Talks': joint exploration (p. 73), midwife model (p. 79), keep the gem statement at the center and find the disagreement under the disagreement (p. 80), don't be a topper (p. 81).",
+        "underlying_research": "No specific study identified; draws on conversation practitioners and the Socratic midwife image.",
+        "urls": [
+          "https://alexandra-harrington-l64e.squarespace.com/s/Brooks_Session-1_How-to-know-a-person.pdf",
+          "https://static1.squarespace.com/static/58dd21473e00be49e40a73de/t/66f9555a2e49b62c6032543e/1727616347006/Final+Discussion+of+Brooks+book+Sep+29+2024.pdf"
+        ]
       },
       "confidence": "Low",
-      "confidence_rationale": "Coherent and widely shared advice, consistent with coaching practice, but presented by Brooks without empirical testing. Confirmed via a discussion guide and reviews quoting the chapter.",
-      "flags": ["pop-psychology"]
+      "confidence_rationale": "Confirmed with page references in two discussion guides. Coherent and consistent with coaching practice, but presented without empirical testing.",
+      "flags": [
+        "pop-psychology"
+      ]
     },
     {
       "id": "how-to-know-a-person-09",
       "name": "Ask for the story, not the summary",
       "skill_type": "technique",
-      "explanation": "People make sense of who they are through the stories they tell about their lives, and they are usually eager to share those stories when sincerely invited. Drawing on Dan McAdams's work on narrative identity, Brooks suggests asking questions that invite narrative (how did you end up here, what was that period like, how has your view changed) and paying attention to how people frame their story, not only to the facts. The way someone narrates setbacks tells you a great deal about them.",
+      "explanation": "People make sense of who they are through the stories they tell about their lives, and most rarely get asked to tell them. Brooks describes Dan McAdams's life-story interviews, in which people talk through the high points, low points and turning points of their lives, and many find it moving and are glad to have been asked. He urges switching into narrative mode: instead of asking what someone thinks about something, ask how they came to think it, or ask about the person who most shaped their values. Pay attention to how people frame their story (for example, whether it is a story of redemption), not only to the facts. He adds that in asking, you help the person shape a more coherent account of themselves.",
       "when_to_use": "Getting to know a new teammate, interviewing, reconnecting with older relatives, deepening a friendship or romantic relationship, or writing a tribute or introduction for someone.",
       "worked_example": "Before introducing a guest speaker, an events coordinator asks her not for her bio but how she ended up in climate finance. The story about a failed first startup becomes the heart of a much better introduction. At a holiday gathering, a grandson asks his grandmother what her first job was like and how she ended up in the city, and hears stories nobody in the family had recorded.",
       "common_mistakes": [
@@ -284,27 +506,51 @@
         "Judging how someone frames their story instead of being curious about why they frame it that way."
       ],
       "steps": [
-        "Ask a 'how did you come to' or 'what was that like' question.",
+        "Ask a 'how did you come to' or 'what was that like' question, or ask about a high point, low point or turning point.",
         "Let them take the time to tell it; resist redirecting.",
         "Notice turning points and how they interpret them.",
         "Ask about one turning point in more depth.",
         "Reflect back what the story tells you about what they value."
       ],
       "categories": [
-        {"category": "relationships", "subcategory": "question-design"},
-        {"category": "conversations", "subcategory": "storytelling"},
-        {"category": "conversations", "subcategory": "introductions"},
-        {"category": "personal-life", "subcategory": "family"}
+        {
+          "category": "relationships",
+          "subcategory": "question-design"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "introductions"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
       ],
-      "situations": ["Getting to know a new teammate", "Job interview", "Talking with grandparents", "Introducing a speaker", "Early dating"],
+      "situations": [
+        "Getting to know a new teammate",
+        "Job interview",
+        "Talking with grandparents",
+        "Introducing a speaker",
+        "Early dating"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Part 3, Chapter 15 'Life Stories'.",
-        "underlying_research": "Dan P. McAdams, narrative identity research (life story model). Summaries also note Epley's findings on underestimating the enjoyment of conversation.",
-        "urls": ["https://www.supersummary.com/how-to-know-a-person/part-3-chapters-15-17-summary/"]
+        "citation": "David Brooks, How to Know a Person (2023), Part 3, Chapter 15 'Life Stories' (pp. 212 to 227).",
+        "underlying_research": "Dan P. McAdams, narrative identity research and the life-story interview (confirmed via a review describing Brooks's account of McAdams's sessions). Reader notes also mention identity statuses and imago in the chapter. Whether Brooks discusses contamination sequences specifically was not verified; summaries say he discusses redemption stories.",
+        "urls": [
+          "https://www.templeemanuel.com/?p=126389",
+          "https://sive.rs/book/KnowPerson",
+          "https://notes.blairnangle.com/how-to-know-a-person"
+        ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "Narrative identity is a substantial research program, but its translation into conversational technique is Brooks's application rather than tested advice. Whether Brooks discusses McAdams's redemption versus contamination sequences specifically could not be verified.",
-      "flags": ["none"]
+      "confidence_rationale": "McAdams's role in the chapter is now confirmed. Narrative identity is a substantial research program, but turning it into conversational technique is Brooks's application rather than tested advice.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "how-to-know-a-person-10",
@@ -329,20 +575,43 @@
         "If you notice risk of self-harm, encourage professional help and contact crisis resources."
       ],
       "categories": [
-        {"category": "personal-life", "subcategory": "supporting-distress"},
-        {"category": "personal-life", "subcategory": "friendships"},
-        {"category": "relationships", "subcategory": "empathy"},
-        {"category": "difficult", "subcategory": "situations"}
+        {
+          "category": "personal-life",
+          "subcategory": "supporting-distress"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "situations"
+        }
       ],
-      "situations": ["Friend with depression", "Colleague returning after a bereavement", "Parent struggling after retirement or diagnosis", "Partner in a long crisis", "Messaging someone who is grieving"],
+      "situations": [
+        "Friend with depression",
+        "Colleague returning after a bereavement",
+        "Parent struggling after retirement or diagnosis",
+        "Partner in a long crisis",
+        "Messaging someone who is grieving"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Part 2, Chapter 10 (on serving a friend in despair), adapted from his NYT essay 'How Do You Serve a Friend in Despair?' (February 2023).",
-        "underlying_research": "Primarily Brooks's own experience with Peter Marks. No specific study confirmed as cited. The advice is broadly consistent with mainstream mental health guidance for supporters, which is outside the book.",
-        "urls": ["https://risewithdrew.com/how-do-you-serve-a-friend-who-is-in-despair/", "https://www.going2paris.net/post/david-brooks-how-do-you-serve-a-friend-in-despair"]
+        "citation": "David Brooks, How to Know a Person (2023), Part 2, Chapter 10 'How Do You Serve a Friend Who Is in Despair?' (pp. 122 to 133), adapted from his NYT essay 'How Do You Serve a Friend in Despair?' (February 2023).",
+        "underlying_research": "Primarily Brooks's own experience with Peter Marks. He reports reading later that advice to a depressed person often signals you do not understand; no specific study confirmed. The advice is broadly consistent with mainstream guidance for supporters, which is outside the book.",
+        "urls": [
+          "https://risewithdrew.com/how-do-you-serve-a-friend-who-is-in-despair/",
+          "https://notes.blairnangle.com/how-to-know-a-person"
+        ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The specific account rests on a single (deeply considered) personal case, so it is flagged. It is rated Medium rather than Low because the core advice (presence, validation, avoiding unsolicited advice and toxic positivity) aligns with widely accepted clinical and peer-support guidance. Timeline note: the essay says Marks died 'last April' and was published February 2023; one secondary source gave 2019, which looks wrong.",
-      "flags": ["single-anecdote"]
+      "confidence_rationale": "Content confirmed via a blog quoting the chapter and reader notes: his job was not to cheer his friend up but to acknowledge the reality and keep showing up, and he wished he had sent more small touches. Rests on a single, deeply considered personal case, so flagged. Rated Medium because the core advice aligns with widely accepted clinical and peer-support guidance. Timeline: the chapter places the visible onset of Marks's depression in spring 2019; the earlier note that a secondary source dated his death to 2019 reflects this confusion.",
+      "flags": [
+        "single-anecdote"
+      ]
     },
     {
       "id": "how-to-know-a-person-11",
@@ -363,59 +632,100 @@
         "Respond with a concrete act of care that fits what they said they need."
       ],
       "categories": [
-        {"category": "relationships", "subcategory": "empathy"},
-        {"category": "personal-life", "subcategory": "partners"},
-        {"category": "professional", "subcategory": "situations"}
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "professional",
+          "subcategory": "situations"
+        }
       ],
-      "situations": ["Team member suddenly withdrawn", "Delivering bad news", "Partner stressed before a family event", "Customer frustrated on a call"],
+      "situations": [
+        "Team member suddenly withdrawn",
+        "Delivering bad news",
+        "Partner stressed before a family event",
+        "Customer frustrated on a call"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Part 2, Chapter 11 'The Art of Empathy'; Chapter 12 'How Were You Shaped by Your Sufferings?' on hardship and empathy.",
-        "underlying_research": "Draws on empathy research distinguishing emotional resonance, cognitive perspective and empathic concern (a standard split in psychology and neuroscience); specific studies Brooks cites could not be verified.",
-        "urls": ["https://www.supersummary.com/how-to-know-a-person/part-2-chapters-11-12-summary/"]
+        "citation": "David Brooks, How to Know a Person (2023), Part 2, Chapter 11 'The Art of Empathy' (pp. 134 to 159), which also covers defenses that make people hard to know (drawing on Will Storr's 'sacred flaw') and ways to build empathy such as contact, literature and finer emotion labeling; Chapter 12 'How Were You Shaped by Your Sufferings?' (p. 160) on hardship and empathy.",
+        "underlying_research": "Matches the standard split of empathy into affective resonance, cognitive perspective and empathic concern. Brooks links mentalizing to Adam Smith's projective view of sympathy. Specific empirical studies he cites in this chapter were not verified.",
+        "urls": [
+          "https://notes.blairnangle.com/how-to-know-a-person",
+          "https://static1.squarespace.com/static/58dd21473e00be49e40a73de/t/66f9555a2e49b62c6032543e/1727616347006/Final+Discussion+of+Brooks+book+Sep+29+2024.pdf"
+        ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The three-part breakdown mirrors mainstream academic models of empathy (affective, cognitive, compassionate concern), and trainability has some research support, but Brooks's specific studies were not verified. Summaries describe 'mentalizing by projecting one's own experience', which per the perspective-getting research should be checked, not trusted.",
-      "flags": ["none"]
+      "confidence_rationale": "Three-part breakdown confirmed in reader notes. It mirrors mainstream academic models of empathy, and trainability has some research support. Brooks describes mentalizing as drawing on your own memories, which the perspective-getting research suggests should be checked by asking, as the steps here do.",
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "how-to-know-a-person-12",
-      "name": "Step back in hard conversations: talk about how you got here",
+      "name": "Hard conversations: tend the actual conversation, not just the official one",
       "skill_type": "technique",
-      "explanation": "In conversations across deep differences (politics, race, class, family rifts), Brooks's chapter on hard conversations reviews the literature on difficult talk. One reviewer summarizes a key move: when a conversation becomes heated, break the momentum by stepping back together and asking how you arrived at this tense state, rather than pressing the argument. He also notes that people who feel unseen or marginalized bring that experience into what they focus on, so acknowledging their experience can matter more than debating the point.",
+      "explanation": "Brooks says every conversation runs on two levels: the official one about the topic, and the actual one carried by the feelings flowing underneath, where each remark makes the other person feel a little safer or a little more threatened. So in a hard conversation, think about conditions before content: set up safety and trust before getting into the substance. Notice the frame of the conversation, and do not shift it away when the other person is trying to say something painful or important. Avoid labeling (dismissing someone by tying them to a group). Use splitting: name the differences, then find the thing you share and build from there. He also stresses that people from different social positions experience different worlds, so acknowledging their experience can matter more than winning the point.",
       "when_to_use": "When a discussion with a relative, colleague or friend escalates; in cross-functional disputes; during political conversations at family gatherings; in tense performance discussions.",
-      "worked_example": "Two department heads are arguing in a meeting about budget cuts and voices are rising. One pauses and says: 'Can we step back for a second? I think we've each been defending our teams and stopped hearing each other. What do you need me to understand?' The temperature drops. At a holiday dinner, a daughter and her uncle hit the same wall over immigration; she says 'We keep going in circles. What experiences make this feel so important to you?' and the conversation becomes a story about his father's small business.",
+      "worked_example": "Two department heads are arguing about budget cuts and voices are rising. One notices that the real conversation has become about whether her peer feels his team is being treated as expendable, so she says: 'Before we get into numbers, I want to be clear I am not saying your team matters less. We both want to keep the client renewals. Can we start from there?' At a holiday dinner, a daughter whose uncle starts describing how his small business was hurt by a policy resists turning it into a debate about statistics, and asks what that period was like for him.",
       "common_mistakes": [
-        "Using 'let's step back' as a tactic to regain the upper hand.",
-        "Stepping back without then listening to what surfaces.",
+        "Arguing the official topic while ignoring the feelings underneath.",
+        "Jumping to substance before there is enough trust to hear it.",
+        "Changing the frame (to logistics, to your own story) when the other person raises something painful.",
+        "Labeling the other person instead of engaging what they said.",
         "Expecting one conversation to resolve a deep disagreement."
       ],
       "steps": [
-        "Notice the escalation signs: raised voices, repetition, interrupting.",
-        "Name the pattern without blame and propose a pause.",
-        "Ask how each of you got to this point or what is underneath the position.",
-        "Acknowledge the other person's experience, especially if they feel unseen.",
-        "Return to the topic only once both feel heard, or agree to continue later."
+        "Before the content, set conditions: a private setting, enough time, and a signal of goodwill.",
+        "Track the actual conversation: is what you just said making them feel safer or more threatened?",
+        "If they raise something painful, stay in their frame instead of steering back to your point.",
+        "Avoid labels; describe what they said, not what group it puts them in.",
+        "Split: name the difference clearly, then name what you share, and build from the shared point."
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "personal-life", "subcategory": "repair"},
-        {"category": "professional", "subcategory": "meetings"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
       ],
-      "situations": ["Political argument with a relative", "Escalating meeting between peers", "Family rift", "Tense performance conversation"],
+      "situations": [
+        "Political argument with a relative",
+        "Escalating meeting between peers",
+        "Family rift",
+        "Tense performance conversation"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Part 2, Chapter 9 'Hard Conversations'.",
-        "underlying_research": "Reviewers say the chapter reviews the difficult-conversations literature; specific sources (for example Stone, Patton and Heen's Difficult Conversations) could not be verified as cited.",
-        "urls": ["https://berniegourley.com/tag/illuminator/", "https://medium.com/civlead/what-david-brooks-new-book-can-teach-you-about-human-connection-daab2c7d0a61"]
+        "citation": "David Brooks, How to Know a Person (2023), Part 2, Chapter 9 'Hard Conversations' (pp. 107 to 121): conditions before content (p. 112), two levels of conversation (p. 114), frames (p. 115), splitting (p. 117).",
+        "underlying_research": "Reviewers say the chapter draws on the difficult-conversations literature. The two-level idea resembles the 'feelings conversation' in Stone, Patton and Heen's Difficult Conversations, but no source read shows Brooks citing them. The original first-pass move of stepping back to ask how the conversation got so tense came from one review that could not be re-read (Medium returned 403) and was not found in any other source, so it was replaced by the confirmed content.",
+        "urls": [
+          "https://static1.squarespace.com/static/58dd21473e00be49e40a73de/t/66f9555a2e49b62c6032543e/1727616347006/Final+Discussion+of+Brooks+book+Sep+29+2024.pdf",
+          "https://sive.rs/book/KnowPerson",
+          "https://notes.blairnangle.com/how-to-know-a-person"
+        ]
       },
       "confidence": "Low",
-      "confidence_rationale": "The specific step-back move was confirmed in one review only, and the step sequence here is a synthesis. The approach is consistent with established conflict-resolution practice, but details of Brooks's chapter could not be read directly.",
-      "flags": ["unreplicated"]
+      "confidence_rationale": "Chapter content now confirmed with page references. The approach is consistent with established conflict-resolution practice, but Brooks's specific tools are presented without tests and the step sequence is a synthesis. Kept Low.",
+      "flags": [
+        "pop-psychology"
+      ]
     },
     {
       "id": "how-to-know-a-person-13",
       "name": "Read the energy and the life chapter, not the type",
       "skill_type": "mental model",
-      "explanation": "In Part 3, Brooks offers lenses for understanding someone more fully: personality traits (he favors the research-based Big Five, such as extraversion, conscientiousness, neuroticism, agreeableness and openness, over the popular but weakly validated Myers-Briggs), and the developmental tasks people face at different life stages (drawing on Erik Erikson and later developmental thinkers: establishing identity, building intimacy, consolidating a career, generativity, integrity). He treats these as prompts for paying attention, not boxes to put people in. Knowing what someone is wrestling with at their stage of life tells you what kind of conversation and support they need.",
+      "explanation": "In Part 3, Brooks offers two lenses for understanding someone more fully. First, personality as the energy someone brings into a room: he favors the research-based Big Five (extraversion, conscientiousness, neuroticism, agreeableness, openness) over Myers-Briggs, which he dismisses, and stresses that traits can change, with people generally becoming more agreeable, conscientious and emotionally stable with age. Second, life tasks: a sequence of developmental challenges that can continue throughout life rather than in fixed stages, which he lists as the imperial task (proving competence), the interpersonal task (fitting in and belonging), career consolidation (becoming really good at something), the generative task (serving the next generation), and integrity versus despair in old age. Knowing which task someone is in the middle of tells you what kind of conversation and support they need. He treats both as prompts for attention, not boxes.",
       "when_to_use": "Managing people at different career stages, mentoring, understanding why a parent or partner is changing, adapting communication style to a quiet versus outgoing colleague.",
       "worked_example": "A manager has two reports: a 26-year-old eager to prove herself and a 58-year-old veteran who has become more interested in training others. Instead of offering both the same stretch project, she gives the younger one a high-visibility deliverable and asks the veteran to design onboarding. At home, a man realizes his recently retired father's new fixation on family history is about meaning and legacy, and starts asking him about it rather than teasing him.",
       "common_mistakes": [
@@ -425,21 +735,147 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "foundations", "subcategory": "audience-goals"},
-        {"category": "relationships", "subcategory": "empathy"},
-        {"category": "professional", "subcategory": "managing-up"},
-        {"category": "personal-life", "subcategory": "family"}
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
       ],
-      "situations": ["Managing reports at different career stages", "Mentoring", "Understanding a retired parent", "Adapting to introverted or extraverted colleagues"],
+      "situations": [
+        "Managing reports at different career stages",
+        "Mentoring",
+        "Understanding a retired parent",
+        "Adapting to introverted or extraverted colleagues"
+      ],
       "source": {
-        "citation": "David Brooks, How to Know a Person (2023), Part 3, Chapter 13 on personality and Chapter 14 'Life Tasks'.",
-        "underlying_research": "Big Five (Five-Factor) personality model, a strongly supported research framework; Erik Erikson's psychosocial stages (influential but less empirically precise). Other developmental sources Brooks may draw on (for example Robert Kegan) were not verified.",
-        "urls": ["https://www.supersummary.com/how-to-know-a-person/part-3-chapters-15-17-summary/", "https://medium.com/@creativeaspirant/how-to-know-a-person-summary-david-brooks-056f067e7e8a"]
+        "citation": "David Brooks, How to Know a Person (2023), Part 3, Chapter 13 'Personality: What Energy Do You Bring into the Room?' (pp. 175 to 189; Big Five pp. 179 to 186; personality change p. 189) and Chapter 14 'Life Tasks' (pp. 190 to 211).",
+        "underlying_research": "Big Five (Five-Factor) model; Brooks quotes Roberts and Yoon's 2022 review that personality, especially neuroticism, changes with intervention (Annual Review of Psychology). Life tasks: Erikson (integrity versus despair, generativity); 'imperial' and 'interpersonal' are Robert Kegan's terms, and a study-guide summary says Brooks draws on Kegan (not confirmed from the book); 'career consolidation' is George Vaillant's term, not confirmed as cited.",
+        "urls": [
+          "https://static1.squarespace.com/static/58dd21473e00be49e40a73de/t/66f9555a2e49b62c6032543e/1727616347006/Final+Discussion+of+Brooks+book+Sep+29+2024.pdf",
+          "https://notes.blairnangle.com/how-to-know-a-person"
+        ]
       },
       "confidence": "Medium",
-      "confidence_rationale": "The Big Five itself is high-confidence research; stage models are more contested and descriptive. Using either as a conversational lens is Brooks's application and is untested as a communication technique.",
-      "flags": ["contested"]
+      "confidence_rationale": "The Big Five and evidence for trait change are high-confidence research; stage and task models are more contested and descriptive. Using either as a conversational lens is Brooks's application and untested as a communication technique.",
+      "flags": [
+        "contested"
+      ]
+    },
+    {
+      "id": "how-to-know-a-person-14",
+      "name": "You read people less accurately than you think",
+      "skill_type": "mental model",
+      "explanation": "Brooks opens with a humbling claim: most of us are much worse at reading others than we believe. He cites William Ickes's empathic-accuracy research, in which strangers in a first conversation correctly infer each other's thoughts only a small fraction of the time and close friends and family do only somewhat better, while people who read others poorly tend to think they are as good as the accurate ones. He adds that long-term partners can lock in an early picture of each other and stop updating it, which he calls the static mindset, and that we assume other people's inner lives are simpler than our own (Epley's lesser-minds problem). The practical lesson is humility: treat your read of someone as a guess, and keep updating it.",
+      "when_to_use": "Before acting on an assumption about what someone thinks or feels: a partner of many years, a parent, a long-time colleague, a new hire, or anyone you feel sure you have figured out.",
+      "worked_example": "A manager has worked with the same analyst for six years and assumes he still wants no part of client work, because he said so early on. Before staffing a new account, she asks him instead of deciding for him, and learns he has been hoping for client exposure for a year. At home, a man who has been married for twenty years catches himself predicting his wife's reaction to a holiday plan and asks her what she actually wants this year.",
+      "common_mistakes": [
+        "Equating long familiarity with accurate understanding.",
+        "Treating confidence in your read as evidence that it is correct.",
+        "Assuming other people's motives are simpler or lower than your own.",
+        "Never revisiting an early impression after people change."
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
+      ],
+      "situations": [
+        "Long-term partner",
+        "Long-time colleague",
+        "Adult child and parent",
+        "Staffing or delegation decisions",
+        "First meeting with a stranger"
+      ],
+      "source": {
+        "citation": "David Brooks, How to Know a Person (2023), Part 1, Chapter 1 'The Power of Being Seen' (Ickes findings, around pp. 14 to 15) and Chapter 2 'How Not to See a Person' (lesser-minds problem and static mindset, pp. 20 to 22). Confirmed in the publisher sample.",
+        "underlying_research": "William Ickes's empathic-accuracy research (for example Ickes, Empathic Accuracy, Guilford, 1997; Everyday Mind Reading, Prometheus, 2003). Brooks reports roughly 20 percent accuracy for strangers, 35 percent for friends and family, and about 55 percent for the best readers. The claim that accuracy declines with marriage length rests on limited studies and should be treated as tentative. Nicholas Epley on the lesser-minds problem (Mindwise, 2014).",
+        "urls": [
+          "https://cdn.penguin.co.uk/dam-assets/books/9781802064308/9781802064308-sample.pdf",
+          "https://notes.blairnangle.com/how-to-know-a-person"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Confirmed in the book text. Empathic accuracy is an established research paradigm and modest accuracy levels are a consistent finding, but the specific percentages depend on the task and sample, and the marriage-length finding is thinly replicated. The overconfidence point converges with Epley's work.",
+      "flags": [
+        "contested"
+      ]
     }
   ],
-  "research_notes": "Network policy blocked WebFetch for every non-allowlisted host I tried (zhurnaly.com, conorneill.com, www.mickmel.com all failed DNS resolution), so after three failures I stopped fetching and worked from WebSearch result syntheses only. Those syntheses drew on: Colgate news report of a Brooks talk; Joe Moran's review; Common Reader (Washington University) review; a church discussion guide PDF (squarespace) quoting Chapter 6 page references; SuperSummary chapter pages; Medium summaries; reviews by Bernie Gourley and others; commentary on Brooks's NYT essay 'How Do You Serve a Friend in Despair?' (Feb 2023); APA and Chicago Booth press releases on Kardas, Kumar and Epley (2021/2022); ScienceDaily and Greater Good coverage of Eyal, Steffel and Epley (2018); Penguin Random House and library catalog listings for metadata. I did not read the book text, the Penguin UK sample PDF, the NYT essays themselves, or the podcast interviews (Kate Bowler, RNZ, WHYY, The One You Feed) directly. Verified: Illuminators vs Diminishers; Chapter 4 'Accompaniment'; Chapter 6 'Good Talks' (attention as on/off switch, midwife image, joint exploration); Chapter 7 'The Right Questions' (crossroads-type questions); looping (mentioned in multiple summaries); Chapter 9 'Hard Conversations'; Chapter 10 on Peter Marks; Chapter 11 'The Art of Empathy' (mirroring, mentalizing, caring); Chapter 12 on suffering; Chapter 13 personality (Big Five over Myers-Briggs); Chapter 14 'Life Tasks'; Chapter 15 'Life Stories' (McAdams). The 'Essential Skills for Being Human' piece appears to be an NYT column (Oct 19, 2023), not an Atlantic essay; I found no Atlantic adaptation. Not verified: the exact wording of Brooks's sample questions, specific tips some summaries list ('favor familiarity', 'don't fear the pause', 'don't be a topper'), whom Brooks credits for looping, whether he cites Stone/Patton/Heen or Kegan or McAdams's redemption sequences, and the exact attribution of SLANT. The Eyal et al. participant count (about 2,600) comes from a single secondary source. Some search results were low-quality AI-generated pages (presentationbuilder.internationaltrucks.com and similar) and were ignored. Chapter numbering differs slightly across summaries; numbers given here follow the most consistent sources."
+  "research_notes": "Network policy blocked WebFetch for every non-allowlisted host I tried (zhurnaly.com, conorneill.com, www.mickmel.com all failed DNS resolution), so after three failures I stopped fetching and worked from WebSearch result syntheses only. Those syntheses drew on: Colgate news report of a Brooks talk; Joe Moran's review; Common Reader (Washington University) review; a church discussion guide PDF (squarespace) quoting Chapter 6 page references; SuperSummary chapter pages; Medium summaries; reviews by Bernie Gourley and others; commentary on Brooks's NYT essay 'How Do You Serve a Friend in Despair?' (Feb 2023); APA and Chicago Booth press releases on Kardas, Kumar and Epley (2021/2022); ScienceDaily and Greater Good coverage of Eyal, Steffel and Epley (2018); Penguin Random House and library catalog listings for metadata. I did not read the book text, the Penguin UK sample PDF, the NYT essays themselves, or the podcast interviews (Kate Bowler, RNZ, WHYY, The One You Feed) directly. Verified: Illuminators vs Diminishers; Chapter 4 'Accompaniment'; Chapter 6 'Good Talks' (attention as on/off switch, midwife image, joint exploration); Chapter 7 'The Right Questions' (crossroads-type questions); looping (mentioned in multiple summaries); Chapter 9 'Hard Conversations'; Chapter 10 on Peter Marks; Chapter 11 'The Art of Empathy' (mirroring, mentalizing, caring); Chapter 12 on suffering; Chapter 13 personality (Big Five over Myers-Briggs); Chapter 14 'Life Tasks'; Chapter 15 'Life Stories' (McAdams). The 'Essential Skills for Being Human' piece appears to be an NYT column (Oct 19, 2023), not an Atlantic essay; I found no Atlantic adaptation. Not verified: the exact wording of Brooks's sample questions, specific tips some summaries list ('favor familiarity', 'don't fear the pause', 'don't be a topper'), whom Brooks credits for looping, whether he cites Stone/Patton/Heen or Kegan or McAdams's redemption sequences, and the exact attribution of SLANT. The Eyal et al. participant count (about 2,600) comes from a single secondary source. Some search results were low-quality AI-generated pages (presentationbuilder.internationaltrucks.com and similar) and were ignored. Chapter numbering differs slightly across summaries; numbers given here follow the most consistent sources. VERIFICATION PASS (2026-11-04): pages were fetched with curl and read directly; see the verification object. The book text itself was read only in the publisher sample (front matter, contents, Chapters 1 and 2). Later chapters were checked through two church discussion guides with US page references, Blair Nangle's and Derek Sivers's chapter notes, blogs that quote the book (risewithdrew.com), a Temple Emanuel sermon summarizing Brooks on McAdams, Joe Moran's and the Common Reader reviews, and commentary on the NYT essay. Paywalled NYT pages and copies of paywalled study guides were not used. The PubMed abstracts and the author-hosted PDF of Eyal, Steffel and Epley were read.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://cdn.penguin.co.uk/dam-assets/books/9781802064308/9781802064308-sample.pdf",
+      "https://www.penguinrandomhouse.com/books/652822/how-to-know-a-person-by-david-brooks/9780593230060",
+      "https://www.penguinrandomhouse.com/books/652822/how-to-know-a-person-by-david-brooks/readers-guide/",
+      "https://static1.squarespace.com/static/58dd21473e00be49e40a73de/t/66f9555a2e49b62c6032543e/1727616347006/Final+Discussion+of+Brooks+book+Sep+29+2024.pdf",
+      "https://alexandra-harrington-l64e.squarespace.com/s/Brooks_Session-1_How-to-know-a-person.pdf",
+      "https://notes.blairnangle.com/how-to-know-a-person",
+      "https://sive.rs/book/KnowPerson",
+      "https://zhurnaly.com/z/David%20Brooks%20on%20Being%20Human.html",
+      "https://risewithdrew.com/willfulness-or-willingness/",
+      "https://risewithdrew.com/five-tips-for-becoming-a-better-conversationalist/",
+      "https://risewithdrew.com/how-do-you-serve-a-friend-who-is-in-despair/",
+      "https://www.templeemanuel.com/?p=126389",
+      "https://joemoran.net/2024/03/02/how-to-know-a-person/",
+      "https://commonreader.wustl.edu/david-brooks-wants-us-to-take-our-conversations-deeper/",
+      "https://strawberry-pug-ggl5.squarespace.com/bookclub/how-to-know-a-person-by-david-brooks",
+      "https://detroitpbs.org/news-media/one-detroit/best-selling-author-david-brooks-discusses-his-latest-book-how-to-know-a-person",
+      "https://pubmed.ncbi.nlm.nih.gov/29620401/",
+      "https://pubmed.ncbi.nlm.nih.gov/34591541/",
+      "https://static1.squarespace.com/static/55917f64e4b0cd3b4705b68c/t/5cbe54fb71c10bbdc16e0dbc/1555977471661/eyal.steffel.epley.2018.pdf",
+      "https://www.sciencedaily.com/releases/2018/06/180621000339.htm",
+      "https://greatergood.berkeley.edu/article/item/how_putting_yourself_in_someone_elses_shoes_may_backfire",
+      "https://www.chicagobooth.edu/review/deep-conversations-strangers-are-more-fulfilling-small-talk",
+      "https://berniegourley.com/tag/illuminator/"
+    ],
+    "changes": [
+      "book: added 320 pages, UK edition details and the pagination basis; replaced unfetched legal_access notes with what was actually read; evidence_base now names Ickes, Epley, McAdams, Roberts and Yoon.",
+      "01: confirmed in the publisher sample (Ch 1 pp. 12 to 14); added Ch 2 and Ch 3 page references; 54 percent statistic confirmed from Brooks's interview remarks; added Ickes and Epley as cited research.",
+      "02: added page references for the four qualities; Weil 'negative effort' confirmed via a quotation of the chapter; explanation tightened.",
+      "03: page references added (Ch 6 pp. 74, 75, 77); SLANT confirmed as something Brooks credits only to 'some experts', with no named source.",
+      "04: citation corrected (pages 367 to 398, doi, abstract read); chapter reference moved to Ch 15 and Ch 7 based on reader notes; participant count marked as press-release figure, not re-confirmed.",
+      "05: big-question examples confirmed in three sources; added evaluating-question warning and correct chapter locations.",
+      "06: citation completed (pages 547 to 571, doi); participant count clarified (main text N = 1,103 for Experiments 1 to 15; 2,600 total unconfirmed); added the not-confirmed-in-book flag because no source shows Brooks citing this study.",
+      "07: looping confirmed at Ch 6 p. 78 and in the NYT essay; no named originator found in Brooks's text.",
+      "08: page references added; added the gem statement and the disagreement under the disagreement from the same pages.",
+      "09: McAdams confirmed via a review; added the narrative-mode advice and the high, low and turning point prompts.",
+      "10: chapter title and pages corrected; timeline note fixed (spring 2019 is the onset of visible depression, not the death).",
+      "11: page references added; mentalizing's Adam Smith link and other chapter content noted.",
+      "12: renamed and rewritten around confirmed Ch 9 content (two levels, conditions before content, frames, labeling, splitting); the unconfirmed step-back move from one inaccessible review was replaced; flag changed from unreplicated to pop-psychology; confidence stays Low.",
+      "13: life-task list corrected to Brooks's own (imperial, interpersonal, career consolidation, generative, integrity versus despair); added personality change and Roberts and Yoon (2022); Kegan and Vaillant noted as likely but unconfirmed.",
+      "14: new insight on empathic accuracy and overconfidence, confirmed in the publisher sample (Ch 1 and Ch 2)."
+    ],
+    "still_unverified": [
+      "Whom, if anyone, Brooks credits for looping (book text for Ch 6 not read directly).",
+      "Whether Brooks cites Eyal, Steffel and Epley (2018) or Kardas, Kumar and Epley (2022) in his endnotes.",
+      "Whether Brooks cites Stone, Patton and Heen's Difficult Conversations in Ch 9.",
+      "Whether Brooks cites Robert Kegan or George Vaillant in Ch 14 (one study-guide snippet only).",
+      "Whether Brooks discusses McAdams's contamination sequences.",
+      "The survey behind the 54 percent statistic.",
+      "Total participant counts for both Epley papers.",
+      "Exact Ickes page numbers in the US hardcover (UK paperback sample used)."
+    ]
+  }
 }
