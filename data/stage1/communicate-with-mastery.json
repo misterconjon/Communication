@@ -1,0 +1,905 @@
+{
+  "book": {
+    "book_id": "communicate-with-mastery",
+    "title": "Communicate with Mastery",
+    "subtitle": "Speak With Conviction and Write for Impact",
+    "authors": [
+      "JD Schramm",
+      "Kara Levy"
+    ],
+    "year": 2020,
+    "publisher": "Wiley",
+    "edition": "1st edition (hardcover and ebook)",
+    "isbn": "9781119550099",
+    "author_credibility": "JD Schramm (EdD) founded the Mastery in Communication Initiative at Stanford Graduate School of Business, where he taught from about 2007 and led communication curriculum for over a decade; he has since taught at UC Davis and USC Annenberg and coaches executives and TED speakers. Kara Levy (credited 'with Kara Levy') is an executive communication and leadership coach with a Columbia MFA in fiction who was an early coach in the Stanford initiative. The book is practitioner and teaching based; as a coach and educator, Schramm's frameworks reflect classroom experience more than original research, and some are borrowed from colleagues (for example AIM from Munter and Russell).",
+    "evidence_base": "Based on accessible material, the book relies mainly on teaching experience at Stanford GSB, coaching cases, and established frameworks from management communication, rather than peer-reviewed studies. I could not access the book's text or notes, so I cannot confirm what research, if any, it cites.",
+    "legal_access": [
+      {
+        "type": "publisher preview",
+        "url": "https://www.wiley.com/en-us/communicate-with-mastery-speak-with-conviction-and-write-for-impact-p-9781119550099",
+        "note": "Wiley product page; blocked by network policy in this session"
+      },
+      {
+        "type": "publisher preview",
+        "url": "https://books.google.com/books/about/Communicate_with_Mastery.html?id=Um7DDwAAQBAJ",
+        "note": "Google Books listing; blocked in this session"
+      },
+      {
+        "type": "library",
+        "url": "https://www.gbv.de/dms/zbw/1678999288.pdf",
+        "note": "Scanned table of contents (GBV/ZBW); blocked, but contents surfaced via search snippets"
+      },
+      {
+        "type": "summary",
+        "url": "https://ursinus.ecampus.com/communicate-mastery-speak-conviction-write/bk/9781119550099",
+        "note": "Retailer listing with chapter structure (seen via search)"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.ideasonstage.com/news/2024/07/17/2024-07-17-jd_schramm_on_communicating_with_mastery_-_the_ideas_on_stage_podcast_1/",
+        "note": "Ideas on Stage podcast episode 61 (2024)"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.gsb.stanford.edu/insights/journey-mastery-how-self-reflection-can-improve-communication",
+        "note": "Think Fast, Talk Smart episode 4 with Matt Abrahams (2020)"
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.gsb.stanford.edu/insights/how-tell-your-story-impact",
+        "note": "Stanford GSB Insights article quoting Schramm on storytelling"
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://jdschramm.substack.com/p/why-mastery-matters",
+        "note": "Schramm's Substack newsletter, Communication Matters"
+      },
+      {
+        "type": "summary",
+        "url": "https://emilyqtian.medium.com/communicate-with-mastery-70ea49ac0f18",
+        "note": "Reader notes on Medium"
+      },
+      {
+        "type": "summary",
+        "url": "https://www.summary.com/magazine/share-ideas-clearly-powerfully-and-memorably/",
+        "note": "Soundview / summary.com executive summary"
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "communicate-with-mastery-01",
+      "name": "AIM: Audience, Intent, then Message",
+      "skill_type": "framework",
+      "explanation": "Before drafting anything, answer three questions in a fixed order. Audience: who exactly will receive this, what do they already know, what do they care about, and what culture or norms shape how they listen or read. Intent: what you want them to do (not just know) after receiving it. Message: only after the first two are settled do you choose content, structure, and channel. The ordering is the point: most people start with the message they want to say and retrofit the audience afterward. The book treats AIM as the opening move for every speaking and writing task. Schramm credits the model to management communication scholars Mary Munter and Lynn Russell rather than claiming it as his own.",
+      "when_to_use": "At the start of any planned communication: a presentation, an email to a senior leader, a proposal, a hard conversation, or even a toast. Especially useful when you feel stuck on what to say, which usually means intent is unclear.",
+      "worked_example": "A product manager needs budget for a usability study. Her first draft email opens with three paragraphs on research methodology. Running AIM: the audience is a finance director who cares about cost avoidance and has five minutes; the intent is a yes on 18,000 dollars by Friday; so the message becomes a two-line ask up top, the cost of a failed launch last year as the reason, and the methodology moved to an attachment. At home the same week, she uses AIM before talking to her teenager about a curfew: the intent is agreement on a rule he will actually follow, not winning the argument, so she opens by asking what he thinks is fair.",
+      "common_mistakes": [
+        "Defining intent as 'inform them' instead of naming the specific action or decision you want",
+        "Treating the audience as one block when a meeting has a decision maker plus influencers with different concerns",
+        "Skipping straight to slides or drafting, then trying to add audience fit at the end"
+      ],
+      "steps": [
+        "Write one sentence describing the audience: role, prior knowledge, what they care about, how much attention they will give",
+        "Write the intent as an observable action: 'After this, they will ...'",
+        "Choose the channel (meeting, email, call, document) that best suits that audience and intent",
+        "Draft the message, then check every section against audience and intent and cut what serves neither"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "message-structures"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        }
+      ],
+      "situations": [
+        "Planning a presentation to senior leadership",
+        "Writing an email that asks for a decision",
+        "Preparing a pitch to investors or a client",
+        "Raising a sensitive topic with a family member"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery, Part 1, Chapter 1 (Adopting a communication mindset); also Schramm, 'How to Tell Your Story for Impact', Stanford GSB Insights (2011)",
+        "underlying_research": "Mary Munter and Lynn Russell's audience/intent/message model from management communication teaching (Munter's Guide to Managerial Communication). Audience analysis is a long-standing consensus principle in rhetoric and business communication; no specific experimental study cited in sources I could access.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/how-tell-your-story-impact",
+          "https://gsb.stanford.edu/insights/jd-schramm-how-leaders-communicate-effectively",
+          "https://viaconflict.wordpress.com/2015/03/31/aiming-for-effective-communication/",
+          "https://www.goodreads.com/book/show/51313148-communicate-with-mastery",
+          "https://ursinus.ecampus.com/communicate-mastery-speak-conviction-write/bk/9781119550099"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Strong practitioner and teaching consensus in business communication curricula and consistently reported across the author's own interviews and independent summaries. Not an empirically tested framework as such, though audience adaptation is broadly supported.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-02",
+      "name": "ABC Writing: Active, Brief, Clear",
+      "skill_type": "technique",
+      "explanation": "The book's core standard for written work is that it should be Active, Brief, and Clear. Active means the person or team doing the action appears first and the real verb is visible (for example 'we decided' rather than 'a decision was made', and 'decide' rather than 'make a determination'). Brief means editing hard: removing filler phrases, repetition, and padding until every sentence earns its place. Clear means the reader can find your main point and requested action quickly, without having to reconstruct your logic. The three checks are designed to be applied as an editing pass after the first draft, not while drafting.",
+      "when_to_use": "Every piece of writing someone else must act on: emails, status updates, memos, performance reviews, cover letters, even messages to a landlord or school.",
+      "worked_example": "An operations lead drafts: 'It has been determined that a review of the vendor onboarding process will be undertaken in Q3 due to the fact that there have been a number of delays.' ABC pass: 'We will review vendor onboarding in Q3 because three of the last five vendors started late.' Actor first, real verb, 37 words to 17, and a concrete reason. He later uses the same pass on an email to his child's school, turning a long apology-filled paragraph into a clear request for a meeting time.",
+      "common_mistakes": [
+        "Using passive voice to avoid naming who is responsible, which reads as evasive",
+        "Cutting so much that context the reader needs disappears (brief is not the same as cryptic)",
+        "Hiding verbs inside nouns such as 'conduct an analysis of' instead of 'analyze'"
+      ],
+      "steps": [
+        "Draft freely without editing",
+        "Active pass: for each sentence, ask who is doing what, and put that actor and verb first; turn nominalizations back into verbs",
+        "Brief pass: delete filler ('due to the fact that', 'in order to', 'it should be noted'), duplicate points, and throat-clearing openings",
+        "Clear pass: confirm the main point and the requested action can be found in the first lines",
+        "Read it once as the recipient would, on a phone, and fix anything that slows you down"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "executive-writing"
+        }
+      ],
+      "situations": [
+        "Writing a project update email",
+        "Editing a report before sending it to leadership",
+        "Drafting a complaint or request to a service provider",
+        "Writing a self-review"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery, Part 1, Chapter 3 (Writing for impact: active, brief, clear)",
+        "underlying_research": "Not named in sources I could access. The advice aligns with plain-language research and style guidance (for example, studies showing plain-language rewrites improve comprehension and speed, and readability work on nominalizations as in Joseph Williams' 'Style').",
+        "urls": [
+          "https://emilyqtian.medium.com/communicate-with-mastery-70ea49ac0f18",
+          "https://www.goodreads.com/book/show/51313148-communicate-with-mastery",
+          "https://ursinus.ecampus.com/communicate-mastery-speak-conviction-write/bk/9781119550099"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Well aligned with plain-language consensus and widely taught; details of the book's version come from the table of contents and secondary summaries rather than the text itself.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-03",
+      "name": "The Scan Test: Main Point on the Surface",
+      "skill_type": "technique",
+      "explanation": "A clear document is one whose argument and request survive a skim. If a busy reader looked only at the subject line, headings, and the first sentence of each paragraph, they should still know what you are saying and what you need from them. This forces you to lead with conclusions instead of building up to them, and to write headings and topic sentences that carry meaning rather than labels like 'Background'. It is the practical test behind the 'Clear' in ABC.",
+      "when_to_use": "Longer emails, memos, proposals, and reports going to people with limited time, especially readers more senior than you or reading on mobile.",
+      "worked_example": "A nonprofit volunteer coordinator writes a two-page proposal to the board for a new weekend program. Her headings were 'Background', 'Details', 'Budget'. After applying the scan test, they become 'Weekend demand is up 40 percent', 'A pilot with 6 volunteers can cover it', 'We need 2,500 dollars and a vote on June 3'. A board member who reads only those lines knows the case and the ask. She uses the same idea for a family group chat about holiday plans: the first line states the proposed dates and asks for a yes or no by Sunday.",
+      "common_mistakes": [
+        "Writing headings that label a section instead of stating its point",
+        "Putting the ask in the last paragraph, where skimmers never reach it",
+        "Assuming the reader will read every word because the topic matters to you"
+      ],
+      "steps": [
+        "Write your main point and your ask as two sentences before drafting",
+        "Put them in the subject line or opening lines",
+        "Turn each heading into a claim",
+        "Make each paragraph's first sentence its conclusion",
+        "Test: read only subject, headings, and first sentences; if the message is not clear, revise"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "proposals-memos"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "executive-writing"
+        },
+        {
+          "category": "professional",
+          "subcategory": "executive-communication"
+        }
+      ],
+      "situations": [
+        "Sending a proposal to a busy executive",
+        "Writing a board or committee memo",
+        "Summarizing a long thread for someone who missed it"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery, Chapter 3 (as reported by secondary summaries)",
+        "underlying_research": "None named in accessible sources. Consistent with eye-tracking research on F-shaped scanning of web text (Nielsen Norman Group) and with the military and business 'bottom line up front' convention.",
+        "urls": [
+          "https://www.goodreads.com/book/show/51313148-communicate-with-mastery",
+          "https://emilyqtian.medium.com/communicate-with-mastery-70ea49ac0f18"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Strong practitioner consensus and consistent with reading-behavior research, but the specific 'scan test' wording is attributed to the book only by secondary summaries I could not verify against the text.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-04",
+      "name": "What, So What, Now What",
+      "skill_type": "framework",
+      "explanation": "When you report information upward or across a team, synthesize rather than summarize. Give the fact or development (what), explain why it matters to this audience (so what), and state the action, decision, or next step it calls for (now what). A summary leaves the reader to do the thinking; a synthesis does the thinking for them and is what distinguishes a leader's update from a list of facts. The book presents this as a short structure for both spoken and written updates.",
+      "when_to_use": "Status updates, escalations, debriefs after meetings, reporting data or research results, and any time someone asks 'what's going on with X'.",
+      "worked_example": "An analyst is asked in a hallway how the customer survey went. Instead of reciting response rates, she says: 'Satisfaction dropped from 82 to 71 percent, almost all of it from onboarding complaints (what). That is the part of the journey we just changed, so it is probably our fault and fixable (so what). I would like to pull two people for a week to interview churned customers; can I get your OK (now what)?' At home, she uses the same shape when telling her partner the car inspection results: what failed, what it means for the budget, and the two options to decide between.",
+      "common_mistakes": [
+        "Stopping at 'what' and calling it an update",
+        "Making the 'so what' about you instead of the listener's priorities",
+        "Leaving 'now what' vague, such as 'we should keep an eye on it'"
+      ],
+      "steps": [
+        "State the key fact or development in one sentence",
+        "Explain the implication for this specific listener",
+        "Name the action, decision, or next step and who owns it",
+        "If you need something, make the request explicit and time-bound"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "message-structures"
+        },
+        {
+          "category": "professional",
+          "subcategory": "status-updates"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "executive-writing"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "impromptu"
+        }
+      ],
+      "situations": [
+        "Giving a weekly status update",
+        "Answering 'how did it go?' from a manager",
+        "Writing a post-meeting recap email",
+        "Explaining test results or news to a family member"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery (reported in reader notes and summaries; chapter not confirmed)",
+        "underlying_research": "The structure predates the book: it comes from Terry Borton's 1970 reflective model, later popularized by Rolfe, Freshwater and Jasper (2001) in reflective practice. No empirical test of it as a communication structure was cited in sources I could access.",
+        "urls": [
+          "https://emilyqtian.medium.com/communicate-with-mastery-70ea49ac0f18"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "A widely used and well-established structure in education and management practice; attribution to this book rests on secondary notes rather than the text, and it is not experimentally validated as a persuasion tool.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-05",
+      "name": "Parachute In: Skip the Preamble",
+      "skill_type": "technique",
+      "explanation": "Start at the most interesting or consequential moment instead of with introductions, agenda slides, or background. Schramm's advice is to drop the audience straight into the heart of the story or issue, then supply only the context needed. Relatedly, deliberately choose your first and last words, because the opening and closing shape what people remember and how they judge the whole. Too much detail loses the audience; too little leaves them with questions you did not intend.",
+      "when_to_use": "Openings of talks, pitches, stories, and emails; toasts and eulogies; introducing yourself in a networking or interview setting.",
+      "worked_example": "A hospital nurse speaking at a fundraising dinner had planned to start with her name, unit, and years of service. Instead she opens: 'At 3 a.m. last March, a seven-year-old asked me if she was going to die.' Her name and role follow in one sentence. She writes out and memorizes her last line so she does not trail off. Later that month she uses the same idea in a best-man speech, opening with the moment the couple met rather than thanking everyone first.",
+      "common_mistakes": [
+        "Spending the first minute on logistics, thanks, and self-introduction when attention is highest",
+        "Parachuting in with drama that has nothing to do with the point",
+        "Leaving the ending to chance and closing with 'so, yeah, that's it' or 'any questions?'"
+      ],
+      "steps": [
+        "Identify the single most vivid or consequential moment in your material",
+        "Open there in one or two sentences",
+        "Add only the context the audience needs to follow",
+        "Script and rehearse your final sentence so it lands your intent"
+      ],
+      "categories": [
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        }
+      ],
+      "situations": [
+        "Opening a keynote or team talk",
+        "Giving a wedding toast",
+        "Starting a pitch",
+        "Writing the first line of a cold email"
+      ],
+      "source": {
+        "citation": "Schramm, 'How to Tell Your Story for Impact', Stanford GSB Insights (2011); Schramm, '5 Steps to Sharper Stories', Communication Matters (Substack); consistent with Communicate with Mastery, Chapter 4 (Storytelling)",
+        "underlying_research": "None named. Loosely consistent with serial-position (primacy and recency) effects in memory research (Murdock 1962; Ebbinghaus), although those findings come from word-list recall rather than speeches.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/how-tell-your-story-impact",
+          "https://jdschramm.substack.com/p/5-steps-to-sharper-stories"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Expert consensus among speaking coaches and supported indirectly by memory research; the jump from list-recall studies to speech openings is an extrapolation.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-06",
+      "name": "One Thought, One Person",
+      "skill_type": "technique",
+      "explanation": "When speaking to a group, deliver one complete thought to one person while looking at them, then turn and deliver the next complete thought to someone else. This replaces scanning or staring at slides with a series of small conversations, which steadies your pace, reduces filler words between thoughts, and makes each listener feel addressed. The book pairs this with broader delivery advice: open, purposeful gestures from your sides rather than arms clamped to the body, and removing physical barriers such as lecterns where possible.",
+      "when_to_use": "Presentations, meetings where you hold the floor, panel answers, and toasts. Adapts to video by treating the camera lens as the person.",
+      "worked_example": "A junior engineer presenting a design review tends to read from her slides and race. She practices finishing each sentence while looking at one colleague, pausing, then moving to another. Her pace slows naturally and her 'ums' drop because she breathes between thoughts. At a family reunion, she uses the same approach for a short tribute to her grandmother, landing each memory on a different relative.",
+      "common_mistakes": [
+        "Darting eyes across the room mid-sentence (scanning) instead of finishing the thought",
+        "Fixating on one friendly face or only the most senior person",
+        "Treating the guidance as a rigid timer; sources disagree on exact seconds per person"
+      ],
+      "steps": [
+        "Break your content into short complete thoughts",
+        "Pick one listener and deliver a full thought to them",
+        "Pause briefly as you finish",
+        "Turn your body slightly and deliver the next thought to someone in a different part of the room",
+        "On video, deliver key thoughts to the camera lens"
+      ],
+      "categories": [
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "nonverbal"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        }
+      ],
+      "situations": [
+        "Presenting to a room of colleagues",
+        "Answering a question on a panel",
+        "Giving a toast or eulogy",
+        "Speaking up in a large meeting"
+      ],
+      "source": {
+        "citation": "Schramm, 'How to Tell Your Story for Impact', Stanford GSB Insights (2011); Communicate with Mastery, Chapter 2 (Speaking with conviction), as reported in summaries",
+        "underlying_research": "None named in sources I could access. Eye contact research (for example, Kleinke 1986 review) links gaze to perceived credibility and attention, but specific durations quoted in summaries (4 to 7 seconds) vary and I found no study supporting a precise number.",
+        "urls": [
+          "https://www.gsb.stanford.edu/insights/how-tell-your-story-impact",
+          "https://www.goodreads.com/book/show/51313148-communicate-with-mastery"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Widely taught by speaking coaches and directly attributable to Schramm's own published advice; the general value of eye contact has research support, but specific timing rules do not.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-07",
+      "name": "Story Spine: Once Upon a Time to Until Now",
+      "skill_type": "framework",
+      "explanation": "A simple sequence of prompts to turn an anecdote into a story with a point: once upon a time (the normal situation), then one day (the disruption), because of that (the consequences), until now (where things stand and what changed). Schramm stresses that the difference between talking and storytelling is intention: you must know the end point you want the audience to reach before you begin. For organizations, he argues stories should center on what changed for people rather than on how busy the organization has been.",
+      "when_to_use": "Pitches, fundraising, job interviews (behavioral questions), team kickoffs, explaining a change, and personal stories at gatherings.",
+      "worked_example": "A job candidate is asked about a time she handled a setback. Using the spine: our support team had a steady three-hour response time (once upon a time); then one day a product bug tripled ticket volume (then one day); because of that, I set up a triage rota and a public status page (because of that); until now, response time is under two hours even at peak, and the rota is standard practice (until now). A parent uses the same frame to explain to a child why the family is moving cities, ending on what will be better.",
+      "common_mistakes": [
+        "Telling events in order with no clear disruption or change",
+        "Starting without knowing the ending you want the audience to arrive at",
+        "Making the story about your activity rather than the outcome for people affected"
+      ],
+      "steps": [
+        "Decide the end point: what you want the audience to believe or do afterward",
+        "Sketch the normal state in a sentence",
+        "Name the specific disruption",
+        "Describe the consequences, focusing on people",
+        "Close with the present state and its meaning for this audience"
+      ],
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        }
+      ],
+      "situations": [
+        "Answering a behavioral interview question",
+        "Pitching a nonprofit program to donors",
+        "Explaining a reorganization to a team",
+        "Telling a story at a family dinner"
+      ],
+      "source": {
+        "citation": "Schramm interview, 'How To Series: JD Schramm: How to Tell Your Story', PlayFull Podcast (ImpactFull); related to Communicate with Mastery, Chapter 4 (Storytelling)",
+        "underlying_research": "Structure resembles Kenn Adams' improv 'Story Spine'. Narrative persuasion research (Green and Brock 2000, narrative transportation) supports the value of stories for engagement and attitude change, though not this particular template.",
+        "urls": [
+          "https://www.impactfullinc.com/playfull-podcast/jd-schramm",
+          "https://ursinus.ecampus.com/communicate-mastery-speak-conviction-write/bk/9781119550099"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "The prompts are attributed to Schramm by a single podcast summary page, and I could not confirm they appear in the book in this form. The general benefit of narrative is research supported, but the template itself is practitioner craft.",
+      "flags": [
+        "unreplicated"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-08",
+      "name": "Disclose With Purpose",
+      "skill_type": "technique",
+      "explanation": "Personal disclosure (sharing an illness, a failure, an identity, a loss) can build connection and credibility, but only when it serves the audience and the point. The book devotes a section to disclosing personally, and Schramm's own writing adds practical guidance: check your motive and reconsider if the disclosure mainly serves you; be clear why you are telling it; anchor the opening and closing so people leave with your message rather than your emotion; it is fine to acknowledge discomfort rather than pretend it is absent; and consider telling the story first to a small, trusted group before sharing widely. Schramm models this himself, having spoken publicly about surviving a suicide attempt.",
+      "when_to_use": "Deciding whether to mention a personal struggle in a talk, team meeting, or interview; telling colleagues about a diagnosis or life change; coming out at work; sharing a hard family story.",
+      "worked_example": "A team lead returning from leave after a cancer diagnosis wonders how much to share. She asks what she wants the team to do with the information (adjust workload expectations, not worry or tiptoe). She tells her two closest peers first to test the wording, then gives the team three sentences: what happened, what it means for her schedule, and how she would like them to treat her. She admits she feels awkward saying it, and closes by moving to the agenda. She later uses a similar process to tell extended family.",
+      "common_mistakes": [
+        "Disclosing to gain sympathy or deflect accountability rather than to serve the listener",
+        "Sharing far more detail than the audience can process",
+        "Improvising an emotional story live without having rehearsed the beginning and end"
+      ],
+      "steps": [
+        "Ask why you are sharing and what you want listeners to do or understand",
+        "Decide what level of detail serves that intent and what stays private",
+        "Try the story with one or two trusted people first",
+        "Script your first and last lines",
+        "Rehearse from bullet points rather than a word-for-word manuscript",
+        "Acknowledge discomfort briefly if you feel it, then continue"
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "bad-news"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
+      ],
+      "situations": [
+        "Telling your team about a health issue",
+        "Deciding whether to share a personal story in a talk",
+        "Coming out to colleagues",
+        "Sharing a difficult family history"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery, Chapter 4 (Disclosing personally); Schramm, 'Be authentic: Q&A with JD Schramm', TED Blog; 'Pressing through tears' and 'Building the muscle of resilience', Communication Matters (Substack)",
+        "underlying_research": "None named in accessible sources. Self-disclosure research (Altman and Taylor's social penetration theory; Collins and Miller 1994 meta-analysis linking disclosure and liking) supports disclosure's role in building connection, with appropriateness and reciprocity as moderators.",
+        "urls": [
+          "https://blog.ted.com/be-authentic-qa-with-jd-schramm/",
+          "https://jdschramm.substack.com/p/pressing-through-tears",
+          "https://jdschramm.substack.com/p/building-the-muscle-of-resilience",
+          "https://www.goodreads.com/book/show/51313148-communicate-with-mastery",
+          "https://www.gbv.de/dms/zbw/1678999288.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Grounded in the author's own experience and coaching, and broadly consistent with self-disclosure research; the motive check is reported by a reader summary of the book, and much of the procedural advice comes from his articles rather than verified book text.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-09",
+      "name": "Pause, Verify, Iterate",
+      "skill_type": "technique",
+      "explanation": "Schramm's practical definition of mastery boils down to three habits. Pause before you send, post, or speak, especially when emotional or rushed. Verify that the receiver understood what you meant, rather than assuming that sent equals received. Iterate: use what you learn to improve the next message. None of this makes communication perfect; it makes it steadily better. The habit is particularly valuable in writing and chat, where tone and intent are easily misread and there is no live feedback.",
+      "when_to_use": "Before sending emails or chat messages with any emotional charge or high stakes; after giving instructions; when a thread is going in circles.",
+      "worked_example": "A project coordinator drafts a terse Slack reply to a colleague who missed a deadline. She pauses, rereads it as the colleague would, and softens it into a question about what got in the way. After a call with a contractor, she verifies by sending a three-line recap and asking him to confirm the dates. When the contractor's reply shows a misunderstanding, she adjusts her recap template so it lists dates first next time. She does the same with a family group chat about elder care, checking that each sibling read the schedule the same way.",
+      "common_mistakes": [
+        "Treating a lack of reply as agreement or understanding",
+        "Pausing only to polish wording, without checking whether the tone fits the relationship",
+        "Never closing the loop, so the same misunderstanding repeats"
+      ],
+      "steps": [
+        "Before sending or speaking, stop and reread from the recipient's point of view",
+        "Ask: is the intent clear, and could the tone be misread?",
+        "After sending or speaking, check understanding (a recap, a question, asking them to restate next steps)",
+        "Note what was misunderstood and change your approach next time"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "tone-misreading"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "chat"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        }
+      ],
+      "situations": [
+        "Replying to a frustrating email",
+        "Delegating a task",
+        "Coordinating family logistics in a group chat",
+        "Confirming agreements after a call"
+      ],
+      "source": {
+        "citation": "Schramm, 'Why Mastery Matters', Communication Matters (Substack); consistent with the mastery mindset in Communicate with Mastery, Chapter 1",
+        "underlying_research": "None named. Consistent with research on email tone misreading and egocentrism (Kruger, Epley, Parker and Ng 2005, which found senders overestimate how well recipients detect tone in email).",
+        "urls": [
+          "https://jdschramm.substack.com/p/why-mastery-matters",
+          "https://www.ideasonstage.com/news/2024/07/17/2024-07-17-jd_schramm_on_communicating_with_mastery_-_the_ideas_on_stage_podcast_1/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The verify step is supported by replicated research on overconfidence in written tone detection; the overall three-step formulation is the author's practitioner advice from his newsletter rather than verified book text.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-10",
+      "name": "Mastery, Not Perfection",
+      "skill_type": "mental model",
+      "explanation": "Communication is a learnable skill, like golf or cooking, not a fixed talent. Mastery means continual, incremental improvement; there is no perfect presentation, pitch, or email, so chasing perfection produces anxiety and stiffness. Schramm pairs this with structured self-reflection: after almost every talk or piece of writing, note what genuinely worked and what to change next time, and turn that into a small number of concrete goals for the next attempt.",
+      "when_to_use": "When nervous before high-stakes communication, after a talk that went poorly, when building a development plan, or when telling yourself you are 'just not a good speaker or writer'.",
+      "worked_example": "After a fumbled quarterly review presentation, a sales manager writes down three things that worked (clear opening, good chart on pipeline, calm Q&A) and two to change (ran six minutes over, read the slides in the middle section). Next quarter he cuts two slides and practices the middle section twice. Separately, before a hard talk with his father about moving into assisted living, he lets go of finding perfect words and aims for an honest, reasonably clear conversation he can return to later.",
+      "common_mistakes": [
+        "Reflecting only on what went wrong, which feeds anxiety without improving skill",
+        "Listing too many goals at once, so none stick",
+        "Assuming one bad performance proves a lack of talent"
+      ],
+      "steps": [
+        "After a talk or important message, write down two or three specific things that worked",
+        "Write one or two concrete changes for next time",
+        "Where possible, review a recording or ask one trusted observer",
+        "Pick a single focus for the next attempt and check it afterward"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        }
+      ],
+      "situations": [
+        "Preparing for a nerve-racking presentation",
+        "Debriefing after a talk that went badly",
+        "Setting personal development goals",
+        "Building confidence after criticism"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery, Chapter 1 (Adopting a communication mindset); Schramm on the Ideas on Stage Podcast, episode 61 (2024); 'Why Mastery Matters' and 'Being Present over Perfect' (Substack); Think Fast, Talk Smart episode 4 with Matt Abrahams (2020)",
+        "underlying_research": "None named in accessible sources. Consistent with deliberate practice research (Ericsson, Krampe and Tesch-Romer 1993) on feedback-driven improvement and with growth-mindset research (Dweck), though growth-mindset intervention effects have been smaller in recent large replications.",
+        "urls": [
+          "https://www.ideasonstage.com/news/2024/07/17/2024-07-17-jd_schramm_on_communicating_with_mastery_-_the_ideas_on_stage_podcast_1/",
+          "https://jdschramm.substack.com/p/why-mastery-matters",
+          "https://www.gsb.stanford.edu/insights/journey-mastery-how-self-reflection-can-improve-communication"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Self-reflection and feedback-based practice are well supported in skill-acquisition research; the specific reflection routine is described by the author and secondary summaries rather than tested directly.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-11",
+      "name": "Slides Support the Conversation",
+      "skill_type": "technique",
+      "explanation": "Slides are an aid, not the presentation. Each slide should carry one message, stripped of clutter, so the audience can grasp it at a glance and turn their attention back to you. Schramm draws this lesson from an event where the visuals failed and the talks worked anyway: the human conversation mattered more than the deck. Design the talk first, then decide which points truly benefit from a visual.",
+      "when_to_use": "Any slide-based presentation, from team updates to conference talks; also when deciding whether to use slides at all.",
+      "worked_example": "A finance analyst's budget review deck has 22 slides of dense tables. She rewrites each slide title as the single takeaway ('Travel spend is 30 percent over plan, driven by two teams'), shows one simplified chart per slide, and moves the full tables to an appendix sent afterward. When the projector fails in the meeting, she can still deliver the story from her titles. For her book club presentation, she skips slides and brings one printed photo instead.",
+      "common_mistakes": [
+        "Using slides as a teleprompter and reading them aloud",
+        "Packing several messages onto one slide",
+        "Building the deck before deciding the intent and storyline"
+      ],
+      "steps": [
+        "Outline the talk without slides first",
+        "Mark the points where a visual genuinely helps understanding",
+        "Write each slide title as a full-sentence takeaway",
+        "Remove anything on the slide that does not support that one message",
+        "Rehearse so you could deliver the talk if the slides failed"
+      ],
+      "categories": [
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
+      ],
+      "situations": [
+        "Preparing a quarterly business review deck",
+        "Presenting research findings",
+        "Pitching with a slide deck",
+        "Giving a talk at a conference"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery, Chapter 5 (When using slides), as reported in reader summaries; Schramm, 'Coaching Cohorts' and related Substack posts",
+        "underlying_research": "None named in accessible sources. Consistent with Richard Mayer's multimedia learning research (coherence and signaling principles), which is well replicated in instructional settings.",
+        "urls": [
+          "https://www.goodreads.com/book/show/51313148-communicate-with-mastery",
+          "https://jdschramm.substack.com/p/coaching-cohorts",
+          "https://www.gbv.de/dms/zbw/1678999288.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Aligned with replicated multimedia learning findings and broad expert consensus; book-specific details come from reader summaries.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-12",
+      "name": "Compensate for the Thin Channel in Virtual Meetings",
+      "skill_type": "technique",
+      "explanation": "Video and phone meetings strip out much of the nonverbal information people rely on, so you need to replace it deliberately. The book's setting chapter covers virtual meetings; summaries report its emphasis on more vocal variety, deliberate engagement (calling on people, checking in), and treating the camera as the listener's eyes. The underlying idea is that the same AIM thinking applies, but the channel demands more explicit signals of energy, turn-taking, and understanding.",
+      "when_to_use": "Leading or presenting in video calls, remote interviews, phone negotiations, and long-distance calls with family.",
+      "worked_example": "A remote team lead notices her video stand-ups are flat and quiet. She starts each one by naming who will speak in what order, looks at the camera when making key points, varies her pace and tone more than she would in person, and ends by asking each person to confirm one next step in chat. On weekly calls with her parents abroad, she asks direct questions rather than open 'how is everything', because she cannot read their faces well on a frozen connection.",
+      "common_mistakes": [
+        "Presenting to the screen image instead of the camera",
+        "Assuming silence means agreement on a call",
+        "Speaking in the same flat tone you might get away with in person"
+      ],
+      "steps": [
+        "Before the call, decide how people will participate (order, chat, reactions)",
+        "Look at the camera for key points",
+        "Use more vocal variety and shorter segments than in person",
+        "Check understanding explicitly by name",
+        "Summarize decisions in writing after the call"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "video-calls"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "virtual"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
+      ],
+      "situations": [
+        "Running a remote team meeting",
+        "Presenting on a video call",
+        "Doing a video job interview",
+        "Keeping in touch with family by video"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery, Chapter 5 (Virtual meetings), as reported in a reader summary; detailed content not verified",
+        "underlying_research": "None named. Research on video-mediated communication (for example, work on reduced nonverbal cues and 'Zoom fatigue' by Bailenson 2021) is consistent but largely post-dates the book.",
+        "urls": [
+          "https://www.goodreads.com/book/show/51313148-communicate-with-mastery",
+          "https://www.gbv.de/dms/zbw/1678999288.pdf"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "The chapter exists per the table of contents, but its actual advice was only available through a single secondary summary; specific techniques here are thinly sourced to the book.",
+      "flags": [
+        "unreplicated"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-13",
+      "name": "Lower and Slower for Gravitas",
+      "skill_type": "technique",
+      "explanation": "Your voice is a flexible tool. When you need to signal weight or seriousness, Schramm suggests dropping into a lower register and slowing your cadence, rather than rushing or rising in pitch. More broadly, varying pace and volume to match the point helps listeners tell what matters. He also suggests naming a talk early (a clear title) so you know what you are building toward.",
+      "when_to_use": "Delivering key messages, decisions, or bad news; opening a talk; any moment you tend to speed up from nerves.",
+      "worked_example": "A new manager announcing a reorganization notices she speeds up and her pitch rises when nervous. She marks the two sentences that matter most in her notes and practices delivering them more slowly and at the lower end of her natural range, with a pause after each. When telling her kids about a family decision, she uses the same slower pace so they register it as serious rather than offhand.",
+      "common_mistakes": [
+        "Forcing an unnaturally deep voice, which sounds strained",
+        "Slowing down everything, which drains energy; save it for key points",
+        "Ending statements with rising intonation that sounds like a question"
+      ],
+      "steps": [
+        "Identify the one or two sentences that carry your key message",
+        "Mark them in your notes",
+        "Practice them at a slower pace, in the lower part of your comfortable range",
+        "Add a short pause before and after",
+        "Record yourself and compare with your normal delivery"
+      ],
+      "categories": [
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "influence",
+          "subcategory": "credibility"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "bad-news"
+        }
+      ],
+      "situations": [
+        "Announcing a major decision",
+        "Delivering bad news to a team",
+        "Opening a presentation",
+        "Asserting yourself in a tense meeting"
+      ],
+      "source": {
+        "citation": "Schramm, 'Stretching Yourself', Communication Matters (Substack); vocal delivery also covered in Communicate with Mastery, Chapter 2 (Speaking with conviction), per summaries",
+        "underlying_research": "Not named by the author. Some studies link lower vocal pitch to perceptions of dominance and leadership (for example, Klofstad, Anderson and Peters 2012), though effects are context dependent and raise gender-related concerns.",
+        "urls": [
+          "https://jdschramm.substack.com/p/stretching-yourself",
+          "https://www.goodreads.com/book/show/51313148-communicate-with-mastery"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "Rests on the author's coaching experience in a newsletter post; supporting research on pitch and perceived leadership exists but is mixed and context dependent, and the advice risks penalizing natural voices.",
+      "flags": [
+        "contested"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-14",
+      "name": "Clarity Over Conformity in Identity",
+      "skill_type": "mental model",
+      "explanation": "The book's identity chapter argues that who you are (background, culture, language, gender, sexuality, and so on) shapes your perspective and leadership and is an asset to communication, not something to sand away. Using the example of speaking in a second language, the reported argument is that the issue is often not the accent itself but whether you can express your ideas clearly. Focus improvement effort on clarity and impact, not on erasing identity markers to fit a narrow norm.",
+      "when_to_use": "When you feel pressure to change how you sound or present to fit in; when coaching people from different backgrounds; when deciding how much of your identity to bring into a talk.",
+      "worked_example": "An engineer who moved from Brazil worries his accent hurts him in design reviews. Rather than taking accent-reduction lessons, he works on slowing slightly, stating his conclusion first, and putting key numbers on a slide so they are not lost. Colleagues start engaging with his ideas more. He also stops apologizing for his English at the start of meetings, which had been undercutting him more than the accent.",
+      "common_mistakes": [
+        "Apologizing for your accent or background before speaking, which primes the audience to discount you",
+        "Assuming every communication problem is an identity problem rather than a clarity problem",
+        "Coaching others to conform rather than to be clear"
+      ],
+      "steps": [
+        "Ask whether listeners are actually missing your meaning, and where",
+        "Fix those clarity points (pace, structure, visual support for numbers and names)",
+        "Drop pre-emptive apologies about how you speak",
+        "Decide deliberately which parts of your identity to bring into a message and why"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "influence",
+          "subcategory": "credibility"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        }
+      ],
+      "situations": [
+        "Presenting in a second language",
+        "Being the only person of your background in the room",
+        "Coaching a colleague who worries about their accent"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery, Chapter 6 (Identity), as described in the Blinkist summary; detailed content not verified",
+        "underlying_research": "None named in accessible sources. Research on accent bias (for example, Lev-Ari and Keysar 2010 on reduced credibility of accented speech) shows the pressure is real, which complicates the advice.",
+        "urls": [
+          "https://www.blinkist.com/books/communicate-with-mastery-en",
+          "https://ursinus.ecampus.com/communicate-mastery-speak-conviction-write/bk/9781119550099"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "Based on a single commercial summary of the chapter; the core idea is sensible but I could not confirm the book's actual argument or evidence.",
+      "flags": [
+        "unreplicated"
+      ]
+    },
+    {
+      "id": "communicate-with-mastery-15",
+      "name": "Get Coached, Then Rehearse Together",
+      "skill_type": "technique",
+      "explanation": "The book closes with scaling leadership through coaching: being coached, choosing a coach, and coaching others. Schramm's own practice combines individual coaching with group rehearsal: work one to one on each speaker's material, then hold a joint dress rehearsal where people watch each other get feedback, which multiplies learning. Feedback should balance rigor with compassion, highlighting what worked as well as specific changes.",
+      "when_to_use": "Preparing a high-stakes talk, helping a team prepare for a big pitch or offsite, developing direct reports' communication, or practicing a difficult personal conversation with a friend.",
+      "worked_example": "A department head has three team members presenting to the executive committee. She meets each one for 30 minutes on content, then runs a group run-through a week before where each presents and gets two strengths and one or two changes in front of the others. People adopt fixes they saw given to peers. A friend uses the same approach before a hard conversation with her ex about custody: she rehearses with a trusted friend, who tells her what landed and one thing to soften.",
+      "common_mistakes": [
+        "Rehearsing only in your head or only alone",
+        "Giving or asking for vague feedback ('it was good')",
+        "Holding the final rehearsal too late to make changes"
+      ],
+      "steps": [
+        "Clarify AIM with the speaker before giving delivery feedback",
+        "Coach individually on content first",
+        "Schedule a group dress rehearsal several days before the event",
+        "Give each person specific strengths and one or two specific changes",
+        "Ask speakers to self-assess before you give feedback"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "professional",
+          "subcategory": "situations"
+        }
+      ],
+      "situations": [
+        "Preparing a team for a client pitch",
+        "Coaching a direct report before a big presentation",
+        "Rehearsing a difficult conversation with a friend",
+        "Choosing a speaking coach"
+      ],
+      "source": {
+        "citation": "Schramm with Levy, Communicate with Mastery, Part 3, Chapter 7 (communication coaching); Schramm, 'Coaching Cohorts', Communication Matters (Substack)",
+        "underlying_research": "None named in accessible sources. Consistent with deliberate practice research (Ericsson et al. 1993) and observational learning (Bandura's social learning theory).",
+        "urls": [
+          "https://jdschramm.substack.com/p/coaching-cohorts",
+          "https://ursinus.ecampus.com/communicate-mastery-speak-conviction-write/bk/9781119550099",
+          "https://www.summary.com/magazine/share-ideas-clearly-powerfully-and-memorably/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Consistent with well-supported research on feedback and observational learning and with the author's extensive teaching experience; details of the book's coaching chapter were not directly accessible.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "research_notes": "IMPORTANT ACCESS LIMITATION: In this session, WebFetch and curl could not reach any external host (wiley.com, wiley-vch.de, oreilly.com, books.google.com, gsb.stanford.edu, gbv.de, jdschramm.substack.com, fivebooks.com all failed DNS or were refused by the proxy). All information comes from WebSearch result summaries and snippets, not from reading the pages in full. Treat specific details accordingly.\n\nBIBLIOGRAPHIC VERIFICATION: The authors are JD Schramm, 'with Kara Levy' (library catalogs at Santa Clara University, MCPHS and East Carolina University; title-page credit as reported). The caller's suggestion of Dan Bullock and Raul Sanchez is not supported: no catalog, publisher or retailer source I found linked them to this title. Joel Peterson (Stanford GSB lecturer, former JetBlue chair) is credited as a third author on some retailer and O'Reilly listings; library records omit him and a retailer listing shows a 'Foreword' section, so he is most likely the foreword writer, but I could not confirm this. Publisher: Wiley (Hoboken, NJ). Publication: January 2020 (some listings say late 2019; Blinkist shows 2017 in error). Hardcover ISBN 9781119550099; ebook ISBN 9781119550167. The subtitle appears both as 'Speak With Conviction and Write for Impact' and 'How to Speak with Conviction and Write for Impact' in catalogs.\n\nFIVEBOOKS: fivebooks.com was blocked (proxy 403). Search results show a Matt Abrahams communication list and a Five Books author page for J D Schramm, but I could not confirm that this book is one of Abrahams's picks.\n\nSTRUCTURE (from retailer and scanned TOC snippets): Part 1 Speaking with Conviction and Writing for Impact (Ch1 communication mindset incl. AIM; Ch2 speaking with conviction; Ch3 writing for impact: active, brief, clear). Part 2 Tailoring to Goal, Setting, or Identity (Ch4 pitching, storytelling, disclosing personally; Ch5 meetings, virtual meetings, stage talks, slides; Ch6 identity). Part 3 Scaling Your Leadership (Ch7 coaching: being coached, choosing a coach, coaching others).\n\nSOURCING OF INSIGHTS: AIM, ABC, and the overall structure are well attested. 'What, so what, now what' and the scan test come from reader notes (Emily Tian, Medium) and a Goodreads reader summary. Storytelling, parachuting in, and one-thought-one-person come from Schramm's own Stanford GSB article (2011) and podcast pages. The story-spine prompts rest on a single podcast summary page. Disclosure advice combines the book's section title, a reader summary note on checking motives, and Schramm's TED blog Q&A and Substack posts. Virtual meetings and identity insights rest on single secondary summaries and are rated Low. I did not find a pitching-specific framework from the book and so did not include one. Low-quality AI summary sites (bookshelf.ai, fizzread, zoboko) were noted but not relied on; fizzread's chapter list conflicts with the official structure.\n\nUNDERLYING RESEARCH: Research named in underlying_research fields (Munter and Russell, Borton/Rolfe, Kruger et al. 2005, Mayer, Ericsson, Green and Brock, Collins and Miller, Klofstad et al., Lev-Ari and Keysar) is my identification of related evidence, NOT confirmed as cited by the book, except that Schramm himself credits AIM to Munter and Russell."
+}

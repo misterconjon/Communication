@@ -1,0 +1,572 @@
+{
+  "book": {
+    "book_id": "supercommunicators",
+    "title": "Supercommunicators",
+    "subtitle": "How to Unlock the Secret Language of Connection",
+    "authors": ["Charles Duhigg"],
+    "year": 2024,
+    "publisher": "Random House",
+    "edition": "First edition (hardcover, February 2024); paperback 2025",
+    "isbn": "9780593243916",
+    "author_credibility": "Duhigg is a Pulitzer Prize-winning investigative journalist (formerly The New York Times) and author of The Power of Habit and Smarter Faster Better. He is not a researcher: he synthesizes academic work (notably Thalia Wheatley's lab at Dartmouth, Nicholas Epley, Arthur and Elaine Aron) and interviews practitioners. His strength is accessible synthesis; the likely bias is narrative selection, where vivid success stories are chosen to illustrate a framework and the framework itself is his own construction rather than an empirically tested model.",
+    "evidence_base": "A mix of peer-reviewed research (neural alignment during conversation from the Wheatley lab, the Arons' 1997 Fast Friends procedure, Epley's work on deep conversation and self-disclosure) and long-form narrative case studies (CIA recruiter Jim Lawler, a jury deliberation led by juror John Boly in the Leroy Reed case, NASA astronaut screening, The Big Bang Theory writers, pediatrician Jay Rosenbloom and vaccine-hesitant parents, the Essential Partners guns dialogue). The three-conversation typology, the matching principle and the four rules of a learning conversation are Duhigg's synthesis and have not themselves been tested as a package.",
+    "legal_access": [
+      {"type": "author excerpt", "url": "https://behavioralscientist.org/the-everyday-supercommunicators-who-get-groups-in-sync/", "note": "Book excerpt on Wheatley/Sievers group synchrony research and high-centrality participants; seen via search snippets only (fetch blocked)."},
+      {"type": "author excerpt", "url": "https://charlesduhigg.com/wp-content/uploads/2025/01/ABookClubCompanionforSupercommunicators-1.pdf", "note": "Author's book club companion; host blocked, not read."},
+      {"type": "interview", "url": "https://nextbigideaclub.com/magazine/5-techniques-turning-communication-style-superpower-bookbite/48047/", "note": "Duhigg's own five big ideas; seen via search snippets only."},
+      {"type": "interview", "url": "https://gsb.stanford.edu/insights/good-great-what-makes-supercommunicator", "note": "Stanford GSB Think Fast Talk Smart episode 133; host blocked, snippets only."},
+      {"type": "interview", "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-charles-duhigg-on-how-the-best-communicators-click", "note": "McKinsey Author Talks; snippets only."},
+      {"type": "interview", "url": "https://www.wusf.org/2024-03-03/author-charles-duhigg-is-trying-to-help-us-have-better-conversations", "note": "NPR interview syndicated on member stations; snippets only."},
+      {"type": "summary", "url": "https://www.supersummary.com/supercommunicators/part-2-summary", "note": "Chapter summaries (parts 2 to 4); snippets only."},
+      {"type": "summary", "url": "https://ssir.org/books/reviews/entry/supercommunicators-charles-duhigg-review", "note": "Stanford Social Innovation Review book review; snippets only."},
+      {"type": "summary", "url": "https://www.leadershipnow.com/leadingblog/2024/05/4_rules_to_unlocking_the_secre.html", "note": "Summary of the four rules of a learning conversation; snippets only."},
+      {"type": "summary", "url": "https://whatisessential.org/conversation-pulitzer-prize-winner-charles-duhigg", "note": "Essential Partners page on the guns dialogue featured in the book; snippets only."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "supercommunicators-01",
+      "name": "Three Kinds of Conversations",
+      "skill_type": "framework",
+      "explanation": "Duhigg sorts what is happening in any exchange into three overlapping layers. A practical conversation is about solving or deciding something (what is this really about?). An emotional conversation is about how people feel and whether those feelings are recognized (how do we feel?). A social conversation is about identity, belonging and how people see themselves and each other (who are we?). Most real conversations shift among these layers, and many misfires happen because one person is in one layer while the other is in another, for example offering solutions to someone who wants to be understood.",
+      "when_to_use": "Whenever a conversation feels stuck, tense, or oddly unsatisfying despite everyone being reasonable; before important one-on-ones, feedback talks and family discussions.",
+      "worked_example": "A project lead tells her manager the launch date is impossible. The manager responds with a revised Gantt chart (practical). She grows quieter. He pauses and asks how she is doing with the workload; she admits she feels her team is being seen as the bottleneck again (emotional and social: how her team is perceived). Once that is named, they return to the schedule and agree on a realistic date in ten minutes.",
+      "common_mistakes": [
+        "Treating every conversation as practical problem solving because that feels productive.",
+        "Labelling a conversation once and not noticing when it shifts layers midway.",
+        "Assuming identity topics only mean politics or demographics, rather than also roles, professions and self-image."
+      ],
+      "steps": [
+        "Early on, ask yourself which question is driving this: what are we deciding, how do we feel, or who are we to each other?",
+        "Listen for clues: requests and plans (practical), stories, sighs or emotion words (emotional), references to groups, roles, status or what 'people like us' do (social).",
+        "If unsure, ask directly what the other person most wants from the conversation.",
+        "Respond in the same layer first before moving to another."
+      ],
+      "categories": [
+        {"category": "foundations", "subcategory": "mindset"},
+        {"category": "foundations", "subcategory": "audience-goals"},
+        {"category": "relationships", "subcategory": "empathy"},
+        {"category": "difficult", "subcategory": "conflict"}
+      ],
+      "situations": [
+        "Partner vents about their day and you start fixing",
+        "Team member pushes back on a deadline",
+        "Family disagreement that keeps repeating",
+        "One-on-one that feels off for no obvious reason"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Introduction and Chapter 1 (The Matching Principle); Parts 2 to 4 are organized around the three questions.",
+        "underlying_research": "Duhigg's own synthesis; no single study validates this three-part typology. Partially echoes the 'three conversations' of Stone, Patton and Heen (Difficult Conversations: what happened, feelings, identity).",
+        "urls": [
+          "https://www.supersummary.com/supercommunicators/part-2-summary",
+          "https://www.leadershipnow.com/leadingblog/2024/05/4_rules_to_unlocking_the_secre.html"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "A useful and intuitively valid diagnostic that overlaps with established practitioner frameworks (Harvard Negotiation Project), but the specific three-part typology is a journalistic synthesis, not an empirically tested taxonomy.",
+      "flags": ["none"]
+    },
+    {
+      "id": "supercommunicators-02",
+      "name": "The Matching Principle",
+      "skill_type": "mental model",
+      "explanation": "Connection happens when people are having the same kind of conversation at the same time. Duhigg's core claim is that skilled communicators first notice which kind of conversation the other person wants (practical, emotional, or social) and the energy and mood they bring, then meet them there, and only later invite a shift. Matching is not mimicry; it is aligning on the type of conversation and its emotional register so the other person feels understood and is willing to match you in return.",
+      "when_to_use": "At the start of any important conversation and whenever you sense the other person is not hearing you.",
+      "worked_example": "A friend texts that her mother's diagnosis came back worse than expected. Instead of sending links to treatment options, you reply that you are so sorry and ask how she is holding up. Two days later she asks which specialists you would recommend, and only then do you switch to practical help.",
+      "common_mistakes": [
+        "Copying body language or phrases mechanically, which reads as manipulative.",
+        "Matching negative escalation (raising your voice because they did) rather than matching the type of conversation.",
+        "Never moving on: matching is the entry point, not the whole conversation."
+      ],
+      "steps": [
+        "Notice the type of conversation the other person is in and their energy (pace, volume, seriousness).",
+        "Respond in kind: a practical answer to a practical question, acknowledgment to feelings, recognition to identity concerns.",
+        "Signal your own intent so they can match you back.",
+        "Once aligned, propose a shift if needed (for example, 'Would it help to talk through options now?')."
+      ],
+      "categories": [
+        {"category": "relationships", "subcategory": "rapport"},
+        {"category": "relationships", "subcategory": "empathy"},
+        {"category": "personal-life", "subcategory": "supporting-distress"},
+        {"category": "professional", "subcategory": "managing-up"}
+      ],
+      "situations": [
+        "Supporting a friend after bad news",
+        "Recruiting or onboarding someone who is hesitant",
+        "Talking with an upset client",
+        "Reconnecting with a teenager"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Chapter 1 (The Matching Principle), illustrated with CIA case officer Jim Lawler.",
+        "underlying_research": "Thalia Wheatley lab (Dartmouth) on neural alignment during conversation, e.g. Sievers, Welker, Hasson, Kleinbaum and Wheatley, consensus-building conversation and neural alignment (2024); speaker-listener neural coupling (Stephens, Silbert and Hasson, PNAS 2010). The Lawler story is a single narrative case.",
+        "urls": [
+          "https://behavioralscientist.org/the-everyday-supercommunicators-who-get-groups-in-sync/",
+          "https://www.wusf.org/2024-03-03/author-charles-duhigg-is-trying-to-help-us-have-better-conversations"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Neural and behavioral synchrony during good conversation is a real, replicated correlational finding, but the step from synchrony to 'match the conversation type and you will connect' is an inference. The illustrating cases (Lawler) are single anecdotes. The advice is consistent with mainstream empathy and counselling practice.",
+      "flags": ["single-anecdote", "pop-psychology"]
+    },
+    {
+      "id": "supercommunicators-03",
+      "name": "The Learning Conversation (Four Rules)",
+      "skill_type": "framework",
+      "explanation": "Duhigg's practical summary of the book is a learning conversation: an exchange where both sides try to understand how the other thinks and help the other understand them, rather than simply win. Summaries of the book consistently report four rules: pay attention to what kind of conversation is occurring; share your goals and ask what others want; ask about others' feelings and share your own; and explore whether identities matter to the discussion.",
+      "when_to_use": "Planned important conversations: performance reviews, negotiations with colleagues, family decisions, mending a strained friendship.",
+      "worked_example": "Two co-founders disagree about hiring a senior sales lead. One opens by saying, 'My goal is to stop being the bottleneck on deals; what is yours?' The other says her goal is to protect the culture. They each say how the debate is making them feel (anxious, sidelined), then notice that one sees herself as 'the builder' and the other as 'the closer'. The decision becomes a shared design problem instead of a contest.",
+      "common_mistakes": [
+        "Running the rules as a checklist without genuine curiosity.",
+        "Sharing goals but not asking for theirs, which turns it into a pitch.",
+        "Skipping the feelings and identity rules because they feel awkward at work."
+      ],
+      "steps": [
+        "Pay attention to which kind of conversation is happening (practical, emotional, social).",
+        "Share your goals for the conversation and ask about theirs.",
+        "Ask how others feel and share your own feelings.",
+        "Explore whether identities (roles, groups, values) are shaping the discussion, and name shared ones."
+      ],
+      "categories": [
+        {"category": "foundations", "subcategory": "message-structures"},
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "professional", "subcategory": "meetings"},
+        {"category": "personal-life", "subcategory": "partners"}
+      ],
+      "situations": [
+        "Resolving a disagreement with a co-founder or peer",
+        "Planning a major family decision",
+        "Performance review that may be tense",
+        "Cross-functional prioritization debate"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, introduction and 'A Guide to Using These Ideas' sections at the end of each part.",
+        "underlying_research": "Synthesis of the book's cases and research; the exact wording of rules three and four varies across summaries and could not be checked against the text.",
+        "urls": [
+          "https://www.leadershipnow.com/leadingblog/2024/05/4_rules_to_unlocking_the_secre.html",
+          "https://qaspire.com/supercommunicators-the-art-of-a-learning-conversation"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Each rule aligns with established practitioner guidance (interest-based negotiation, emotional disclosure, identity in conflict), but the four-rule package is the author's synthesis rather than a tested protocol. Exact wording not verified.",
+      "flags": ["none"]
+    },
+    {
+      "id": "supercommunicators-04",
+      "name": "Every Conversation Is a Quiet Negotiation",
+      "skill_type": "technique",
+      "explanation": "Duhigg argues that conversations involve an unspoken negotiation over what will be discussed and how. People send small signals (a joke, a sigh, a tangent, a question) that are bids to steer the topic or mood, and others either pick them up or ignore them. Skilled communicators notice these bids and make the negotiation explicit by stating what they want from the conversation and asking what others want, which shortens misunderstanding and builds a sense of fairness.",
+      "when_to_use": "Group decisions, meetings with mixed agendas, negotiations, and any conversation where people seem to be talking past each other.",
+      "worked_example": "In a budget meeting, a quiet engineer mentions 'last time this broke in production'. Rather than moving on, the chair says, 'That sounds like it matters; is reliability the main thing you want us to weigh?' He nods, and the group adds a reliability criterion that unlocks agreement.",
+      "common_mistakes": [
+        "Ignoring small asides that are actually bids to raise a concern.",
+        "Assuming everyone shares your goal for the meeting.",
+        "Stating your goals in a way that sounds like a demand rather than an opening."
+      ],
+      "steps": [
+        "Watch for bids: tangents, jokes, repeated mentions, changes in tone.",
+        "Respond to a bid by inviting the person to say more.",
+        "State what you hope to get from the conversation.",
+        "Ask what others hope to get, and agree what the conversation is about before solving."
+      ],
+      "categories": [
+        {"category": "professional", "subcategory": "meetings"},
+        {"category": "professional", "subcategory": "negotiation"},
+        {"category": "conversations", "subcategory": "group-dynamics"},
+        {"category": "relationships", "subcategory": "listening"}
+      ],
+      "situations": [
+        "Budget or prioritization meeting",
+        "Jury-like group decision with a split room",
+        "Salary or contract negotiation",
+        "Dinner-table discussion that keeps veering off"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Part 2, chapter titled Every Conversation Is a Negotiation (jury deliberation in the Leroy Reed firearm case, juror John Boly).",
+        "underlying_research": "Primarily a narrative case (a recorded jury deliberation). Consistent with interest-based negotiation (Fisher and Ury) and Gottman's research on 'bids' for connection in couples, though I could not verify Duhigg cites Gottman.",
+        "urls": [
+          "https://www.supersummary.com/supercommunicators/part-2-summary"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The specific chapter rests on one jury story, but the underlying advice (surface interests, respond to bids) has solid support in negotiation practice and relationship research.",
+      "flags": ["single-anecdote"]
+    },
+    {
+      "id": "supercommunicators-05",
+      "name": "Deep Questions",
+      "skill_type": "technique",
+      "explanation": "A deep question invites someone to talk about their values, beliefs, feelings or experiences rather than facts. Instead of 'Where do you work?', ask 'What do you enjoy most about it?' or 'Did you always want to do that?'. Duhigg draws on research showing that escalating self-disclosure builds closeness between strangers, and that people expect deep conversations with strangers to be more awkward and less enjoyable than they actually are. Deep questions need not be intrusive; they can be ordinary questions asked with genuine interest in the person behind the answer.",
+      "when_to_use": "Networking, first meetings with new colleagues or clients, dates, reconnecting with old friends, team offsites.",
+      "worked_example": "At a conference dinner you learn the person next to you is a hospital pharmacist. Instead of asking about the hospital's size, you ask what drew her to pharmacy. She tells you about a grandparent's medication error, and the conversation becomes the one you both remember from the event.",
+      "common_mistakes": [
+        "Jumping straight to very personal questions without context, which feels invasive.",
+        "Asking a deep question and then not reciprocating with something about yourself.",
+        "Treating a list of 'deep questions' as a script instead of following the actual answer."
+      ],
+      "steps": [
+        "Start with a normal factual question.",
+        "Follow with a question about values, choices, feelings or meaning (why, what do you love, what was hard).",
+        "Listen fully, then share something comparable about yourself.",
+        "Escalate gradually if the other person reciprocates."
+      ],
+      "categories": [
+        {"category": "relationships", "subcategory": "question-design"},
+        {"category": "relationships", "subcategory": "rapport"},
+        {"category": "relationships", "subcategory": "networking"},
+        {"category": "conversations", "subcategory": "small-talk"}
+      ],
+      "situations": [
+        "Networking event conversation",
+        "First coffee with a new teammate",
+        "Date or new friendship",
+        "Reconnecting with an estranged relative"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Part 3 (How Do We Feel?), discussion of the Fast Friends procedure and Nicholas Epley.",
+        "underlying_research": "Aron, Melinat, Aron, Vallone and Bator (1997), The experimental generation of interpersonal closeness, Personality and Social Psychology Bulletin (the 36 questions); Kardas, Kumar and Epley (2022), Overly shallow? Miscalibrated expectations create a barrier to deeper conversation, Journal of Personality and Social Psychology. Duhigg's citation of Epley is confirmed by summaries; his citation of the specific 2022 paper is not verified.",
+        "urls": [
+          "https://nextbigideaclub.com/magazine/5-techniques-turning-communication-style-superpower-bookbite/48047/",
+          "https://www.westmont.edu/sites/default/files/2025-07/Supercommunicators%20-%20Charles%20Duhigg.pdf",
+          "https://guykawasaki.com/what-makes-someone-a-supercommunicator-with-charles-duhigg/"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "The Fast Friends procedure has been used and replicated widely in lab settings, and the underestimation of deep conversation has been shown across multiple experiments. Effects are measured mostly with strangers in labs, so transfer to workplaces is reasonable but less tested.",
+      "flags": ["none"]
+    },
+    {
+      "id": "supercommunicators-06",
+      "name": "Ask More, Especially Follow-Ups",
+      "skill_type": "technique",
+      "explanation": "In group-conversation studies Duhigg describes from the Wheatley lab, the people others most wanted to talk to were not the loudest or most dominant; they asked many more questions than others, invited quieter people in, and made the group feel in sync. Groups dominated by a single strong leader showed less alignment. Separately, research finds that follow-up questions (which show you heard the last answer) increase how much people like the asker.",
+      "when_to_use": "Meetings, interviews, group discussions, any time you are tempted to fill silence with your own view.",
+      "worked_example": "A new manager runs her first retro. Instead of presenting her diagnosis, she asks each person what surprised them, then asks a follow-up on each answer ('What made that harder than expected?'). The team later describes her as easy to talk to, and the retro surfaces a process problem she had missed.",
+      "common_mistakes": [
+        "Rapid-fire questions that feel like an interrogation.",
+        "Switching topics with each question instead of following up.",
+        "Using questions as disguised statements ('Don't you think we should...?')."
+      ],
+      "steps": [
+        "Before speaking, ask yourself whether a question would serve better than a statement.",
+        "Make most questions follow-ups that build on the last answer.",
+        "Draw in people who have not spoken.",
+        "Resist dominating; let the group reach its own conclusions."
+      ],
+      "categories": [
+        {"category": "relationships", "subcategory": "question-design"},
+        {"category": "relationships", "subcategory": "listening"},
+        {"category": "conversations", "subcategory": "group-dynamics"},
+        {"category": "professional", "subcategory": "meetings"}
+      ],
+      "situations": [
+        "Running a team retrospective",
+        "Job interview as interviewer or candidate",
+        "Leading a brainstorming session",
+        "Meeting a partner's friends for the first time"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Introduction (high-centrality participants) and Chapter 1; excerpt published in Behavioral Scientist.",
+        "underlying_research": "Beau Sievers and Thalia Wheatley (Dartmouth) group fMRI studies of consensus-building conversation and neural alignment; Huang, Yeomans, Brooks, Minson and Gino (2017), It doesn't hurt to ask: Question-asking increases liking, Journal of Personality and Social Psychology (not verified as cited by Duhigg).",
+        "urls": [
+          "https://behavioralscientist.org/the-everyday-supercommunicators-who-get-groups-in-sync/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The question-asking and liking effect is well supported. The specific claim that supercommunicators ask 10 to 20 times as many questions comes from a single lab's work as relayed by Duhigg and could not be verified; treat the number as illustrative.",
+      "flags": ["unreplicated"]
+    },
+    {
+      "id": "supercommunicators-07",
+      "name": "Looping for Understanding",
+      "skill_type": "technique",
+      "explanation": "Looping is a way to prove you are listening, not just to listen. You ask a question, restate what you heard in your own words (not parroting), and then ask whether you got it right. If not, you repeat until the other person confirms. The goal is that the other person feels understood, which lowers defensiveness and makes them more willing to hear you, even if neither of you changes your position.",
+      "when_to_use": "Conflict, emotionally charged feedback, customer complaints, partner arguments, and any time the stakes of misunderstanding are high.",
+      "worked_example": "A client says the report 'missed the point'. Rather than defending it, the consultant says, 'So it sounds like you needed a recommendation you could take to your board, and what we gave you was mostly analysis. Is that right?' The client says, 'Partly, and also I needed the cost numbers up front.' The consultant loops again, and the revision brief is clear in five minutes.",
+      "common_mistakes": [
+        "Repeating their words verbatim, which sounds robotic or mocking.",
+        "Sneaking your rebuttal into the summary.",
+        "Skipping the 'did I get that right?' check, which is what makes it a loop.",
+        "Using it in fast, purely practical exchanges where it feels patronizing."
+      ],
+      "steps": [
+        "Ask a question to understand their view.",
+        "Summarize what you heard in your own words, including the feeling or concern beneath it.",
+        "Ask whether you got it right.",
+        "If they correct you, incorporate the correction and loop again until they confirm.",
+        "Only then share your own perspective."
+      ],
+      "categories": [
+        {"category": "relationships", "subcategory": "listening"},
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "difficult", "subcategory": "receiving-feedback"},
+        {"category": "personal-life", "subcategory": "repair"}
+      ],
+      "situations": [
+        "Client says your work missed the mark",
+        "Argument with a partner about chores",
+        "Political disagreement with a relative",
+        "Receiving critical feedback from a manager"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Chapter 5 (Connecting Amid Conflict: Talking to the Enemy About Guns) and the guide that follows it.",
+        "underlying_research": "Practice-based: taught to participants in the 2018 Essential Partners guns dialogue (Reflective Structured Dialogue). The term is associated with mediators Gary Friedman and Jack Himmelstein (understanding-based mediation); I could not verify whether Duhigg credits them. Related research on paraphrasing and high-quality listening (e.g., Itzchakov and Kluger) is generally supportive, though Weger and colleagues (2014) found paraphrasing alone added little over simple acknowledgment in some conditions.",
+        "urls": [
+          "https://whatisessential.org/conversation-pulitzer-prize-winner-charles-duhigg",
+          "https://www.wusf.org/2024-03-03/author-charles-duhigg-is-trying-to-help-us-have-better-conversations"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Widely used in mediation and supported by listening research in general, but evidence for looping specifically is mostly practitioner experience. Duhigg's own case (the guns dialogue) produced modest results: people felt heard but rarely changed views, and the conversation deteriorated when moved online.",
+      "flags": ["contested"]
+    },
+    {
+      "id": "supercommunicators-08",
+      "name": "Vulnerability Invites Trust",
+      "skill_type": "mental model",
+      "explanation": "Many people wait to feel safe before opening up. Duhigg argues the sequence often runs the other way: a small, sincere disclosure of feeling invites the other person to reciprocate, and that mutual disclosure builds trust. He links this to emotional contagion, the tendency of people to catch the emotions of those around them. Vulnerability does not have to be dramatic; admitting uncertainty or saying how something affected you is often enough.",
+      "when_to_use": "Building trust on a new team, repairing a strained relationship, difficult conversations where both sides are guarded.",
+      "worked_example": "A director meeting a skeptical new team says, 'Honestly, I am nervous about stepping into a group that already works well; I don't want to break what you have built.' Two people respond by sharing their own worries about the reorganization, and the meeting turns into a real discussion.",
+      "common_mistakes": [
+        "Oversharing or trauma-dumping, which burdens the listener.",
+        "Performative vulnerability used as a tactic, which people detect.",
+        "Disclosing without leaving space for the other person to reciprocate.",
+        "Ignoring power differences: a junior person bears more risk when disclosing."
+      ],
+      "steps": [
+        "Share a modest, honest feeling relevant to the situation.",
+        "Pause and ask how the other person sees it.",
+        "Acknowledge what they share without judging or fixing.",
+        "Escalate disclosure gradually as trust grows."
+      ],
+      "categories": [
+        {"category": "relationships", "subcategory": "trust-vulnerability"},
+        {"category": "relationships", "subcategory": "empathy"},
+        {"category": "personal-life", "subcategory": "friendships"},
+        {"category": "professional", "subcategory": "executive-communication"}
+      ],
+      "situations": [
+        "New leader meeting a skeptical team",
+        "Making friends as an adult",
+        "Repairing trust after a falling out",
+        "Opening up to a partner about stress"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Part 3 (How Do We Feel?).",
+        "underlying_research": "Aron et al. (1997) Fast Friends; emotional contagion (Hatfield, Cacioppo and Rapson, 1993/1994); self-disclosure and liking meta-analysis (Collins and Miller, 1994, Psychological Bulletin; not verified as cited by Duhigg); Nicholas Epley's work on self-disclosure.",
+        "urls": [
+          "https://www.supersummary.com/supercommunicators/part-3-summary"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Reciprocal self-disclosure building closeness is well established, and emotional contagion is a robust phenomenon. The broader framing that vulnerability reliably precedes trust is an extrapolation, and workplace power dynamics limit it.",
+      "flags": ["none"]
+    },
+    {
+      "id": "supercommunicators-09",
+      "name": "Read and Match Emotional Signals (Including Laughter)",
+      "skill_type": "technique",
+      "explanation": "Much of what people feel shows up in tone, pace, energy and laughter rather than in words. Duhigg describes how NASA, when selecting astronauts for long missions, reportedly paid attention to whether candidates laughed in a way that matched the interviewer, treating it as a sign of emotional attunement. Laughter in conversation is mostly social rather than a reaction to jokes; it signals a wish to connect. The practical lesson is to listen with eyes and ears for the emotional register and match it, rather than match the literal content.",
+      "when_to_use": "Interviews, client meetings, video calls, family visits, any setting where people may not state their feelings directly.",
+      "worked_example": "On a video call, a colleague says 'Sure, that works' in a flat voice and looks away. Instead of moving to the next agenda item, you say, 'You sound less sure than the words suggest; what's the hesitation?' He admits the timeline overlaps with his parental leave.",
+      "common_mistakes": [
+        "Forcing laughter or mirroring to seem attuned.",
+        "Reading too much into one cue; look for clusters.",
+        "Matching anger or panic rather than acknowledging it calmly."
+      ],
+      "steps": [
+        "Notice mismatches between words and tone, pace or energy.",
+        "Match the overall energy level (calm with calm, light with light) when appropriate.",
+        "Name what you observe tentatively and ask about it.",
+        "Use shared laughter as a signal of connection, not a performance."
+      ],
+      "categories": [
+        {"category": "relationships", "subcategory": "nonverbal"},
+        {"category": "relationships", "subcategory": "empathy"},
+        {"category": "conversations", "subcategory": "humor"},
+        {"category": "written-digital", "subcategory": "video-calls"}
+      ],
+      "situations": [
+        "Job interview rapport",
+        "Colleague agrees but sounds reluctant",
+        "Family gathering with unspoken tension",
+        "Sales call with a quiet client"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Part 3 (How Do We Feel?), NASA astronaut selection story (psychiatrist reportedly Terrence McGuire) and The Big Bang Theory section.",
+        "underlying_research": "Laughter as social signal: Robert Provine's observational research (most laughter follows non-humorous remarks); Bryant et al. (2016, PNAS) on listeners detecting friendship from co-laughter across cultures. Neither is verified as cited by Duhigg. The NASA screening practice is narrative and not documented in peer-reviewed form that I could find.",
+        "urls": [
+          "https://www.westmont.edu/sites/default/files/2025-07/Supercommunicators%20-%20Charles%20Duhigg.pdf",
+          "https://nextbigideaclub.com/magazine/5-techniques-turning-communication-style-superpower-bookbite/48047/"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "Attending to nonverbal emotion is sound general advice, and laughter as a social bonding signal has research support, but the vivid NASA laughter-matching story is a single, secondhand anecdote and the idea that matched laughter reliably indicates emotional intelligence is not established science.",
+      "flags": ["single-anecdote", "pop-psychology"]
+    },
+    {
+      "id": "supercommunicators-10",
+      "name": "Social Identities Shape What People Hear",
+      "skill_type": "mental model",
+      "explanation": "People do not process information as neutral individuals; they hear it through the groups they belong to and the self-image they want to protect. When a message threatens someone's identity (as a good parent, a skeptic, an expert), more facts often harden resistance. Duhigg's example is a pediatrician whose evidence-heavy approach with vaccine-hesitant parents backfired until he engaged with their identity and fears. The lesson: find out which identities are active, make room for multiple identities, and highlight shared ones before arguing content.",
+      "when_to_use": "Persuasion on value-laden topics, cross-team conflict, change management, conversations with people from different backgrounds or political views.",
+      "worked_example": "An IT lead rolling out a new tool meets resistance from senior nurses. Instead of presenting more features, she says, 'You are the people who catch the errors everyone else misses; I need your help making sure this doesn't create new ones.' Framed as protecting patient safety, a value the nurses identify with, the pilot gains volunteers.",
+      "common_mistakes": [
+        "Responding to identity-based resistance with more data.",
+        "Reducing people to a single identity (for example, only their politics).",
+        "Invoking group identities in a way that stereotypes or divides."
+      ],
+      "steps": [
+        "Ask what this issue means to the person and who they are in relation to it.",
+        "Listen for group language ('people like us', 'as a parent', 'in my field').",
+        "Acknowledge the identity and its legitimate values.",
+        "Surface an identity you share (fellow parent, same team, same goal).",
+        "Only then discuss facts, framed in terms consistent with their identity."
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "situations": [
+        "Persuading a skeptical relative on a health decision",
+        "Rolling out change to a proud professional group",
+        "Cross-department turf conflict",
+        "Talking politics at a family dinner"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Part 4 (The Who Are We? Conversation), Chapter 6 on Dr. Jay Rosenbloom and vaccine-hesitant parents.",
+        "underlying_research": "Social identity theory (Tajfel and Turner); identity-protective cognition (Kahan and colleagues). Specific studies Duhigg cites in this chapter could not be verified.",
+        "urls": [
+          "https://supersummary.com/supercommunicators/part-4-summary",
+          "https://ssir.org/books/reviews/entry/supercommunicators-charles-duhigg-review"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Social identity effects on persuasion are well supported in social psychology; the specific remedy as presented is illustrated mainly by a small number of physician stories rather than tested interventions.",
+      "flags": ["single-anecdote"]
+    },
+    {
+      "id": "supercommunicators-11",
+      "name": "Make Conflict Conversations Safer",
+      "skill_type": "technique",
+      "explanation": "In heated disagreements, Duhigg (drawing on the Essential Partners dialogue between gun-rights and gun-control advocates) suggests the goal is mutual understanding, not conversion. Agree on norms up front, invite people to share the experiences behind their views rather than their positions, prove you are listening (looping), and acknowledge the identities and values at stake. Success is measured by whether people feel heard and can keep talking, not whether they change their minds.",
+      "when_to_use": "Polarized team debates, family conflicts over values, community or board meetings on contentious topics.",
+      "worked_example": "Two department heads are fighting over remote-work policy. The facilitator asks each to describe a personal experience that shaped their view. One talks about a junior hire who struggled alone; the other about caring for a parent. Each loops the other's story. They still disagree on the default, but agree on mentoring guarantees both can support.",
+      "common_mistakes": [
+        "Measuring success by whether you won or changed their mind.",
+        "Skipping ground rules, so the first sharp comment derails everything.",
+        "Moving a sensitive conversation into a public online thread."
+      ],
+      "steps": [
+        "Agree on ground rules (speak for yourself, listen to understand, allow passes).",
+        "Ask each person what experiences shaped their view.",
+        "Loop what you heard until each confirms they feel understood.",
+        "Acknowledge the values and identities in play on both sides.",
+        "Look for limited points of agreement rather than full resolution."
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "relationships", "subcategory": "listening"},
+        {"category": "conversations", "subcategory": "group-dynamics"},
+        {"category": "difficult", "subcategory": "situations"}
+      ],
+      "situations": [
+        "Facilitating a polarized team debate",
+        "Holiday dinner political argument",
+        "Board or HOA meeting on a contentious issue",
+        "Siblings disagreeing about a parent's care"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Chapter 5 (Connecting Amid Conflict: Talking to the Enemy About Guns).",
+        "underlying_research": "Essential Partners' Reflective Structured Dialogue (practice method, originally the Public Conversations Project); a 2018 project with Advance Local and Spaceship Media. Practitioner evidence, not controlled trials.",
+        "urls": [
+          "https://whatisessential.org/conversation-pulitzer-prize-winner-charles-duhigg",
+          "https://www.supersummary.com/supercommunicators/part-3-summary"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Structured dialogue methods have long practitioner track records, and the advice converges with mediation practice. Duhigg's own case showed modest outcomes and a breakdown once the conversation moved online without the training.",
+      "flags": ["single-anecdote"]
+    },
+    {
+      "id": "supercommunicators-12",
+      "name": "Online, Default to Extra Warmth and Explicitness",
+      "skill_type": "technique",
+      "explanation": "Digital channels strip out tone, faces and timing, so emotional and identity signals get lost and messages tilt toward the purely practical. Duhigg's advice is to be more polite than feels necessary, limit sarcasm (which frequently misfires in text), express appreciation, avoid criticizing people in public threads, and watch for off-topic remarks that may be hints about feelings. Looping also works in writing: summarize what you understood and ask whether it is right.",
+      "when_to_use": "Email, Slack or Teams, comment threads, texting with family, any asynchronous communication about something sensitive.",
+      "worked_example": "A teammate replies 'fine, whatever works' on Slack to your plan. Instead of taking it as approval, you DM: 'Thanks for looking. Reading your note, I wonder if the timeline feels rushed; is that right?' She explains a dependency you missed, and you avoid a public blowup in the channel.",
+      "common_mistakes": [
+        "Using sarcasm or dry humor that reads as hostility.",
+        "Giving critical feedback in a public channel.",
+        "Assuming silence or short replies mean agreement.",
+        "Over-correcting into vague politeness that hides the actual request."
+      ],
+      "steps": [
+        "Before sending, reread for tone as a stressed reader would.",
+        "Add explicit warmth or appreciation where appropriate.",
+        "Remove sarcasm and ambiguous jokes.",
+        "Move criticism to a private message or a call.",
+        "Summarize your understanding and ask if it is right when stakes are high."
+      ],
+      "categories": [
+        {"category": "written-digital", "subcategory": "tone-misreading"},
+        {"category": "written-digital", "subcategory": "chat"},
+        {"category": "written-digital", "subcategory": "email"},
+        {"category": "difficult", "subcategory": "giving-feedback"}
+      ],
+      "situations": [
+        "Ambiguous Slack reply from a colleague",
+        "Giving feedback over email",
+        "Family group chat tension",
+        "Remote team disagreement"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Part 3 section on emotional conversations in life and online.",
+        "underlying_research": "Kruger, Epley, Parker and Ng (2005), Egocentrism over e-mail, Journal of Personality and Social Psychology (people overestimate how well tone, including sarcasm, comes across in email); not verified as cited by Duhigg. The specific prescriptions are Duhigg's.",
+        "urls": [
+          "https://ihaveabookyoushouldread.blogspot.com/2025/07/supercommunicators-charles-duhigg.html",
+          "https://ssir.org/books/reviews/entry/supercommunicators-charles-duhigg-review"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The core problem (tone misreading in text, overconfidence in conveying sarcasm) is well documented. One review (SSIR) criticizes the online advice as simplistic, since politeness does not address harassment or bad-faith actors.",
+      "flags": ["contested"]
+    },
+    {
+      "id": "supercommunicators-13",
+      "name": "Connection as Synchrony",
+      "skill_type": "mental model",
+      "explanation": "When a conversation goes well, people tend to fall into sync: their breathing, gestures, and even patterns of brain activity become more similar. Duhigg uses this as the underlying picture of what 'clicking' is. The useful takeaway for everyday life is modest: connection is something two people build together by attending to each other, not something one person delivers with a great argument, and dominating a conversation tends to reduce shared understanding.",
+      "when_to_use": "As a lens for reflecting on why some conversations click and others do not, and as a reminder to slow down and attend rather than perform.",
+      "worked_example": "After a frustrating meeting where he presented a strong case and nobody engaged, a product manager rethinks his approach. In the next one he presents half as much, asks the group what they see, and builds on their answers. The decision takes longer but the team actually commits to it.",
+      "common_mistakes": [
+        "Treating brain-synchrony findings as proof that any specific technique works.",
+        "Trying to engineer synchrony through mimicry rather than genuine attention.",
+        "Equating feeling in sync with agreement."
+      ],
+      "steps": [],
+      "categories": [
+        {"category": "foundations", "subcategory": "mindset"},
+        {"category": "relationships", "subcategory": "rapport"},
+        {"category": "conversations", "subcategory": "group-dynamics"}
+      ],
+      "situations": [
+        "Reflecting on a meeting that fell flat",
+        "Leading a group toward consensus",
+        "Understanding why some friendships click instantly"
+      ],
+      "source": {
+        "citation": "Duhigg, Supercommunicators, Introduction (neural entrainment) and Behavioral Scientist excerpt.",
+        "underlying_research": "Stephens, Silbert and Hasson (2010, PNAS), speaker-listener neural coupling; Parkinson, Kleinbaum and Wheatley (2018, Nature Communications), similar neural responses predict friendship; Sievers and Wheatley group studies showing increased neural alignment after discussion and lower alignment in leader-dominated groups.",
+        "urls": [
+          "https://behavioralscientist.org/the-everyday-supercommunicators-who-get-groups-in-sync/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Neural and behavioral synchrony during communication is a replicated finding, but it is correlational and measured in small fMRI samples. Popular retellings, including the book's framing of being 'hardwired' for entrainment, risk pop-neuroscience overreach; the practical advice does not depend on the brain data.",
+      "flags": ["pop-psychology"]
+    }
+  ],
+  "research_notes": "Network policy blocked direct page fetches for almost every relevant host (gsb.stanford.edu, litcharts.com, charlesduhigg.com, substack, nextbigideaclub.com, supersummary.com, ssir.org, penguinrandomhouse.com, behavioralscientist.org, wikipedia). All research was therefore done through WebSearch result snippets, which summarize and quote fragments of: the Behavioral Scientist book excerpt on Wheatley/Sievers group synchrony; Next Big Idea Club BookBite by Duhigg; NPR member-station interview (WUSF); SuperSummary part summaries (parts 2 to 4); LitCharts character notes; Leadership Now and QAspire summaries of the four rules; Essential Partners page on the guns dialogue; SSIR review; Westmont student PDF summary; Guy Kawasaki and Dan Harris podcast notes; publisher blurbs. I did not read the book text, the author's book club companion PDF, or the cited papers directly. Verified at the level of multiple concordant secondary sources: the three conversation types and chapter-part structure; the matching principle with Jim Lawler as the illustrating case (Chapter 1); the four rules of a learning conversation (wording of rules 3 and 4 varies across summaries); the jury chapter 'Every Conversation Is a Negotiation' (Leroy Reed case, juror John Boly); the NASA astronaut laughter story (psychiatrist named as Terrence McGuire in one summary only); Big Bang Theory section placement; Chapter 5 on guns with Essential Partners and looping (ask, restate in own words, check); Chapter 6 on Dr. Jay Rosenbloom and vaccine hesitancy; Fast Friends (Aron 1997) and Nicholas Epley; online advice (politeness, limit sarcasm). Not verified: whether Duhigg cites Kardas/Kumar/Epley 2022, Huang et al. 2017, Kruger et al. 2005, Provine, Bryant et al., Collins and Miller, Gottman, or Friedman and Himmelstein; these are listed as relevant underlying research and labelled as not verified. The 10 to 20 times more questions figure appears in multiple summaries but traces to a single lab as relayed by Duhigg. The ISBN 9780593243916 is the US hardcover per Publishers Weekly listing. Some claims seen in search (e.g., a Kaiser or Netflix case) could not be confirmed and were omitted."
+}
