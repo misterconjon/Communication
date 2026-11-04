@@ -1,0 +1,270 @@
+{
+ "book": {
+  "title": "The Mind and Heart of the Negotiator",
+  "subtitle": "",
+  "authors": [
+   "Leigh L. Thompson"
+  ],
+  "year": 2020,
+  "publisher": "Pearson",
+  "edition": "7th edition (2020); content checked against table-of-contents listings from earlier editions",
+  "isbn": "",
+  "author_credibility": "Professor of Dispute Resolution and Organizations at Northwestern's Kellogg School and a prolific experimental negotiation researcher, including the lose-lose meta-analysis she coauthored. The textbook partly reports her own research program.",
+  "evidence_base": "A research textbook: each chapter summarizes peer-reviewed experimental studies, mostly lab negotiations with students and executives. Findings like the fixed-pie belief and first-offer anchoring are well replicated; lab settings and simulated stakes limit some generalization.",
+  "legal_access": [
+   {
+    "type": "library",
+    "url": "https://www.pearson.com/store/en-us/p/mind-and-heart-of-the-negotiator-the/P200000006425",
+    "note": "Publisher page; eTextbook rental and university libraries"
+   },
+   {
+    "type": "summary",
+    "url": "https://www.negotiations.com/articles/heart-mind-book-review/",
+    "note": "Book review describing structure and content"
+   },
+   {
+    "type": "summary",
+    "url": "https://kellogg.northwestern.edu/academics-research/research/detail/1996/lose-lose-agreements-in-interdependent-decision-making/",
+    "note": "Kellogg abstract of Thompson and Hrebec (1996) meta-analysis"
+   }
+  ],
+  "source_type": "book",
+  "book_id": "thompson-mind-heart-negotiator",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "thompson-mind-heart-negotiator-01",
+   "name": "The Fixed-Pie Trap: Assume There Is More to Share",
+   "skill_type": "mental model",
+   "explanation": "Negotiators tend to assume the other side wants the opposite of what they want on every issue, so any gain for one is a loss for the other. Experiments show this is often wrong, and the mistake is costly. A meta-analysis of 32 experiments by Thompson and Hrebec found that people regularly fail to notice issues where both sides actually want the same thing and settle for outcomes worse for both (the lose-lose effect), sometimes even when they realize interests are compatible. The practical fix is to treat 'what do they want?' as a question to investigate rather than something you already know: ask about priorities, share some of your own, and check each issue for compatibility before bargaining.",
+   "when_to_use": "Before and early in any negotiation with several issues: job offers (salary, start date, title, remote work), vendor deals, cross-team agreements, household decisions.",
+   "worked_example": "A hiring manager and a candidate negotiate an offer. The manager assumes the candidate wants the latest possible start date and braces to push back. When he asks about priorities, he learns the candidate wants to start early to avoid a gap in health coverage, which suits the team too. They agree on an early start immediately and spend the rest of the conversation on salary and a training budget, where they trade. Spouses planning a move discover the same thing about which neighborhood they both prefer, once they stop assuming they disagree.",
+   "common_mistakes": [
+    "Assuming every issue is a tug-of-war",
+    "Keeping all your priorities secret so no compatible issues surface",
+    "Conceding on an issue the other side actually wanted the same outcome on",
+    "Settling each issue one at a time without comparing priorities"
+   ],
+   "steps": [
+    "List all the issues, not just price",
+    "For each, ask whether you truly know their preference or are assuming",
+    "Ask diagnostic questions about what matters most to them and why",
+    "Share some of your own priorities to invite reciprocity",
+    "Flag compatible issues and settle them early",
+    "Bargain only over issues that truly conflict"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "influence",
+     "subcategory": "framing"
+    }
+   ],
+   "situations": [
+    "Negotiating a job offer",
+    "Agreeing a cross-team project plan",
+    "Making a household decision with a partner"
+   ],
+   "source": {
+    "citation": "Thompson, The Mind and Heart of the Negotiator (7th edition, Pearson, 2020), chapter on integrative (win-win) negotiation",
+    "underlying_research": "Thompson and Hrebec (1996, Psychological Bulletin), meta-analysis of 32 experiments on lose-lose agreements; Thompson and Hastie (1990) on fixed-pie perceptions.",
+    "urls": [
+     "https://kellogg.northwestern.edu/academics-research/research/detail/1996/lose-lose-agreements-in-interdependent-decision-making/",
+     "https://www.negotiations.com/articles/heart-mind-book-review/"
+    ]
+   },
+   "confidence": "High",
+   "confidence_rationale": "Documented by a meta-analysis of many experiments and repeatedly replicated in negotiation research; mostly lab simulations with explicit issues, so real-world prevalence may differ.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "thompson-mind-heart-negotiator-02",
+   "name": "Use First Offers as Anchors, and Defuse Theirs",
+   "skill_type": "technique",
+   "explanation": "In price-style negotiations, the first number on the table pulls the final deal toward it. In experiments by Galinsky and Mussweiler (2001), whichever side made the first offer tended to get the better outcome, and first offers strongly predicted final prices. The same studies found a defense: when the receiver focused on their own target or on the other side's alternatives or limits, the first offer lost much of its pull. The finding has limits. Offers so extreme that they look unreasonable can backfire or cause impasse, and when you know little about the value of what is being negotiated and the other side knows a lot, letting them go first can be wiser (Maaravi and Levy, 2017). So: if you are well informed, open with an ambitious but justifiable number; if you are poorly informed, research first or let them open; and if they anchor, deliberately bring your own target and alternatives back to mind before responding.",
+   "when_to_use": "Salary, rate, price and budget negotiations; any time a number will be discussed.",
+   "worked_example": "A consultant is asked for her rate for a three-month project. She has researched rates for similar work and knows her client budget range, so she opens at the upper end of the market with a one-sentence rationale tied to deliverables. In a different negotiation, a used-car buyer hears an inflated asking price. Before replying he writes down his target price and the price of a comparable car at another dealer, then counters from that data rather than from the seller's number.",
+   "common_mistakes": [
+    "Opening first when you have little information about value",
+    "Making an extreme opening with no justification, which can insult or stall",
+    "Adjusting your counteroffer only slightly from their anchor",
+    "Revealing your walk-away point as your opening"
+   ],
+   "steps": [
+    "Before talking, set your target (ambitious) and your walk-away point, based on your alternative",
+    "Judge how well informed you are relative to them",
+    "If well informed, make the first offer: ambitious, specific and justified",
+    "If poorly informed, research or invite them to open",
+    "If they anchor, pause and refocus on your target and their alternatives",
+    "Counter from your own analysis, with reasons"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "influence",
+     "subcategory": "framing"
+    }
+   ],
+   "situations": [
+    "Naming a rate or salary",
+    "Responding to a high asking price",
+    "Setting a budget request"
+   ],
+   "source": {
+    "citation": "Thompson, The Mind and Heart of the Negotiator (7th edition, Pearson, 2020), chapter on distributive negotiation (slicing the pie)",
+    "underlying_research": "Galinsky and Mussweiler (2001, JPSP), three experiments; Maaravi and Levy (2017, Judgment and Decision Making) on second-mover advantage under information asymmetry; Schweinsberg et al. (2012) on extreme first offers causing impasse.",
+    "urls": [
+     "https://www.kellogg.northwestern.edu/faculty/research/detail/2001/first-offers-as-anchors-the-role-of-perspective-taking",
+     "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/55F2E0FACFE342C18EEA768A9E4A3B72/S193029750000646Xa.pdf/when-your-anchor-sinks-your-boat-information-asymmetry-in-distributive-negotiations-and-the-disadvantage-of-making-the-first-offer.pdf"
+    ]
+   },
+   "confidence": "High",
+   "confidence_rationale": "First-offer anchoring is a well-replicated effect; the moderating conditions (extremity, information asymmetry) come from fewer studies and are flagged as limits. Mostly lab simulations.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "thompson-mind-heart-negotiator-03",
+   "name": "Negotiate Packages, Not One Issue at a Time",
+   "skill_type": "technique",
+   "explanation": "Joint gains come from trading across issues that the two sides value differently, which is impossible if you settle issues one by one in sequence. Thompson's toolkit for expanding the pie includes unbundling a single issue into several (price into price, payment terms, delivery date, warranty), discussing issues together, making package offers rather than single-issue offers, and presenting several offers at once that are equally good for you but differ in what they give the other side. Their choice among the packages tells you their priorities without forcing either side to disclose everything. After a deal is reached, you can also propose a quick check for a better version that both prefer (a post-settlement settlement), keeping the original as the fallback.",
+   "when_to_use": "Multi-issue negotiations: job offers, vendor and client contracts, internal resource and scope agreements.",
+   "worked_example": "A team lead negotiating with a client over a project overrun offers three packages, all acceptable to her: deliver on time with two features moved to a phase two; add three weeks with all features at the same price; or deliver on time with all features for a 12 percent fee increase. The client picks the second, revealing that schedule matters less than scope and cost. After signing, she asks whether a small change in the review schedule could make it work better for both, and they shave a week off.",
+   "common_mistakes": [
+    "Settling the easiest issue first and losing trading material",
+    "Treating price as the only issue",
+    "Offering packages you would not actually accept",
+    "Assuming that once a deal is signed, nothing can be improved"
+   ],
+   "steps": [
+    "List every issue and how much each matters to you",
+    "Unbundle any single issue into components",
+    "Prepare two or three packages of equal value to you",
+    "Present them together and ask which works best and why",
+    "Use their response to infer priorities and refine",
+    "After agreement, invite a quick search for a mutually better version"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "influence",
+     "subcategory": "persuasive-structure"
+    }
+   ],
+   "situations": [
+    "Negotiating a client contract",
+    "Resolving a project overrun",
+    "Structuring a job offer counter"
+   ],
+   "source": {
+    "citation": "Thompson, The Mind and Heart of the Negotiator (7th edition, Pearson, 2020), chapter on integrative negotiation (strategies for expanding the pie)",
+    "underlying_research": "Logrolling research; research on multiple equivalent simultaneous offers by Medvec, Galinsky, Leonardelli and colleagues (not read directly); table-of-contents entries confirm the strategies appear in the book.",
+    "urls": [
+     "https://bvbvf1.bib-bvb.de/vufind/Record/DE-604.BV013449409/Details",
+     "https://www.negotiations.com/articles/heart-mind-book-review/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Trading across differently valued issues is well established; the multiple-offers technique has supporting experiments but fewer of them. Book coverage confirmed only through contents listings, not the text.",
+   "flags": [
+    "not-confirmed-in-book"
+   ]
+  },
+  {
+   "id": "thompson-mind-heart-negotiator-04",
+   "name": "Bet on the Disagreement: Contingency Agreements",
+   "skill_type": "technique",
+   "explanation": "Negotiations often stall because the sides predict the future differently: a seller is sure sales will grow, a buyer doubts it; a manager thinks a project will take six weeks, a contractor thinks ten. Rather than arguing about who is right, a contingency agreement makes the terms depend on what actually happens: a bonus if a target is hit, a price adjustment tied to volume, a deadline extension triggered by a specific delay. Each side gets the outcome it believes is likely, and the agreement also tests sincerity, since someone who refuses to bet on their own forecast may be bluffing. Good contingencies rely on outcomes both sides can measure and that neither can easily manipulate.",
+   "when_to_use": "When disagreement is about forecasts or risk rather than values: sales targets, performance-based pay, project timelines, vendor service levels.",
+   "worked_example": "A job candidate wants a higher base salary, and the hiring manager doubts she can ramp a new territory quickly. They agree on the manager's base figure plus a guaranteed raise to her number if she reaches a defined sales target by month six. She is confident and accepts; the manager carries less risk. A homeowner and contractor similarly agree on a lower fixed price with a pre-agreed rate for any structural repairs actually found behind the walls.",
+   "common_mistakes": [
+    "Arguing endlessly about whose forecast is right",
+    "Tying the contingency to something vague or hard to measure",
+    "Choosing a measure one side controls and can game",
+    "Using contingencies when the real disagreement is about trust or values"
+   ],
+   "steps": [
+    "Identify whether the disagreement is about a prediction",
+    "Ask each side what they believe will happen",
+    "Propose terms that pay off according to the actual outcome",
+    "Define clear, measurable triggers and a date",
+    "Make sure neither side can manipulate the trigger",
+    "Write it down"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    }
+   ],
+   "situations": [
+    "Negotiating performance-based pay",
+    "Agreeing a vendor service level",
+    "Settling a forecast dispute"
+   ],
+   "source": {
+    "citation": "Thompson, The Mind and Heart of the Negotiator (7th edition, Pearson, 2020), chapter on integrative negotiation (contingency contracts)",
+    "underlying_research": "Research on contingency contracts in negotiation (for example Bazerman and Gillespie, 1999, Harvard Business Review; not read directly); contents listings confirm the topic in the book.",
+    "urls": [
+     "https://bvbvf1.bib-bvb.de/vufind/Record/DE-604.BV013449409/Details"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "A standard, research-informed prescription in negotiation teaching with supporting experiments and case evidence, but the specific studies were not read here, and book coverage is confirmed only through contents listings.",
+   "flags": [
+    "not-confirmed-in-book"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "fisher-ury-getting-to-yes-01",
+   "relation": "supports",
+   "note": "Thompson and Hrebec's meta-analysis of 32 experiments documents the cost of assuming opposed interests, giving research backing to the interests-over-positions principle (sibling extraction from this batch)."
+  },
+  {
+   "insight_id": "fisher-ury-getting-to-yes-05",
+   "relation": "supports",
+   "note": "Galinsky and Mussweiler (2001) found that focusing on alternatives and targets weakens the pull of the other side's first offer, supporting the advice to prepare and keep your BATNA in mind (sibling extraction from this batch)."
+  },
+  {
+   "insight_id": "talk-wood-brooks-04",
+   "relation": "supports",
+   "note": "In negotiation research, asking diagnostic questions about priorities is a main route to joint gains, extending the value of question asking from liking to economic outcomes."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://kellogg.northwestern.edu/academics-research/research/detail/1996/lose-lose-agreements-in-interdependent-decision-making/",
+   "https://www.kellogg.northwestern.edu/faculty/research/detail/2001/first-offers-as-anchors-the-role-of-perspective-taking",
+   "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/55F2E0FACFE342C18EEA768A9E4A3B72/S193029750000646Xa.pdf/when-your-anchor-sinks-your-boat-information-asymmetry-in-distributive-negotiations-and-the-disadvantage-of-making-the-first-offer.pdf",
+   "https://www.negotiations.com/articles/heart-mind-book-review/",
+   "https://www.pearson.com/store/en-us/p/mind-and-heart-of-the-negotiator-the/P200000006425",
+   "https://bvbvf1.bib-bvb.de/vufind/Record/DE-604.BV013449409/Details"
+  ],
+  "still_unverified": [
+   "7th edition ISBN and chapter numbers",
+   "Book text itself; coverage of packages, multiple offers and contingency contracts confirmed only from contents listings and study-guide summaries",
+   "Exact size of first-mover advantage in Galinsky and Mussweiler (2001)"
+  ]
+ },
+ "research_notes": "The book is a paywalled textbook; O'Reilly preview pages were blocked and copies on file-sharing sites were avoided. Insights rest on the underlying studies (abstracts and an open-access JDM paper) and contents listings. Ames and Mason style range offers and gender research were not included as unverified."
+}

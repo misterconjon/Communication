@@ -1,0 +1,342 @@
+{
+  "book": {
+    "book_id": "cialdini-influence-2021",
+    "title": "Influence, New and Expanded",
+    "subtitle": "The Psychology of Persuasion",
+    "authors": ["Robert B. Cialdini"],
+    "year": 2021,
+    "publisher": "Harper Business",
+    "edition": "New and expanded edition, 2021 (adds a seventh principle, unity; earlier editions 1984 onward)",
+    "isbn": "9780062937650",
+    "source_type": "book",
+    "core": false,
+    "author_credibility": "Regents' Professor Emeritus of Psychology and Marketing at Arizona State University and one of the most cited researchers on compliance and social norms. He also runs a consulting and training firm (Influence at Work), which gives him a commercial incentive to present the principles favorably.",
+    "evidence_base": "Built on genuine peer-reviewed research, much of it by Cialdini and colleagues, but presented through vivid single studies and field anecdotes. Several flagship demonstrations show small, moderated or partly unreplicated effects: door-in-the-face moves words more than deeds (Feeley et al. 2012), foot-in-the-door is real but inconsistent (Burger 1999), the hotel towel advantage did not replicate in Germany (Bohner and Schlueter 2014), scarcity has a modest average effect with large heterogeneity (Lynn 1991). Principles are directionally sound; specific effect sizes should be treated cautiously.",
+    "legal_access": [
+      {"type": "author excerpt", "url": "https://www.influenceatwork.com/7-principles-of-persuasion/", "note": "Cialdini's firm's summary of the principles with the studies it relies on (read 2026-11-04)."},
+      {"type": "library", "url": "https://www.harpercollins.com/products/influence-new-and-expanded-robert-b-cialdini", "note": "Publisher listing; widely held in libraries. Not fetched this session."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "cialdini-influence-2021-01",
+      "name": "Give First, Make It Personal and Unexpected",
+      "skill_type": "technique",
+      "explanation": "People feel obliged to return what they have received, and they are more willing to say yes to someone they owe. Cialdini's advice is to be the first to give, and to make what you give meaningful, personalized to the recipient, and unexpected; how a favor is given can matter more than its size. In a restaurant field study (Strohmetz and colleagues, 2002), servers who gave candy with the check received larger tips, and the effect varied with how much candy was offered and how it was offered. The ethical line is that the gift should be genuine help, not bait: a favor that comes with a visible hook feels like a transaction and loses its pull.",
+      "when_to_use": "Building relationships with colleagues, clients or neighbors you will later need to work with; starting a partnership; any setting where goodwill matters more than a single trade.",
+      "worked_example": "A new account manager inherits a client who has been cool toward the agency. Before asking for a renewal meeting, she reads the client's recent conference talk and sends a short note with two benchmark figures from a study relevant to the client's own project, saying no reply is needed. Weeks later, when she asks for 30 minutes to review the contract, the client agrees and is noticeably warmer. A new neighbor shovels the shared walkway for the elderly couple next door the first snowy morning, without being asked.",
+      "common_mistakes": [
+        "Giving generic, mass-produced favors that feel like marketing",
+        "Attaching the request to the gift so it reads as a bribe",
+        "Reminding people of what you gave them",
+        "Giving only right before you need something"
+      ],
+      "steps": [
+        "Identify something the other person would genuinely value",
+        "Tailor it to them specifically",
+        "Give it without an immediate request attached",
+        "Let time pass and keep the relationship going",
+        "When you make a request, make it independent of the favor"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "reciprocity"},
+        {"category": "relationships", "subcategory": "networking"},
+        {"category": "professional", "subcategory": "negotiation"}
+      ],
+      "situations": [
+        "Warming up a cool client relationship",
+        "Starting a cross-team partnership",
+        "Getting to know new neighbors"
+      ],
+      "source": {
+        "citation": "Robert B. Cialdini, Influence, New and Expanded (2021), Chapter on Reciprocation; Influence at Work principles summary",
+        "underlying_research": "Reciprocity norm (Gouldner 1960); Strohmetz, Rind, Fisher and Lynn (2002), Journal of Applied Social Psychology 32(2), candy and restaurant tipping. Percentages quoted in popular summaries of this study differ from each other and are not used here.",
+        "urls": [
+          "https://www.influenceatwork.com/7-principles-of-persuasion/",
+          "https://ecommons.cornell.edu/entities/publication/49ee9efd-b182-49af-8346-a3c63391a552"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The reciprocity norm is robust and widely replicated, but the personalized-and-unexpected refinement rests on a small number of field studies, chiefly the restaurant tipping experiments.",
+      "flags": ["none"]
+    },
+    {
+      "id": "cialdini-influence-2021-02",
+      "name": "Show What Similar Others Actually Do",
+      "skill_type": "technique",
+      "explanation": "When people are unsure what to do, they look to what others like them are doing. An honest statement that most of their peers already do the desired thing can therefore nudge behavior more than an appeal to benefits. Two cautions matter. First, the reverse also works: announcing that a bad behavior is common (lots of people are missing the deadline, many visitors steal petrified wood) can normalize it; in Cialdini's Petrified Forest study, a sign describing past theft led to more theft than a sign that simply asked visitors not to take wood. Second, the famous hotel towel result, where a peer-norm card beat a standard environmental card, did not replicate that advantage in two German hotels, so expect modest and context-dependent gains rather than a reliable boost.",
+      "when_to_use": "Encouraging participation in a survey, training, benefit enrollment or policy, when the desired behavior is genuinely common among the audience's peers.",
+      "worked_example": "An HR manager wants more employees to finish compliance training by the deadline. Her first draft reminder says 'Too many people are leaving this to the last minute.' She rewrites it: '78 percent of your colleagues in operations have already completed the training. It takes about 20 minutes.' Completion rises over the next week. A parent tells a reluctant child that most kids in the class are going to the field trip, which is true, instead of saying no one else complains.",
+      "common_mistakes": [
+        "Complaining publicly that many people are doing the wrong thing",
+        "Citing a norm that is not true, or inflating it",
+        "Using a reference group the audience does not identify with",
+        "Expecting a large effect from a single norm message"
+      ],
+      "steps": [
+        "Check whether the desired behavior is actually common in the audience's peer group",
+        "State the norm with a specific, honest number or description",
+        "Choose the closest reference group (same team, same role, same building)",
+        "Remove any language that implies the undesired behavior is widespread",
+        "Measure the effect rather than assuming it"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "persuasive-structure"},
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "written-digital", "subcategory": "email"}
+      ],
+      "situations": [
+        "Writing a reminder for overdue training",
+        "Encouraging benefit enrollment",
+        "Persuading a child to join a group activity"
+      ],
+      "source": {
+        "citation": "Robert B. Cialdini, Influence, New and Expanded (2021), Chapter on Social Proof",
+        "underlying_research": "Goldstein, Cialdini and Griskevicius (2008) hotel towel study; Bohner and Schlueter (2014), PLOS ONE 9(8): e104086, two German hotels, norm messages not more effective than standard message; Cialdini (2003), Current Directions in Psychological Science 12(4), Petrified Forest descriptive versus injunctive signs.",
+        "urls": [
+          "https://www.influenceatwork.com/7-principles-of-persuasion/",
+          "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104086",
+          "https://www.apa.org/monitor/oct05/persuasive"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Descriptive norm effects are broadly supported, and the warning about normalizing bad behavior has experimental support, but flagship results such as the towel study have failed to replicate their specific advantage, and effects are modest and context-dependent.",
+      "flags": ["contested"]
+    },
+    {
+      "id": "cialdini-influence-2021-03",
+      "name": "Establish Credibility Before the Ask",
+      "skill_type": "technique",
+      "explanation": "People follow knowledgeable, trustworthy sources, but they need to know your credentials before your request, not after. Since praising yourself backfires, Cialdini suggests arranging for someone else to introduce your relevant experience; his firm reports a real estate office where receptionists mentioning agents' years of experience before transferring calls raised appointments and signed contracts (a single field case). For trustworthiness, he recommends mentioning a real weakness early and then showing why it matters less than your main strength. That fits a larger meta-analytic finding (O'Keefe 1999): two-sided messages that acknowledge and then answer the counterargument are more credible and persuasive than one-sided ones, while two-sided messages that raise a drawback and leave it unanswered tend to be less persuasive.",
+      "when_to_use": "Presenting to a new audience, being introduced at a meeting, pitching a proposal with an obvious weakness, joining a new team.",
+      "worked_example": "A consultant is joining a client's steering committee for the first time. She asks the sponsor to introduce her with one sentence about the three similar rollouts she led. When she presents her plan, she opens with its main drawback: 'This approach takes six weeks longer than the alternative.' Then she explains why: it avoids the data migration failures that sank the client's last attempt, and she shows the numbers. The committee approves. When recommending a contractor to friends, someone says the contractor is not the cheapest but has never missed a deadline in three jobs, and explains why that matters for a kitchen remodel.",
+      "common_mistakes": [
+        "Listing your own credentials at length",
+        "Waiting until after the request to establish expertise",
+        "Raising a weakness and then not addressing it",
+        "Inventing a trivial weakness that sounds like a humblebrag"
+      ],
+      "steps": [
+        "Decide which specific credential is relevant to this audience and request",
+        "Ask a host or colleague to mention it when introducing you",
+        "Identify a real drawback of your proposal",
+        "State it early and plainly",
+        "Answer it with the strength or evidence that outweighs it"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "credibility"},
+        {"category": "influence", "subcategory": "persuasive-structure"},
+        {"category": "conversations", "subcategory": "introductions"},
+        {"category": "professional", "subcategory": "executive-communication"}
+      ],
+      "situations": [
+        "Being introduced to a new committee",
+        "Pitching a plan with a known downside",
+        "Recommending a provider to friends"
+      ],
+      "source": {
+        "citation": "Robert B. Cialdini, Influence, New and Expanded (2021), Chapter on Authority; Influence at Work principles summary",
+        "underlying_research": "O'Keefe (1999), Communication Yearbook 22, meta-analysis of one-sided versus two-sided messages (refutational two-sided more credible and persuasive on non-advertising topics; nonrefutational two-sided less persuasive). Real estate introduction case reported by Influence at Work (single field case). Obedience research (Milgram; Burger 2009 partial replication) is background, not used here.",
+        "urls": [
+          "https://www.influenceatwork.com/7-principles-of-persuasion/",
+          "https://typeset.io/papers/how-to-handle-opposing-arguments-in-persuasive-messages-a-2bcmhajwgo"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The two-sided refutational advice is backed by meta-analysis; the third-party introduction advice rests on a single field case reported by the author's firm.",
+      "flags": ["single-anecdote"]
+    },
+    {
+      "id": "cialdini-influence-2021-04",
+      "name": "Ask for Small, Active, Written Commitments",
+      "skill_type": "technique",
+      "explanation": "People like to act consistently with what they have already said or done, so a small commitment can make later follow-through more likely. Cialdini advises seeking commitments that are voluntary, active, and public, and ideally written by the person themselves. One NHS study he cites found that having patients write their own appointment details on the card, instead of the receptionist doing it, reduced missed appointments (about 18 percent in that trial). The classic version, the foot-in-the-door technique (a small first request followed by a larger related one), is real but small and inconsistent across studies, and can backfire if the first request feels coerced, so treat the larger escalation tactic with caution and rely mainly on getting genuine, self-stated commitments.",
+      "when_to_use": "Closing a meeting with action items, confirming a volunteer or a deadline, helping someone stick to a plan they chose.",
+      "worked_example": "At the end of a project kickoff, instead of the manager summarizing who does what, each person types their own commitment and date into the shared doc in their own words. Deadlines hold better than in past projects. A friend who says she wants to start running texts her training plan to a friend, who replies with encouragement; she is more likely to show up on Saturday.",
+      "common_mistakes": [
+        "Writing commitments on people's behalf",
+        "Pressuring people into a commitment, which removes the sense of choice that makes it binding",
+        "Using a small yes as a lever to spring a much larger, unrelated ask",
+        "Never following up on the commitment"
+      ],
+      "steps": [
+        "Ask the person what they will do and by when",
+        "Have them state or write it in their own words",
+        "Make it visible to the relevant people where appropriate",
+        "Keep the first commitment small and clearly voluntary",
+        "Follow up at the agreed time"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "persuasive-structure"},
+        {"category": "professional", "subcategory": "meetings"},
+        {"category": "personal-life", "subcategory": "friendships"}
+      ],
+      "situations": [
+        "Closing a meeting with action items",
+        "Reducing no-shows for appointments",
+        "Helping a friend stick to a goal"
+      ],
+      "source": {
+        "citation": "Robert B. Cialdini, Influence, New and Expanded (2021), Chapter on Commitment and Consistency",
+        "underlying_research": "Martin, Bassi and Dunbar-Rees (2012), Journal of the Royal Society of Medicine 105(3), written commitment on appointment cards; Freedman and Fraser (1966) foot-in-the-door; Burger (1999), Personality and Social Psychology Review 3(4), review of foot-in-the-door finding mixed results and reversals.",
+        "urls": [
+          "https://www.influenceatwork.com/7-principles-of-persuasion/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC3308641",
+          "https://cbsm.com/articles/32623-the-foot-in-the-door-compliance-procedure-a-multiple-process-analysis-and-review"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Commitment and consistency effects are supported, but foot-in-the-door is small and moderated, and the appointment card result comes from a single uncontrolled before-and-after study in two health centers.",
+      "flags": ["unreplicated"]
+    },
+    {
+      "id": "cialdini-influence-2021-05",
+      "name": "Find a Real Similarity Before Business",
+      "skill_type": "technique",
+      "explanation": "People say yes more readily to those they like, and liking grows from similarity, sincere compliments and working toward shared goals. Cialdini highlights a negotiation finding: pairs who spent a few minutes on personal conversation before an email negotiation (Morris and colleagues, 2002, Schmooze or Lose) planned for cooperation and reached better economic and social outcomes than pairs who went straight to business. The practical move is to spend a little time finding a genuine point in common before getting to the ask, especially in thin channels like email where rapport is otherwise hard to build.",
+      "when_to_use": "Before a negotiation, a sales or partnership call, or any email-only exchange with someone you have not met.",
+      "worked_example": "A procurement lead is about to negotiate a renewal by email with a vendor rep she has never spoken to. She books a 10-minute video call first, learns they both started in logistics and both have kids in the same youth soccer league, then moves to email for the terms. The exchange stays constructive even when they disagree on price. A new parent at a school meeting chats with another parent about a shared hometown before asking them to co-chair the bake sale.",
+      "common_mistakes": [
+        "Faking similarities, which is often detected and backfires",
+        "Turning small talk into a lengthy detour that wastes the other person's time",
+        "Skipping rapport entirely in email because it feels inefficient",
+        "Flattering rather than giving specific, sincere compliments"
+      ],
+      "steps": [
+        "Before the business part, ask one or two personal questions",
+        "Listen for a genuine point in common and mention it",
+        "If the exchange will be by email, try for a brief call first",
+        "Then move to the substance"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "credibility"},
+        {"category": "professional", "subcategory": "negotiation"},
+        {"category": "relationships", "subcategory": "rapport"},
+        {"category": "written-digital", "subcategory": "email"}
+      ],
+      "situations": [
+        "Starting an email negotiation",
+        "First call with a new partner",
+        "Recruiting a fellow volunteer"
+      ],
+      "source": {
+        "citation": "Robert B. Cialdini, Influence, New and Expanded (2021), Chapter on Liking",
+        "underlying_research": "Morris, Nadler, Kurtzberg and Thompson (2002), Schmooze or Lose: Social Friction and Lubrication in E-mail Negotiations, Group Dynamics 6(1), 89-100. Similarity-attraction research (Byrne). The 55 versus 90 percent agreement figures on the Influence at Work page refer to a related study and were not verified.",
+        "urls": [
+          "https://www.influenceatwork.com/7-principles-of-persuasion/",
+          "https://www.gsb.stanford.edu/faculty-research/working-papers/schmooze-or-lose-social-friction-lubrication-e-mail-negotiations"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Similarity and liking effects are well supported in the broader literature; the specific email-negotiation finding comes from a small number of studies with student negotiators.",
+      "flags": ["none"]
+    },
+    {
+      "id": "cialdini-influence-2021-06",
+      "name": "Name What Is Genuinely Unique and What Would Be Lost",
+      "skill_type": "technique",
+      "explanation": "People value things more when they are rare or about to become unavailable, and they respond to what they stand to lose. Cialdini's advice is to go beyond listing benefits: say what is truly unique about your proposal and what the other person would miss by passing on it, including exclusive information. The evidence is weaker than the principle's fame suggests. A meta-analysis (Lynn 1991) found a modest average effect of scarcity on perceived value with large variation between studies, and invented deadlines or fake limited supply are easily seen through and damage trust. Use it only for real constraints: a genuinely limited budget window, a one-time opportunity, a capability no one else offers.",
+      "when_to_use": "When an opportunity really is limited in time or availability, or your offer has a feature no alternative matches.",
+      "worked_example": "A program manager is pitching a training partnership. The provider has two remaining cohort slots this fiscal year, and the company's training budget expires in September. She tells the director exactly that, and adds what no other provider offers: instructors who have worked in their regulated industry. She does not invent urgency beyond those facts. A family deciding on a summer program learns that the early-registration price genuinely ends Friday and decides that night.",
+      "common_mistakes": [
+        "Inventing deadlines or limits",
+        "Overusing urgency so that every request seems like an emergency",
+        "Claiming uniqueness without evidence",
+        "Relying on scarcity when the offer itself is weak"
+      ],
+      "steps": [
+        "List what is truly unique about your offer",
+        "Identify any real time or supply constraint",
+        "State the constraint plainly with its source",
+        "Describe concretely what would be lost by waiting",
+        "Leave the decision with them"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "influence", "subcategory": "persuasive-structure"},
+        {"category": "professional", "subcategory": "negotiation"}
+      ],
+      "situations": [
+        "Pitching a time-limited opportunity",
+        "Making the case for a distinctive vendor",
+        "Deciding on a program with a registration deadline"
+      ],
+      "source": {
+        "citation": "Robert B. Cialdini, Influence, New and Expanded (2021), Chapter on Scarcity",
+        "underlying_research": "Lynn (1991), Psychology and Marketing 8(1), meta-analysis of commodity theory: average effect about r = .12 with significant heterogeneity (figure as reported by later reviews). Influence at Work cites the 2003 Concorde retirement as an anecdote.",
+        "urls": [
+          "https://www.influenceatwork.com/7-principles-of-persuasion/",
+          "https://scilit.com/publications/9e7b5e6501d315cd5586be1702016cb6"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "Scarcity effects exist on average but are modest and highly variable, the supporting examples are largely anecdotes, and misuse is common; the principle is presented here with honest-constraint limits.",
+      "flags": ["contested"]
+    },
+    {
+      "id": "cialdini-influence-2021-07",
+      "name": "Check Whether the Trigger Is Real",
+      "skill_type": "mental model",
+      "explanation": "Each influence principle is a shortcut people use because it usually works: return favors, follow the crowd, trust experts, keep your word, act before something runs out. Cialdini's point is that the same shortcuts can be triggered by fake signals, such as a gift designed to create a debt, invented popularity, borrowed authority, a manufactured deadline, or an inflated first ask designed to be refused. The defense is not to distrust every request but to pause when you feel the pull of a principle and ask whether the underlying feature is genuine. If a favor was a setup, you can treat it as a sales tactic and owe nothing. The same test keeps your own persuasion honest: use the principles only to highlight things that are actually true.",
+      "when_to_use": "When you feel unusual pressure to say yes quickly, when receiving an unsolicited gift or concession from someone selling to you, and when designing your own persuasive message.",
+      "worked_example": "A purchasing manager is offered a free analytics audit by a software vendor, followed a week later by a request to sign a three-year contract before 'pricing changes at month end'. He notices two triggers at once, reciprocity and scarcity, and asks whether either is real. The audit was a standard sales offer, and when he asks for the pricing change in writing, the rep cannot provide it. He evaluates the contract on its merits and negotiates a one-year term. Reviewing his own proposal later, he removes a 'most teams already use this' claim he cannot support.",
+      "common_mistakes": [
+        "Assuming you are immune to these pressures",
+        "Becoming cynical about all generosity or expertise",
+        "Feeling obligated to repay a favor that was clearly a sales tactic",
+        "Using fabricated triggers yourself and assuming no one will notice"
+      ],
+      "steps": [
+        "Notice when you feel an urge to comply quickly",
+        "Name the principle you feel pulled by",
+        "Ask whether the underlying fact (the favor, the popularity, the expertise, the deadline) is genuine",
+        "If it is fabricated, set it aside and decide on the merits",
+        "Apply the same test to your own messages before sending"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "situations"},
+        {"category": "professional", "subcategory": "negotiation"},
+        {"category": "influence", "subcategory": "credibility"}
+      ],
+      "situations": [
+        "Evaluating a vendor's pressure tactics",
+        "Responding to a high-pressure sale",
+        "Reviewing your own persuasive message for honesty"
+      ],
+      "source": {
+        "citation": "Robert B. Cialdini, Influence, New and Expanded (2021), defense sections at the end of each principle chapter",
+        "underlying_research": "Synthesis across the compliance literature; the defense advice itself is the author's reasoning rather than a tested intervention.",
+        "urls": [
+          "https://www.influenceatwork.com/7-principles-of-persuasion/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Credible expert guidance grounded in well-documented compliance research; the defensive procedure itself has not been experimentally tested, and the chapter-level structure was not confirmed in the book text this session.",
+      "flags": ["none"]
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "feeley-anker-aloe-2012-01", "relation": "supports", "note": "Cialdini presents rejection-then-retreat (reciprocal concessions) as a core reciprocity tactic; the Feeley et al. meta-analysis supplies the correction that it raises verbal agreement (r about .13) far more than actual follow-through (r about .05, not significant)."},
+    {"insight_id": "talk-wood-brooks-10", "relation": "supports", "note": "Cialdini lists sincere compliments as one of three drivers of liking, consistent with the advice to give the compliments people hold back."},
+    {"insight_id": "humor-seriously-12", "relation": "supports", "note": "Brief personal conversation before an email negotiation improved economic and social outcomes (Morris et al. 2002), consistent with warming up a negotiation before business."},
+    {"insight_id": "made-to-stick-11", "relation": "supports", "note": "Cialdini's seventh principle, unity, holds that people say yes more to those they see as part of a shared we (family, place, group); it overlaps with identity appeals but has little independent testing as a compliance tactic."},
+    {"insight_id": "supercommunicators-10", "relation": "supports", "note": "Unity adds that shared identity between requester and listener, not only the listener's own identity, shapes how a request is received; mostly supported by social identity research and the author's reasoning."}
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.influenceatwork.com/7-principles-of-persuasion/",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104086",
+      "https://cbsm.com/articles/32623-the-foot-in-the-door-compliance-procedure-a-multiple-process-analysis-and-review"
+    ],
+    "still_unverified": [
+      "Book text not read; chapter names given by principle rather than verified chapter numbers.",
+      "Exact tip percentages in the Strohmetz et al. (2002) study; Influence at Work figures (3, 14 and 23 percent) differ from other summaries and are not used.",
+      "The 18 percent reduction in the Martin et al. (2012) appointment card study comes from secondary summaries.",
+      "Lynn (1991) r = .12 figure as reported by Barton, Zlatevska and Oppewal, not from Lynn directly.",
+      "O'Keefe (1999) details from abstracts and secondary summaries.",
+      "Whether the 2021 edition explicitly recommends having another person introduce your credentials (stated on the Influence at Work page; assumed to carry into the book)."
+    ]
+  },
+  "research_notes": "Read the Influence at Work principles page in full, the Bohner and Schlueter (2014) PLOS ONE abstract, and the Burger (1999) abstract. Other studies checked via search snippets: Cialdini (2003) Petrified Forest, O'Keefe (1999), Lynn (1991), Morris et al. (2002), Martin et al. (2012), Strohmetz et al. (2002). Unity was recorded under supports_existing rather than as a new insight because it overlaps existing identity insights and has thin independent evidence."
+}

@@ -1,0 +1,115 @@
+{
+  "book": {
+    "book_id": "hall-2019",
+    "title": "How many hours does it take to make a friend?",
+    "subtitle": "",
+    "authors": [
+      "Jeffrey A. Hall"
+    ],
+    "year": 2019,
+    "publisher": "Journal of Social and Personal Relationships 36(4), 1278 to 1296 (SAGE); online first March 2018",
+    "edition": "",
+    "isbn": "",
+    "author_credibility": "Hall is a professor of communication studies at the University of Kansas who has published widely on friendship, everyday talk and well-being.",
+    "evidence_base": "Two studies: 355 US adults who had relocated in the previous six months estimated time spent with a new acquaintance (cross-sectional), and 112 first-year students reported hours with two new acquaintances three times over nine weeks. Hour thresholds are approximate estimates from self-reported time; a single paper, not yet a replicated body of work.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://news.ku.edu/news/article/2018/03/06/study-reveals-number-hours-it-takes-make-friend",
+        "note": "University of Kansas news release with the hour estimates and author quotes; read in full."
+      },
+      {
+        "type": "summary",
+        "url": "https://greatergood.berkeley.edu/article/item/how_long_does_it_take_to_make_a_friend",
+        "note": "Greater Good Science Center article with study-specific figures and talk and activity findings; read in full."
+      },
+      {
+        "type": "summary",
+        "url": "https://api.crossref.org/works/10.1177/0265407518761225",
+        "note": "Abstract via Crossref; read."
+      }
+    ],
+    "source_type": "peer-reviewed paper",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "hall-2019-01",
+      "name": "Friendship Runs on Hours, Mostly Leisure Hours",
+      "skill_type": "mental model",
+      "explanation": "Adult friendships rarely form by accident; they are built from a large investment of shared time. Combining two studies, Hall estimated that moving from acquaintance to casual friend takes roughly 40 to 60 hours together, becoming a friend about 80 to 100 hours, and becoming a close friend more than 200 hours. What kind of time matters: hanging out, joking around, and relaxing together were tied to closeness, while time spent together at work or school, where people are obliged to be, counted for much less. Among students, catching up on each other's lives, playful talk, serious talk and expressions of affection went with growing closeness, whereas a diet of small talk went with drifting apart. People who moved a friendship up a level roughly doubled their time with that person, often at the expense of other friendships. The practical implications: choose a few people to invest in, and change the context from obligation to leisure, for example by turning a work friendship into a lunch, a walk or a game night.",
+      "when_to_use": "After a move, a job change, a breakup or becoming a parent; whenever you want a closer friend and wonder why acquaintances are not turning into friends.",
+      "worked_example": "A woman who moved to Denver for work gets on well with a colleague but they only talk in meetings. Realizing that office hours count for little, she invites the colleague to a weekly trail run. Over three months of Saturday runs plus a couple of dinners, they cross from friendly coworkers to people who text about their weekends. She also accepts that she cannot do this with ten people at once and focuses on two.",
+      "common_mistakes": [
+        "Expecting friendships to form on their own from proximity at work",
+        "Spreading time thinly across many acquaintances so none deepens",
+        "Staying in small talk instead of moving to catching up, joking and real conversation",
+        "Treating a few pleasant meetings as a failed friendship when far more time is needed"
+      ],
+      "steps": [
+        "Pick a small number of people you want to get closer to",
+        "Move time with them from obligatory settings to leisure settings",
+        "Make it recurring so hours accumulate (a weekly walk, a standing game night)",
+        "Shift talk toward catching up, humor and personal topics",
+        "Be patient: think in months, not weeks"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "small-talk"
+        }
+      ],
+      "situations": [
+        "New in town",
+        "Turning a coworker into a friend",
+        "Rebuilding a social life after becoming a parent"
+      ],
+      "source": {
+        "citation": "Hall (2019), How many hours does it take to make a friend? Journal of Social and Personal Relationships 36(4), 1278 to 1296",
+        "underlying_research": "Dunbar's social brain hypothesis and Hall's communicate bond belong theory.",
+        "urls": [
+          "https://news.ku.edu/news/article/2018/03/06/study-reveals-number-hours-it-takes-make-friend",
+          "https://greatergood.berkeley.edu/article/item/how_long_does_it_take_to_make_a_friend",
+          "https://doi.org/10.1177/0265407518761225"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Two studies with consistent direction, but a single paper with self-estimated retrospective hours, one cross-sectional sample, and approximate thresholds. Popular coverage quotes slightly different figures; the ranges here are the KU release's combined estimates. The small-talk and talk-type findings were among students only.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "how-to-know-a-person-02",
+      "relation": "supports",
+      "note": "Hall's data back the idea that unhurried companionship builds closeness: leisure time and hanging out, not task time, predicted moving from acquaintance to friend."
+    },
+    {
+      "insight_id": "talk-wood-brooks-03",
+      "relation": "supports",
+      "note": "Among students, a diet of small talk went with friends drifting apart while catching up, playful and serious talk went with growing closeness, consistent with climbing beyond small talk."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://news.ku.edu/news/article/2018/03/06/study-reveals-number-hours-it-takes-make-friend",
+      "https://greatergood.berkeley.edu/article/item/how_long_does_it_take_to_make_a_friend",
+      "https://api.crossref.org/works/10.1177/0265407518761225"
+    ],
+    "still_unverified": [
+      "Study-level hour estimates differ between sources (Greater Good gives separate student and adult figures); exact figures in the paper's tables not checked"
+    ]
+  },
+  "research_notes": "Full text not read; relied on the university release, Greater Good summary and abstract."
+}

@@ -1,0 +1,293 @@
+{
+  "book": {
+    "book_id": "berger-catalyst",
+    "title": "The Catalyst",
+    "subtitle": "How to Change Anyone's Mind",
+    "authors": ["Jonah Berger"],
+    "year": 2020,
+    "publisher": "Simon and Schuster",
+    "edition": "First edition, March 2020",
+    "isbn": "",
+    "source_type": "book",
+    "core": false,
+    "author_credibility": "Berger is a marketing professor at the Wharton School, University of Pennsylvania, who publishes peer-reviewed research on word of mouth and social influence, and wrote Contagious and Invisible Influence. He also consults and speaks commercially on the ideas, which favors a confident, story-led presentation.",
+    "evidence_base": "Synthesis of established research (psychological reactance, endowment effect and status quo bias, latitude of acceptance from social judgment theory, trialability and risk in innovation adoption, social proof) illustrated with narrative cases (a hostage negotiator, a teen anti-smoking campaign, deep canvassing, free shipping, substance abuse counselors). The REDUCE framework as a package is untested, and some underlying findings, such as the size of the endowment effect, are debated.",
+    "legal_access": [
+      {"type": "author excerpt", "url": "https://mariashriver.com/the-5-key-roadblocks-to-change/", "note": "Excerpt from the book's introduction published with Simon and Schuster permission, describing all five barriers (read 2026-11-04)."},
+      {"type": "interview", "url": "https://review.firstround.com/pull-dont-push-how-catalysts-overcome-barriers-and-drive-product-adoption", "note": "First Round Review interview with Berger on reactance, endowment and uncertainty (read 2026-11-04)."},
+      {"type": "summary", "url": "https://kellercenter.hankamer.baylor.edu/news/story/2021/insider-catalyst-how-change-anyones-mind", "note": "Baylor Keller Center summary naming the reactance techniques (seen via search snippet)."},
+      {"type": "summary", "url": "https://getpocket.com/explore/item/how-to-change-anyone-s-mind-in-business-without-persuading-them", "note": "Pocket feature on the menu technique (seen via search snippet)."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "berger-catalyst-01",
+      "name": "Remove the Brakes Before Pushing Harder",
+      "skill_type": "framework",
+      "explanation": "When an idea stalls, most people push: another meeting, another slide, more reasons. Berger argues people resist pushing, and that effective change agents instead ask why the person has not changed already and what is holding them back. He names five common barriers, captured in the acronym REDUCE: Reactance (people resist feeling pushed), Endowment (attachment to what they already have or do), Distance (the ask is too far from where they are, so it gets rejected outright), Uncertainty (the new option feels risky), and Corroborating Evidence (one source is not enough proof). The practical value is diagnostic: identify which barrier is operating and work on that one, rather than applying more pressure to a barrier you have not named.",
+      "when_to_use": "When a proposal, product, process change or personal request is stuck and repeating the case is not working.",
+      "worked_example": "An operations manager has pitched a new scheduling tool three times to the clinic's front-desk staff with no uptake. She stops pitching and asks herself why they have not switched. Talking with them, she hears that they trust the paper book (endowment), fear double-booking patients during the switch (uncertainty), and have heard nothing about the tool from anyone but her (corroborating evidence). She proposes a two-week trial on one doctor's schedule with the paper book kept as backup, and arranges a call with a front-desk lead at another clinic who uses it. Uptake follows. At home, a parent trying to get a child to try a new sport realizes the real barrier is fear of not knowing anyone there.",
+      "common_mistakes": [
+        "Responding to resistance with more arguments or pressure",
+        "Assuming the barrier without asking the person",
+        "Treating every barrier with the same tactic",
+        "Using the acronym as a script rather than a diagnostic"
+      ],
+      "steps": [
+        "Name the specific change you want and what the person does now",
+        "Ask why they have not changed already; talk to them",
+        "Check each barrier: Do they feel pushed? Attached to the current way? Is the ask too big? Is it risky to try? Do they need more proof?",
+        "Pick the barrier that matters most and address it directly",
+        "Re-check after each step; barriers often appear in sequence"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "professional", "subcategory": "executive-communication"},
+        {"category": "influence", "subcategory": "situations"}
+      ],
+      "situations": [
+        "Driving adoption of a new tool or process",
+        "Selling a product to a hesitant customer",
+        "Getting a family member to try something new"
+      ],
+      "source": {
+        "citation": "Jonah Berger, The Catalyst (2020), Introduction and Parts 1 to 5 (Reactance, Endowment, Distance, Uncertainty, Corroborating Evidence)",
+        "underlying_research": "Reactance theory (Brehm), endowment effect and status quo bias (Kahneman, Knetsch and Thaler; Samuelson and Zeckhauser), social judgment theory (Sherif), innovation trialability (Rogers), social proof.",
+        "urls": [
+          "https://mariashriver.com/the-5-key-roadblocks-to-change/",
+          "https://review.firstround.com/pull-dont-push-how-catalysts-overcome-barriers-and-drive-product-adoption"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Each barrier maps to established research, and the framework is confirmed in an author excerpt; the package is an untested practitioner synthesis built on cases.",
+      "flags": ["none"]
+    },
+    {
+      "id": "berger-catalyst-02",
+      "name": "Offer a Menu and Point Out the Gap",
+      "skill_type": "technique",
+      "explanation": "People have a kind of anti-persuasion radar that switches on when they sense someone trying to convince them. To lower it, Berger recommends letting people persuade themselves. Two of his techniques are distinctive. Provide a menu: instead of one directive, offer two or three acceptable options so the person keeps a sense of choice and spends their energy picking rather than resisting. Highlight a gap: help the person notice a mismatch between what they believe or say they want and what they are actually doing, so the conclusion comes from them. He pairs these with asking rather than telling and with starting from understanding, so the person feels heard before being asked to move.",
+      "when_to_use": "When you sense the other person bracing against being told what to do: a team that resents top-down changes, a client who distrusts sales pitches, a child or teenager.",
+      "worked_example": "A director needs her team to cut meeting time. Rather than announcing a new rule, she offers three options: no-meeting Wednesdays, a 25-minute default length, or a cap of two recurring meetings per person, and asks the team to pick. They choose the 25-minute default and own it. Later, with an engineer who says he values deep work but accepts every invite, she asks how many focus hours he got last week versus how many he wants. He sees the gap and starts declining. A parent asks a child whether she wants broccoli or carrots with dinner instead of insisting on vegetables.",
+      "common_mistakes": [
+        "Offering a menu where only one option is acceptable, which people notice",
+        "Offering too many options, which stalls the choice",
+        "Pointing out a gap in an accusatory way, which triggers defensiveness",
+        "Using questions that are really disguised instructions"
+      ],
+      "steps": [
+        "Decide which outcomes you could genuinely live with",
+        "Offer two or three of them and let the person choose",
+        "Ask questions about what they want and what they are doing now",
+        "Let them notice any gap between the two; resist stating it for them",
+        "Support the option or step they select"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "professional", "subcategory": "meetings"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "situations": [
+        "Rolling out a team policy change",
+        "Getting a child to eat vegetables",
+        "Helping a colleague act on a stated priority"
+      ],
+      "source": {
+        "citation": "Jonah Berger, The Catalyst (2020), Chapter 1: Reactance",
+        "underlying_research": "Psychological reactance theory (Brehm 1966) and self-persuasion research; book cases include a teen anti-smoking campaign and a hostage negotiator.",
+        "urls": [
+          "https://mariashriver.com/the-5-key-roadblocks-to-change/",
+          "https://kellercenter.hankamer.baylor.edu/news/story/2021/insider-catalyst-how-change-anyones-mind",
+          "https://getpocket.com/explore/item/how-to-change-anyone-s-mind-in-business-without-persuading-them"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Reactance is well established and the techniques follow from it, but the specific menu and gap techniques are supported in the book mainly by cases; details were confirmed through summaries rather than the book text.",
+      "flags": ["none"]
+    },
+    {
+      "id": "berger-catalyst-03",
+      "name": "Show That Doing Nothing Has a Cost",
+      "skill_type": "technique",
+      "explanation": "People overvalue what they already have and the way they already work, partly because it is easy, partly because it is theirs, and partly because the new option feels risky. Berger argues that the status quo wins because it seems free. To ease this attachment, make the cost of inaction visible: quantify what the current approach is losing each month, show what continuing will look like, or frame the choice as between two changes rather than between change and safety. In the interview he gives the example of a cost calculator showing a customer how much an unsolved problem costs them each month.",
+      "when_to_use": "When people agree your idea is better but still do not switch, or when 'it works fine' is the main objection.",
+      "worked_example": "A finance analyst wants her team to replace a manual month-end reconciliation spreadsheet. Everyone agrees the new tool is nicer but no one moves. She tracks the hours spent on the old process for one close, about 40 across the team, plus two errors that had to be reported, and presents it as roughly one week of staff time lost per month. The decision becomes 'keep paying this' versus 'invest a few days to switch', and the team schedules the migration. A homeowner uses the same logic with a partner reluctant to replace an old furnace by totaling last winter's repair bills.",
+      "common_mistakes": [
+        "Only describing the benefits of the new option",
+        "Exaggerating the cost of the status quo, which damages credibility",
+        "Dismissing people's attachment to the current way, which is often tied to their own past work",
+        "Ignoring the real switching costs"
+      ],
+      "steps": [
+        "Ask what the current approach really costs in time, money, risk or missed opportunity",
+        "Measure or estimate it honestly over a concrete period",
+        "Present the choice as two paths, each with a cost",
+        "Acknowledge what was good about the old way and who built it",
+        "Reduce switching costs where you can"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "written-digital", "subcategory": "proposals-memos"}
+      ],
+      "situations": [
+        "Proposing to replace a legacy process",
+        "Selling to a customer content with the status quo",
+        "Persuading a partner on a household upgrade"
+      ],
+      "source": {
+        "citation": "Jonah Berger, The Catalyst (2020), Chapter 2: Endowment",
+        "underlying_research": "Endowment effect and status quo bias research (Kahneman, Knetsch and Thaler 1990; Samuelson and Zeckhauser 1988); loss aversion. The magnitude of the endowment effect is debated.",
+        "urls": [
+          "https://mariashriver.com/the-5-key-roadblocks-to-change/",
+          "https://review.firstround.com/pull-dont-push-how-catalysts-overcome-barriers-and-drive-product-adoption"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Status quo bias is well documented; the endowment effect's size and mechanisms are contested. The technique is a reasonable application supported by cases.",
+      "flags": ["contested"]
+    },
+    {
+      "id": "berger-catalyst-04",
+      "name": "Ask for Less, Then Move Step by Step",
+      "skill_type": "technique",
+      "explanation": "Information that lands inside someone's zone of acceptance gets considered; information too far from their current view lands in a zone of rejection, where it is ignored or even increases opposition. So a big change often requires asking for less, not pushing for more. Berger's remedies are to break a large change into smaller steps that each sit within reach, to start with people in the movable middle rather than the most opposed, and to find an unsticking point: a related, less contested issue where the person is willing to move, which can open the way to the larger one.",
+      "when_to_use": "When your proposal is far from where the other person stands, and a full ask would be dismissed outright.",
+      "worked_example": "A sustainability lead wants a skeptical facilities director to commit to a large building retrofit. A full proposal would be rejected, so she asks only for smart thermostats in one wing, framed as a cost-saving test. After the savings show up, she proposes LED lighting, then a broader energy audit. Separately, she focuses her early outreach on department heads who are neutral rather than those openly opposed. With a relative who distrusts all vaccines, someone starts with a narrower, less charged topic the relative is open to, such as a tetanus booster after an injury.",
+      "common_mistakes": [
+        "Opening with the full vision to someone far from it",
+        "Spending effort on the most opposed person first",
+        "Disguising a big ask as a small one, which feels like a trick later",
+        "Stopping after the first small step instead of building on it"
+      ],
+      "steps": [
+        "Estimate how far your ask is from the person's current view",
+        "Break the change into steps that each sit near what they already accept",
+        "Look for an unsticking point: a related issue where they are open to moving",
+        "Start with people in the movable middle",
+        "Build from each accepted step to the next"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "persuasive-structure"},
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "professional", "subcategory": "managing-up"}
+      ],
+      "situations": [
+        "Proposing a large investment to a skeptic",
+        "Building support for an organization-wide change",
+        "Talking with a family member who holds a far-off view"
+      ],
+      "source": {
+        "citation": "Jonah Berger, The Catalyst (2020), Chapter 3: Distance",
+        "underlying_research": "Social judgment theory, latitudes of acceptance and rejection (Sherif and Hovland); book cases include deep canvassing on transgender rights and swing voters.",
+        "urls": [
+          "https://mariashriver.com/the-5-key-roadblocks-to-change/",
+          "https://www.coursera.org/programs/executive-learning-program-zow0d/learn/removing-barriers-to-change"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Social judgment theory and the backfire risk of discrepant messages have research support; the movable middle and unsticking point tactics are practitioner advice shown through cases, and their exact definitions in the book were seen only in summaries.",
+      "flags": ["none"]
+    },
+    {
+      "id": "berger-catalyst-05",
+      "name": "Make It Easy and Safe to Try",
+      "skill_type": "technique",
+      "explanation": "New things carry uncertainty: they might be better, but they might be worse, and that doubt makes people hit pause. Berger's remedy is to lower the cost of trying so people can experience the change for themselves before committing. Examples include free trials and samples, test drives, pilots on a small scope, lenient return policies, and reversible decisions. He notes that generous return policies can increase sales because they remove the risk of buying, and that experience usually persuades more than description.",
+      "when_to_use": "When someone says 'I am not sure it will work here', or when the downside of being wrong is what is holding a decision back.",
+      "worked_example": "A team lead wants to switch her team from weekly status meetings to written async updates, but her manager worries visibility will drop. She proposes a four-week pilot with a clear way back: if the manager feels less informed after four weeks, they return to the meeting. The manager agrees because nothing is lost. After the pilot, the manager keeps the written updates. A friend nervous about joining a climbing gym is invited to a single free beginner session first.",
+      "common_mistakes": [
+        "Asking for a full commitment before people have experienced anything",
+        "Designing a trial too short or too small to show the benefit",
+        "Making the trial hard to exit, which defeats its purpose",
+        "Not agreeing in advance how success will be judged"
+      ],
+      "steps": [
+        "Identify what the person is uncertain about",
+        "Design a small, time-bound, reversible trial",
+        "Agree on how you will judge the result and what happens if it fails",
+        "Make starting easy: remove setup work and upfront cost",
+        "Review together at the end and decide"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "professional", "subcategory": "managing-up"},
+        {"category": "professional", "subcategory": "negotiation"}
+      ],
+      "situations": [
+        "Proposing a pilot of a new way of working",
+        "Selling to a risk-averse customer",
+        "Encouraging a friend to try a new activity"
+      ],
+      "source": {
+        "citation": "Jonah Berger, The Catalyst (2020), Chapter 4: Uncertainty",
+        "underlying_research": "Diffusion of innovations, trialability (Rogers); risk aversion and ambiguity aversion; retail return-policy research cited in the book (not individually verified).",
+        "urls": [
+          "https://mariashriver.com/the-5-key-roadblocks-to-change/",
+          "https://review.firstround.com/pull-dont-push-how-catalysts-overcome-barriers-and-drive-product-adoption"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Trialability is a long-standing predictor of adoption in diffusion research and the advice is widely used; the specific studies the book cites on return policies were not verified.",
+      "flags": ["none"]
+    },
+    {
+      "id": "berger-catalyst-06",
+      "name": "Bring Several Independent Voices",
+      "skill_type": "technique",
+      "explanation": "Sometimes one advocate, however credible, is not enough. A single endorsement leaves a translation problem: the listener wonders whether that person's experience applies to them. Berger's remedy is corroborating evidence: multiple, independent sources pointing the same way, ideally sources similar to the listener, and close together in time so they reinforce one another. He also argues that when resources are scarce, concentrating them on fewer people so each hears from several sources can work better than spreading them thinly.",
+      "when_to_use": "When your own endorsement has been heard and discounted, or the decision maker needs to see that the idea works for people like them.",
+      "worked_example": "An IT manager wants the sales team to adopt a new CRM. Her own recommendation has not moved them. She asks two respected sales reps who piloted it to share their results at the next team meeting, forwards a short note from a peer company's sales director, and schedules all of this in the same week as the rollout announcement. Rather than emailing all 60 reps at once, she starts with one region where the pilot reps work. A person trying to persuade an elderly parent to get hearing aids arranges for the parent to hear from a friend who uses them as well as from the doctor.",
+      "common_mistakes": [
+        "Repeating your own argument more often instead of adding new voices",
+        "Using sources that are not independent, such as several people from the vendor",
+        "Spreading endorsements so thinly over time that they never accumulate",
+        "Choosing endorsers the audience does not identify with"
+      ],
+      "steps": [
+        "Identify who the audience sees as similar to themselves",
+        "Recruit two or three independent people with relevant experience",
+        "Have them reach the audience within a short window",
+        "If resources are limited, concentrate on one group before expanding"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "credibility"},
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "professional", "subcategory": "executive-communication"}
+      ],
+      "situations": [
+        "Driving adoption of new software",
+        "Persuading a parent to accept a health aid",
+        "Building support for a proposal across a department"
+      ],
+      "source": {
+        "citation": "Jonah Berger, The Catalyst (2020), Chapter 5: Corroborating Evidence",
+        "underlying_research": "Social proof and complex contagion research (for example Centola on behaviors that need reinforcement from multiple contacts); book cases include substance abuse counselors and interventions. Specific studies not verified.",
+        "urls": [
+          "https://mariashriver.com/the-5-key-roadblocks-to-change/"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "The direction is consistent with social proof and complex contagion research, but the specific claims (similar sources, concentration in time, concentrating resources) were confirmed only at the level of the author excerpt and are supported in the book mainly by cases.",
+      "flags": ["none"]
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "made-to-stick-08", "relation": "supports", "note": "Letting people test a claim for themselves is echoed in Berger's uncertainty barrier: trials, samples and reversible pilots lower the risk of trying and let experience persuade."},
+    {"insight_id": "connect-09", "relation": "supports", "note": "Berger's reactance chapter argues that asking rather than telling lets people persuade themselves, consistent with delaying advice in favor of inquiry."}
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://mariashriver.com/the-5-key-roadblocks-to-change/",
+      "https://review.firstround.com/pull-dont-push-how-catalysts-overcome-barriers-and-drive-product-adoption"
+    ],
+    "still_unverified": [
+      "Exact definitions of the movable middle and unsticking point in the book (seen only in course and summary snippets).",
+      "Wording of the reactance techniques (provide a menu, ask do not tell, highlight a gap, start with understanding) seen via summary snippets, not the book text.",
+      "Return-policy and resource-concentration studies cited by the book were not checked.",
+      "ISBN not verified this session, left blank."
+    ]
+  },
+  "research_notes": "Read an authorized excerpt of the book's introduction (Maria Shriver's Sunday Paper, with Simon and Schuster permission) and the First Round Review interview in full. Other details from search snippets of summaries (Baylor Keller Center, Pocket, Coursera)."
+}

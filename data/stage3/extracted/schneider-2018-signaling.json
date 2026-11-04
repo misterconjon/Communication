@@ -1,0 +1,119 @@
+{
+  "book": {
+    "title": "A meta-analysis of how signaling affects learning with media",
+    "authors": [
+      "Sascha Schneider",
+      "Maik Beege",
+      "Steve Nebel",
+      "Gunter Daniel Rey"
+    ],
+    "year": 2018,
+    "publisher": "Elsevier (Educational Research Review 23, 1-24)",
+    "edition": "doi 10.1016/j.edurev.2017.11.001",
+    "author_credibility": "Educational psychologists at TU Chemnitz in the multimedia learning and cognitive load tradition; Rey has published widely on instructional design principles. Published in a leading review journal in education.",
+    "evidence_base": "Meta-analysis of studies from 1970 to 2016 (103 studies, about 12,200 participants; 139 comparisons for retention and 70 for transfer) on signaling: cues such as highlighting, color, arrows, labels, headings and other emphasis that direct attention to key information or show its organization in learning materials. Per a Technical University of Munich clearinghouse summary: retention g = 0.53, transfer g = 0.33, lower cognitive load g = 0.25, small motivation gain g = 0.13, learners looked longer at signaled content. Signals in text were especially effective for retention; for pictures, color cues helped transfer while several other cue types did not, and blinking cues harmed transfer; no benefit in mathematics. Most studies were lab studies with university students; only a handful involved adults outside education.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://www.clearinghouse.edu.tum.de/wp-content/uploads/2018/12/CHU_KR-22_-Schneider_2017_Lernmaterial_Hervorhebungen.pdf",
+        "note": "Clearinghouse Unterricht (TU Munich) short review of the meta-analysis with effect-size table, in German"
+      },
+      {
+        "type": "library",
+        "url": "https://doi.org/10.1016/j.edurev.2017.11.001",
+        "note": "Paywalled publisher version"
+      }
+    ],
+    "source_type": "meta-analysis",
+    "book_id": "schneider-2018-signaling",
+    "subtitle": "",
+    "isbn": "",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "schneider-2018-signaling-01",
+      "name": "Point at What Matters: Signal Key Information When You Explain",
+      "skill_type": "technique",
+      "explanation": "When people have to take in complex material, they struggle less to sort what matters from what does not if you mark it for them. Signaling means adding cues that point attention to the key information or reveal how the content is organized: a highlighted phrase, a heading, a color that ties a label to the part of a diagram it describes, an arrow, or a single emphasized number. Across more than a hundred experiments, materials with such cues produced better recall (a moderate effect) and somewhat better ability to apply the content (a small effect), and learners reported slightly lower mental effort. The practical lesson for anyone explaining something, whether a training deck, a process diagram, or a technical walkthrough, is to decide what the few essential pieces are and make them visibly stand out, rather than giving everything equal weight. The evidence also shows the limits: cues help only when they point at what is truly important, distracting cues such as blinking or flashing animation hurt application, effects were weaker for pictures than for text, and nearly all studies were with students learning instructional material, so the benefit for workplace presentations is a reasonable inference rather than a tested result.",
+      "when_to_use": "Training materials and onboarding docs, slides that explain a process or system, diagrams in proposals, technical walkthroughs for non-specialists, and any explanation where the audience must remember or apply several new pieces of information.",
+      "worked_example": "An operations manager is preparing a slide showing the new returns process, a flowchart with eleven boxes. In the first draft every box is the same gray, and in rehearsal colleagues miss the one step that changed. She recolors the two boxes that are new, adds a short label on each ('new: photo required'), removes an animated arrow that pulsed across the slide, and says out loud, 'Two things change; they are in orange.' In the follow-up quiz the team gets the new steps right. At home, a parent writing instructions for a babysitter bolds the two items that truly matter (allergy and bedtime) instead of formatting the whole page equally.",
+      "common_mistakes": [
+        "Highlighting so much that nothing stands out",
+        "Using motion, blinking or flashy transitions as emphasis, which distracts and can hurt understanding",
+        "Signaling decorative or secondary details instead of the essential points",
+        "Assuming a cue that is obvious to you is obvious to the audience; test it on someone new to the material",
+        "Relying on signaling alone for content that needs a different explanation, such as step-by-step math"
+      ],
+      "steps": [
+        "Decide the two or three things the audience must remember or use",
+        "Give each a consistent visual cue (bold, one accent color, a heading or label) and keep everything else plain",
+        "In diagrams, link labels to the parts they describe with color or placement",
+        "Say the structure aloud when presenting ('three changes; the first is...') so spoken and visual cues match",
+        "Remove animations and emphasis that do not point to essential content",
+        "Check with a newcomer whether they can name the key points afterwards"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "message-structures"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        }
+      ],
+      "situations": [
+        "Building a training or onboarding deck",
+        "Explaining a process change with a diagram",
+        "Walking non-specialists through technical material",
+        "Writing instructions for a caregiver or babysitter"
+      ],
+      "source": {
+        "citation": "Schneider, Beege, Nebel and Rey (2018), A meta-analysis of how signaling affects learning with media, Educational Research Review 23, 1-24",
+        "underlying_research": "Cognitive load theory and Mayer's multimedia learning signaling principle. Figures per the Clearinghouse Unterricht (TU Munich) short review, Kurzreview 22. Other signaling meta-analyses (Richter, Scheiter and Eitel 2016; Alpizar, Adesope and Wong 2020) are reported by secondary sources to find smaller but positive effects; not read.",
+        "urls": [
+          "https://doi.org/10.1016/j.edurev.2017.11.001",
+          "https://www.clearinghouse.edu.tum.de/wp-content/uploads/2018/12/CHU_KR-22_-Schneider_2017_Lernmaterial_Hervorhebungen.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "A large meta-analysis of experiments with a moderate effect on recall, which would justify High within instructional settings. Rated Medium for this library because transfer to workplace talks and documents is an inference, adults outside education were barely studied, the effect on applying knowledge is small, and I read a structured secondary summary rather than the paper itself.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "rogers-busy-readers-04",
+      "relation": "supports",
+      "note": "Experimental evidence from learning research that cues marking key content and structure improve recall, and that distracting cues such as blinking can hurt, consistent with using enough formatting but no more."
+    },
+    {
+      "insight_id": "communicate-with-mastery-03",
+      "relation": "supports",
+      "note": "Making the key points visible on the surface of a document is backed by signaling research showing better retention when important information and organization are explicitly cued."
+    },
+    {
+      "insight_id": "think-faster-talk-smarter-07",
+      "relation": "supports",
+      "note": "No study tests What, So What, Now What directly, but signaling research supports the general practice of making a message's structure explicit so the audience can follow and retain it."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.clearinghouse.edu.tum.de/wp-content/uploads/2018/12/CHU_KR-22_-Schneider_2017_Lernmaterial_Hervorhebungen.pdf"
+    ],
+    "still_unverified": [
+      "Effect sizes and study counts are from the TU Munich clearinghouse summary, not checked against the article",
+      "Whether verbal or spoken signals (for example, announced previews in narration) were analyzed separately in the meta-analysis"
+    ]
+  },
+  "research_notes": "Publisher version paywalled and no open copy found (OpenAlex lists it as closed). Read the German clearinghouse short review in full, including its moderator table; a qic-wd.org umbrella summary failed TLS verification. Note that the clearinghouse table shows larger effects for learners with higher prior knowledge, so the candidate-stage idea that signaling helps most with unfamiliar material was not used."
+}

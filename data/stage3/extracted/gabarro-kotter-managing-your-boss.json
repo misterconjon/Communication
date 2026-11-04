@@ -1,0 +1,222 @@
+{
+ "book": {
+  "title": "Managing Your Boss",
+  "subtitle": "",
+  "authors": [
+   "John J. Gabarro",
+   "John P. Kotter"
+  ],
+  "year": 1980,
+  "publisher": "Harvard Business Review",
+  "edition": "HBR January to February 1980; Best of HBR reprint January 2005; HBR Classics paperback 2008",
+  "isbn": "9781422122884",
+  "author_credibility": "Both were Harvard Business School professors; Gabarro studied working relationships and Kotter is a leading scholar of leadership and change. The article is one of HBR's best-selling reprints and a staple of management training.",
+  "evidence_base": "Built on the authors' field research and case work with managers, illustrated with detailed cases (for example a capable new vice president who failed after not managing his relationship with a difficult boss). Not based on controlled studies; consistent with later leader-member exchange and upward influence research.",
+  "legal_access": [
+   {
+    "type": "library",
+    "url": "https://store.hbr.org/product/managing-your-boss-harvard-business-review-classics/2288",
+    "note": "HBR store; also in many library business databases"
+   },
+   {
+    "type": "summary",
+    "url": "https://lmd.lk/upward-management/",
+    "note": "Detailed summary of the article's case, behaviors to avoid and checklist"
+   },
+   {
+    "type": "summary",
+    "url": "https://www.wearethepractitioners.com/index.php/daves-bookshelf/leadership-books/managing-your-boss",
+    "note": "Publisher description of the HBR Classics edition"
+   }
+  ],
+  "source_type": "practitioner article",
+  "book_id": "gabarro-kotter-managing-your-boss",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "gabarro-kotter-managing-your-boss-01",
+   "name": "You and Your Boss Depend on Each Other",
+   "skill_type": "mental model",
+   "explanation": "Gabarro and Kotter recast managing up as ordinary good work, not flattery or manipulation. Your boss needs your cooperation, reliability and honesty; you need your boss for links to the rest of the organization, for priorities, and for resources. Both of you are fallible people with limited time and information, not mind readers or villains. Seeing the relationship as mutual dependence helps you avoid two opposite traps: reflexively resisting your boss's authority and escalating disagreements, or passively going along with decisions you know are wrong when you could have changed your boss's mind. The work of managing the relationship is yours as much as theirs.",
+   "when_to_use": "When a relationship with a new or difficult boss is starting to strain, when you notice yourself either fighting every decision or silently complying, or when you are taking on a role where your success depends on your boss's support.",
+   "worked_example": "A newly promoted team lead finds her director abrupt and controlling and has started arguing with each request in front of the team. Reframing, she notes that the director depends on her to deliver the platform migration and she depends on him for headcount and air cover with finance. She stops contesting decisions publicly, takes disagreements to their one-on-one with data, and asks what would make him comfortable delegating more. Within a month he approves an extra contractor she had argued for unsuccessfully in meetings.",
+   "common_mistakes": [
+    "Treating the boss relationship as purely the boss's job to manage",
+    "Viewing any effort to manage up as political or insincere",
+    "Rebelling against authority by default (counterdependence)",
+    "Complying silently when you know better (overdependence)",
+    "Writing off friction as a mere personality clash"
+   ],
+   "steps": [
+    "List what your boss needs from you and what you need from your boss",
+    "Notice your own default reaction to authority: resisting or deferring",
+    "Pick one disagreement and handle it privately, with evidence and an alternative",
+    "Check whether your boss knows what you need to succeed"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "trust-vulnerability"
+    }
+   ],
+   "situations": [
+    "Starting with a new manager",
+    "Repairing a strained relationship with a boss",
+    "Disagreeing with a manager's decision"
+   ],
+   "source": {
+    "citation": "Gabarro and Kotter, 'Managing Your Boss', Harvard Business Review (January to February 1980; reprinted January 2005 and as an HBR Classic)",
+    "underlying_research": "Authors' field research and case studies; consistent with later leader-member exchange research (not reviewed here).",
+    "urls": [
+     "https://lmd.lk/upward-management/",
+     "https://www.wearethepractitioners.com/index.php/daves-bookshelf/leadership-books/managing-your-boss"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Influential expert guidance from respected researchers based on cases rather than controlled studies; the article itself was not read directly, only detailed summaries and the publisher description.",
+   "flags": [
+    "not-confirmed-in-book"
+   ]
+  },
+  {
+   "id": "gabarro-kotter-managing-your-boss-02",
+   "name": "Diagnose Your Boss, Then Fit Your Style to Theirs",
+   "skill_type": "technique",
+   "explanation": "The core method has two halves. First understand your boss in context: goals and objectives, the pressures they face from above and outside, strengths, weaknesses and blind spots, and preferred working style. One much-cited style difference is how a boss takes in information: some are readers who want a written document to study before discussing, others are listeners who want you to talk it through and send the written version afterward. Some want to be involved in details, others want to delegate and hear only about exceptions. Second, understand yourself: your own strengths, weaknesses, style, and how you tend to react to authority. Then adjust how you work (format, timing, level of detail, how you bring problems) so the two styles fit, or agree openly on a way of working that suits both.",
+   "when_to_use": "When you start working for someone new, when your ideas keep stalling with your boss, or when you notice repeated miscommunication about format, timing or detail.",
+   "worked_example": "An analyst keeps sending her VP long emails with recommendations that go unanswered. She notices the VP decides things in hallway conversations and staff meetings and rarely reads past the first paragraph. She switches to a two-minute verbal summary at their weekly check-in, followed by a short written recap. A colleague with a different VP, who prints and annotates everything, does the opposite: sends a one-page memo the day before and discusses it after. Both get faster decisions.",
+   "common_mistakes": [
+    "Assuming your boss wants information the way you like to receive it",
+    "Studying the boss but ignoring your own style and reactions",
+    "Adapting so far that you hide problems the boss needs to hear",
+    "Labeling the boss and never updating the picture"
+   ],
+   "steps": [
+    "Write down your boss's top goals and current pressures",
+    "Note strengths to lean on and blind spots to cover",
+    "Observe how they prefer information: reading first or hearing first; detail or exceptions",
+    "Assess your own style and your typical reaction to authority",
+    "Change one thing about format or timing and watch the response",
+    "If styles clash, name it and agree on a working arrangement"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    },
+    {
+     "category": "professional",
+     "subcategory": "executive-communication"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "audience-goals"
+    }
+   ],
+   "situations": [
+    "Pitching an idea to your manager",
+    "Working for a new executive",
+    "Choosing between a memo and a conversation"
+   ],
+   "source": {
+    "citation": "Gabarro and Kotter, 'Managing Your Boss', Harvard Business Review (January to February 1980; reprinted January 2005 and as an HBR Classic), checklist for managing your boss",
+    "underlying_research": "Readers versus listeners distinction (credited in summaries to Peter Drucker); authors' case research.",
+    "urls": [
+     "https://lmd.lk/upward-management/",
+     "https://www.wearethepractitioners.com/index.php/daves-bookshelf/leadership-books/managing-your-boss",
+     "https://library.vdot.virginia.gov/guides/hbr-top-25/managing-up"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "The diagnose-boss, diagnose-self, adapt structure is confirmed in multiple summaries and the publisher description. The reader and listener sequencing is consistently reported in secondary summaries but was not checked against the article text. Expert guidance without controlled tests.",
+   "flags": [
+    "not-confirmed-in-book"
+   ]
+  },
+  {
+   "id": "gabarro-kotter-managing-your-boss-03",
+   "name": "Make Expectations Explicit, and Keep No Surprises",
+   "skill_type": "technique",
+   "explanation": "Many boss relationships fail not on competence but on unspoken assumptions about what the boss expects and on information the boss did not get in time. Gabarro and Kotter advise checking expectations rather than guessing them: what results matter most, by when, how often the boss wants updates, and which decisions you can make alone. Then keep the boss informed in the way they prefer, including bad news, be dependable and honest so they can trust what you report, and spend the boss's time and political capital selectively on the issues that truly need them.",
+   "when_to_use": "At the start of a role or project, when priorities shift, and whenever something important is going off track.",
+   "worked_example": "Two weeks into a new role, a project manager asks her boss: 'For the vendor rollout, what does success look like by March, how often do you want updates, and which decisions do you want to make yourself?' She learns the boss cares most about not disrupting the sales team and wants a short Friday note, with a call only for problems. When a vendor slips three weeks in April, she calls the same day with the impact and two options rather than waiting for the Friday note. The boss backs her recommendation with the sales leader.",
+   "common_mistakes": [
+    "Assuming you know what the boss wants because the goal seems obvious",
+    "Waiting until a problem is fixed before mentioning it",
+    "Flooding the boss with every issue, which wastes their time and attention",
+    "Letting expectations drift after priorities change"
+   ],
+   "steps": [
+    "Ask directly about priorities, deadlines, update rhythm and decision rights",
+    "Summarize what you heard in writing and confirm",
+    "Agree how and when bad news should reach the boss",
+    "Report problems early with impact and options",
+    "Save requests for the boss's time for issues only they can resolve",
+    "Revisit expectations when the situation changes"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    },
+    {
+     "category": "professional",
+     "subcategory": "status-updates"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "bad-news"
+    }
+   ],
+   "situations": [
+    "Starting a new role",
+    "Warning a manager about a slipping project",
+    "Agreeing on what you can decide alone"
+   ],
+   "source": {
+    "citation": "Gabarro and Kotter, 'Managing Your Boss', Harvard Business Review (January to February 1980; reprinted January 2005 and as an HBR Classic), checklist for managing your boss",
+    "underlying_research": "Authors' field research and cases.",
+    "urls": [
+     "https://lmd.lk/upward-management/",
+     "https://www.wearethepractitioners.com/index.php/daves-bookshelf/leadership-books/managing-your-boss"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Consistent across summaries of the article and with later research on upward communication; expert guidance, not tested experimentally.",
+   "flags": [
+    "not-confirmed-in-book"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "communicate-with-mastery-01",
+   "relation": "supports",
+   "note": "Applies audience-first analysis to the boss: understand their goals, pressures and how they prefer to receive information (reader or listener) before choosing message and format."
+  },
+  {
+   "insight_id": "connect-12",
+   "relation": "supports",
+   "note": "Gabarro and Kotter's warning against overdependent behavior (passively complying when you know better) parallels the point that the lower-influence person often gives power away."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://lmd.lk/upward-management/",
+   "https://www.wearethepractitioners.com/index.php/daves-bookshelf/leadership-books/managing-your-boss",
+   "https://library.vdot.virginia.gov/guides/hbr-top-25/managing-up",
+   "https://store.hbr.org/product/managing-your-boss-harvard-business-review-classics/2288"
+  ],
+  "still_unverified": [
+   "Exact wording of the reader versus listener passage and its attribution to Drucker",
+   "Full checklist wording; the article text itself was not read"
+  ]
+ },
+ "research_notes": "The article is paywalled at HBR; copies posted on unaffiliated sites appeared unauthorized and were not used. Insights are based on a detailed summary (LMD), the publisher description, and consistent secondary summaries. The VDOT library guide page returned almost no text."
+}

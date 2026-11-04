@@ -1,0 +1,119 @@
+{
+  "book": {
+    "title": "Self-talk as a regulatory mechanism: How you do it matters",
+    "authors": [
+      "Ethan Kross",
+      "Emma Bruehlman-Senecal",
+      "Jiyoung Park",
+      "Aleah Burson",
+      "Adrienne Dougherty",
+      "Holly Shablack",
+      "Ryan Bremner",
+      "Jason Moser",
+      "Ozlem Ayduk"
+    ],
+    "year": 2014,
+    "publisher": "American Psychological Association (Journal of Personality and Social Psychology 106(2), 304-324)",
+    "edition": "doi 10.1037/a0035173",
+    "author_credibility": "Ethan Kross (University of Michigan) and Ozlem Ayduk (UC Berkeley) are leading researchers on self-distancing and emotion regulation; Jason Moser (Michigan State) studies anxiety neuroscience. Kross later popularized the work in the trade book Chatter (2021), a possible incentive to present it favorably.",
+    "evidence_base": "Seven studies (total N = 585). Two proof-of-principle studies showed that referring to yourself by name or as you during introspection increases self-distancing. In a first-impressions task and a public speaking task, the non-first-person group was rated as performing better by objective raters, reported less distress, and (in the speech study) ruminated less afterwards. Two further studies showed non-first-person self-talk led people to appraise upcoming stressors as more of a challenge and less of a threat. An internal meta-analysis found effects were not moderated by trait social anxiety. Mostly university student samples in the lab.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24467424/",
+        "note": "PubMed abstract"
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://scholarworks.umass.edu/psych_faculty_pubs/15",
+        "note": "UMass ScholarWorks repository record (green open access); download was blocked from this environment"
+      }
+    ],
+    "source_type": "peer-reviewed paper",
+    "book_id": "kross-2014",
+    "subtitle": "",
+    "isbn": "",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "kross-2014-01",
+      "name": "Coach Yourself by Name (Distanced Self-Talk)",
+      "skill_type": "technique",
+      "explanation": "How you talk to yourself before a stressful moment matters, down to the pronoun. When people prepared for a speech by thinking about their feelings using their own name or 'you' ('Why is Maria nervous? You have done this before') instead of 'I' ('Why am I nervous?'), they gained a bit of psychological distance, as if advising a friend. In these experiments, that small shift led to speeches that independent raters judged as better, less distress, less replaying of the speech afterwards, and a tendency to see upcoming stressors as challenges rather than threats. The effects held for people high in social anxiety too. For an ordinary professional, it is a tool that costs seconds: before you speak, give yourself a pep talk the way a coach would, using your name or 'you'. Limits: the evidence comes mainly from student lab studies with modest samples per study, and it is best treated as a promising, low-cost aid rather than a guaranteed fix.",
+      "when_to_use": "In the minutes before a presentation, interview, or tense conversation, when you notice your inner voice spiraling ('I am going to mess this up'), and afterwards if you catch yourself replaying what went wrong.",
+      "worked_example": "Waiting to be called into a panel interview, Daniel notices his thoughts looping: 'I always freeze on technical questions.' He switches to coaching mode, silently: 'Daniel, you have answered these questions in three rounds already. If you blank, you pause, ask them to repeat it, and walk through your reasoning.' The situation is the same, but it now feels like a problem he is managing rather than one swallowing him. That evening, instead of replaying a weak answer, he asks: 'What would you tell a friend who gave that answer?' and writes one note for next time. A nervous parent before a parent-teacher conference can use the same move.",
+      "common_mistakes": [
+        "Using distanced self-talk to criticize yourself harshly; the point is the supportive perspective of a coach or friend",
+        "Saying it out loud in a setting where it would distract or seem odd; silent self-talk works",
+        "Expecting it to replace preparation or practice",
+        "Abandoning it after one try; it is a habit of perspective, not a one-time trick"
+      ],
+      "steps": [
+        "Notice first-person spiraling ('I can't', 'I always')",
+        "Restate the situation using your name or 'you'",
+        "Ask a coaching question: what does [name] need to do right now?",
+        "Answer it the way you would advise a friend, with one or two concrete actions",
+        "After the event, use the same distanced voice to review it briefly, then let it go"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        }
+      ],
+      "situations": [
+        "Before a job interview",
+        "Before presenting to a large group",
+        "After a talk you think went badly",
+        "Before a parent-teacher conference"
+      ],
+      "source": {
+        "citation": "Kross, Bruehlman-Senecal, Park, Burson, Dougherty, Shablack, Bremner, Moser and Ayduk (2014), Self-talk as a regulatory mechanism: How you do it matters, Journal of Personality and Social Psychology 106(2), 304-324 (Studies 2, 3 and 6)",
+        "underlying_research": "Self-distancing research by Kross and Ayduk; popular treatment in Ethan Kross, Chatter (Crown, 2021).",
+        "urls": [
+          "https://pubmed.ncbi.nlm.nih.gov/24467424/",
+          "https://doi.org/10.1037/a0035173"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Seven studies in a top journal with objective performance raters and an internal meta-analysis, plus a later ERP replication of the distanced self-talk effect on emotional arousal (different task). Rated Medium because the speech evidence comes from student lab samples, I read only the abstract, and I found no independent replication specifically of the public speaking performance effect.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "think-faster-talk-smarter-02",
+      "relation": "supports",
+      "note": "Gives experimental backing to holding nerves at a psychological distance: non-first-person self-talk before a speech improved rater-judged performance and reduced distress and post-speech rumination."
+    },
+    {
+      "insight_id": "think-faster-talk-smarter-05",
+      "relation": "supports",
+      "note": "Distanced self-talk led people to appraise upcoming stressors as challenges rather than threats, a concrete way to move from threat to opportunity framing."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://api.openalex.org/works/doi:10.1037/a0035173",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1037/a0035173&resultType=core&format=json",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:35568270&resultType=core&format=json"
+    ],
+    "still_unverified": [
+      "Effect sizes and sample sizes of the individual speech study (Study 3) not read",
+      "Whether later independent work found smaller or more variable effects for name-based self-talk on speaking performance"
+    ]
+  },
+  "research_notes": "Abstract read via OpenAlex and Europe PMC. The UMass green open-access copy exists but downloads failed (connection reset and a redirect to a help page). Search found a 2022 ERP replication of distanced self-talk on negative images (PubMed 35568270, abstract level) but no public speaking replication."
+}

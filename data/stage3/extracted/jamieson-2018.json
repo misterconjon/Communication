@@ -1,0 +1,137 @@
+{
+  "book": {
+    "title": "Optimizing stress responses with reappraisal and mindset interventions: an integrated model",
+    "authors": [
+      "Jeremy P. Jamieson",
+      "Alia J. Crum",
+      "J. Parker Goyer",
+      "Marisa E. Marotta",
+      "Modupe Akinola"
+    ],
+    "year": 2018,
+    "publisher": "Taylor and Francis (Anxiety, Stress and Coping 31(3), 245-261)",
+    "edition": "doi 10.1080/10615806.2018.1442615",
+    "author_credibility": "Jamieson (University of Rochester) leads arousal reappraisal research; Crum (Stanford) developed the stress mindset measure and interventions; Akinola (Columbia Business School) studies stress and performance at work. As originators of the interventions they review, they have an interest in favorable conclusions; Jamieson has separately cautioned that reappraisal is not a silver bullet.",
+    "evidence_base": "Integrative review proposing a combined model. Rests on randomized lab and classroom experiments: Jamieson, Nock and Mendes (2012), in which instructions to view stress arousal as functional produced more efficient cardiovascular responses and less attention to negative information than two control conditions; Crum, Salovey and Achor (2013), in which short videos shifted stress mindsets and an enhancing mindset was associated with moderate cortisol reactivity and more desire for feedback. Theory is the biopsychosocial model of challenge and threat. Later large-scale support came from Yeager and colleagues (2022, Nature): six double-blind randomized experiments with US students in which a roughly 30-minute online module combining growth and stress-can-be-enhancing mindsets improved stress appraisals, cardiovascular reactivity and anxiety symptoms, with benefits depending on addressing both mindsets.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1080/10615806.2018.1442615&resultType=core",
+        "note": "Full abstract via Europe PMC"
+      },
+      {
+        "type": "interview",
+        "url": "https://www.brainfacts.org/diseases-and-disorders/mental-health/2018/what-is-stress-resilience-and-can-it-be-learned-071018",
+        "note": "Jamieson explains challenge versus threat and stress reappraisal (BrainFacts.org, 2018)"
+      },
+      {
+        "type": "summary",
+        "url": "https://digitalcommons.fairfield.edu/psychology-facultypubs/49",
+        "note": "Abstract of the Jamieson et al. reply on arousal reappraisal (Emotion Review, 2018)"
+      }
+    ],
+    "source_type": "review article",
+    "book_id": "jamieson-2018",
+    "subtitle": "",
+    "isbn": "",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "jamieson-2018-01",
+      "name": "Use the Racing Heart as Fuel: Reappraise Arousal, Don't Fight It",
+      "skill_type": "technique",
+      "explanation": "Most advice treats stress as something to reduce. This review argues that before a high-stakes moment you usually cannot remove the stressor, and trying to suppress the body's response often fails, so a better goal is to optimize the response. Two tools work together. Arousal reappraisal changes what you take your body's signals to mean: a pounding heart and fast breathing are your body mobilizing energy and oxygen to help you perform, not a sign that you are about to fail. Stress mindset changes your general belief about stress, from 'stress is harmful' to 'stress can be enhancing'. The mechanism is the challenge versus threat distinction. When you judge that your resources match the demands, your body shows a challenge pattern (efficient heart output, open blood vessels) linked to better performance; when demands seem to outstrip resources, you get a threat pattern with a longer-lasting hormonal stress response. Reappraisal does not aim to make you calm. It aims to turn threat into challenge while keeping the energy. Effects in experiments are typically small to moderate, and the authors stress that it is not a cure-all.",
+      "when_to_use": "In the minutes before a presentation, interview, negotiation, exam or difficult conversation, when you notice the physical signs of stress and your instinct is to try to calm down or to read them as a bad omen. Also as a standing belief to build over time if you tend to see all stress as damaging.",
+      "worked_example": "A finance analyst is about to present a budget variance to the CFO and feels her heart racing in the elevator. Her old script was 'calm down, you are panicking', which never worked. Now she tells herself: 'This is my body getting ready. More blood and oxygen are going to my brain, and that helps me think on my feet.' She keeps the energy, walks in, and uses it to speak with pace rather than trying to force a flat calm. At home, a father who feels his stomach tighten before talking with his teenager about a bad report card tells himself the tension means the conversation matters to him, and uses it to stay engaged rather than avoiding the talk.",
+      "common_mistakes": [
+        "Making calm the goal, which sets up a fight with your own body that you usually lose",
+        "Treating reappraisal as pretending you are not stressed; it acknowledges the arousal and reinterprets its purpose",
+        "Using it when demands genuinely exceed your resources (you have not prepared at all); reappraisal works best alongside real preparation",
+        "Expecting it to work for everyone or every time; effects are modest and vary by person and setting",
+        "Pairing it with power posing, which has weak evidence"
+      ],
+      "steps": [
+        "Notice the physical signs of stress without judging them",
+        "Name their function to yourself: my body is mobilizing energy to help me perform",
+        "Remind yourself of the resources you bring (preparation, experience, people who can help) to tip the balance toward challenge",
+        "Keep the energy rather than trying to suppress it, and direct it into pace, emphasis and attention to the audience",
+        "Over time, collect examples of stress that helped you (a deadline that sharpened your work) to build a stress-can-be-enhancing mindset"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "professional",
+          "subcategory": "negotiation"
+        }
+      ],
+      "situations": [
+        "Right before presenting to senior leaders",
+        "Waiting outside a job interview",
+        "Before a negotiation or salary conversation",
+        "Before a hard conversation with a family member"
+      ],
+      "source": {
+        "citation": "Jamieson, Crum, Goyer, Marotta and Akinola (2018), Optimizing stress responses with reappraisal and mindset interventions: an integrated model, Anxiety, Stress and Coping 31(3), 245-261",
+        "underlying_research": "Jamieson, Nock and Mendes (2012), Journal of Experimental Psychology: General 141(3), 417-422; Crum, Salovey and Achor (2013), Journal of Personality and Social Psychology 104(4), 716-733; Crum, Jamieson and Akinola (2020), Emotion 20(1), 120-125; Yeager et al. (2022), A synergistic mindsets intervention protects adolescents from stress, Nature 607, 512-520.",
+        "urls": [
+          "https://doi.org/10.1080/10615806.2018.1442615",
+          "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3410434/",
+          "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9258473/",
+          "https://www.brainfacts.org/diseases-and-disorders/mental-health/2018/what-is-stress-resilience-and-can-it-be-learned-071018"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Supported by multiple randomized experiments with physiological outcomes, plus a later set of six preregistered double-blind trials with US students for the combined mindset approach. Rated Medium rather than High because effects are small to moderate, most samples are students in lab or school settings rather than working adults, the review is written by the interventions' originators, and I read only the abstract and related open sources rather than the full review.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "think-faster-talk-smarter-03",
+      "relation": "qualifies",
+      "note": "Gives the mechanism and stronger physiological evidence behind relabeling nerves: reinterpreting arousal as a functional resource shifts the body toward a challenge pattern. The active ingredient is the meaning given to bodily signals, not only the word excited."
+    },
+    {
+      "insight_id": "communicate-with-mastery-19",
+      "relation": "qualifies",
+      "note": "Supports the reappraisal half of the advice with randomized evidence while giving no support to the posture half; the recommended alternative to power posing is arousal reappraisal plus a stress-can-be-enhancing mindset."
+    },
+    {
+      "insight_id": "think-faster-talk-smarter-02",
+      "relation": "qualifies",
+      "note": "Slow breathing and grounding remain useful, but this review argues the goal should be an energized challenge state rather than calm; trying to eliminate arousal is often less effective than reinterpreting it."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1080/10615806.2018.1442615&resultType=core&format=json",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1037/a0025719&resultType=core&format=json",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1037/a0031201&resultType=core&format=json",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1037/emo0000670&resultType=core&format=json",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9258473/fullTextXML",
+      "https://www.brainfacts.org/diseases-and-disorders/mental-health/2018/what-is-stress-resilience-and-can-it-be-learned-071018",
+      "https://digitalcommons.fairfield.edu/psychology-facultypubs/48",
+      "https://digitalcommons.fairfield.edu/psychology-facultypubs/49"
+    ],
+    "still_unverified": [
+      "Full text of the 2018 review not read; specific components of the integrated model beyond the abstract are not confirmed",
+      "Whether the Jamieson, Nock and Mendes (2012) stress task included a public speech (commonly described as the Trier Social Stress Test) was not confirmed from the abstract"
+    ]
+  },
+  "research_notes": "Full review is paywalled (no open copy found; PMC pages returned a captcha). Read the review abstract, abstracts of the core experiments (Jamieson 2012, Crum 2013), the Crum, Jamieson and Akinola (2020) companion abstract, the Yeager et al. (2022) Nature abstract, Jamieson's BrainFacts interview, and two Fairfield repository abstracts. One new insight, framed as the mechanism-level upgrade to the existing excitement reframe rather than a restatement of it."
+}

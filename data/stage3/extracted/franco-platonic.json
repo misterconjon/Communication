@@ -1,0 +1,220 @@
+{
+  "book": {
+    "book_id": "franco-platonic",
+    "title": "Platonic",
+    "subtitle": "How the Science of Attachment Can Help You Make and Keep Friends",
+    "authors": [
+      "Marisa G. Franco"
+    ],
+    "year": 2022,
+    "publisher": "G.P. Putnam's Sons (Penguin Random House)",
+    "edition": "First edition, 2022",
+    "isbn": "9780593331897",
+    "author_credibility": "Franco holds a PhD in counseling psychology from the University of Maryland, where she has taught as an assistant clinical professor; she writes for Psychology Today and the book was a New York Times bestseller. She is a practitioner-synthesizer rather than a primary friendship researcher.",
+    "evidence_base": "Practitioner synthesis citing friendship and social psychology research (for example the liking gap and Hall's time research) organized around attachment theory. The attachment framing is applied more confidently than friendship-specific evidence allows; individual claims should be traced to primary studies.",
+    "legal_access": [
+      {
+        "type": "interview",
+        "url": "https://www.npr.org/transcripts/1122234731",
+        "note": "NPR Life Kit segment with Franco (2022) transcript; read in full."
+      },
+      {
+        "type": "interview",
+        "url": "https://terp.umd.edu/how-to-make-friends-as-an-adult-and-keep-them",
+        "note": "University of Maryland Terp magazine piece with Franco's advice; read in full."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.panmacmillan.co.za/authors/marisa-g-franco-phd/43045",
+        "note": "Publisher author page; seen in Stage 3 assessment."
+      }
+    ],
+    "source_type": "book",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "franco-platonic-01",
+      "name": "Don't Wait for Friendship: Repeated Contact and Shooting Your Shot",
+      "skill_type": "technique",
+      "explanation": "Franco's starting point is that adults who assume friendship will happen on its own tend to become lonelier over time; adult life no longer provides the daily, repeated contact of school. Her prescription has three parts. First, put yourself in situations with repeated contact with the same people (a weekly class, team or volunteer shift) rather than one-off events like networking mixers, because familiarity builds liking. Second, go in assuming people will like you: research on the liking gap shows people underestimate how much new acquaintances like them, and expecting rejection makes people act colder, which then invites rejection. Third, take initiative explicitly: say you enjoyed talking, suggest exchanging contact details, and follow up yourself rather than waiting to be invited.",
+      "when_to_use": "After relocating, changing jobs, or when your friendship circle has thinned; when you feel awkward reaching out first.",
+      "worked_example": "A recently divorced father joins a Tuesday-night pickup basketball group instead of going to occasional parent mixers. By the fourth week he recognizes the same faces. After a game he tells one player, 'This has been the best part of my week. Want to grab a beer after next Tuesday?' He sends the follow-up text himself the next day instead of waiting.",
+      "common_mistakes": [
+        "Relying on one-off events where you never see the same people twice",
+        "Reading normal first-time awkwardness as a sign you are not welcome",
+        "Waiting for the other person to initiate",
+        "Giving up after one unreturned message"
+      ],
+      "steps": [
+        "Join something that meets regularly with the same people",
+        "Keep going past the awkward first few sessions",
+        "Assume the other person likes you more than you think",
+        "Say explicitly that you would like to connect again and exchange details",
+        "Initiate the next plan yourself"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "small-talk"
+        }
+      ],
+      "situations": [
+        "New in a city",
+        "After a divorce or breakup",
+        "Friend group scattered after kids or a move"
+      ],
+      "source": {
+        "citation": "Marisa G. Franco, Platonic: How the Science of Attachment Can Help You Make and Keep Friends (G.P. Putnam's Sons, 2022); NPR Life Kit interview (2022); Terp magazine (Fall 2022)",
+        "underlying_research": "Liking-gap research (Boothby, Cooney, Sandstrom and Clark, 2018) and mere-exposure research are cited in her advice; the specific study linking belief in organic friendship to later loneliness was not identified.",
+        "urls": [
+          "https://www.npr.org/transcripts/1122234731",
+          "https://terp.umd.edu/how-to-make-friends-as-an-adult-and-keep-them"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Franco's advice is confirmed in her own words in interviews and rests partly on solid research (the liking gap, repeated exposure). The claim that believing friendship happens organically predicts loneliness was not traced to a primary study.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "franco-platonic-02",
+      "name": "Dynamic Safety: Raise Issues With Friends by Leading With Value",
+      "skill_type": "technique",
+      "explanation": "Many people avoid raising problems with friends to keep the peace, but Franco, borrowing from psychoanalyst Virginia Goldner, contrasts two kinds of safety. Flaccid safety means a friendship feels calm because nobody ever brings anything up; it creates the illusion everything is fine while resentment builds and people quietly drift away. Dynamic safety means the friendship feels secure because you have had ruptures and repaired them, so you trust it can survive problems. To raise an issue, start by saying how much you value the friendship, so the friend hears investment rather than attack; describe how you felt using 'I' statements; ask for their experience of what happened; say what you would like going forward; and own your part.",
+      "when_to_use": "When a friend has repeatedly canceled, said something hurtful, or let you down, and you are tempted to just see them less.",
+      "worked_example": "A man's oldest friend has canceled on him three times in two months, most recently the morning of a planned hike. Rather than quietly stopping invitations, he calls: 'You're one of my closest friends and I don't want this to turn into distance between us. I felt pretty brushed off when Saturday got canceled. What's been going on for you?' The friend admits he has been overwhelmed with a new baby and embarrassed to say so. They agree on shorter, closer-to-home plans, and the man acknowledges he had been planning all-day outings that were hard to commit to.",
+      "common_mistakes": [
+        "Fading out of a friendship instead of naming the problem",
+        "Opening with the complaint so the friend feels attacked",
+        "Assuming you know why they did it rather than asking",
+        "Bringing a list of past grievances at once"
+      ],
+      "steps": [
+        "Decide the friendship matters enough to raise it",
+        "Open by stating that you value the friendship",
+        "Describe the specific event and your feeling with 'I' statements",
+        "Ask for their side and listen",
+        "Say what you would like in future and own your part"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
+      ],
+      "situations": [
+        "Friend who keeps canceling",
+        "Hurtful comment from a close friend",
+        "Friendship drifting after a life change"
+      ],
+      "source": {
+        "citation": "Marisa G. Franco, Platonic: How the Science of Attachment Can Help You Make and Keep Friends (G.P. Putnam's Sons, 2022); NPR Life Kit interview (2022)",
+        "underlying_research": "Virginia Goldner's distinction between flaccid and dynamic safety; rupture and repair concepts from attachment and psychotherapy research. No friendship-specific trial evidence identified.",
+        "urls": [
+          "https://www.npr.org/transcripts/1122234731"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The steps are confirmed in Franco's interview and are consistent with broader relationship research on direct communication and repair, but evidence specific to friendships is thin and the book is a single-author synthesis.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "franco-platonic-03",
+      "name": "Honest Mixed Feelings Beat Fake Cheer",
+      "skill_type": "technique",
+      "explanation": "When a friend's good news touches a sore spot (their child got into the college yours did not, they got engaged after your breakup), the two easy reactions are to downplay their news or to fake delight. Franco suggests a third option: be glad for them and honest about your own difficulty in the same breath, for example 'I'm really happy for you, and it's also a little hard for me because of what happened with us.' Naming both feelings keeps you authentic and tends to deepen trust, whereas performed enthusiasm or a subtle put-down quietly erodes it. Franco also counts sharing joy and affection, not only pain, as forms of vulnerability that bring friends closer.",
+      "when_to_use": "When a friend shares news you have complicated feelings about; when you notice yourself about to minimize their win.",
+      "worked_example": "Two friends both applied for the same fellowship and only one got it. The friend who did not says, 'I'm genuinely proud of you, and I'm also bummed about my own result, so give me a day to be sad.' The next week she asks all about the program. The friendship stays intact because neither has to pretend.",
+      "common_mistakes": [
+        "Belittling the friend's achievement to ease your own sting",
+        "Performing enthusiasm you do not feel, which can come across as hollow",
+        "Making the moment entirely about your disappointment",
+        "Withdrawing without explanation"
+      ],
+      "steps": [
+        "Lead with real gladness for them",
+        "Briefly and honestly name your own difficulty",
+        "Keep the focus mostly on them in that moment",
+        "Follow up later with full, engaged interest in their news"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        }
+      ],
+      "situations": [
+        "Friend's good news touches a sore spot",
+        "Sibling's milestone you have not reached",
+        "Peer promoted over you"
+      ],
+      "source": {
+        "citation": "Marisa G. Franco, Platonic: How the Science of Attachment Can Help You Make and Keep Friends (G.P. Putnam's Sons, 2022); Terp magazine (Fall 2022)",
+        "underlying_research": "Author's clinical and practitioner guidance; no specific study identified.",
+        "urls": [
+          "https://terp.umd.edu/how-to-make-friends-as-an-adult-and-keep-them"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "Plausible and confirmed as Franco's advice in a university interview, but rests on a single illustrative example and practitioner judgment. It sits in some tension with active-constructive responding (gable-2004-01), which emphasizes enthusiasm; the two fit together if the honest note is brief and the main response stays engaged.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "talk-wood-brooks-10",
+      "relation": "supports",
+      "note": "Franco's first friendship tip is explicit platonic affection (telling friends what they mean to you, saying you are glad to hear from them), the friendship form of giving the compliments people hold back."
+    },
+    {
+      "insight_id": "connect-05",
+      "relation": "supports",
+      "note": "Franco's dynamic-safety framing applies pinches-before-crunches to friendships: avoiding issues gives only the illusion of calm, while raising and repairing them builds a sturdier bond."
+    },
+    {
+      "insight_id": "connect-02",
+      "relation": "supports",
+      "note": "Franco treats vulnerability with friends as broader than painful disclosure, including sharing joy and affection, which fits stretching gradually into the learning zone."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.npr.org/transcripts/1122234731",
+      "https://terp.umd.edu/how-to-make-friends-as-an-adult-and-keep-them",
+      "https://www.npr.org/1120550646"
+    ],
+    "still_unverified": [
+      "Chapter locations of each idea in the book (book text not read)",
+      "Primary study behind the claim that assuming friendship happens organically predicts loneliness",
+      "Attachment-based guidance from the book (reading friends' silence through attachment lenses) was not confirmed in sources read and was not extracted"
+    ]
+  },
+  "research_notes": "Relied on Franco's own interviews (NPR transcript, UMD Terp magazine). The liking-gap claim overlaps the Boothby et al. (2018) paper being extracted by the conversations agent; orchestrator should link rather than duplicate."
+}

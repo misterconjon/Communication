@@ -1,0 +1,170 @@
+{
+ "book": {
+  "title": "Do We Really Need Another Meeting? The Science of Workplace Meetings",
+  "subtitle": "",
+  "authors": [
+   "Joseph E. Mroz",
+   "Joseph A. Allen",
+   "Dana C. Verhoeven",
+   "Marissa L. Shuffler"
+  ],
+  "year": 2018,
+  "publisher": "SAGE for the Association for Psychological Science (Current Directions in Psychological Science)",
+  "edition": "doi 10.1177/0963721418776307",
+  "isbn": "",
+  "author_credibility": "Allen (then University of Nebraska Omaha) and Shuffler (Clemson) are prominent meeting and team researchers; Allen coedited the Cambridge Handbook of Meeting Science with Rogelberg. Their closeness to Rogelberg means this is not fully independent of his work, though it draws on many other research groups.",
+  "evidence_base": "Short review drawing on almost 200 articles from the preceding decade, organized by before, during and after the meeting, ending in an evidence-linked checklist. Underlying studies are mostly surveys and observational coding of recorded meetings, with a few experiments (for example on lateness); the authors themselves call for more behavioral and theoretical work.",
+  "legal_access": [
+   {
+    "type": "author excerpt",
+    "url": "https://par.nsf.gov/servlets/purl/10086888",
+    "note": "Open-access accepted manuscript via NSF Public Access Repository (full text read)"
+   }
+  ],
+  "source_type": "review article",
+  "book_id": "mroz-allen-2018-meetings",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "mroz-allen-2018-meetings-01",
+   "name": "Before, During, After: The Meeting Science Checklist",
+   "skill_type": "framework",
+   "explanation": "Meeting researchers find that most of what makes a meeting good or bad is decided outside the discussion itself, so it helps to think in three phases. Before: meet only when the purpose needs live discussion, problem solving, or a decision (routine information can be shared another way), set specific goals, keep attendance to those whose expertise is needed, match length to the goals, and circulate an agenda early enough that people can prepare. During: start on time, follow the agenda, keep attention on the meeting rather than email, invite everyone to contribute, and be honest about decision rights (if the decision is already made, say so rather than staging a discussion). After: send notes with decisions, owners and deadlines promptly, and periodically ask attendees how the meetings are working. The review ties each item to published studies and notes that satisfaction with meetings is related to overall job satisfaction.",
+   "when_to_use": "Designing a new recurring meeting, auditing an existing one, or preparing to lead a one-off decision meeting; also as an attendee checklist (read the agenda, arrive on time, stay present).",
+   "worked_example": "A newly promoted engineering manager inherits four recurring meetings. Using the three phases, she cancels a weekly status meeting in favor of a written update with a short monthly Q&A, turns the planning meeting into a 40-minute session with a pre-read sent two days ahead, and tells the team at the start of one meeting that the budget decision has been made upstream and the discussion is about how to implement it. She sends a five-line recap within an hour of each meeting. In her neighborhood association she applies the same after-step and the follow-through on volunteer tasks improves noticeably.",
+   "common_mistakes": [
+    "Calling a meeting to share information nobody needs to discuss",
+    "Sending the agenda minutes before the meeting, so no one can prepare",
+    "Asking for input on a decision that has already been made",
+    "Ending without owners and deadlines, or never sending notes",
+    "Never checking whether attendees find the meeting worthwhile"
+   ],
+   "steps": [
+    "Before: decide whether a meeting is needed and what it must produce",
+    "Before: invite only needed expertise, size the time to the goals, send the agenda early",
+    "During: start on time, follow the agenda, encourage every voice",
+    "During: state who decides and whether the decision is open",
+    "After: send decisions, owners and deadlines promptly",
+    "After: ask attendees periodically what to keep, cut or change"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "professional",
+     "subcategory": "status-updates"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    }
+   ],
+   "situations": [
+    "Auditing a recurring meeting",
+    "Running a decision meeting",
+    "Following up after a planning session"
+   ],
+   "source": {
+    "citation": "Mroz, Allen, Verhoeven and Shuffler, 'Do We Really Need Another Meeting? The Science of Workplace Meetings', Current Directions in Psychological Science (2018), Table 3 checklist and sections on before, during and after meetings",
+    "underlying_research": "Leach, Rogelberg, Warr and Burnfield (2009) and Cohen, Rogelberg, Allen and Luong (2011) on design characteristics; Mroz and Allen (2017) and Allen, Lehmann-Willenbrock and Rogelberg (2018) on lateness; Rogelberg et al. (2010) on meeting and job satisfaction; Allen and Rogelberg (2013) on engagement.",
+    "urls": [
+     "https://par.nsf.gov/servlets/purl/10086888",
+     "https://socialsciencespace.com/?p=32122"
+    ]
+   },
+   "confidence": "High",
+   "confidence_rationale": "A peer-reviewed review of a sizable literature by active researchers, with each checklist item linked to a study. Most underlying evidence is correlational survey data, so individual items are better read as well-supported practices than proven causal levers.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "mroz-allen-2018-meetings-02",
+   "name": "Stop the Complaining Spiral Early",
+   "skill_type": "technique",
+   "explanation": "Coding of recorded team meetings has shown that complaining is contagious: once someone voices a futility statement (the review's examples are along the lines of 'nothing can be done' or 'nothing works'), others tend to follow with their own complaints, and teams whose meetings show these complaining cycles perform worse. Raising a real problem is different: people who bring up genuine process problems in a meeting feel less negative about their work the next day. The practical move for whoever leads is to welcome the specific problem but not join or extend the general complaint, and to steer quickly back to what the group can act on.",
+   "when_to_use": "When a discussion turns into a round of grievances, especially in retrospectives, budget meetings, or after bad news.",
+   "worked_example": "In a retrospective after a missed deadline, one engineer says the release process is hopeless and two others pile on. The lead says, 'That is a real frustration. Let's pin down the one step that cost us the most time this sprint,' writes it on the board, and asks for one change the team controls. The discussion moves to a fix for the handoff step. In a family meeting about chores, a parent does the same when complaints about a sibling start snowballing.",
+   "common_mistakes": [
+    "Joining the complaint to show solidarity",
+    "Shutting down every problem, which teaches people to stay silent",
+    "Letting a futility statement go unchallenged as the meeting's first comment",
+    "Responding with a lecture rather than a question about what can be done"
+   ],
+   "steps": [
+    "Notice the first sweeping, futility-style complaint",
+    "Acknowledge the frustration briefly",
+    "Ask for the specific problem behind it",
+    "Ask what the group can change or who could act",
+    "Return to the agenda question"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    }
+   ],
+   "situations": [
+    "Running a retrospective",
+    "Handling a gripe session in a team meeting",
+    "Keeping a budget discussion constructive"
+   ],
+   "source": {
+    "citation": "Mroz, Allen, Verhoeven and Shuffler, 'Do We Really Need Another Meeting? The Science of Workplace Meetings', Current Directions in Psychological Science (2018), Table 3 checklist and sections on before, during and after meetings, during-meeting section",
+    "underlying_research": "Kauffeld and Lehmann-Willenbrock (2012, Small Group Research), interaction coding of team meetings linked to team and organizational outcomes; Starzyk, Sonnentag and Albrecht (2018) on raising problems.",
+    "urls": [
+     "https://par.nsf.gov/servlets/purl/10086888"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Based on detailed behavioral coding of real meetings with later performance data, but in a limited number of studies and organizations; the link is correlational and the specific intervention (redirecting) has not been experimentally tested.",
+   "flags": [
+    "unreplicated"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "humor-seriously-14",
+   "relation": "supports",
+   "note": "The review summarizes Lehmann-Willenbrock and Allen (2014), where humor and laughter patterns in recorded team meetings triggered constructive behaviors such as proposing solutions and predicted team performance, including two years later."
+  },
+  {
+   "insight_id": "supercommunicators-06",
+   "relation": "supports",
+   "note": "The review's checklist tells leaders to actively encourage everyone to participate and to intervene when communication patterns become dysfunctional, consistent with the finding that dominant talkers reduce group alignment."
+  },
+  {
+   "insight_id": "rogelberg-meetings-03",
+   "relation": "supports",
+   "note": "Independent review checklist item: keep meetings small and limited to people whose expertise is required (sibling extraction from this batch)."
+  },
+  {
+   "insight_id": "rogelberg-meetings-02",
+   "relation": "qualifies",
+   "note": "The review stresses circulating an agenda in advance and attendees reading it; Rogelberg's point is that agenda content and facilitation, not mere existence, drive effectiveness (sibling extraction from this batch)."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://par.nsf.gov/servlets/purl/10086888",
+   "https://socialsciencespace.com/?p=32122"
+  ],
+  "still_unverified": [
+   "Journal volume and page numbers (DOI confirmed from manuscript)"
+  ]
+ },
+ "research_notes": "Read the full accepted manuscript from the NSF repository. Lateness, complaining, minutes and participation are covered as items within the checklist insight rather than as separate thin insights."
+}

@@ -1,0 +1,120 @@
+{
+  "book": {
+    "title": "Psychological Interventions for the Fear of Public Speaking: A Meta-Analysis",
+    "authors": [
+      "Omid V. Ebrahimi",
+      "Stale Pallesen",
+      "Robin M. F. Kenter",
+      "Tine Nordgreen"
+    ],
+    "year": 2019,
+    "publisher": "Frontiers Media (Frontiers in Psychology 10, article 488)",
+    "edition": "doi 10.3389/fpsyg.2019.00488",
+    "author_credibility": "Clinical psychology researchers at the University of Bergen and Haukeland University Hospital, Norway, with a track record in internet-delivered treatment for anxiety. The review was preregistered on PROSPERO and restricted to randomized controlled trials. Some authors work on technology-delivered treatment, a possible interest in the finding that such delivery works as well as face to face.",
+    "evidence_base": "Meta-analysis of 30 randomized controlled trials (1,355 participants, 62 intervention arms) found through four databases. Most arms were cognitive or behavioral (desensitization, relaxation, cognitive behavioral therapy, exposure). Pooled post-treatment effect on fear of public speaking g = 0.74 with low to moderate heterogeneity, robust against both active and waitlist controls; follow-up effect g = 1.11; small further improvement after treatment ended (g = 0.20, adjusted for possible publication bias to 0.12). Self-report effects were larger than behavioral and physiological ones. Limitations noted by the authors: older trials with unclear risk of bias, mostly completers-only data, some signs of publication bias, only seven technology-delivered arms, and almost no adolescent samples.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00488",
+        "note": "Open-access full text (CC BY)"
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6428748/",
+        "note": "PubMed Central copy of the full text"
+      }
+    ],
+    "source_type": "meta-analysis",
+    "book_id": "ebrahimi-2019",
+    "subtitle": "",
+    "isbn": "",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "ebrahimi-2019-01",
+      "name": "Train the Fear Out With a Structured Practice Plan",
+      "skill_type": "technique",
+      "explanation": "Fear of public speaking is the most commonly feared social situation, yet it responds well to structured psychological programs. Across 30 randomized trials, people who went through a program (most of them cognitive and behavioral: repeated speaking practice, desensitization, relaxation training, and challenging catastrophic predictions) ended up substantially less afraid than control groups, with a moderate to large average effect. The benefit held at follow-up and on average kept growing slightly after the program ended, consistent with people continuing to use what they practiced. Programs delivered through apps, the internet, or virtual reality did about as well as face-to-face ones, although only seven such arms were tested. The practical takeaway for an ordinary professional is that one-off tips are not the main lever: a deliberate, repeated plan of speaking practice combined with rethinking your fearful predictions is what the strongest evidence supports. Two limits matter. Felt fear dropped more than outward, observable signs of anxiety, so expect the inner shift before others see a change. And the meta-analysis compared programs, not ingredients, so it cannot say which single component does the work.",
+      "when_to_use": "When speaking anxiety is persistent rather than occasional: you avoid presenting, turn down visible roles, or dread routine meetings for days beforehand. Also when you are coaching a team member whose fear is holding back their career.",
+      "worked_example": "A product manager who avoids presenting at the monthly all-hands commits to an eight-week plan. She lists speaking situations from easiest to hardest: giving a two-minute update in her own team meeting, asking a question at a town hall, presenting a slide to a peer group, then a ten-minute slot at the all-hands. Each week she does the next step at least twice, writes down beforehand what she fears will happen ('I will blank and everyone will notice') and afterwards what actually happened. By week six her dread before the team update has faded, even though a colleague says she still looks a little tense at the start, which she now expects. She keeps one speaking rep per week after the plan ends. In personal life, the same plan works for someone dreading a wedding toast: rehearse aloud for one friend, then for a small family group, before the event.",
+      "common_mistakes": [
+        "Collecting more tips instead of committing to repeated practice over weeks",
+        "Stopping practice as soon as the fear eases, which forfeits the gains that tend to continue afterwards",
+        "Judging progress by whether you still look a bit nervous, when felt fear usually improves first",
+        "Jumping straight to the most frightening situation rather than climbing a ladder of steps",
+        "Treating a severe, life-limiting fear as a self-help project when a clinician could help"
+      ],
+      "steps": [
+        "Rate how afraid you are of speaking today (0 to 10) so you can track change",
+        "List five to eight speaking situations from least to most frightening",
+        "Choose a structure: a course, a coached group, a clinician, or a reputable self-guided cognitive behavioral program",
+        "Practice the easiest step repeatedly until it feels manageable, then move up one step",
+        "Before each rep, write the specific outcome you fear; afterwards, write what actually happened",
+        "Keep at least one low-stakes speaking rep a week after the plan ends",
+        "Seek professional help if the fear blocks work or daily life, since fear of public speaking can broaden into wider social anxiety"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "situations"
+        }
+      ],
+      "situations": [
+        "Overcoming a long-standing fear of presenting",
+        "Preparing for a first conference talk",
+        "Coaching an anxious team member",
+        "Getting ready to give a wedding toast"
+      ],
+      "source": {
+        "citation": "Ebrahimi, Pallesen, Kenter and Nordgreen (2019), Psychological Interventions for the Fear of Public Speaking: A Meta-Analysis, Frontiers in Psychology 10:488 (Results and Discussion)",
+        "underlying_research": "30 randomized controlled trials, 1,355 participants; pooled g = 0.74 post-treatment, g = 1.11 at follow-up, post-to-follow-up change g = 0.20 (0.12 after trim and fill). Earlier meta-analysis: Allen, Hunter and Donohue (1989), Communication Education 38, self-report data only.",
+        "urls": [
+          "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00488",
+          "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6428748/"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Preregistered meta-analysis of 30 randomized trials with low to moderate heterogeneity and effects robust against active controls. Caveats: effects on observable behavior and physiology are smaller than self-report, many trials are old with unclear risk of bias and completers-only data, there are some signs of publication bias, and the analysis cannot isolate which component (exposure, cognitive work, relaxation) drives the benefit. The ladder steps are standard exposure practice rather than a protocol tested by this paper.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "improv-wisdom-03",
+      "relation": "supports",
+      "note": "Randomized-trial evidence that repeatedly doing the feared speaking task, as part of a structured program, reduces fear of public speaking substantially (pooled g = 0.74), giving an evidence base to acting before you feel ready."
+    },
+    {
+      "insight_id": "think-faster-talk-smarter-02",
+      "relation": "qualifies",
+      "note": "The in-the-moment calming tools are useful, but the strongest evidence for lasting change comes from structured, repeated cognitive and behavioral programs over weeks, with gains that continue after the program ends."
+    },
+    {
+      "insight_id": "communicate-with-mastery-10",
+      "relation": "supports",
+      "note": "Speaking fear is trainable rather than fixed: structured programs produced moderate to large reductions that held or grew at follow-up."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6428748/fullTextXML",
+      "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00488"
+    ],
+    "still_unverified": [
+      "Which specific component (exposure, cognitive restructuring, relaxation) contributes most was not tested in this meta-analysis"
+    ]
+  },
+  "research_notes": "Read the full open-access text via Europe PMC (abstract, methods, results, discussion, limitations). One new insight; the paper mainly provides the evidence anchor for a structured practice plan. Did not add a separate insight on technology-delivered programs since only seven arms were technology based."
+}

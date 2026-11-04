@@ -1,0 +1,367 @@
+{
+ "book": {
+  "title": "Getting to Yes",
+  "subtitle": "Negotiating Agreement Without Giving In",
+  "authors": [
+   "Roger Fisher",
+   "William Ury",
+   "Bruce Patton"
+  ],
+  "year": 1981,
+  "publisher": "Houghton Mifflin (1981); Penguin Books (3rd edition, 2011)",
+  "edition": "Third edition 2011 recommended; first edition 1981, second 1991 added Patton and 'Ten Questions People Ask'",
+  "isbn": "",
+  "author_credibility": "Developed at the Harvard Negotiation Project. Fisher was a Harvard Law professor and mediator; Ury and Patton are long-standing negotiation scholars and practitioners. The book has been a standard in law, business and diplomacy teaching for four decades.",
+  "evidence_base": "Argues from cases and the authors' practice rather than data. Early reviewers (White, 1984; McCarthy, 1985) criticized it for anecdote, for underplaying distributive bargaining and power struggles, and for overstating the case against positional bargaining, which Fisher partly conceded. Its core logic is consistent with later research such as the De Dreu, Weingart and Kwon (2000) meta-analysis of 28 studies, but the package as a whole has not been tested.",
+  "legal_access": [
+   {
+    "type": "summary",
+    "url": "https://en.wikipedia.org/wiki/Getting_to_Yes",
+    "note": "Detailed encyclopedia article on the method, the three questions and criticism (read via API)"
+   }
+  ],
+  "source_type": "book",
+  "book_id": "fisher-ury-getting-to-yes",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "fisher-ury-getting-to-yes-01",
+   "name": "Negotiate Over Interests, Not Positions",
+   "skill_type": "technique",
+   "explanation": "A position is what someone says they want (a number, a deadline, a yes or no). An interest is why they want it: the worries, needs and goals underneath. Fisher and Ury argue that bargaining over positions locks both sides in, wastes time and strains the relationship, while exploring interests often reveals that the two sides want different things that can fit together. Their best-known example is the Sinai talks, where one side's security interest and the other's sovereignty interest could both be met. To find interests, ask why and why not, treat each side as having several interests, and talk about your own interests openly while staying firm on them.",
+   "when_to_use": "Any negotiation that has stalled on competing demands: scope and deadline disputes, budget requests, salary and role discussions, family logistics.",
+   "worked_example": "A product lead insists on a June launch; the engineering manager says September is the earliest. Instead of haggling over a month in between, the engineering manager asks why June matters. The answer is a trade show demo for three key customers. The engineering manager's interest is avoiding a rushed release that pages his team at night. They agree on a polished demo build for June and a general release in August. At home, two parents arguing over whether a child does summer camp or stays home discover that one cares about cost and the other about the child making friends, and they find a cheaper local day program.",
+   "common_mistakes": [
+    "Arguing over the number before understanding the reasons",
+    "Assuming the other side's interests are the opposite of yours",
+    "Hiding your own interests so the other side cannot help meet them",
+    "Asking why in a tone that sounds like a challenge"
+   ],
+   "steps": [
+    "Write down your own interests behind your position",
+    "Guess the other side's interests, then test the guesses with questions",
+    "Ask why they want this and why they have not accepted what is on the table",
+    "Restate their interests to show you understand them",
+    "Look for options that meet the key interests of both sides"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "influence",
+     "subcategory": "overcoming-resistance"
+    }
+   ],
+   "situations": [
+    "Negotiating a deadline with another team",
+    "Discussing salary or role scope",
+    "Resolving a family logistics dispute"
+   ],
+   "source": {
+    "citation": "Fisher, Ury and Patton, Getting to Yes (3rd edition, 2011), chapter 'Focus on Interests, Not Positions'",
+    "underlying_research": "Integrative bargaining research; De Dreu, Weingart and Kwon (2000, JPSP) meta-analysis finding that cooperative motives combined with high resistance to yielding produced more problem solving and higher joint outcomes.",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Getting_to_Yes",
+     "https://dare.uva.nl/id/403ebedc-c455-47a0-8a00-803afaed87b3"
+    ]
+   },
+   "confidence": "High",
+   "confidence_rationale": "The interests-versus-positions idea is the field's consensus foundation and is consistent with experimental research on integrative negotiation, including information exchange about priorities. The book's own support is anecdotal, but the principle is well supported elsewhere.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "fisher-ury-getting-to-yes-02",
+   "name": "Separate the People From the Problem",
+   "skill_type": "technique",
+   "explanation": "Negotiators are people with emotions, egos and differing perceptions, and the relationship easily gets tangled with the substance, so that a concession feels like losing face and a hard stance feels like a personal attack. The authors advise working on the two tracks separately: be soft on the people and hard on the problem. On perception, put yourself in their shoes, discuss each side's view openly, and give them a way to agree that fits their values (face-saving). On emotion, recognize feelings on both sides, let people vent without reacting, and use small symbolic gestures such as an apology. On communication, listen actively and acknowledge what is said, and speak about yourself rather than about them.",
+   "when_to_use": "Negotiations with people you will keep working or living with; tense talks where the relationship is coloring every point.",
+   "worked_example": "A procurement manager and a long-time supplier are fighting over a late shipment penalty, and the supplier's account rep is angry about being blamed. The manager starts by acknowledging the rep's frustration and the supplier's good record, lets him explain what went wrong at the port, then turns to the shared problem: how to prevent the next delay and what compensation is fair. The rep agrees to a partial credit and an earlier shipping window. A couple arguing about holiday plans with in-laws uses the same split: first acknowledging feelings, then solving the scheduling problem.",
+   "common_mistakes": [
+    "Making concessions to keep the peace, which rewards pressure",
+    "Attacking the person to win the substantive point",
+    "Assuming your perception of the facts is the only accurate one",
+    "Reacting to an outburst instead of letting it pass"
+   ],
+   "steps": [
+    "Acknowledge the relationship and any emotions openly",
+    "Ask how they see the situation and summarize it back",
+    "Describe your own view and its impact on you, not their motives",
+    "Reframe the issue as a shared problem to solve side by side",
+    "Offer a face-saving path to agreement"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "empathy"
+    }
+   ],
+   "situations": [
+    "Negotiating with a long-term supplier",
+    "Resolving a dispute with a colleague",
+    "Working through a family disagreement"
+   ],
+   "source": {
+    "citation": "Fisher, Ury and Patton, Getting to Yes (3rd edition, 2011), chapter 'Separate the People from the Problem'",
+    "underlying_research": "Authors' practice; overlaps with research on perspective taking and active listening (not cited here).",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Getting_to_Yes"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Widely taught expert guidance consistent with later research on emotion and perspective taking in negotiation, but critics (for example Menkel-Meadow, 1984) questioned whether people and problems can be separated in practice.",
+   "flags": [
+    "contested"
+   ]
+  },
+  {
+   "id": "fisher-ury-getting-to-yes-03",
+   "name": "Invent Options Before You Decide",
+   "skill_type": "technique",
+   "explanation": "People often jump to the single answer they came in with, assume the pie is fixed, or treat solving the other side's problem as their problem alone. The authors recommend separating inventing from deciding: generate several possible agreements first, without judging or committing, and only then evaluate. Broaden the options by looking at the problem from different angles, making weaker or partial versions of an agreement, and dovetailing differences: things one side values more than the other can be traded. Finally, make it easy for the other side to say yes by proposing something they can defend to their own boss or family.",
+   "when_to_use": "When a negotiation looks like a single number or yes/no choice, or when both sides keep restating the same proposals.",
+   "worked_example": "Two department heads both want the one open analyst position. Rather than fight over it, they spend 15 minutes listing options without critiquing: split the role 60/40, hire a contractor for one team, share the analyst for six months and then review, or have one team fund training for an internal transfer. They then pick the shared arrangement with a review date, which one head can sell to her VP as a pilot. Roommates deciding on a shared car use the same exercise before arguing about who pays what.",
+   "common_mistakes": [
+    "Evaluating each idea the moment it is suggested",
+    "Searching for the single right answer too early",
+    "Ignoring differences in what each side values, which are the raw material for trades",
+    "Proposing something the other side cannot justify to their constituents"
+   ],
+   "steps": [
+    "Agree to brainstorm without commitment",
+    "List as many options as possible, including partial and provisional ones",
+    "Identify differences in priorities, timing or risk that could be traded",
+    "Evaluate options against both sides' interests",
+    "Shape the chosen option so it is easy for them to accept and explain"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    }
+   ],
+   "situations": [
+    "Splitting a shared resource between teams",
+    "Breaking a deadlock in a contract talk",
+    "Dividing costs with roommates"
+   ],
+   "source": {
+    "citation": "Fisher, Ury and Patton, Getting to Yes (3rd edition, 2011), chapter 'Invent Options for Mutual Gain'",
+    "underlying_research": "Integrative negotiation research on logrolling and the fixed-pie bias (see Thompson, The Mind and Heart of the Negotiator).",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Getting_to_Yes"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Consistent with experimental findings that negotiators miss joint gains when they assume a fixed pie; the book's brainstorming techniques themselves are expert guidance.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "fisher-ury-getting-to-yes-04",
+   "name": "Anchor the Deal to Fair Standards, Not Pressure",
+   "skill_type": "technique",
+   "explanation": "When interests genuinely conflict, the authors suggest settling on the basis of standards independent of either side's will, such as market value, precedent, expert opinion, cost, or what a court or third party would likely do. Treat each issue as a joint search for criteria, be open to the other side's proposed standards, and yield to good reasons but never to pressure, threats or stubbornness. Fair procedures (one cuts, the other chooses; taking turns; letting a neutral party decide) can serve when no outside standard exists. Their example is a car owner and insurance adjuster settling on a figure by comparing market data rather than haggling.",
+   "when_to_use": "Distributive issues such as price, salary, cost sharing or deadlines where you need a defensible basis for a number.",
+   "worked_example": "A designer asked to take a 10 percent pay cut on a contract renewal asks the client what basis they are using. She brings two industry rate surveys and her own record of on-time delivery, and suggests using the median rate for her experience level. The client's procurement team, which needs a justification for its file, agrees to keep her rate and adjust scope instead. In a family, siblings dividing their late parent's furniture use a turn-taking draft order rather than arguing item by item.",
+   "common_mistakes": [
+    "Picking a standard only because it favors you",
+    "Treating the other side's criteria as illegitimate without discussion",
+    "Giving in to pressure dressed up as principle",
+    "Using standards so rigidly that you ignore legitimate interests"
+   ],
+   "steps": [
+    "Research relevant standards before the conversation",
+    "Propose a joint search for criteria",
+    "Ask what standard their position is based on",
+    "Discuss which standards are most relevant and fair",
+    "Yield to good reasons, not to pressure",
+    "Use a fair procedure if no outside standard fits"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "influence",
+     "subcategory": "credibility"
+    }
+   ],
+   "situations": [
+    "Negotiating a rate or salary",
+    "Settling an insurance or refund claim",
+    "Dividing shared property"
+   ],
+   "source": {
+    "citation": "Fisher, Ury and Patton, Getting to Yes (3rd edition, 2011), chapter 'Insist on Using Objective Criteria'",
+    "underlying_research": "Authors' practice; critics such as Steinberg (1982) note mutually agreeable criteria can be hard to find.",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Getting_to_Yes"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Practical and widely taught, with indirect support from research on fairness norms and justification; not tested as a package, and critics note it can be hard to agree on criteria when stakes and power are uneven.",
+   "flags": [
+    "contested"
+   ]
+  },
+  {
+   "id": "fisher-ury-getting-to-yes-05",
+   "name": "Know Your BATNA Before You Negotiate",
+   "skill_type": "mental model",
+   "explanation": "Your BATNA (best alternative to a negotiated agreement) is what you will do if this negotiation fails: another job offer, another supplier, doing the work in-house, or simply keeping the status quo. Fisher and Ury argue it is the real measure of negotiating power and the right test for any proposal, better than a rigid bottom line that can make you reject good deals or accept bad ones. Develop it before you negotiate: list what you could do without agreement, turn the most promising ideas into real options, and choose the best. Then improve it if you can, decide whether and how to reveal it, and estimate the other side's BATNA too, since a weak alternative on their side is your leverage.",
+   "when_to_use": "Before any negotiation where walking away is possible: job offers, vendor contracts, internal resource requests, major purchases.",
+   "worked_example": "A software engineer with an offer from a startup is negotiating with her current employer for a raise. Before the meeting she clarifies her BATNA (accept the startup offer at its stated salary and equity), estimates the employer's BATNA (backfilling her role would take months during a key launch), and decides the startup offer is genuinely acceptable. Because she is not afraid of no, she calmly asks for a market-rate raise and a project lead role, and gets both. A car buyer who has a written quote from another dealer uses the same logic.",
+   "common_mistakes": [
+    "Negotiating without any alternative in mind",
+    "Overestimating a vague alternative you have not actually tested",
+    "Treating a fixed bottom line as more useful than a real alternative",
+    "Bluffing about alternatives you do not have",
+    "Ignoring the other side's alternatives"
+   ],
+   "steps": [
+    "List the actions you could take if no agreement is reached",
+    "Develop the most promising into concrete options",
+    "Pick the best one: that is your BATNA",
+    "Improve it before or during the negotiation if you can",
+    "Estimate the other side's BATNA",
+    "Use your BATNA to judge every offer, and walk away when the offer is worse"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "saying-no"
+    }
+   ],
+   "situations": [
+    "Negotiating a job offer or raise",
+    "Choosing between vendors",
+    "Buying a car or house"
+   ],
+   "source": {
+    "citation": "Fisher, Ury and Patton, Getting to Yes (3rd edition, 2011), chapter 'What If They Are More Powerful?'",
+    "underlying_research": "BATNA is a central construct in negotiation research; Galinsky and Mussweiler (2001) found that focusing on alternatives and targets weakens the pull of the other side's first offer.",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Getting_to_Yes"
+    ]
+   },
+   "confidence": "High",
+   "confidence_rationale": "BATNA is the most widely adopted concept from the book and is central in experimental negotiation research; alternatives are consistently linked to bargaining power and outcomes.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "fisher-ury-getting-to-yes-06",
+   "name": "Negotiation Jujitsu: Redirect Attacks Onto the Problem",
+   "skill_type": "technique",
+   "explanation": "When the other side insists on hard positional bargaining or attacks you, the instinct is to push back, which escalates. The authors advise sidestepping instead: do not attack their position, look behind it for the interests; do not defend your ideas, invite criticism and advice; and recast personal attacks as attacks on the problem. Ask questions rather than make statements, and use silence after an unreasonable proposal. When the other side uses deliberate tricks such as false deadlines or good cop and bad cop, recognize the tactic, name it calmly, and negotiate about how you will negotiate. If direct talks stay stuck, a third party can draft a single text that both sides keep improving (the approach the book credits for the Camp David talks).",
+   "when_to_use": "When a counterpart is aggressive, stonewalling, or using pressure tactics, in business negotiations or tense family discussions.",
+   "worked_example": "During a contract renewal, a vendor's sales director says the client team is unreasonable and the price increase is final. The client manager does not argue; she asks, 'Help me understand what is driving the increase.' He cites rising hosting costs. She asks what he would do in her position with a flat budget, then waits. He suggests a longer term with a smaller increase. When he later adds a sudden end-of-day deadline, she says calmly that the deadline seems designed to rush her and proposes they agree on a realistic timeline first.",
+   "common_mistakes": [
+    "Counterattacking, which escalates",
+    "Defending your proposal point by point instead of inviting critique",
+    "Filling every silence after an extreme demand",
+    "Ignoring a manipulative tactic rather than naming it"
+   ],
+   "steps": [
+    "Pause rather than react",
+    "Ask about the interests behind their position",
+    "Invite criticism of your own proposal and ask what they would do",
+    "Rephrase a personal attack as a problem to solve",
+    "Name obvious tactics calmly and propose ground rules",
+    "Consider a third party to draft a single shared text if stuck"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "influence",
+     "subcategory": "overcoming-resistance"
+    }
+   ],
+   "situations": [
+    "Facing an aggressive counterpart",
+    "Handling a pressure deadline",
+    "Breaking a stalemate in talks"
+   ],
+   "source": {
+    "citation": "Fisher, Ury and Patton, Getting to Yes (3rd edition, 2011), chapters 'What If They Won't Play?' and 'What If They Use Dirty Tricks?'",
+    "underlying_research": "Authors' practice and case examples (Camp David one-text procedure).",
+    "urls": [
+     "https://en.wikipedia.org/wiki/Getting_to_Yes"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Practitioner guidance from experienced negotiators supported by case examples, not controlled studies. The one-text procedure and negotiating the rules are confirmed in the summary read; the specific jujitsu moves are drawn from general familiarity with the book and were not checked against the text in this pass.",
+   "flags": [
+    "not-confirmed-in-book"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "supercommunicators-04",
+   "relation": "supports",
+   "note": "Getting to Yes provides the operational method behind the idea that the prize in a negotiation is learning what everyone wants: separate interests from positions, invent options, and use criteria."
+  },
+  {
+   "insight_id": "supercommunicators-07",
+   "relation": "supports",
+   "note": "The book's communication advice (listen actively, acknowledge, and restate the other side's view) applies looping to adversarial negotiation, where showing understanding is separated from agreeing."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://en.wikipedia.org/wiki/Getting_to_Yes",
+   "https://dare.uva.nl/id/403ebedc-c455-47a0-8a00-803afaed87b3"
+  ],
+  "still_unverified": [
+   "Exact chapter titles and examples in the 3rd edition beyond those in the encyclopedia summary",
+   "Specific jujitsu moves as worded in the book",
+   "3rd edition ISBN"
+  ]
+ },
+ "research_notes": "Read the full Wikipedia article (via API) covering method, the three questions, and criticism, plus the De Dreu et al. (2000) abstract. The book text itself was not read; core content is well documented. Kept Never Split the Difference out of scope since it was not in the assignment."
+}

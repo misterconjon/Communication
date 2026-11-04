@@ -1,0 +1,167 @@
+{
+  "book": {
+    "title": "A Racing Heart, Rattling Knees, and Ruminative Thoughts: Defining, Explaining, and Treating Public Speaking Anxiety",
+    "authors": [
+      "Graham D. Bodie"
+    ],
+    "year": 2010,
+    "publisher": "Taylor and Francis (Communication Education 59(1), 70-105)",
+    "edition": "doi 10.1080/03634520903443849",
+    "author_credibility": "Graham Bodie is a widely cited communication scholar (listening and communication apprehension research), writing in the National Communication Association's main instructional communication journal. The review is cited well over 150 times.",
+    "evidence_base": "Narrative review of the public speaking anxiety literature: defines the construct, develops a typology (trait and state forms, and its expression in physiology, thoughts and behavior), reviews causes, and reviews treatment techniques (systematic desensitization, cognitive modification, skills training, and combinations). Draws on decades of communication apprehension research, including Behnke and Sawyer's studies of how anxiety rises and falls across the speaking episode and Allen and colleagues' meta-analytic work on treatments. Much of the trait literature relies on self-report scales.",
+    "legal_access": [
+      {
+        "type": "library",
+        "url": "https://doi.org/10.1080/03634520903443849",
+        "note": "Paywalled; abstract via OpenAlex and Crossref metadata"
+      },
+      {
+        "type": "summary",
+        "url": "https://magazine.tcu.edu/spring-1999/scared-speechless/",
+        "note": "TCU Magazine feature on Behnke's speaking-anxiety research (milestone findings reviewed by Bodie)"
+      }
+    ],
+    "source_type": "review article",
+    "book_id": "bodie-2010",
+    "subtitle": "",
+    "isbn": "",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "bodie-2010-01",
+      "name": "Match the Fix to the Source: Body, Thoughts, or Skill",
+      "skill_type": "framework",
+      "explanation": "Speaking anxiety is not one thing. Research summarized by Bodie treats it as having a stable trait side (how anxious you tend to be about speaking in general) and a state side (how anxious you are about this talk, today), and as showing up in three systems: the body (racing heart, shaking), thoughts (rumination, predictions of humiliation) and behavior (avoidance, rushing, freezing). The treatment literature has three matching families: systematic desensitization, which pairs relaxation with gradual exposure so the body stops reacting as strongly; cognitive modification, which targets the thoughts; and skills training, which builds actual speaking competence so there is less to fear. The practical point the core books miss is the third track: feeling unprepared or unskilled is itself a driver of anxiety, so practicing structure and delivery is an anxiety treatment, not just a performance upgrade. Diagnose which source dominates for you and pick the matching tool, and combine tracks when more than one is involved.",
+      "when_to_use": "When generic calming advice has not helped and you want to understand why you get nervous, or when you are helping someone else who is anxious about a talk and need to choose what to suggest.",
+      "worked_example": "An engineer dreads quarterly reviews with the leadership team. Asked what happens, he says his heart pounds in the hallway (body), he imagines the VP thinking he is out of his depth (thoughts), and he genuinely does not know how to open or close a ten-minute update (skill). His manager suggests three moves rather than one: two rehearsals in the actual conference room to take the edge off the physical reaction, writing down the feared thought and the evidence against it, and learning a simple structure for the update with a planned first and last sentence. After the next review he reports that the skill piece helped most: knowing what he would say removed much of the dread. A parent preparing to speak at a school board meeting could run the same diagnosis.",
+      "common_mistakes": [
+        "Applying a single trick (deep breathing, a mantra) to an anxiety that is mostly about lacking a plan for what to say",
+        "Treating skill training and anxiety management as separate projects when building skill also lowers fear",
+        "Focusing only on the moment of speaking while ignoring dread beforehand and rumination afterwards",
+        "Assuming a high trait level means change is impossible, when state anxiety for a given talk responds to preparation and practice"
+      ],
+      "steps": [
+        "Notice your pattern: what happens in your body, what you tell yourself, and what you do (avoid, rush, over-script)",
+        "Ask which one feels most in charge for this talk",
+        "Body dominant: rehearse in the real or a similar setting and use slow breathing so the physical reaction habituates",
+        "Thoughts dominant: write the feared prediction and test it against evidence or past experience",
+        "Skill dominant: learn a structure, plan the opening and close, and rehearse aloud",
+        "Combine tracks when more than one is strong, and review after the talk without replaying it endlessly"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        }
+      ],
+      "situations": [
+        "Preparing for a leadership review",
+        "Helping an anxious colleague prepare",
+        "Speaking at a community or school meeting"
+      ],
+      "source": {
+        "citation": "Graham D. Bodie (2010), A Racing Heart, Rattling Knees, and Ruminative Thoughts, Communication Education 59(1), 70-105 (sections on the typology of public speaking anxiety and on treatment techniques)",
+        "underlying_research": "Treatment families of systematic desensitization, cognitive modification and skills training as reviewed in the communication apprehension literature; Allen, Hunter and Donohue (1989), Meta-analysis of self-report data on the effectiveness of public speaking anxiety treatment techniques, Communication Education 38, 54-76.",
+        "urls": [
+          "https://doi.org/10.1080/03634520903443849",
+          "https://api.openalex.org/works/doi:10.1080/03634520903443849"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Built on a respected narrative review of a large literature, and consistent with the 2019 randomized-trial meta-analysis showing structured cognitive and behavioral programs work. However, I read only the abstract and secondary descriptions of the review, not its full text, and the specific claim that combined treatments outperform single ones rests on older self-report meta-analytic work I could not verify. The diagnose-then-match step is an applied synthesis rather than a tested protocol.",
+      "flags": [
+        "not-confirmed-in-book"
+      ]
+    },
+    {
+      "id": "bodie-2010-02",
+      "name": "Nerves Peak at the Start: Prepare the First Minute",
+      "skill_type": "technique",
+      "explanation": "Speaking anxiety follows a predictable curve. Behnke and Sawyer's studies, reviewed in this literature, split a talk into milestones: the minute before you start, the first minute, the last minute and the minute after. Self-reported anxiety tends to be highest in anticipation, and physical arousal peaks at the moment you begin speaking, then declines as the talk goes on. Behnke also reported that anticipatory anxiety was lowest while people were actively working on their presentation. The practical upshot is that the hardest stretch is short and predictable, so it deserves the most preparation: know your opening cold, start with something easy to say, and spend the waiting time doing something useful rather than stewing. Knowing that the spike is normal and temporary also takes some of the sting out of it.",
+      "when_to_use": "Any prepared talk, pitch, toast or meeting contribution where the wait before your turn is the worst part, and especially when you are scheduled late in an agenda.",
+      "worked_example": "A sales lead is fourth on the agenda at a client quarterly review. Instead of sitting through the first three items rehearsing worst cases, she reviews her one-page outline and silently runs her first three sentences, which she has practiced until they are automatic: a thank-you, the headline number, and the one question she wants answered today. When her turn comes, her heart is pounding, but she knows this is the peak, delivers the opening on autopilot, and by the second slide she is settling. At a family wedding, a best man memorizes only his first two lines and keeps the rest as bullet points, because that is where he expects the jitters to hit hardest.",
+      "common_mistakes": [
+        "Spreading preparation evenly when the opening deserves the most rehearsal",
+        "Opening with something hard to say, such as a complex joke or dense statistic, at the moment of peak arousal",
+        "Spending the wait before your turn rehearsing disaster scenarios",
+        "Reading the spike at the start as proof the whole talk will go badly"
+      ],
+      "steps": [
+        "Write your first two or three sentences and rehearse them aloud until they are automatic",
+        "Make the opening easy to deliver: a greeting, a clear statement of purpose, or a simple question",
+        "Plan what you will do while you wait (review the outline, note one thing a previous speaker said that you can connect to)",
+        "When the spike comes at the start, remind yourself it is the expected peak and that it usually eases within the first minutes",
+        "After the talk, note one thing that went well before reviewing what to improve"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "impromptu"
+        }
+      ],
+      "situations": [
+        "Waiting for your turn on a meeting agenda",
+        "Opening a client presentation",
+        "Giving a best man or maid of honor toast"
+      ],
+      "source": {
+        "citation": "Graham D. Bodie (2010), Communication Education 59(1), review of the etiology of public speaking anxiety; Behnke's findings as reported in TCU Magazine (1999)",
+        "underlying_research": "Behnke and Sawyer's milestone studies of public speaking anxiety (anticipation, confrontation, adaptation, release), reported in Communication Education and related journals in the late 1990s and 2000s.",
+        "urls": [
+          "https://doi.org/10.1080/03634520903443849",
+          "https://magazine.tcu.edu/spring-1999/scared-speechless/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The milestone pattern comes from a program of physiological and self-report studies by Behnke and Sawyer, which is credible and consistent, but I accessed it only through a university magazine feature quoting Behnke and through search summaries, not the original articles or Bodie's full text. The specific advice to over-prepare the opening is an inference from the pattern rather than a tested intervention.",
+      "flags": [
+        "not-confirmed-in-book",
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "think-faster-talk-smarter-02",
+      "relation": "supports",
+      "note": "The research literature organizes speaking anxiety in the same three systems (feelings and thoughts, body, behavior) that Abrahams's ABCs use, and pairs each with a treatment family; Bodie adds skills training as an anxiety treatment in its own right."
+    },
+    {
+      "insight_id": "improv-wisdom-10",
+      "relation": "supports",
+      "note": "Post-speech rumination is identified in the research as part of the anxiety problem, which supports treating mistakes lightly and moving on rather than replaying them."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://api.openalex.org/works/doi:10.1080/03634520903443849",
+      "https://api.crossref.org/works/10.1080/03634520903443849",
+      "https://lib.murraystate.edu/publicspeakinganxiety/understanding",
+      "https://magazine.tcu.edu/spring-1999/scared-speechless/"
+    ],
+    "still_unverified": [
+      "Full text of Bodie (2010) not read; the exact treatment typology wording, the review's coverage of Behnke and Sawyer, and any conclusions about combined treatments are from the abstract and secondary descriptions",
+      "Allen, Hunter and Donohue (1989) finding that combined treatments outperform single ones not verified against the article",
+      "Behnke and Sawyer milestone findings read only via a TCU Magazine feature and search summaries, not the original papers"
+    ]
+  },
+  "research_notes": "Taylor and Francis and JMU Pressbooks returned 403. Read the abstract via OpenAlex, Crossref metadata (259 references), a Murray State library guide that recommends the review, and a TCU Magazine feature on Behnke's research. Two new insights, both rated Medium with not-confirmed flags because the full review was not accessible. The TCU feature also reports that audiences detect only a small share of a speaker's anxiety; that point is captured under savitsky-gilovich-2003 instead."
+}

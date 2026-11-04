@@ -1,0 +1,229 @@
+{
+ "book": {
+  "title": "Employee Voice and Silence",
+  "subtitle": "",
+  "authors": [
+   "Elizabeth W. Morrison"
+  ],
+  "year": 2014,
+  "publisher": "Annual Reviews (Annual Review of Organizational Psychology and Organizational Behavior, volume 1, pages 173-197)",
+  "edition": "doi 10.1146/annurev-orgpsych-031413-091328; updated by Morrison (2023), 'Employee Voice and Silence: Taking Stock a Decade Later'",
+  "isbn": "",
+  "author_credibility": "Professor of management at NYU Stern and a leading scholar of voice and organizational silence (Morrison and Milliken, 2000). Annual Reviews invites established researchers to synthesize their fields.",
+  "evidence_base": "Narrative review of a large literature, mostly field surveys and some lab experiments. Strongest on the general drivers of speaking up versus staying silent; weaker on specific tactics, since much of the research is correlational and same-source.",
+  "legal_access": [
+   {
+    "type": "summary",
+    "url": "https://explore.psychsafety.com/n/morrison-2014/",
+    "note": "Detailed research summary of the review (publisher page was behind a bot check from this environment)"
+   },
+   {
+    "type": "summary",
+    "url": "https://explore.psychsafety.com/n/morrison-2023/",
+    "note": "Summary of the 2023 follow-up review"
+   },
+   {
+    "type": "library",
+    "url": "https://doi.org/10.1146/annurev-orgpsych-031413-091328",
+    "note": "Open access at Annual Reviews"
+   }
+  ],
+  "source_type": "review article",
+  "book_id": "morrison-2014-voice",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "morrison-2014-voice-01",
+   "name": "The Two Questions Behind Speaking Up: Will It Matter, and Is It Safe?",
+   "skill_type": "mental model",
+   "explanation": "Research on employee voice converges on a simple calculus. When people consider raising an idea or concern to someone above them, they weigh two judgments: efficacy (will saying this actually change anything?) and safety (will it come back on me?). Voice rises when both are high and silence wins when either is low. This is useful from both sides. As the speaker, you can raise efficacy by taking the issue to someone who can act on it and by making the next step concrete. As a leader, you will hear more only if people believe both that you will act and that they will not pay for speaking; later research suggests the two sides are partly separate, with perceived impact mattering most for whether people speak up and safety mattering most for whether they hold back.",
+   "when_to_use": "Deciding whether to raise a concern with your boss; diagnosing why your team is quiet; designing how you ask for input.",
+   "worked_example": "A manager wonders why nobody raised the scheduling problems that caused a missed shipment. In one-on-ones she learns two things: people thought nothing would change because an earlier complaint went nowhere (low efficacy), and one person had been criticized in a meeting for raising a similar issue (low safety). She fixes the old complaint visibly, thanks the person who finally spoke, and says in the next team meeting what changed because of the input. A parent seeing a teenager go quiet about school problems applies the same lens: does my child think telling me helps, and does it feel safe?",
+   "common_mistakes": [
+    "Assuming silence means agreement or that there are no problems",
+    "Fixing only safety (being friendly) while never acting on input",
+    "Inviting feedback and then debating or punishing it",
+    "As a speaker, raising issues with people who cannot act on them"
+   ],
+   "steps": [
+    "Before speaking up, ask: who can actually act on this, and what would I ask them to do?",
+    "Estimate the personal risk honestly and reduce it with timing, setting and framing",
+    "As a leader, act visibly on some input and report back what changed",
+    "Respond to problem reports with thanks first, analysis second",
+    "Watch for topics nobody raises and ask about them directly"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "trust-vulnerability"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "bad-news"
+    }
+   ],
+   "situations": [
+    "Raising a concern with your boss",
+    "Figuring out why a team stays quiet",
+    "Encouraging a team to report problems early"
+   ],
+   "source": {
+    "citation": "Morrison, 'Employee Voice and Silence', Annual Review of Organizational Psychology and Organizational Behavior 1 (2014): 173-197",
+    "underlying_research": "Efficacy and safety calculus synthesized from prior voice research; Morrison (2023) update citing Sherf, Parke and Isaakyan (2021) meta-analysis and panel study showing voice tracks perceived impact and silence tracks psychological safety.",
+    "urls": [
+     "https://explore.psychsafety.com/n/morrison-2014/",
+     "https://explore.psychsafety.com/n/morrison-2023/",
+     "https://doi.org/10.1146/annurev-orgpsych-031413-091328"
+    ]
+   },
+   "confidence": "High",
+   "confidence_rationale": "The two-judgment model is the consensus framing in a large literature summarized in an Annual Review and its 2023 update, and is supported by meta-analytic work. Mostly correlational evidence, so specific leader actions are less proven than the general drivers. The review itself was read through a detailed summary, not the publisher text.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "morrison-2014-voice-02",
+   "name": "Check Whether Your Silence Is a Habit, Not a Decision",
+   "skill_type": "mental model",
+   "explanation": "Morrison argues that much silence at work is not a careful weighing of costs and benefits. It is automatic: fear can cut thinking short, and people carry taken-for-granted rules about hierarchy (Detert and Edmondson call them implicit voice theories) that lead them to self-censor even with approachable bosses. Examples of such rules include not embarrassing the boss in public and not speaking up without solid data or a solution. Recognizing these rules lets you test them against the actual person and situation instead of obeying them by reflex. For leaders, it means that saying 'my door is always open' is not enough, because the rules operate whatever the door policy.",
+   "when_to_use": "When you notice you have stayed quiet about something important; when a team's silence persists despite a leader who sees themselves as approachable.",
+   "worked_example": "A consultant realizes she has said nothing for three weeks about a client deliverable she thinks is flawed. Asking herself why, she finds two unexamined rules: never contradict a partner in front of the client, and do not raise a problem without a fix. The first is reasonable; the second is not, since the partner has said he wants early warnings. She asks the partner for ten minutes privately and raises the issue with the evidence she has, without a full fix. He thanks her and adjusts the plan.",
+   "common_mistakes": [
+    "Treating your hesitation as proof the risk is real",
+    "Waiting for a perfect solution before raising a problem",
+    "As a leader, relying on open-door statements to override hierarchy norms",
+    "Assuming people who stay quiet are disengaged"
+   ],
+   "steps": [
+    "Notice when you hold back on something that matters",
+    "Name the rule you are following",
+    "Ask whether it fits this boss and this situation",
+    "Pick a lower-risk channel if needed (private, written, early)",
+    "As a leader, explicitly lift common rules: say you want problems even without solutions"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "mindset"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "trust-vulnerability"
+    }
+   ],
+   "situations": [
+    "Deciding whether to flag a flawed plan",
+    "Speaking up to a senior leader",
+    "Leading a team that rarely raises issues"
+   ],
+   "source": {
+    "citation": "Morrison, 'Employee Voice and Silence', Annual Review of Organizational Psychology and Organizational Behavior 1 (2014): 173-197, section on automatic and emotional processes",
+    "underlying_research": "Detert and Edmondson (2011, Academy of Management Journal), four studies on implicit voice theories; research on fear and silence.",
+    "urls": [
+     "https://explore.psychsafety.com/n/morrison-2014/",
+     "https://explore.psychsafety.com/n/detert-edmondson-2011.md"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Implicit voice theories were documented across several studies and are central in the review, but evidence that noticing and testing them changes behavior is indirect. The exact list of rules was not verified against the original paper.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "morrison-2014-voice-03",
+   "name": "Raise Concerns So They Land: Solution, Timing, Messenger",
+   "skill_type": "technique",
+   "explanation": "Speaking up does not automatically earn credit; observers sometimes rate the person who voiced a concern worse. Research the review covers shows that how voice is received depends on what is said, how, when and by whom. In lab studies by Whiting and colleagues, voice was evaluated better when the speaker offered a solution, when the speaker was seen as expert and trustworthy, and depending on timing, while positive versus negative framing of the message made no clear difference. Field and lab work by Burris found that managers rated employees who challenged existing practices as less loyal and more threatening than those who voiced support. The practical takeaway is to raise concerns early, privately where possible, with evidence and at least a proposed next step, and to make your constructive intent and shared goal explicit.",
+   "when_to_use": "Preparing to raise a problem or a challenging idea with a manager or senior colleague.",
+   "worked_example": "An engineer thinks the team's new deployment process will cause outages. Instead of objecting in the all-hands after the rollout is announced, he asks his manager for 15 minutes before the decision is final, opens with the shared goal ('we both want fewer late-night incidents'), shows two incidents from the pilot, and proposes a one-week trial of an added check. The manager takes the proposal to the platform lead. In a personal setting, a sibling raising concerns about a parent's care plan does the same: early, privately, with specifics and an option.",
+   "common_mistakes": [
+    "Waiting until after the decision is announced",
+    "Challenging in a public forum where the decision-maker may feel exposed",
+    "Bringing only criticism with no evidence or next step",
+    "Assuming warmer wording alone will fix how a challenge is received",
+    "Treating the absence of a perfect solution as a reason to stay silent"
+   ],
+   "steps": [
+    "Clarify the shared goal your concern serves",
+    "Gather specific evidence",
+    "Choose timing before decisions are locked in",
+    "Raise it privately with someone who can act",
+    "Offer a proposed next step or a small test, not just the problem",
+    "Ask what you might be missing"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "bad-news"
+    },
+    {
+     "category": "influence",
+     "subcategory": "credibility"
+    }
+   ],
+   "situations": [
+    "Challenging a decision before it is final",
+    "Flagging a risk to a senior leader",
+    "Proposing a process change"
+   ],
+   "source": {
+    "citation": "Morrison, 'Employee Voice and Silence', Annual Review of Organizational Psychology and Organizational Behavior 1 (2014): 173-197, section on outcomes of voice",
+    "underlying_research": "Whiting, Maynes, Podsakoff and Podsakoff (2012, Journal of Applied Psychology), three lab studies; Burris (2012, Academy of Management Journal), field study of 281 restaurant managers plus experiment.",
+    "urls": [
+     "https://pubmed.ncbi.nlm.nih.gov/21842973/",
+     "https://instituteforpr.org/risks-rewards-speaking-managerial-responses-employee-voice",
+     "https://explore.psychsafety.com/n/morrison-2014/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Built on a handful of well-designed lab and field studies reviewed by Morrison, not a large replicated body of tactics. The direction of the timing effect in Whiting et al. was not confirmed from the abstract. Lab raters watched videos, which may differ from real managers.",
+   "flags": [
+    "unreplicated"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "connect-05",
+   "relation": "supports",
+   "note": "Voice research finds that the timing of a concern affects how constructive it seems and that fear-driven silence lets problems accumulate unspoken, consistent with raising pinches while they are small; the direction of the timing effect was not confirmed."
+  },
+  {
+   "insight_id": "connect-12",
+   "relation": "qualifies",
+   "note": "Connect warns that waiting for a solution before raising a problem gives power away; voice research finds that offering a solution does improve how voice is evaluated, so the balance is to raise problems early and attach at least a proposed next step when you can."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://explore.psychsafety.com/n/morrison-2014/",
+   "https://explore.psychsafety.com/n/morrison-2023/",
+   "https://pubmed.ncbi.nlm.nih.gov/21842973/",
+   "https://instituteforpr.org/risks-rewards-speaking-managerial-responses-employee-voice",
+   "https://explore.psychsafety.com/n/detert-edmondson-2011.md",
+   "https://doi.org/10.1146/annurev-orgpsych-031413-091328"
+  ],
+  "still_unverified": [
+   "Review text read only through a detailed summary because the Annual Reviews site served a bot check",
+   "Direction of the timing effect in Whiting et al. (2012)",
+   "Exact list of implicit voice theories in Detert and Edmondson (2011)"
+  ]
+ },
+ "research_notes": "The Annual Reviews page served a bot-check page to curl, so the review was read via the Psych Safety field guide summary and supporting abstracts (PubMed for Whiting et al., Institute for PR summary of Burris). The leader side (acting on input) is folded into insight 01."
+}

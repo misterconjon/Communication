@@ -1,0 +1,127 @@
+{
+  "book": {
+    "title": "Speakers' overestimation of their effectiveness",
+    "authors": [
+      "Boaz Keysar",
+      "Anne S. Henly"
+    ],
+    "year": 2002,
+    "publisher": "SAGE for the Association for Psychological Science (Psychological Science 13(3), 207-212)",
+    "edition": "doi 10.1111/1467-9280.00439",
+    "author_credibility": "Boaz Keysar (University of Chicago) is a leading researcher on perspective taking and miscommunication in language use; his lab has extended this line for two decades. Published in a top general psychology journal.",
+    "evidence_base": "Lab experiment with 40 speaker-listener pairs of mostly undergraduate native English speakers, plus 37 overhearers. Speakers read 12 syntactically and 4 lexically ambiguous sentences aiming to convey a specified meaning, then estimated whether the listener understood. Per the University of Chicago student newspaper's report of the paper, speakers believed they were understood about 72 percent of the time, but in nearly half of those cases the listener had actually misunderstood; listeners' confidence was unrelated to their accuracy; informed overhearers estimated success at about 56 percent and did not systematically overestimate. Consistent with later work: Kruger, Epley and colleagues (2005) on email tone, and Lau, Geipel, Wu and Keysar (2022), who found speakers overestimated understanding even when listeners did not know the language.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12009039/",
+        "note": "PubMed abstract"
+      },
+      {
+        "type": "summary",
+        "url": "https://chicagomaroon.com/?p=5503",
+        "note": "Chicago Maroon report of the study with design details and figures (2002)"
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://mdl.uchicago.edu/research/lau-2022-the-extreme-illusion-of-understanding",
+        "note": "Keysar lab page for the 2022 follow-up, with full text summarizing the 2002 study"
+      }
+    ],
+    "source_type": "peer-reviewed paper",
+    "book_id": "keysar-henly-2002",
+    "subtitle": "",
+    "isbn": "",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "keysar-henly-2002-01",
+      "name": "Don't Trust the Nod: Check Understanding by Asking for Their Version",
+      "skill_type": "technique",
+      "explanation": "Speakers routinely think they were understood more often than they were. In this experiment, speakers trying to convey a specific meaning of an ambiguous sentence believed they had succeeded most of the time, yet listeners had misunderstood in nearly half of those cases. Overhearers who knew the intended meaning did not make the same error, which suggests the act of speaking itself creates the overconfidence: you hear the emphasis and pauses you meant to give, and assume the listener heard them too. Just as important, listeners' confidence in their understanding was unrelated to whether they actually understood, so a listener's 'got it' or nod is weak evidence. The practical takeaway is that your own sense of clarity, and the other person's sense of understanding, are both unreliable. When accuracy matters, ask the listener to say back what they will do or what they took away, in their own words, and fix any gap on the spot. Limits: the lab used deliberately ambiguous, scripted sentences between strangers, so the size of the gap in everyday talk is uncertain, though later studies in other formats point the same way.",
+      "when_to_use": "Handoffs, delegating a task, giving instructions with a deadline, explaining a decision that people must act on, medical or financial instructions to family members, and any message where a misunderstanding would be costly or hard to undo.",
+      "worked_example": "Before going on leave, a team lead briefs a colleague who will cover a client escalation. Instead of ending with 'Does that make sense?', she says: 'So I know I covered it, can you walk me through what you would do if the client calls on Tuesday?' The colleague says he would offer a refund, while she had meant that a refund needed the VP's sign-off first. They catch it in thirty seconds rather than after the call. At home, after explaining a new medication schedule to an elderly parent's caregiver, a daughter asks the caregiver to talk her through tomorrow's doses rather than asking whether it is clear.",
+      "common_mistakes": [
+        "Asking 'Does that make sense?' or 'Any questions?', which invites a confident yes regardless of understanding",
+        "Taking a nod, a thumbs-up emoji or 'got it' as confirmation on something that matters",
+        "Judging your clarity by how clear it felt to say, rather than by what the listener can repeat",
+        "Making the check feel like a test of the listener; frame it as checking your own explanation",
+        "Using a play-back check for trivial messages, which wastes time and can seem condescending"
+      ],
+      "steps": [
+        "Decide whether the message is high stakes: would a misunderstanding be costly or hard to reverse?",
+        "Before the conversation ends, frame the check as about you: 'Just to make sure I explained it well...'",
+        "Ask for their version: what they will do, by when, and what they see as the main point",
+        "Listen for gaps or differences from what you meant, and correct them specifically",
+        "For written follow-ups, restate the one or two critical points in plain terms rather than assuming the conversation landed"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "situations"
+        }
+      ],
+      "situations": [
+        "Handing off work before vacation",
+        "Delegating a task with a deadline",
+        "Explaining care instructions to a family member or caregiver",
+        "Briefing a manager on a decision they must relay"
+      ],
+      "source": {
+        "citation": "Boaz Keysar and Anne S. Henly (2002), Speakers' overestimation of their effectiveness, Psychological Science 13(3), 207-212",
+        "underlying_research": "Figures as reported by the Chicago Maroon (2002). Related: Kruger, Epley, Parker and Ng (2005), Egocentrism over e-mail, Journal of Personality and Social Psychology 89(6); Lau, Geipel, Wu and Keysar (2022), The extreme illusion of understanding, Journal of Experimental Psychology: General; Savitsky, Keysar, Epley, Carter and Swanson (2011), on greater overestimation among close friends, as cited by Lau et al.",
+        "urls": [
+          "https://pubmed.ncbi.nlm.nih.gov/12009039/",
+          "https://chicagomaroon.com/?p=5503",
+          "https://mdl.uchicago.edu/research/lau-2022-the-extreme-illusion-of-understanding"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "A controlled experiment with a clean overhearer comparison in a top journal, consistent with a broader line of findings (email tone, close friends, cross-language listeners). Rated Medium because the stimuli were scripted ambiguous sentences between strangers, I relied on the abstract and a student newspaper report for figures, and the play-back remedy itself is an inference rather than something this study tested.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "made-to-stick-01",
+      "relation": "supports",
+      "note": "Direct experimental evidence for the curse of knowledge in speech: speakers overestimated how often they were understood, while informed overhearers did not, which points to the speaker's own privileged knowledge of their intent."
+    },
+    {
+      "insight_id": "communicate-with-mastery-09",
+      "relation": "supports",
+      "note": "Supports the verify habit and sharpens it: because listeners' confidence was unrelated to accuracy, verification should ask for the listener's version rather than a yes or no."
+    },
+    {
+      "insight_id": "supercommunicators-07",
+      "relation": "supports",
+      "note": "Looping is the listener-side check; this study shows why the speaker-side equivalent matters too, since speakers systematically overrate their clarity."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://api.openalex.org/works/doi:10.1111/1467-9280.00439",
+      "https://chicagomaroon.com/?p=5503",
+      "https://mdl.uchicago.edu/research/lau-2022-the-extreme-illusion-of-understanding"
+    ],
+    "still_unverified": [
+      "Exact percentages (72 percent believed understood, 46 percent of those misunderstood, 39 percent overall misunderstanding, 56 percent overhearer estimate) taken from the Chicago Maroon report, not checked against the article"
+    ]
+  },
+  "research_notes": "Abstract read via OpenAlex. The UChicago Chronicle page failed TLS verification. Read the Chicago Maroon report and the Keysar lab page for the 2022 follow-up, whose introduction summarizes the 2002 mechanism. Nickerson (1999) was named in the candidate entry but not read."
+}

@@ -1,0 +1,391 @@
+{
+ "book": {
+  "title": "The Surprising Science of Meetings",
+  "subtitle": "How You Can Lead Your Team to Peak Performance",
+  "authors": [
+   "Steven G. Rogelberg"
+  ],
+  "year": 2019,
+  "publisher": "Oxford University Press",
+  "edition": "First edition, January 2019",
+  "isbn": "9780190689216",
+  "author_credibility": "Chancellor's Professor of organizational science, management and psychology at UNC Charlotte and one of the most published meeting researchers (for example Rogelberg, Leach, Warr and Burnfield, 2006, Journal of Applied Psychology). Received a Humboldt Research Award in 2018. He consults and speaks on meetings, a modest commercial interest in the advice.",
+  "evidence_base": "Built on the author's own survey, diary and field studies (the UNC announcement cites data from more than 5,000 employees) and the wider meeting-science literature. Much of the base is correlational survey research; a few specific tips (exact meeting lengths, playful elements) are his practical extrapolations rather than tested interventions.",
+  "legal_access": [
+   {
+    "type": "interview",
+    "url": "https://knowledge.wharton.upenn.edu/article/less-fluff-more-stuff-how-to-make-meetings-more-productive",
+    "note": "Knowledge at Wharton interview covering steward mindset, Parkinson's law, silent brainstorming, size, standing meetings, hosting"
+   },
+   {
+    "type": "interview",
+    "url": "https://leadx.org/articles/science-meetings-performance-team-steven-rogelberg/",
+    "note": "LEADx talk transcript: his 'quick five' strategies, meeting load diary study, engagement findings, opt-out for secondary attendees"
+   },
+   {
+    "type": "author excerpt",
+    "url": "https://www.stevenrogelberg.com/have-a-compelling-agenda",
+    "note": "Author site page on agendas framed as questions"
+   },
+   {
+    "type": "summary",
+    "url": "https://inside.charlotte.edu/?p=7219",
+    "note": "UNC Charlotte announcement with top tips and data base"
+   },
+   {
+    "type": "library",
+    "url": "https://www.oup.com.au/books/others/9780190689216-the-surprising-science-of-meetings",
+    "note": "Publisher page"
+   }
+  ],
+  "source_type": "book",
+  "book_id": "rogelberg-meetings",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "rogelberg-meetings-01",
+   "name": "The Leader's Meeting Blind Spot: You Are a Steward of Their Time",
+   "skill_type": "mental model",
+   "explanation": "Rogelberg's research finds that the person most likely to think a meeting went well is the person who ran it: leaders hold the floor, do much of the talking, and rate their own meetings far more favorably than attendees do. His fix starts with a mindset: treat yourself as a steward of other people's time rather than the star of the meeting. That shift changes ordinary decisions, such as whether to meet at all, who really needs to be there, how long to book, and whether someone else should lead an agenda item. Because your own impression is biased, judge the meeting by the attendees' experience and ask them directly. The stakes are real: in his surveys, how people feel about their meetings is one of the stronger predictors of their overall job satisfaction, and meeting load is linked to end-of-day fatigue unless meetings are good.",
+   "when_to_use": "Whenever you run a recurring meeting, take over a team, or feel your meetings are going fine but notice low energy, silence, or multitasking.",
+   "worked_example": "A product director thinks her weekly 60-minute team meeting is productive because she gets through all her updates. She sends a three-question anonymous pulse after two meetings (what is worth keeping, what to cut, what is missing). Most replies say the updates could be an email and the one useful part is the 15 minutes of problem solving at the end. She moves updates to a written note, books 30 minutes for problem solving only, and hands one agenda item a week to a team member to facilitate. In a volunteer setting, a PTA chair uses the same check after realizing she talks for most of each meeting.",
+   "common_mistakes": [
+    "Treating your own sense that it went well as evidence",
+    "Asking for feedback in front of the group, where people will say it was fine",
+    "Running every agenda item yourself so the meeting becomes a leader show",
+    "Keeping a recurring meeting alive out of habit, with a rehashed agenda each week"
+   ],
+   "steps": [
+    "Before each recurring meeting, ask whether it still needs to exist in this form",
+    "Collect attendee feedback anonymously and briefly, at least a few times a year",
+    "Compare their ratings with your own and look for the gap",
+    "Hand some agenda items to others to lead",
+    "Change one design element at a time and check again"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "audience-goals"
+    }
+   ],
+   "situations": [
+    "Running a weekly team meeting",
+    "Taking over a team with an established meeting rhythm",
+    "Chairing a volunteer or school committee"
+   ],
+   "source": {
+    "citation": "Rogelberg, The Surprising Science of Meetings (Oxford University Press, 2019); as described by the author in interviews and talks; Wharton and LEADx interviews",
+    "underlying_research": "Rogelberg, Leach, Warr and Burnfield (2006, Journal of Applied Psychology) on meeting time demands and well-being; Rogelberg, Allen, Shanock, Scott and Shuffler (2010) linking meeting satisfaction to job satisfaction; Allen and Rogelberg (2013) on manager-led meetings and engagement; leader self-rating gap from the author's survey work.",
+    "urls": [
+     "https://knowledge.wharton.upenn.edu/article/less-fluff-more-stuff-how-to-make-meetings-more-productive",
+     "https://leadx.org/articles/science-meetings-performance-team-steven-rogelberg/",
+     "https://www.interruptions.net/literature/Rogelberg-JAP06-2006-00819-008.pdf",
+     "https://par.nsf.gov/servlets/purl/10086888"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "The meeting-satisfaction and engagement links come from peer-reviewed survey research summarized independently by Mroz et al. (2018). The leader self-rating gap is reported by the author from his own surveys; I did not read the underlying study. All of this is correlational, so the steward mindset is well-grounded expert guidance rather than a tested intervention.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "rogelberg-meetings-02",
+   "name": "Write the Agenda as Questions",
+   "skill_type": "technique",
+   "explanation": "Simply having an agenda does not make meetings better; Rogelberg reports that in his research the presence of an agenda alone made no difference, and what matters is whether the items are relevant and how the leader runs them. His practical method is to phrase each agenda item as a question the group must answer (for example 'Which two vendors do we shortlist?' instead of 'Vendors'). Questions force you to know what the meeting is for, show who needs to attend (the people who can help answer them), give a clear finish line (the meeting is done when the questions are answered), and pull attendees into a challenge rather than a briefing. He also recommends asking attendees for input on the agenda and, other things equal, favoring their items. If you cannot come up with a question, you probably do not need the meeting.",
+   "when_to_use": "Planning any meeting meant to decide, solve, or plan; especially recurring meetings whose agenda has become a list of topic labels.",
+   "worked_example": "An operations lead replaces a standing agenda of 'Staffing, Budget, Q3 launch' with three questions: 'Do we backfill the analyst role now or after Q3?', 'Which line item absorbs the 5 percent cut?', 'What is the one launch risk we have not covered?' She sends them two days ahead and asks the team to add questions. The finance partner is invited only for the second item. The meeting ends in 25 minutes with two decisions and an owner for the risk. At home, a family uses the same trick for a vacation discussion: 'Beach or mountains this year?' and 'What is our budget ceiling?'",
+   "common_mistakes": [
+    "Treating a list of topic labels as an agenda",
+    "Packing in more questions than the time allows",
+    "Putting the leader's items first by default so attendee items get squeezed",
+    "Writing questions that are really announcements in disguise"
+   ],
+   "steps": [
+    "List what the meeting must produce",
+    "Rewrite each item as a question the group can answer",
+    "Invite attendees to add or reprioritize questions",
+    "Use the questions to decide who must attend which part",
+    "Estimate time per question and send the agenda in advance",
+    "Close each item by stating the answer and the owner"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "professional",
+     "subcategory": "status-updates"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    }
+   ],
+   "situations": [
+    "Planning a decision meeting",
+    "Reworking a stale weekly agenda",
+    "Running a project kickoff"
+   ],
+   "source": {
+    "citation": "Rogelberg, The Surprising Science of Meetings (Oxford University Press, 2019); as described by the author in interviews and talks; author site page 'Have a Compelling Agenda'",
+    "underlying_research": "Leach, Rogelberg, Warr and Burnfield (2009) and Cohen, Rogelberg, Allen and Luong (2011) on meeting design characteristics; the question format itself is the author's recommendation.",
+    "urls": [
+     "https://www.stevenrogelberg.com/have-a-compelling-agenda",
+     "https://knowledge.wharton.upenn.edu/article/less-fluff-more-stuff-how-to-make-meetings-more-productive",
+     "https://par.nsf.gov/servlets/purl/10086888"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "That agendas need relevant content and good facilitation, not just existence, is supported by the author's design-characteristics research. Framing items as questions is a practical recommendation from a leading researcher and has not, as far as I found, been tested head to head against topic lists.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "rogelberg-meetings-03",
+   "name": "Invite Lean, and Give Others a Graceful Opt-Out",
+   "skill_type": "technique",
+   "explanation": "As meetings grow, dysfunction grows with them: communication gets harder and people coast (social loafing), so Rogelberg urges inviting the smallest group that can do the work. The obstacle is that people dislike meetings yet also worry about being left out. His answer has two parts. First, use a timed agenda so people needed for only one item can join for that slice and leave. Second, for people who are not essential but want to stay connected, contact them before the meeting, explain what will be covered, invite their comments on specific items and promise to raise them, share the notes afterward, and tell them they are welcome to attend future meetings. He reports that framed this way, most people are glad to opt out.",
+   "when_to_use": "When a meeting has drifted to a large invite list, when stakeholders want to be included, or when you need a real working session rather than an audience.",
+   "worked_example": "A marketing manager's campaign review has grown to 14 people. She keeps six core members, schedules legal for a 10-minute slot at minute 20, and messages the other six: 'We will decide the launch date and the headline; reply with any concerns by Tuesday and I will raise them, and I will send notes right after. Join anytime you would rather be in the room.' Five opt out and send two useful comments. The meeting finishes early, and nobody feels shut out.",
+   "common_mistakes": [
+    "Inviting everyone to avoid hurt feelings",
+    "Cutting people without offering any way to give input",
+    "Promising to share notes and then not sending them",
+    "Holding people for a full hour when they matter for ten minutes"
+   ],
+   "steps": [
+    "For each agenda question, list who is essential to answer it",
+    "Build a timed agenda and slot part-time attendees",
+    "Personally contact optional people with the agenda and invite input",
+    "Bring their input up in the meeting and credit it",
+    "Send notes and decisions promptly to everyone, including those who opted out"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    }
+   ],
+   "situations": [
+    "Trimming a bloated recurring meeting",
+    "Including stakeholders without wasting their time",
+    "Planning a cross-functional review"
+   ],
+   "source": {
+    "citation": "Rogelberg, The Surprising Science of Meetings (Oxford University Press, 2019); as described by the author in interviews and talks; LEADx talk transcript",
+    "underlying_research": "Group-size and social loafing research; Mroz et al. (2018) checklist item to keep meetings small and limited to needed expertise.",
+    "urls": [
+     "https://leadx.org/articles/science-meetings-performance-team-steven-rogelberg/",
+     "https://knowledge.wharton.upenn.edu/article/less-fluff-more-stuff-how-to-make-meetings-more-productive",
+     "https://par.nsf.gov/servlets/purl/10086888"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Size-related process losses are well established in group research, and the advice to keep meetings small is independently in Mroz et al. (2018). The specific opt-out script is the author's practical recommendation without direct testing.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "rogelberg-meetings-04",
+   "name": "Book Less Time Than the Default",
+   "skill_type": "technique",
+   "explanation": "Calendar software offers 30 or 60 minutes, and meetings expand to fill whatever time they are given (Parkinson's law). Rogelberg advises estimating how long the agenda truly needs and then trimming another 5 to 10 minutes, on the reasoning that a little time pressure sharpens focus while too much does not. Odd lengths (25 or 50 minutes) also leave people a buffer between back-to-back meetings. He adds that alternative formats can cut time further: in research he cites, standing meetings reached decisions of similar quality to seated ones in substantially less time, and walking meetings can work for two or three people when everyone knows in advance.",
+   "when_to_use": "Scheduling any meeting, especially recurring ones set at the calendar default; when meetings routinely run long or people arrive late from the previous one.",
+   "worked_example": "A team lead who runs a 60-minute weekly sync estimates the actual agenda at about 40 minutes and books 35, starting five minutes past the hour so people can arrive from earlier calls. She opens with the three agenda questions and the end time. After a month the meeting reliably ends on time, and people stop multitasking because the pace is brisk. For a quick decision with one peer, she suggests a 15-minute walking meeting instead of a conference room.",
+   "common_mistakes": [
+    "Accepting the calendar default without thinking",
+    "Cutting time so far that discussion gets rushed and decisions get worse",
+    "Running over the scheduled end, which teaches people the end time is fictional",
+    "Springing a walking or standing meeting on people without notice"
+   ],
+   "steps": [
+    "Estimate time per agenda item",
+    "Total it, then trim 5 to 10 minutes",
+    "Pick a nonstandard length and start time if it helps people transition",
+    "State the end time at the start and honor it",
+    "Consider standing or walking formats for short, small meetings"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    }
+   ],
+   "situations": [
+    "Scheduling a recurring team meeting",
+    "Setting up a quick decision with a peer",
+    "Fixing meetings that always run over"
+   ],
+   "source": {
+    "citation": "Rogelberg, The Surprising Science of Meetings (Oxford University Press, 2019); as described by the author in interviews and talks; Wharton interview",
+    "underlying_research": "Parkinson's law (an observation, not an experimental finding); research on moderate time pressure and performance; standing meeting experiment by Bluedorn, Turban and Love (1999, Journal of Applied Psychology), not read directly.",
+    "urls": [
+     "https://knowledge.wharton.upenn.edu/article/less-fluff-more-stuff-how-to-make-meetings-more-productive",
+     "https://leadx.org/articles/science-meetings-performance-team-steven-rogelberg/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Keeping meeting length matched to goals is in the Mroz et al. (2018) checklist, but the specific 5 to 10 minute trim is the author's extrapolation from time-pressure research, not a tested rule. The standing-meeting result comes from a single older experiment; the size of the time saving is reported differently in different sources.",
+   "flags": [
+    "unreplicated"
+   ]
+  },
+  {
+   "id": "rogelberg-meetings-05",
+   "name": "Brainstorm in Silence First",
+   "skill_type": "technique",
+   "explanation": "When a group generates ideas out loud, people wait their turn, forget ideas, and filter what they say after hearing the boss or a confident colleague. Rogelberg recommends having people write ideas individually and silently first (sometimes called brainwriting), then pooling and discussing them. He reports this yields many more ideas, and more creative ones, than open verbal brainstorming, because everyone generates at once and no one anchors on the first or loudest suggestion. Apps and anonymous polling can do the same job in virtual meetings.",
+   "when_to_use": "Any time a meeting needs ideas, options, risks, or honest concerns, particularly with mixed seniority or a few dominant voices.",
+   "worked_example": "A director wants ideas to cut onboarding time. Instead of opening the floor, she gives the team five minutes to write ideas on sticky notes or in a shared doc, one idea per note, without names. She reads them aloud, clusters them, and only then opens discussion. Junior staff contribute several of the best ideas, including one that criticizes a process she designed. A family planning a holiday does the same: everyone writes three ideas before anyone argues.",
+   "common_mistakes": [
+    "Opening with the leader's own idea, which anchors everyone",
+    "Skipping the pooling and discussion step, so ideas are never built on",
+    "Attaching names when people fear judgment",
+    "Using silent writing for issues that need live debate rather than idea generation"
+   ],
+   "steps": [
+    "State the question clearly",
+    "Give a few minutes of silent individual writing, one idea per note",
+    "Collect ideas, anonymously if seniority or sensitivity matters",
+    "Read out and cluster them",
+    "Discuss, combine, and build on the best",
+    "Decide or vote, again silently if useful"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    }
+   ],
+   "situations": [
+    "Generating options in a team meeting",
+    "Surfacing risks before a launch",
+    "Getting input when the boss is in the room"
+   ],
+   "source": {
+    "citation": "Rogelberg, The Surprising Science of Meetings (Oxford University Press, 2019); as described by the author in interviews and talks; Wharton interview",
+    "underlying_research": "Long-standing research on production blocking in interactive brainstorming groups, for example Diehl and Stroebe (1987) and the Mullen, Johnson and Salas (1991) meta-analysis showing nominal (individual) groups outperform interactive groups on idea quantity. Not checked as cited in the book.",
+    "urls": [
+     "https://knowledge.wharton.upenn.edu/article/less-fluff-more-stuff-how-to-make-meetings-more-productive",
+     "https://leadx.org/articles/science-meetings-performance-team-steven-rogelberg/"
+    ]
+   },
+   "confidence": "High",
+   "confidence_rationale": "That pooled individual idea generation beats open verbal brainstorming on number of ideas is one of the better replicated findings in group research. The author's specific claim of nearly twice as many ideas comes from his interview and is not verified against a particular study.",
+   "flags": [
+    "none"
+   ]
+  },
+  {
+   "id": "rogelberg-meetings-06",
+   "name": "Host the Meeting, Not Just Chair It",
+   "skill_type": "technique",
+   "explanation": "Rogelberg points out that people experience a meeting as an interruption of whatever they were doing, and interruptions tend to sour mood, which makes people more rigid and less receptive. So the first minutes matter. He recommends acting as a host: greet people as they arrive, thank them for coming, introduce people who do not know each other, and start on time so latecomers do not set the tone. Occasionally changing the setup (food, a change of seats, pairs discussion, quick polls) signals care and breaks autopilot. In virtual meetings the host role is closer to air traffic control: actively bring quieter people in, because on a call they disappear into the background.",
+   "when_to_use": "At the start of any meeting, especially recurring ones with low energy, cross-team meetings where people do not know each other, and remote calls.",
+   "worked_example": "A program manager notices her Monday cross-team meeting starts flat, with people still finishing email. She arrives early, greets people by name, introduces a new analyst to the engineering lead, and starts on time with a one-line thanks and the purpose. On the remote version, she calls on two people by name who have not spoken, and uses a quick poll for a decision. After a few weeks people arrive on time and the first agenda question gets real discussion.",
+   "common_mistakes": [
+    "Starting late to wait for stragglers, which rewards lateness",
+    "Treating the opening as dead time while the leader sets up technology",
+    "Overdoing gimmicks for a group that wants a businesslike meeting",
+    "On calls, letting the same voices fill the space"
+   ],
+   "steps": [
+    "Arrive early and check technology",
+    "Greet and introduce people as they arrive",
+    "Start on time with thanks and the purpose",
+    "Vary the format occasionally to break routine",
+    "On calls, invite specific people in by name and use polls or chat"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "written-digital",
+     "subcategory": "video-calls"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "introductions"
+    }
+   ],
+   "situations": [
+    "Opening a cross-team meeting",
+    "Running a remote call with quiet participants",
+    "Reviving a low-energy recurring meeting"
+   ],
+   "source": {
+    "citation": "Rogelberg, The Surprising Science of Meetings (Oxford University Press, 2019); as described by the author in interviews and talks; Wharton interview and LEADx transcript",
+    "underlying_research": "Interruptions research on mood; meeting lateness studies (Mroz and Allen, 2017; Allen, Lehmann-Willenbrock and Rogelberg, 2018) summarized in Mroz et al. (2018).",
+    "urls": [
+     "https://knowledge.wharton.upenn.edu/article/less-fluff-more-stuff-how-to-make-meetings-more-productive",
+     "https://leadx.org/articles/science-meetings-performance-team-steven-rogelberg/",
+     "https://par.nsf.gov/servlets/purl/10086888"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Starting on time and the costs of lateness have experimental and field support. The hosting behaviors and playful elements are reasonable extensions of mood research but are expert recommendation rather than tested interventions.",
+   "flags": [
+    "none"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "communicate-with-mastery-12",
+   "relation": "supports",
+   "note": "Rogelberg reports that employees rate remote call-in meetings as the most dysfunctional type yet prefer them because they can hide and multitask, and he casts the remote leader as an air traffic controller who must actively draw people in; this adds a facilitation duty to the thin-channel point."
+  },
+  {
+   "insight_id": "supercommunicators-06",
+   "relation": "supports",
+   "note": "Rogelberg's meeting research and his advice to hand agenda items to others and use silent idea generation converge with the finding that groups led by a dominant talker align least; he adds the data point that leaders systematically overrate their own meetings."
+  },
+  {
+   "insight_id": "humor-seriously-15",
+   "relation": "supports",
+   "note": "Both tackle self-censorship in group ideation; Rogelberg's silent brainstorming rests on the well-replicated production-blocking literature, which gives a stronger evidence base for the same goal of getting unfiltered ideas."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://knowledge.wharton.upenn.edu/article/less-fluff-more-stuff-how-to-make-meetings-more-productive",
+   "https://leadx.org/articles/science-meetings-performance-team-steven-rogelberg/",
+   "https://www.stevenrogelberg.com/have-a-compelling-agenda",
+   "https://inside.charlotte.edu/?p=7219",
+   "https://www.interruptions.net/literature/Rogelberg-JAP06-2006-00819-008.pdf",
+   "https://par.nsf.gov/servlets/purl/10086888"
+  ],
+  "still_unverified": [
+   "The leader self-rating gap: reported by the author, underlying study not read",
+   "Exact time saving from standing meetings (author says about half; original Bluedorn et al. 1999 figure not checked)",
+   "Claim that silent brainstorming yields nearly twice as many ideas (author interview)",
+   "Book chapter numbers and exact wording, since the book itself was not read"
+  ]
+ },
+ "research_notes": "Did not read the book text. Read the Knowledge at Wharton interview, the LEADx talk transcript, the author's agenda page, the UNC Charlotte announcement, the 2006 JAP paper abstract and introduction, and the independent Mroz et al. (2018) review that summarizes much of the same research. Search summaries mention an HBR article on question-based agendas and a claim that early agenda items get disproportionate time; not read, so not used."
+}

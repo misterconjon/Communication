@@ -1,0 +1,118 @@
+{
+  "book": {
+    "title": "The illusion of transparency and the alleviation of speech anxiety",
+    "authors": [
+      "Kenneth Savitsky",
+      "Thomas Gilovich"
+    ],
+    "year": 2003,
+    "publisher": "Elsevier (Journal of Experimental Social Psychology 39(6), 618-625)",
+    "edition": "doi 10.1016/S0022-1031(03)00056-8",
+    "author_credibility": "Thomas Gilovich (Cornell) is a leading judgment and decision-making researcher who co-originated the spotlight effect and illusion of transparency research; Kenneth Savitsky (Williams College) co-authored that work.",
+    "evidence_base": "Two experiments with student speakers. Study 1: speakers giving impromptu speeches believed their nervousness was more visible than observers reported. Study 2: speakers were assigned to a control group, a reassured group (told anxiety is normal and not to worry), or an informed group (told about the illusion of transparency, that inner feelings are less visible to others than people think). The informed group rated their speeches more favorably and felt less nervous, and observers also rated their speeches as better. A later conceptual replication with live classroom audiences (MacInnis, Mackinnon and MacIntyre, 2010) confirmed speakers overestimate how anxious they appear, more so for people high in speaking anxiety.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://en.wikipedia.org/wiki/Illusion_of_transparency",
+        "note": "Describes the design and results of both studies"
+      },
+      {
+        "type": "summary",
+        "url": "https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2020-04/15.4.pdf",
+        "note": "Open-access conceptual replication (Current Research in Social Psychology 15(4), 2010) summarizing the original"
+      }
+    ],
+    "source_type": "peer-reviewed paper",
+    "book_id": "savitsky-gilovich-2003",
+    "subtitle": "",
+    "isbn": "",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "savitsky-gilovich-2003-01",
+      "name": "Your Nerves Are Less Visible Than They Feel (Know the Illusion)",
+      "skill_type": "mental model",
+      "explanation": "When you are nervous, the feeling is so vivid inside you that it seems it must be obvious to everyone watching. It usually is not. Speakers consistently believe their anxiety shows more than audiences actually perceive, a bias called the illusion of transparency: you anchor on your own intense inner experience and do not adjust enough for the fact that others cannot feel it. This belief feeds a loop, because thinking 'they can see I am nervous' makes you more nervous. The useful finding is that knowing about the illusion helps. Speakers who were simply told that it is normal to be nervous and not to worry did no better than controls, but speakers who were told that inner feelings are much less visible than they seem felt better about their speeches and gave speeches that observers rated more highly. So the effective reassurance is a specific fact, not a pep talk: the audience sees only a fraction of what you feel. Limits: the original studies used small student samples and short impromptu speeches, and the performance gain was modest.",
+      "when_to_use": "Before any talk or high-visibility moment when you fear your nervousness will show (a shaky voice, blushing, hands trembling), and when coaching an anxious colleague, where explaining the illusion beats telling them not to worry.",
+      "worked_example": "Before her first board presentation, a new director is convinced the board will notice her voice shaking and conclude she is not ready. Her mentor does not say 'you will be fine'. Instead she explains: 'Research on speakers shows people consistently think their nerves are far more visible than they are. What feels like an earthquake to you looks like mild focus to them.' The director still feels nervous, but she stops monitoring her voice and puts her attention on the board members' questions. Afterwards a board member compliments her composure. A teenager anxious about reading at a family memorial can be told the same thing.",
+      "common_mistakes": [
+        "Offering generic reassurance ('don't worry, everyone gets nervous'), which did not help in the study",
+        "Apologizing for or announcing your nervousness, which draws attention to something the audience had not noticed",
+        "Monitoring yourself for signs of anxiety during the talk instead of attending to the audience",
+        "Concluding you looked as anxious as you felt when judging your own performance afterwards"
+      ],
+      "steps": [
+        "Before speaking, remind yourself of the specific fact: others see much less of my anxiety than I feel",
+        "Skip the opening apology or 'sorry, I'm nervous'",
+        "Move your attention outward to the audience and the message rather than checking your own symptoms",
+        "Afterwards, ask a trusted observer how you came across instead of relying on how it felt",
+        "When helping someone else, explain the illusion instead of simply telling them not to worry"
+      ],
+      "categories": [
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        }
+      ],
+      "situations": [
+        "First presentation to a board or senior team",
+        "Coaching a nervous colleague before a talk",
+        "Speaking at a memorial or family event",
+        "Being interviewed on camera"
+      ],
+      "source": {
+        "citation": "Kenneth Savitsky and Thomas Gilovich (2003), The illusion of transparency and the alleviation of speech anxiety, Journal of Experimental Social Psychology 39(6), 618-625 (Studies 1 and 2)",
+        "underlying_research": "Gilovich, Savitsky and Medvec (1998), The illusion of transparency, Journal of Personality and Social Psychology 75(2); conceptual replication by MacInnis, Mackinnon and MacIntyre (2010), Current Research in Social Psychology 15(4).",
+        "urls": [
+          "https://doi.org/10.1016/S0022-1031(03)00056-8",
+          "https://en.wikipedia.org/wiki/Illusion_of_transparency",
+          "https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2020-04/15.4.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The core illusion has been found in several paradigms and was conceptually replicated with live classroom audiences and a multi-item anxiety measure. The intervention result (informing beats reassuring) comes from one small student study and its performance effect was modest; I read secondary descriptions and the replication paper rather than the original article.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "think-faster-talk-smarter-02",
+      "relation": "supports",
+      "note": "Abrahams mentions that people overestimate how much others notice their stumbles; this paper adds that explaining the illusion to speakers, rather than merely reassuring them, lowered their nervousness and improved observer-rated speech quality."
+    },
+    {
+      "insight_id": "improv-wisdom-06",
+      "relation": "supports",
+      "note": "Explains why turning attention outward helps: self-monitoring for visible anxiety rests on an overestimate of how transparent you are and feeds a loop of more anxiety."
+    },
+    {
+      "insight_id": "communicate-with-mastery-20",
+      "relation": "supports",
+      "note": "Speakers judge their own anxiety display more harshly than observers do, which is one reason outside feedback or video review is more accurate than how a talk felt."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://en.wikipedia.org/wiki/Illusion_of_transparency",
+      "https://crisp.org.uiowa.edu/sites/crisp.org.uiowa.edu/files/2020-04/15.4.pdf",
+      "https://magazine.tcu.edu/spring-1999/scared-speechless/"
+    ],
+    "still_unverified": [
+      "Original article text not read; exact sample sizes and effect sizes for the informed versus reassured comparison are from secondary descriptions",
+      "TCU Magazine reports Behnke's figure that audiences detect about 11 percent of a speaker's anxiety; not verified against a primary source, so not used in the insight"
+    ]
+  },
+  "research_notes": "The author-hosted Cornell PDF (via web.archive.org) could not be downloaded because the archive connection was reset; publisher page is paywalled. Relied on the Wikipedia description of both studies, the MacInnis et al. (2010) open-access replication (read in full), and a TCU Magazine feature on Behnke's related findings."
+}

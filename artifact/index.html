@@ -32,6 +32,8 @@
   color-scheme: dark; }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
+.collapsible { display: contents; }
 body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.55; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
 a { color: var(--accent); }
@@ -131,6 +133,7 @@ ol.stages { list-style: none; margin: 0; padding: 0; display: grid; gap: 36px; c
   .lib { grid-template-columns: minmax(0, 1fr); gap: 16px; }
   .rail { position: static; max-height: none; overflow: visible; }
   .rail[data-collapsed="true"] .collapsible { display: none; }
+  .rail[data-collapsed="false"] .collapsible { display: contents; }
   .filter-toggle { display: inline-block; background: none; border: 1px solid var(--line); border-radius: 6px; padding: 6px 12px; cursor: pointer; }
   .stage { grid-template-columns: minmax(0, 1fr); }
   .stage-num { font-size: 1.8rem; margin-bottom: 4px; }
@@ -162,7 +165,7 @@ ol.stages { list-style: none; margin: 0; padding: 0; display: grid; gap: 36px; c
         <label class="label" for="q">Search</label>
         <input type="search" id="q" placeholder="Try: apology, email, nerves" autocomplete="off">
       </div>
-      <div class="collapsible" style="display:contents">
+      <div class="collapsible">
         <div class="field">
           <label class="label" for="f-cat">Category</label>
           <select id="f-cat"><option value="">All categories</option></select>
@@ -316,20 +319,21 @@ ol.stages { list-style: none; margin: 0; padding: 0; display: grid; gap: 36px; c
     if (state.q) title = "Results for “" + state.q + "”";
     $("results-title").textContent = title;
     var ol = $("entries");
-    ol.innerHTML = list.length ? list.map(rowHTML).join("") : '<li class="empty">No entries match these filters. Clear a filter or try a broader search term.</li>';
-    if (state.open && byId[state.open]) openEntry(state.open, false);
+    ol.innerHTML = list.length ? list.map(function (i) { return rowHTML(i, "e-"); }).join("") : '<li class="empty">No entries match these filters. Clear a filter or try a broader search term.</li>';
+    if (state.open && state.open.indexOf("e-") === 0) openEntry(state.open.slice(2), false);
   }
-  function rowHTML(i) {
+  function rowHTML(i, pfx) {
+    pfx = pfx || "e-";
     var s = srcById[i.source_id] || {};
     var cats = i.categories.map(function (c) { return catName[c.category]; }).filter(function (v, n, a) { return a.indexOf(v) === n; }).join(", ");
-    return '<li class="entry" id="e-' + esc(i.id) + '"><button class="row" type="button" aria-expanded="false" data-id="' + esc(i.id) + '">' +
+    return '<li class="entry" id="' + pfx + esc(i.id) + '"><button class="row" type="button" aria-expanded="false" data-id="' + esc(i.id) + '" data-pfx="' + pfx + '">' +
       '<span class="name">' + esc(i.name) + '</span>' +
       '<span class="badges"><span class="type">' + esc(i.skill_type) + '</span><span class="conf ' + esc(i.confidence) + '">' + esc(i.confidence) + '</span></span>' +
       '<span class="meta"><span class="src">' + esc(s.title) + '</span><span>' + esc(cats) + '</span></span></button></li>';
   }
   document.addEventListener("click", function (e) {
     var row = e.target.closest("button.row");
-    if (row) { var id = row.dataset.id; if (state.open === id) { closeEntry(); } else { openEntry(id, true); } return; }
+    if (row) { var id = row.dataset.id, pf = row.dataset.pfx; if (state.open === pf + id) { closeEntry(); } else { openEntry(id, true, pf); } return; }
     var tag = e.target.closest("[data-cat]");
     if (tag) { location.hash = "library"; setFilter(tag.dataset.cat, tag.dataset.sub); return; }
     var sb = e.target.closest("[data-src]");
@@ -341,10 +345,11 @@ ol.stages { list-style: none; margin: 0; padding: 0; display: grid; gap: 36px; c
     var prev = document.querySelector(".entry .detail"); if (prev) { prev.previousElementSibling.setAttribute("aria-expanded", "false"); prev.remove(); }
     state.open = null;
   }
-  function openEntry(id, scroll) {
+  function openEntry(id, scroll, pfx) {
+    pfx = pfx || "e-";
     closeEntry();
-    var li = document.getElementById("e-" + id); if (!li) return;
-    state.open = id;
+    var li = document.getElementById(pfx + id); if (!li) return;
+    state.open = pfx + id;
     var btn = li.querySelector("button.row"); btn.setAttribute("aria-expanded", "true");
     li.insertAdjacentHTML("beforeend", detailHTML(byId[id]));
     if (scroll) li.scrollIntoView({ block: "nearest" });
@@ -374,7 +379,7 @@ ol.stages { list-style: none; margin: 0; padding: 0; display: grid; gap: 36px; c
   function renderPath() {
     var st = (LIB.learning_path && LIB.learning_path.stages) || [];
     $("stages").innerHTML = st.map(function (s, n) {
-      var items = s.insight_ids.map(function (id) { return byId[id] ? rowHTML(byId[id]) : ""; }).join("");
+      var items = s.insight_ids.map(function (id) { return byId[id] ? rowHTML(byId[id], "p-") : ""; }).join("");
       return '<li class="stage"><div class="stage-num" aria-hidden="true">' + (n + 1) + '</div><div><h3>' + esc(s.title) + '</h3><p class="purpose">' + esc(s.purpose) + '</p><p class="why">' + esc(s.rationale) + '</p><ol class="entries">' + items + "</ol></div></li>";
     }).join("");
   }
