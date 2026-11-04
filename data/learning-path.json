@@ -1,0 +1,1023 @@
+{
+  "stages": [
+    {
+      "id": "stage-1",
+      "title": "Foundations: a learnable skill, calm enough to connect",
+      "purpose": "Replace the belief that communication is a fixed talent with a practice mindset, give tools to manage nerves, and establish that every communication starts with audience and purpose.",
+      "categories": [
+        "foundations"
+      ],
+      "insight_ids": [
+        "communicate-with-mastery-10",
+        "think-faster-talk-smarter-04",
+        "improv-wisdom-05",
+        "improv-wisdom-10",
+        "think-faster-talk-smarter-02",
+        "think-faster-talk-smarter-03",
+        "think-faster-talk-smarter-05",
+        "improv-wisdom-03",
+        "communicate-with-mastery-01",
+        "improv-wisdom-08"
+      ],
+      "rationale": "Perfectionism and unmanaged anxiety undermine every later skill, so they come first: the mastery frame and connection over perfection, then calming the body, relabeling arousal, reframing the moment, and acting before feeling ready. The stage ends by pointing attention outward to audience and purpose (AIM, stay on course), which the listening stage builds on."
+    },
+    {
+      "id": "stage-2",
+      "title": "Listening and understanding others",
+      "purpose": "Build full, visible attention; correct overconfidence in reading people; teach looping; diagnose what kind of conversation the other person is having.",
+      "categories": [
+        "relationships",
+        "foundations"
+      ],
+      "insight_ids": [
+        "improv-wisdom-06",
+        "how-to-know-a-person-03",
+        "think-faster-talk-smarter-06",
+        "how-to-know-a-person-14",
+        "how-to-know-a-person-06",
+        "how-to-know-a-person-07",
+        "connect-09",
+        "how-to-know-a-person-11",
+        "connect-03",
+        "supercommunicators-01",
+        "supercommunicators-02"
+      ],
+      "rationale": "Attention is the High-confidence base, then made visible and aimed at the bottom line. Humility about reading people motivates perspective getting and looping as verification, and inquiry before advice. Empathy's three skills and the three realities give a model of intent versus impact that feedback needs later. The three kinds of conversations and matching turn listening into choosing a response, which Stage 3 requires."
+    },
+    {
+      "id": "stage-3",
+      "title": "Conversation and connection",
+      "purpose": "Move from small talk to real connection through questions, topic management, depth, reciprocal disclosure, levity, appreciation and good endings.",
+      "categories": [
+        "conversations",
+        "relationships"
+      ],
+      "insight_ids": [
+        "talk-wood-brooks-01",
+        "think-faster-talk-smarter-13",
+        "talk-wood-brooks-04",
+        "talk-wood-brooks-06",
+        "talk-wood-brooks-02",
+        "talk-wood-brooks-03",
+        "how-to-know-a-person-04",
+        "supercommunicators-05",
+        "how-to-know-a-person-09",
+        "talk-wood-brooks-07",
+        "connect-02",
+        "supercommunicators-08",
+        "connect-10",
+        "talk-wood-brooks-08",
+        "humor-seriously-09",
+        "talk-wood-brooks-10",
+        "talk-wood-brooks-11"
+      ],
+      "rationale": "TALK provides the map. Curiosity and follow-ups are the easiest high-return change and boomerasking the most common failure. Topic preparation and the pyramid show how to climb; the depth evidence and deep questions justify climbing. Disclosure follows because depth is reciprocal (pace, vulnerability, dropping image management). Levity with a safety check, appreciation and knowing when to end complete the stage. Trust built here is what Stage 6 relies on."
+    },
+    {
+      "id": "stage-4",
+      "title": "Clarity and structure in speech and writing",
+      "purpose": "Make messages easy to understand: beat the curse of knowledge, lead with the core, use a reusable structure, make it concrete, and adapt for text.",
+      "categories": [
+        "written-digital",
+        "foundations",
+        "professional"
+      ],
+      "insight_ids": [
+        "made-to-stick-01",
+        "think-faster-talk-smarter-09",
+        "made-to-stick-03",
+        "communicate-with-mastery-05",
+        "think-faster-talk-smarter-07",
+        "made-to-stick-07",
+        "made-to-stick-04",
+        "made-to-stick-14",
+        "communicate-with-mastery-02",
+        "communicate-with-mastery-09",
+        "supercommunicators-12"
+      ],
+      "rationale": "The curse of knowledge explains why clarity is hard and extends AIM from Stage 1. Focus and the core decide what to say, parachuting in where to start, and What So What Now What the shape. Concreteness, analogies and human-scale numbers make it land. The written block applies this to text: ABC editing, pause-verify-iterate because senders overestimate how well tone comes across, and extra warmth online. Clarity must precede persuasion."
+    },
+    {
+      "id": "stage-5",
+      "title": "Influence and memorable messages",
+      "purpose": "Move people to act by leading with their benefit, using persuasive structures, making ideas stick, building credibility and working with identity.",
+      "categories": [
+        "influence",
+        "professional"
+      ],
+      "insight_ids": [
+        "made-to-stick-10",
+        "think-faster-talk-smarter-08",
+        "think-faster-talk-smarter-15",
+        "communicate-with-mastery-18",
+        "made-to-stick-02",
+        "made-to-stick-05",
+        "made-to-stick-06",
+        "made-to-stick-12",
+        "humor-seriously-16",
+        "made-to-stick-08",
+        "made-to-stick-13",
+        "supercommunicators-10",
+        "made-to-stick-11"
+      ],
+      "rationale": "Benefit-first persuasion extends audience thinking. Structures come before stickiness so the reader has a skeleton to strengthen. SUCCESs organizes the stickiness tools (unexpected, curiosity, stories, a light line). Credibility and emotional spread follow, and identity closes the stage because it explains why good arguments fail and bridges into difficult conversations."
+    },
+    {
+      "id": "stage-6",
+      "title": "Difficult situations",
+      "purpose": "Handle feedback, conflict, apologies, boundaries and distress without damaging the relationship.",
+      "categories": [
+        "difficult",
+        "personal-life"
+      ],
+      "insight_ids": [
+        "connect-07",
+        "connect-05",
+        "connect-06",
+        "connect-04",
+        "connect-15",
+        "think-faster-talk-smarter-10",
+        "connect-08",
+        "talk-wood-brooks-14",
+        "think-faster-talk-smarter-16",
+        "talk-wood-brooks-09",
+        "supercommunicators-11",
+        "supercommunicators-14",
+        "think-faster-talk-smarter-12",
+        "talk-wood-brooks-13",
+        "connect-14",
+        "connect-13",
+        "how-to-know-a-person-10"
+      ],
+      "rationale": "Receiving feedback comes first because it is the reader's own side and shows why others' data matters. Raising pinches early sets timing; real feelings, behavior plus impact and behavior-not-personality build the message; the 4 I's packages it; problem solving sets the stance. Conflict moves from diagnosis (find the layer) to regulation and receptiveness to group norms. Repair follows conflict. Boundaries and supporting distress close the stage because they draw on all earlier skills, including looping from Stage 2."
+    },
+    {
+      "id": "stage-7",
+      "title": "Mastery: groups, high stakes, and deliberate practice",
+      "purpose": "Integrate skills under pressure and in front of groups, lead conversations that elevate others, and install a lasting practice loop.",
+      "categories": [
+        "public-speaking",
+        "conversations",
+        "professional",
+        "foundations"
+      ],
+      "insight_ids": [
+        "think-faster-talk-smarter-01",
+        "think-faster-talk-smarter-11",
+        "improv-wisdom-13",
+        "think-faster-talk-smarter-14",
+        "communicate-with-mastery-06",
+        "communicate-with-mastery-17",
+        "communicate-with-mastery-11",
+        "supercommunicators-06",
+        "improv-wisdom-11",
+        "humor-seriously-14",
+        "communicate-with-mastery-16",
+        "communicate-with-mastery-20",
+        "communicate-with-mastery-15"
+      ],
+      "rationale": "The six-step method recaps Stages 1, 2 and 4 as one sequence for on-the-spot speaking; ADD, prompts instead of scripts and the toast apply it. Delivery follows once content is in place (contested elements flagged). Group leadership extends Stage 3 to teams. The canvas is the high-stakes integration of AIM, and the guide ends with video review and coaching so learning continues."
+    }
+  ],
+  "convergent_concepts": [
+    {
+      "concept": "Outward attention beats self-monitoring",
+      "insight_ids": [
+        "improv-wisdom-06",
+        "improv-wisdom-14",
+        "how-to-know-a-person-03",
+        "think-faster-talk-smarter-06",
+        "how-to-know-a-person-01",
+        "communicate-with-mastery-06",
+        "supercommunicators-13"
+      ],
+      "agreement": "Self-focused attention blocks listening and fluent speech; attending to the other person improves the interaction and lowers anxiety.",
+      "disagreement": "Madson treats attention as contemplative practice; David Brooks stresses making attention visible; Abrahams frames it as a pressure skill that also buys time; Schramm applies it to presenting; Duhigg's neural framing is flagged as overreach.",
+      "evidence": "High"
+    },
+    {
+      "concept": "Ask more questions, especially follow-ups",
+      "insight_ids": [
+        "talk-wood-brooks-04",
+        "talk-wood-brooks-05",
+        "talk-wood-brooks-06",
+        "supercommunicators-06",
+        "think-faster-talk-smarter-13",
+        "connect-09",
+        "how-to-know-a-person-01",
+        "how-to-know-a-person-03"
+      ],
+      "agreement": "People ask too few questions; follow-ups signal listening and increase liking; do not use questions as a launch pad for yourself.",
+      "disagreement": "Wood Brooks gives a four-type taxonomy and warns about too many switches; Duhigg focuses on groups; Connect favors open how and what questions and avoiding why; Abrahams frames it as being interested, not interesting. The main study is modest, critiqued by Kluger and Malloy, and Gino-coauthored.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Depth is less awkward than you fear",
+      "insight_ids": [
+        "how-to-know-a-person-04",
+        "how-to-know-a-person-05",
+        "how-to-know-a-person-09",
+        "supercommunicators-05",
+        "talk-wood-brooks-03",
+        "talk-wood-brooks-07"
+      ],
+      "agreement": "People underestimate how welcome deep and sensitive questions are; questions about values, turning points and stories build connection.",
+      "disagreement": "David Brooks pushes big crossroads questions; Duhigg stresses light, reciprocal deep questions; Wood Brooks offers a graduated pyramid and says not every conversation needs to go deep.",
+      "evidence": "High"
+    },
+    {
+      "concept": "Social fears and self-perceptions are miscalibrated",
+      "insight_ids": [
+        "how-to-know-a-person-04",
+        "talk-wood-brooks-07",
+        "talk-wood-brooks-10",
+        "connect-10",
+        "improv-wisdom-05",
+        "improv-wisdom-10",
+        "think-faster-talk-smarter-02",
+        "communicate-with-mastery-09",
+        "supercommunicators-12",
+        "talk-wood-brooks-11"
+      ],
+      "agreement": "People overestimate awkwardness and how much others notice their stumbles, underestimate the positive impact of depth, compliments and vulnerability, and overestimate how clearly their tone comes across.",
+      "disagreement": "Some books use the finding to encourage action (Wood Brooks, David Brooks, Madson, Abrahams); others to urge verification (Schramm, Duhigg on text). Several papers come from one lab and some links are mapped rather than cited.",
+      "evidence": "High"
+    },
+    {
+      "concept": "Ask rather than infer other minds",
+      "insight_ids": [
+        "how-to-know-a-person-06",
+        "how-to-know-a-person-14",
+        "how-to-know-a-person-11",
+        "connect-03",
+        "connect-09",
+        "supercommunicators-03",
+        "made-to-stick-01"
+      ],
+      "agreement": "You know less about others' thoughts, feelings and intentions than you believe; ask and check rather than assume.",
+      "disagreement": "David Brooks's mentalizing model projects from your own experience and Wood Brooks's compass asks for a best guess at partner goals, which sit uneasily with perspective-getting research. how-to-know-a-person-06 is not confirmed in the book.",
+      "evidence": "High"
+    },
+    {
+      "concept": "Looping and paraphrasing for understanding",
+      "insight_ids": [
+        "how-to-know-a-person-07",
+        "supercommunicators-07",
+        "think-faster-talk-smarter-06",
+        "think-faster-talk-smarter-11",
+        "think-faster-talk-smarter-16",
+        "supercommunicators-11",
+        "communicate-with-mastery-09"
+      ],
+      "agreement": "Restate what you heard in your own words and check; it catches misunderstanding and lowers defensiveness.",
+      "disagreement": "Duhigg and David Brooks describe the full loop; Brooks allows a lighter paraphrase; Abrahams also uses paraphrase to buy time and reframe hostile questions; Schramm applies verification to writing. Some research finds paraphrase adds little over acknowledgment.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Connection over perfection",
+      "insight_ids": [
+        "think-faster-talk-smarter-04",
+        "improv-wisdom-05",
+        "improv-wisdom-10",
+        "improv-wisdom-04",
+        "communicate-with-mastery-10",
+        "communicate-with-mastery-17",
+        "humor-seriously-01"
+      ],
+      "agreement": "Aim for adequate rather than impressive, treat mistakes as offers, recover lightly and keep going.",
+      "disagreement": "Madson frames it as life philosophy; Abrahams adapts it from Madson and limits it to in-the-moment delivery; Schramm frames it as long-run mastery; Aaker and Bagdonas apply it to humor. Lineage reduces independence.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Reframe anxiety rather than suppress it",
+      "insight_ids": [
+        "think-faster-talk-smarter-03",
+        "communicate-with-mastery-19",
+        "think-faster-talk-smarter-02",
+        "think-faster-talk-smarter-05",
+        "improv-wisdom-03"
+      ],
+      "agreement": "Manage nerves to a workable level and redirect arousal rather than trying to eliminate it.",
+      "disagreement": "Abrahams calms the body first, then relabels and reframes; Schramm adds power posing, which failed to replicate; Madson says act while nervous rather than fixing feelings first. The excitement effect replicated on feelings more than on performance.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Reusable message structures (What, So What, Now What and relatives)",
+      "insight_ids": [
+        "think-faster-talk-smarter-07",
+        "communicate-with-mastery-04",
+        "think-faster-talk-smarter-08",
+        "think-faster-talk-smarter-11",
+        "think-faster-talk-smarter-14",
+        "think-faster-talk-smarter-15",
+        "think-faster-talk-smarter-10",
+        "think-faster-talk-smarter-12",
+        "communicate-with-mastery-18",
+        "communicate-with-mastery-07",
+        "communicate-with-mastery-16",
+        "talk-wood-brooks-01",
+        "supercommunicators-03"
+      ],
+      "agreement": "A short reusable shape eases delivery under pressure and helps listeners follow; good structures end with relevance and a next step.",
+      "disagreement": "Abrahams uses What So What Now What for spontaneous speech, Schramm for written synthesis; Madson prefers questions-to-self over scripts; Wood Brooks and Duhigg offer conversation structures rather than message structures. None is tested as a named framework.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Lead with the core point and cut the preamble",
+      "insight_ids": [
+        "made-to-stick-03",
+        "communicate-with-mastery-05",
+        "communicate-with-mastery-03",
+        "communicate-with-mastery-02",
+        "think-faster-talk-smarter-09",
+        "think-faster-talk-smarter-11",
+        "improv-wisdom-04"
+      ],
+      "agreement": "Find the single most important point, say it first, and drop background the audience does not need.",
+      "disagreement": "Made to Stick stresses ruthless prioritization; Schramm stresses opening at the most engaging moment; Abrahams stresses relevance and concision; Madson's start with the obvious is about not waiting for brilliance.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Curse of knowledge and audience-first planning",
+      "insight_ids": [
+        "made-to-stick-01",
+        "communicate-with-mastery-01",
+        "communicate-with-mastery-16",
+        "think-faster-talk-smarter-09",
+        "made-to-stick-10",
+        "improv-wisdom-08",
+        "talk-wood-brooks-12"
+      ],
+      "agreement": "Start from what the audience knows, cares about and must do; your own sense of clarity is unreliable.",
+      "disagreement": "Schramm orders the work (AIM, canvas); Made to Stick diagnoses the cause and prescribes stickiness tools; Abrahams compresses it to an in-the-moment check; Madson and Wood Brooks focus on purpose and goals. Key curse-of-knowledge studies are unpublished or replicated at smaller size.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Disclosure and vulnerability build trust when reciprocal and calibrated",
+      "insight_ids": [
+        "connect-02",
+        "connect-10",
+        "connect-01",
+        "supercommunicators-08",
+        "supercommunicators-05",
+        "communicate-with-mastery-08",
+        "humor-seriously-05",
+        "humor-seriously-11",
+        "how-to-know-a-person-02"
+      ],
+      "agreement": "Sharing feelings and uncertainties, reciprocated, deepens relationships; disclosure should not undermine core competence.",
+      "disagreement": "Connect prescribes gradual 15 percent steps with the higher-status person first; Duhigg says vulnerability often precedes trust; Schramm emphasizes purpose for an audience; David Brooks counsels patience; Aaker and Bagdonas add laughter as an accelerant.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Match the kind of conversation before responding",
+      "insight_ids": [
+        "supercommunicators-01",
+        "supercommunicators-02",
+        "supercommunicators-03",
+        "talk-wood-brooks-12",
+        "talk-wood-brooks-14",
+        "how-to-know-a-person-12",
+        "connect-09",
+        "how-to-know-a-person-10"
+      ],
+      "agreement": "Misfires often come from people being in different conversations; diagnose what the other person needs and meet them there.",
+      "disagreement": "Duhigg uses three kinds plus mood and energy; Wood Brooks uses a goals compass and five layers; David Brooks distinguishes official and actual conversations; Connect and David Brooks apply it to support. All typologies are untested syntheses.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Feedback: behavior and impact, not motive or personality",
+      "insight_ids": [
+        "connect-03",
+        "connect-04",
+        "connect-06",
+        "connect-15",
+        "think-faster-talk-smarter-10",
+        "made-to-stick-07",
+        "communicate-with-mastery-15"
+      ],
+      "agreement": "Name specific observable behavior and its effect, avoid labels and intent guesses, and ask for behavior change rather than character change.",
+      "disagreement": "Connect treats feedback as data, not a verdict, and rejects the sandwich; Abrahams adds explicit Implications; Schramm adds coaching and Radical Candor.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "A learning stance in disagreement",
+      "insight_ids": [
+        "talk-wood-brooks-09",
+        "think-faster-talk-smarter-16",
+        "supercommunicators-11",
+        "supercommunicators-03",
+        "connect-08",
+        "how-to-know-a-person-08",
+        "how-to-know-a-person-12",
+        "talk-wood-brooks-14"
+      ],
+      "agreement": "Aim to understand rather than win: acknowledge the other view, find the real layer of difference and points of agreement, and treat the exchange as joint problem solving.",
+      "disagreement": "Wood Brooks gives a linguistic receptiveness recipe; Abrahams's CLEAR starts with self-regulation; Duhigg measures success by feeling heard; David Brooks stresses safety before content. Key receptiveness papers are Gino-coauthored, with independent support from Ren and Schaumberg.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Humor: lightness over jokes, with asymmetric risk",
+      "insight_ids": [
+        "humor-seriously-01",
+        "humor-seriously-03",
+        "humor-seriously-04",
+        "humor-seriously-09",
+        "humor-seriously-11",
+        "talk-wood-brooks-08",
+        "improv-wisdom-12",
+        "supercommunicators-09"
+      ],
+      "agreement": "Humor is mainly a mindset; successful humor signals confidence, mild flops cost little, inappropriate humor costs a lot; laughing at others' humor counts.",
+      "disagreement": "Aaker and Bagdonas argue humor is underused and give craft and safety checks; Wood Brooks favors low-risk levity; Madson frames play as loosening the mind; Duhigg treats laughter as a signal to match. Two books share one research paper.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Make stories and specifics do the work",
+      "insight_ids": [
+        "made-to-stick-07",
+        "made-to-stick-12",
+        "made-to-stick-14",
+        "made-to-stick-04",
+        "communicate-with-mastery-07",
+        "communicate-with-mastery-05",
+        "humor-seriously-08",
+        "humor-seriously-16",
+        "think-faster-talk-smarter-11",
+        "think-faster-talk-smarter-15",
+        "how-to-know-a-person-09"
+      ],
+      "agreement": "Concrete details, examples, analogies, human-scale numbers and short stories improve understanding and memory.",
+      "disagreement": "Made to Stick is the theoretical anchor; Schramm offers a story template (Low); Abrahams embeds a concrete example in each structure; David Brooks applies it to listening by asking for others' stories. Stories-versus-statistics figures are informal.",
+      "evidence": "High"
+    },
+    {
+      "concept": "Persuade through the listener's benefit",
+      "insight_ids": [
+        "made-to-stick-10",
+        "think-faster-talk-smarter-08",
+        "think-faster-talk-smarter-15",
+        "communicate-with-mastery-18",
+        "communicate-with-mastery-01",
+        "supercommunicators-04"
+      ],
+      "agreement": "Start from a problem the listener recognizes, help them picture their benefit, and close with a clear ask.",
+      "disagreement": "Made to Stick adds non-material motives and self-imagery; Abrahams and Schramm package pitch structures; Duhigg distinguishes cost-benefit from similarity logic by conversation type.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Identity shapes what people hear",
+      "insight_ids": [
+        "supercommunicators-10",
+        "supercommunicators-14",
+        "supercommunicators-01",
+        "made-to-stick-11",
+        "talk-wood-brooks-14",
+        "communicate-with-mastery-14"
+      ],
+      "agreement": "Messages are processed through identity; threats to identity harden resistance, while shared or valued identities open people up.",
+      "disagreement": "Made to Stick uses identity as a persuasion lever; Duhigg uses it to defuse resistance and set norms; Wood Brooks treats it as a layer of difference; Schramm applies it to the speaker's own identity (Low).",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Apologize specifically and own it",
+      "insight_ids": [
+        "think-faster-talk-smarter-12",
+        "talk-wood-brooks-13",
+        "humor-seriously-10",
+        "connect-14"
+      ],
+      "agreement": "Name the specific act and its effect, avoid 'but' and conditional apologies, commit to change; ruptures can be repaired.",
+      "disagreement": "Abrahams gives a three-part form; Wood Brooks adds superfluous apologies for others' bad luck; Aaker and Bagdonas apply it to jokes that cross a line; Connect describes the long arc of repair.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Express appreciation more than feels necessary",
+      "insight_ids": [
+        "talk-wood-brooks-10",
+        "improv-wisdom-09",
+        "think-faster-talk-smarter-14",
+        "supercommunicators-12"
+      ],
+      "agreement": "Specific thanks and sincere compliments are undergiven and land better than expected.",
+      "disagreement": "Wood Brooks frames it as a miscalibration; Madson as a Naikan reflection habit; Abrahams builds thanks into toasts; Duhigg prescribes extra gratitude online.",
+      "evidence": "High"
+    },
+    {
+      "concept": "Raise small issues early and make expectations explicit",
+      "insight_ids": [
+        "connect-05",
+        "connect-13",
+        "connect-12",
+        "think-faster-talk-smarter-10",
+        "supercommunicators-14"
+      ],
+      "agreement": "Unspoken irritations and mismatched expectations accumulate; raise them early in non-accusatory language and set norms explicitly.",
+      "disagreement": "Connect supplies the core models; Abrahams stresses in-the-moment timing; Duhigg applies norm-setting to groups. Mostly one book.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Elevate others in groups",
+      "insight_ids": [
+        "improv-wisdom-11",
+        "improv-wisdom-01",
+        "supercommunicators-06",
+        "supercommunicators-13",
+        "humor-seriously-14",
+        "humor-seriously-04",
+        "how-to-know-a-person-08"
+      ],
+      "agreement": "Make partners look good, build on offers, ask rather than dominate, and laugh at others' humor; dominance lowers shared understanding.",
+      "disagreement": "Madson grounds it in improv ethics, Duhigg in neural-alignment research, Aaker and Bagdonas in status-aware leadership humor, David Brooks in the midwife model.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Presence and inquiry before advice when someone is struggling",
+      "insight_ids": [
+        "connect-09",
+        "how-to-know-a-person-10",
+        "how-to-know-a-person-02",
+        "supercommunicators-02",
+        "supercommunicators-01"
+      ],
+      "agreement": "Resist fixing; ask open questions, acknowledge how hard it is, and stay present.",
+      "disagreement": "David Brooks addresses clinical depression and pairs presence with professional care; Connect addresses everyday problems; Duhigg frames it as matching an emotional conversation. Key cases are single anecdotes.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Practice, record and reflect",
+      "insight_ids": [
+        "communicate-with-mastery-10",
+        "communicate-with-mastery-15",
+        "communicate-with-mastery-20",
+        "communicate-with-mastery-09",
+        "think-faster-talk-smarter-07",
+        "talk-wood-brooks-01",
+        "talk-wood-brooks-07",
+        "connect-07"
+      ],
+      "agreement": "Skills improve through feedback-driven practice: debriefs, recordings, rehearsal with a partner, frequent small feedback.",
+      "disagreement": "Schramm gives the most developed routines; Abrahams prescribes drills; Wood Brooks uses TALK as a checklist; Connect frames feedback as data you cannot get yourself.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Know when to move on or end",
+      "insight_ids": [
+        "talk-wood-brooks-11",
+        "talk-wood-brooks-03",
+        "think-faster-talk-smarter-13"
+      ],
+      "agreement": "People stay too long on stale topics and in conversations; switch or close warmly and exit together.",
+      "disagreement": "Wood Brooks supplies evidence and warning signs; Abrahams supplies an exit technique.",
+      "evidence": "Medium"
+    }
+  ],
+  "related_insights": [
+    {
+      "ids": [
+        "think-faster-talk-smarter-07",
+        "communicate-with-mastery-04"
+      ],
+      "relation": "duplicate"
+    },
+    {
+      "ids": [
+        "how-to-know-a-person-07",
+        "supercommunicators-07"
+      ],
+      "relation": "duplicate"
+    },
+    {
+      "ids": [
+        "think-faster-talk-smarter-03",
+        "communicate-with-mastery-19"
+      ],
+      "relation": "duplicate"
+    },
+    {
+      "ids": [
+        "supercommunicators-05",
+        "how-to-know-a-person-04",
+        "how-to-know-a-person-05"
+      ],
+      "relation": "duplicate"
+    },
+    {
+      "ids": [
+        "talk-wood-brooks-04",
+        "supercommunicators-06"
+      ],
+      "relation": "duplicate"
+    },
+    {
+      "ids": [
+        "supercommunicators-02",
+        "supercommunicators-13"
+      ],
+      "relation": "duplicate"
+    },
+    {
+      "ids": [
+        "improv-wisdom-05",
+        "think-faster-talk-smarter-04",
+        "communicate-with-mastery-10"
+      ],
+      "relation": "duplicate"
+    },
+    {
+      "ids": [
+        "improv-wisdom-13",
+        "improv-wisdom-04"
+      ],
+      "relation": "duplicate"
+    },
+    {
+      "ids": [
+        "connect-03",
+        "connect-04",
+        "connect-06",
+        "connect-15",
+        "think-faster-talk-smarter-10"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "talk-wood-brooks-09",
+        "think-faster-talk-smarter-16"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "think-faster-talk-smarter-12",
+        "talk-wood-brooks-13",
+        "humor-seriously-10",
+        "connect-14"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "humor-seriously-03",
+        "talk-wood-brooks-08"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "connect-10",
+        "humor-seriously-05"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "supercommunicators-01",
+        "talk-wood-brooks-12",
+        "talk-wood-brooks-14",
+        "how-to-know-a-person-12"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "made-to-stick-03",
+        "communicate-with-mastery-05",
+        "think-faster-talk-smarter-09"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "made-to-stick-14",
+        "made-to-stick-08"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "made-to-stick-10",
+        "think-faster-talk-smarter-08",
+        "think-faster-talk-smarter-15",
+        "communicate-with-mastery-18"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "made-to-stick-12",
+        "communicate-with-mastery-07"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "improv-wisdom-06",
+        "improv-wisdom-14",
+        "how-to-know-a-person-03",
+        "think-faster-talk-smarter-06"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "connect-09",
+        "how-to-know-a-person-10",
+        "supercommunicators-02"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "talk-wood-brooks-10",
+        "improv-wisdom-09"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "how-to-know-a-person-06",
+        "how-to-know-a-person-14",
+        "how-to-know-a-person-11"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "improv-wisdom-01",
+        "think-faster-talk-smarter-05"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "humor-seriously-11",
+        "supercommunicators-09"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "supercommunicators-10",
+        "made-to-stick-11",
+        "supercommunicators-14"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "supercommunicators-12",
+        "humor-seriously-13",
+        "communicate-with-mastery-09"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "communicate-with-mastery-15",
+        "communicate-with-mastery-20"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "improv-wisdom-02",
+        "talk-wood-brooks-02"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "improv-wisdom-02",
+        "communicate-with-mastery-16"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "humor-seriously-12",
+        "humor-seriously-06"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "humor-seriously-13",
+        "supercommunicators-12"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "connect-02",
+        "supercommunicators-08"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "how-to-know-a-person-04",
+        "talk-wood-brooks-03"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "talk-wood-brooks-13",
+        "communicate-with-mastery-17"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "talk-wood-brooks-13",
+        "improv-wisdom-10"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "how-to-know-a-person-06",
+        "how-to-know-a-person-11"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "how-to-know-a-person-06",
+        "talk-wood-brooks-12"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "communicate-with-mastery-02",
+        "supercommunicators-12"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "connect-04",
+        "think-faster-talk-smarter-10"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "improv-wisdom-01",
+        "connect-13"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "supercommunicators-02",
+        "think-faster-talk-smarter-16"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "made-to-stick-09",
+        "made-to-stick-14"
+      ],
+      "relation": "tension"
+    }
+  ],
+  "gaps": [
+    {
+      "category": "written-digital",
+      "subcategory": "async",
+      "severity": "missing",
+      "what_would_fill_it": "A research-based or well-documented practitioner source on asynchronous and remote written work: writing for decisions, documentation culture, response-time norms, channel choice. Candidates to evaluate: books on digital workplace communication (for example Erica Dhawan's Digital Body Language, Cal Newport's A World Without Email) and organizational research on email and chat norms."
+    },
+    {
+      "category": "written-digital",
+      "subcategory": "proposals-memos",
+      "severity": "thin",
+      "what_would_fill_it": "A structured-memo method (for example Barbara Minto's Pyramid Principle) and a research-based guide to writing for busy readers (for example Rogers and Lasky-Fink's Writing for Busy Readers). Current coverage is one unconfirmed insight and one secondary tag."
+    },
+    {
+      "category": "written-digital",
+      "subcategory": "executive-writing",
+      "severity": "thin",
+      "what_would_fill_it": "Same sources as proposals-memos; only two books contribute and none is writing-focused."
+    },
+    {
+      "category": "public-speaking",
+      "subcategory": "virtual",
+      "severity": "weak-evidence",
+      "what_would_fill_it": "Peer-reviewed research on video-call communication and fatigue plus a practitioner guide to virtual presenting; the only insight is Low and not confirmed in the book."
+    },
+    {
+      "category": "written-digital",
+      "subcategory": "video-calls",
+      "severity": "weak-evidence",
+      "what_would_fill_it": "Same as public-speaking/virtual; the three tagged insights are Low, unconfirmed or tangential."
+    },
+    {
+      "category": "difficult",
+      "subcategory": "saying-no",
+      "severity": "thin",
+      "what_would_fill_it": "An assertiveness and refusal source (for example William Ury's The Power of a Positive No) and research on refusals and request compliance; only connect-13 touches it, framed as boundaries."
+    },
+    {
+      "category": "influence",
+      "subcategory": "reciprocity",
+      "severity": "thin",
+      "what_would_fill_it": "A research-based persuasion source covering reciprocity (for example Cialdini's Influence) and Cohen and Bradford's Influence Without Authority, already mentioned in Stage 1 under connect-12. The only tagged insight is about compliments."
+    },
+    {
+      "category": "conversations",
+      "subcategory": "introductions",
+      "severity": "thin",
+      "what_would_fill_it": "Research or practitioner guidance on introducing yourself, introducing others and following up; neither tagged insight is about introductions as such."
+    },
+    {
+      "category": "difficult",
+      "subcategory": "bad-news",
+      "severity": "thin",
+      "what_would_fill_it": "Research-based bad-news delivery protocols (for example the clinical SPIKES literature) and organizational research on communicating layoffs and change; no current insight gives a delivery sequence."
+    },
+    {
+      "category": "difficult",
+      "subcategory": "boundaries",
+      "severity": "thin",
+      "what_would_fill_it": "An assertiveness or boundaries source grounded in research; coverage is two Connect insights and one humor caveat."
+    },
+    {
+      "category": "personal-life",
+      "subcategory": "supporting-distress",
+      "severity": "thin",
+      "what_would_fill_it": "Research on social support and peer support for people in distress or grief; one of three insights rests on a single personal case."
+    },
+    {
+      "category": "personal-life",
+      "subcategory": "friendships",
+      "severity": "weak-evidence",
+      "what_would_fill_it": "A friendship-research source; two of seven tagged insights are Low and none has friendship as its primary category."
+    },
+    {
+      "category": "personal-life",
+      "subcategory": "family",
+      "severity": "thin",
+      "what_would_fill_it": "A family and parenting communication source (for example Faber and Mazlish) and guidance on conversations with aging parents; all family tags are secondary."
+    },
+    {
+      "category": "personal-life",
+      "subcategory": "partners",
+      "severity": "weak-evidence",
+      "what_would_fill_it": "A couples-research source (for example Gottman's work, currently only mapped in Stage 1 rationales); all partner tags are secondary applications."
+    },
+    {
+      "category": "professional",
+      "subcategory": "negotiation",
+      "severity": "thin",
+      "what_would_fill_it": "A research-grounded negotiation text (for example Getting to Yes or a negotiation research textbook); no current source is negotiation-focused."
+    },
+    {
+      "category": "relationships",
+      "subcategory": "nonverbal",
+      "severity": "weak-evidence",
+      "what_would_fill_it": "A research-based treatment of nonverbal communication that corrects myths (Mehrabian misapplication, power posing, voice pitch); current items are contested or anecdotal."
+    },
+    {
+      "category": "professional",
+      "subcategory": "meetings",
+      "severity": "thin",
+      "what_would_fill_it": "Research on meeting effectiveness (for example Rogelberg's The Surprising Science of Meetings); 23 tags but none about running meetings."
+    },
+    {
+      "category": "professional",
+      "subcategory": "status-updates",
+      "severity": "thin",
+      "what_would_fill_it": "A source on project and status communication for managers; three secondary tags only."
+    },
+    {
+      "category": "public-speaking",
+      "subcategory": "qa",
+      "severity": "thin",
+      "what_would_fill_it": "A dedicated Q and A or media-training source; one of four tagged insights is Low and unconfirmed and one is contested."
+    },
+    {
+      "category": "influence",
+      "subcategory": "framing",
+      "severity": "weak-evidence",
+      "what_would_fill_it": "Framing research beyond Made to Stick; two books contribute and the identifiable-victim anchor failed a pre-registered replication."
+    },
+    {
+      "category": "conversations",
+      "subcategory": "humor",
+      "severity": "weak-evidence",
+      "what_would_fill_it": "An independent review of humor-at-work research to balance Humor, Seriously, which supplies 16 of 19 humor insights and whose authors have an incentive to stress benefits; five humor insights are Low."
+    },
+    {
+      "category": "conversations",
+      "subcategory": "storytelling",
+      "severity": "weak-evidence",
+      "what_would_fill_it": "Narrative persuasion research and a confirmed story-structure source; two of eight insights are Low and the story spine is unconfirmed in the book."
+    }
+  ]
+}
