@@ -1,0 +1,100 @@
+{
+  "book": {
+    "book_id": "rajkumar-weak-ties-2022",
+    "title": "A Causal Test of the Strength of Weak Ties",
+    "subtitle": "",
+    "authors": [
+      "Karthik Rajkumar",
+      "Guillaume Saint-Jacques",
+      "Iavor Bojinov",
+      "Erik Brynjolfsson",
+      "Sinan Aral"
+    ],
+    "year": 2022,
+    "publisher": "Science, 377(6612), 1304 to 1310",
+    "edition": "doi:10.1126/science.abl4476; PMID 36107999",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Aral (MIT Sloan) and Brynjolfsson (Stanford) are leading researchers on networks and the digital economy; Bojinov (Harvard Business School) and LinkedIn data scientists Rajkumar and Saint-Jacques ran the experiments. Several authors were LinkedIn employees, and the study drew press criticism because users were not told they were in experiments.",
+    "evidence_base": "Multiple randomized experiments on LinkedIn's People You May Know algorithm, 2015 to 2019, varying the share of weak versus strong tie recommendations for about 20 million members; about 2 billion new ties and 600,000 new jobs. Tie strength measured by mutual connections and by messaging intensity. Outcome is job transmission on one platform.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36107999/",
+        "note": "Abstract read via PubMed E-utilities."
+      },
+      {
+        "type": "summary",
+        "url": "https://news.mit.edu/2022/weak-ties-linkedin-employment-0915",
+        "note": "MIT News explainer with author quotes, including the roughly 10 mutual connections inflection point."
+      },
+      {
+        "type": "summary",
+        "url": "https://digitaleconomy.stanford.edu/publication/a-causal-test-of-the-strength-of-weak-ties",
+        "note": "Stanford Digital Economy Lab abstract page."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "rajkumar-weak-ties-2022-01",
+      "name": "Moderately Weak Ties Move Careers",
+      "skill_type": "mental model",
+      "explanation": "The classic idea that acquaintances, not close friends, bring new opportunities now has large-scale causal support, with a twist. When LinkedIn randomly varied whether members were nudged toward weaker or stronger new connections, weaker ties led to more job moves, but not without limit: by the measure of shared contacts, usefulness peaked at moderately weak ties (about 10 mutual connections, per the senior author) and fell off for both the most distant and the most embedded contacts. Measured by how often people interacted, the least-contacted ties were most useful. The pattern also depended on industry: weak ties helped most in digital, fast-changing fields, while strong ties helped more in traditional ones. The practical reading is that a job search or career move should deliberately reach beyond your inner circle to people you know a little and who move in partly different circles, rather than relying only on close friends or mass-adding strangers.",
+      "when_to_use": "Job searches, career changes, looking for clients or collaborators, and deciding whom to keep in touch with.",
+      "worked_example": "A data analyst wants to move into product management. Her close friends and teammates all work in analytics and have no leads. She lists acquaintances she has met through a conference, a former client and a neighborhood running group, people who share a few contacts with her but work in other areas, and sends three of them a short note asking what the transition looked like at their companies. One forwards her to an open role. A carpenter looking for steady work in his small town, by contrast, gets more from his close network of builders, consistent with strong ties mattering more in less digital trades.",
+      "common_mistakes": [
+        "Equating networking with collecting as many distant connections as possible.",
+        "Relying only on close friends and colleagues, whose information overlaps with yours.",
+        "Ignoring field differences; in traditional industries close ties may matter more.",
+        "Treating a platform result as a law; the outcome measured was jobs found through LinkedIn."
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "professional",
+          "subcategory": "situations"
+        }
+      ],
+      "situations": [
+        "Job search",
+        "Career change",
+        "Finding clients or collaborators",
+        "Deciding whom to keep in touch with"
+      ],
+      "source": {
+        "citation": "Rajkumar, K., Saint-Jacques, G., Bojinov, I., Brynjolfsson, E., and Aral, S. (2022). A Causal Test of the Strength of Weak Ties. Science, 377(6612), 1304 to 1310 (abstract; MIT News explainer).",
+        "underlying_research": "Granovetter (1973), The Strength of Weak Ties, American Journal of Sociology. The roughly 10 mutual connections figure comes from Aral's comments in MIT News, not from the abstract.",
+        "urls": [
+          "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=36107999&rettype=abstract&retmode=text",
+          "https://digitaleconomy.stanford.edu/publication/a-causal-test-of-the-strength-of-weak-ties",
+          "https://news.mit.edu/2022/weak-ties-linkedin-employment-0915"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Randomized, very large and long, so the causal claim is strong for its setting. Rated Medium for everyday advice because the outcome is job transmission on a single platform, the effect varies by industry and by how tie strength is measured, and the study has not been replicated elsewhere. Ethical concerns about informed consent were raised in the press.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=36107999&rettype=abstract&retmode=text",
+      "https://digitaleconomy.stanford.edu/publication/a-causal-test-of-the-strength-of-weak-ties",
+      "https://news.mit.edu/2022/weak-ties-linkedin-employment-0915"
+    ],
+    "still_unverified": [
+      "Full text in Science (paywalled) not read; effect sizes beyond the abstract and press account not confirmed.",
+      "The candidate note's claim that very strong ties help less was checked: by mutual connections the relation is an inverted U, but by interaction intensity the weakest ties were most useful."
+    ]
+  },
+  "research_notes": "Read the PubMed abstract, the Stanford Digital Economy Lab page and the MIT News explainer; EurekAlert returned 403. Press coverage (for example NZ Herald and a Yahoo News syndication) noted users were unaware of the experiments; Aral responded that researchers received no personally identifying data."
+}

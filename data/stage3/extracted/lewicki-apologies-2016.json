@@ -1,0 +1,87 @@
+{
+  "book": {
+    "book_id": "lewicki-apologies-2016",
+    "title": "An Exploration of the Structure of Effective Apologies",
+    "subtitle": "",
+    "authors": ["Roy J. Lewicki", "Beth Polin", "Robert B. Lount Jr."],
+    "year": 2016,
+    "publisher": "Negotiation and Conflict Management Research 9(2), 177-196 (Wiley)",
+    "edition": "",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Lewicki (Ohio State, Fisher College of Business, emeritus) is a leading scholar of trust and negotiation; Lount (Ohio State) studies trust repair; Polin (Eastern Kentucky University) studies apologies and trust. Published in a peer-reviewed journal of the International Association for Conflict Management.",
+    "evidence_base": "Two experiments with 755 participants (333 online adults via MTurk; 422 undergraduates). Participants imagined being a hiring manager and rated a job candidate's apology for an earlier tax-filing error, framed as either a competence lapse or a deliberate integrity lapse. Apologies contained one, three, or all six components (described in Study 1, written out as statements in Study 2). Outcomes were ratings of effectiveness, credibility, and adequacy, not real forgiveness or behavior.",
+    "legal_access": [
+      {"type": "summary", "url": "https://encompass.eku.edu/fs_research/92", "note": "Abstract on Eastern Kentucky University repository."},
+      {"type": "summary", "url": "https://www.sciencedaily.com/releases/2016/04/160412091111.htm", "note": "Ohio State University press release with study design and lead-author quotes."},
+      {"type": "summary", "url": "https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html", "note": "Association for Psychological Science summary, including the authors' noted limitations."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "lewicki-apologies-2016-01",
+      "name": "Prioritize the Apology: Own It, Then Offer Repair",
+      "skill_type": "technique",
+      "explanation": "Researchers tested six common parts of an apology: expressing regret, explaining what went wrong, acknowledging responsibility, declaring you will not repeat it, offering to repair the damage, and asking for forgiveness. Apologies with more parts were rated as more effective, but the parts were not equal. Plainly accepting responsibility (saying it was your fault) mattered most; offering to fix the damage came second; regret, explanation, and a promise not to repeat it sat in a middle tier; asking for forgiveness added the least and is the part to drop if you must be brief. Apologies for a deliberate integrity lapse were accepted less readily than apologies for an honest mistake, so after a breach of trust, words alone will carry less and follow-through matters more. Limits: participants rated written apologies in a hypothetical hiring scenario, so tone, delivery, and real relationships were not tested, and a separate line of research (De Cremer and colleagues, 2011) finds people expect apologies to make them feel better than they actually do, which makes an apology the start of repair rather than the end.",
+      "when_to_use": "When you have made a mistake that affected someone and need to choose what to say, especially when you have limited time or space (a short email, a quick word after a meeting) and must decide what to include.",
+      "worked_example": "A financial analyst sent a client a forecast built on last quarter's numbers. His short apology email reads: the error is mine, I used the wrong data set (responsibility); I have rebuilt the forecast with the correct figures and attached it, and I will walk your team through the changes tomorrow (repair); I am sorry for the confusion this caused before your board meeting (regret); I have added a data-version check to our template so it cannot recur (repentance). He leaves out a request for forgiveness. In a friendship, someone who repeated a confidence she had promised to keep knows this is an integrity lapse, so she owns it without hedging, asks what she can do to limit the damage, and accepts that rebuilding trust will take consistent behavior over months rather than one good conversation.",
+      "common_mistakes": [
+        "Spending the apology on explanation and regret while never clearly saying it was your fault",
+        "Leading with a request for forgiveness, which puts pressure on the other person",
+        "Offering no concrete repair, so the apology feels like cheap talk",
+        "Expecting one well-built apology to settle a breach of integrity",
+        "Treating explanation as an excuse that shifts responsibility"
+      ],
+      "steps": [
+        "State plainly that you were responsible for what happened",
+        "Offer a specific repair for the harm, or ask what would help",
+        "Add regret, a brief explanation that does not excuse, and what you will do differently, if time allows",
+        "Skip or soften any request for forgiveness",
+        "For a breach of trust, plan visible follow-through over time and do not expect immediate acceptance"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "apologies"},
+        {"category": "personal-life", "subcategory": "repair"},
+        {"category": "relationships", "subcategory": "trust-vulnerability"}
+      ],
+      "situations": [
+        "Apologizing to a client for an error in your work",
+        "A short apology email after a missed handoff",
+        "Repairing trust after breaking a confidence",
+        "Apologizing to a partner for a broken promise"
+      ],
+      "source": {
+        "citation": "Lewicki, Polin and Lount, An Exploration of the Structure of Effective Apologies, Negotiation and Conflict Management Research 9(2), 177-196 (2016)",
+        "underlying_research": "Two experiments, 755 participants total. Limitation context from De Cremer, Pillutla and Folmer (2011), How important is an apology to you? Forecasting errors in evaluating the value of apologies, Psychological Science 22(1), 45-48, as summarized by the Association for Psychological Science.",
+        "urls": [
+          "https://doi.org/10.1111/ncmr.12073",
+          "https://encompass.eku.edu/fs_research/92",
+          "https://www.sciencedaily.com/releases/2016/04/160412091111.htm",
+          "https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Two experiments with consistent results across an adult and a student sample, and consistent with the broader apology and trust-repair literature. But both used one hypothetical written scenario and rating outcomes, and the component ranking has not been independently replicated.",
+      "flags": ["unreplicated"]
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "think-faster-talk-smarter-12", "relation": "supports", "note": "The two AAA elements with direct analogues, Acknowledge (responsibility) and Amends (offer of repair), were the two most valuable of six tested components in two experiments (755 participants). Abrahams's Appreciate step is closest to expressing regret, which ranked in the middle tier."},
+    {"insight_id": "talk-wood-brooks-13", "relation": "qualifies", "note": "Supports taking responsibility as the core of a sincere apology. Qualifies the emphasis on committing to change: a declaration of repentance ranked in the middle tier, below an offer to repair the harm, so a concrete fix should come before or alongside the promise."}
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://encompass.eku.edu/fs_research/92",
+      "https://www.sciencedaily.com/releases/2016/04/160412091111.htm",
+      "https://www.psychologicalscience.org/news/minds-business/effective-apologies-include-six-elements.html"
+    ],
+    "still_unverified": [
+      "Full text not read (Wiley paywall); findings come from the abstract, the Ohio State press release with lead-author quotes, and the APS summary.",
+      "Exact ordering of the middle tier: the Ohio State release says regret, explanation, and repentance were essentially tied for third, while the APS summary closes by listing explanation among the three most important components.",
+      "Effect sizes for each component were not available."
+    ]
+  },
+  "research_notes": "The Stage 3 candidate note said an offer of repair matters more for integrity lapses; the Ohio State release states the value of each component was the same for competence and integrity violations, with integrity apologies less effective overall. This file follows the press release. De Cremer et al. (2011) is cited only for the limitation that apologies are worth less to recipients than they predict."
+}

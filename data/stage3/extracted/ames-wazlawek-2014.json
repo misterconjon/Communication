@@ -1,0 +1,176 @@
+{
+  "book": {
+    "book_id": "ames-wazlawek-2014",
+    "title": "Pushing in the Dark: Causes and Consequences of Limited Self-Awareness for Interpersonal Assertiveness",
+    "subtitle": "",
+    "authors": [
+      "Daniel R. Ames",
+      "Abbie S. Wazlawek"
+    ],
+    "year": 2014,
+    "publisher": "Personality and Social Psychology Bulletin 40(6), 775-790 (SAGE)",
+    "edition": "",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Ames is a Columbia Business School professor and a leading researcher on assertiveness and interpersonal perception; Wazlawek was a Columbia doctoral student. Published in a major peer-reviewed social psychology journal. Builds on Ames and Flynn (2007) in the Journal of Personality and Social Psychology.",
+    "evidence_base": "Four studies. Three used MBA students in negotiation courses, rating their own and their counterpart's assertiveness after mock negotiations and predicting how the counterpart saw them; one was an online survey of about 500 US adults about real negotiations. Partner ratings, not only self-report. Companion paper Ames and Flynn (2007, JPSP 92(2), 307-324; three studies) found a curvilinear link between assertiveness and perceived leadership.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://www.sciencedaily.com/releases/2014/06/140630124859.htm",
+        "note": "Columbia Business School press release with study details and percentages."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Pushing%20in%20the%20dark%22%20AND%20AUTH:%22Ames%22&format=json&resultType=core",
+        "note": "Abstract via Europe PMC."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17279851&format=json&resultType=core",
+        "note": "Abstract of Ames and Flynn (2007) via Europe PMC."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "ames-wazlawek-2014-01",
+      "name": "The Line-Crossing Illusion: You Probably Did Not Overstep",
+      "skill_type": "technique",
+      "explanation": "After holding firm or pushing for what they need, many people come away convinced they came on too strong, even when the other person saw them as appropriately assertive. Ames and Wazlawek call this the line-crossing illusion. It is costly: in a multi-round negotiation, people who felt they had overstepped tried to smooth things over and accepted worse terms in the next round, paying to repair something that was not broken. One cause is what the authors call strategic umbrage: counterparts often put on displays of offense or discomfort on purpose, and a survey of real negotiators found such displays were common. The practical takeaway is that a frown, a sigh, or an 'I am surprised you would ask' after you state a limit is weak evidence that you crossed a line. Check before you concede. Limits: most participants were MBA students in negotiation exercises plus one online survey, so the effect is best established for bargaining and less tested in close personal relationships.",
+      "when_to_use": "Right after you have stated a firm limit, made a strong ask, or declined a request, and you feel the urge to apologize, soften, or give something back.",
+      "worked_example": "A senior engineer tells her manager she cannot take on a third project this quarter without dropping one of the other two. He frowns and says he expected more flexibility from her. On the walk back to her desk she drafts a message offering to squeeze it in after all. She stops, recognizes that a frown is not evidence she was out of line, and instead asks a peer who was in the meeting how it came across. The peer says it sounded reasonable. The next day the manager comes back asking which project she would deprioritize. At home, after telling a relative he cannot borrow the car for a week-long trip, a man resists the urge to call back and offer money for a rental instead, and waits to see whether the relative is actually upset.",
+      "common_mistakes": [
+        "Treating visible displeasure as proof you were too aggressive",
+        "Giving back a concession immediately to relieve your own discomfort",
+        "Apologizing for a reasonable request, which invites the other side to reopen it",
+        "Ignoring genuine signals that you did overstep; the point is to check, not to assume either way"
+      ],
+      "steps": [
+        "After asserting yourself, notice the urge to apologize or concede",
+        "Ask whether the other person's reaction could be tactical rather than a sign of real offense",
+        "Look for better evidence: their later behavior, a neutral observer's read, or a direct question",
+        "Only offer repair if the evidence shows real harm, and repair the relationship with words before giving away substance"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "saying-no"
+        },
+        {
+          "category": "professional",
+          "subcategory": "negotiation"
+        }
+      ],
+      "situations": [
+        "Pushing back on extra work from a manager",
+        "Negotiating salary or contract terms",
+        "Refusing a favor to a relative",
+        "Holding a price with a client who acts offended"
+      ],
+      "source": {
+        "citation": "Ames and Wazlawek, Pushing in the Dark: Causes and Consequences of Limited Self-Awareness for Interpersonal Assertiveness, Personality and Social Psychology Bulletin 40(6), 775-790 (2014), Studies 1-4",
+        "underlying_research": "Study 1 identified the line-crossing illusion in dyadic negotiations; Study 2 found widespread strategic umbrage in real-world negotiations; Study 3 linked umbrage to the illusion in a controlled negotiation; Study 4 showed the illusion predicted outcomes in a multi-round negotiation.",
+        "urls": [
+          "https://doi.org/10.1177/0146167214525474",
+          "https://www.sciencedaily.com/releases/2014/06/140630124859.htm"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Four studies with partner ratings, a real-world survey, and a behavioral outcome in a multi-round negotiation. Samples are mostly MBA negotiation students and the effect has not been independently replicated or tested in close relationships.",
+      "flags": [
+        "unreplicated"
+      ]
+    },
+    {
+      "id": "ames-wazlawek-2014-02",
+      "name": "Calibrate Your Assertiveness With Outside Eyes",
+      "skill_type": "mental model",
+      "explanation": "Your own sense of how assertive you come across is only loosely tied to how others see you. In one study, 57 percent of people their counterparts saw as under-assertive, and 56 percent of those seen as over-assertive, believed they had come across as about right or even erred the other way: roughly a coin flip. Getting it wrong matters in both directions. In earlier work, Ames and Flynn found that people seen as either too assertive or not assertive enough were rated as weaker leaders: too much hurts relationships, too little hurts results, and coworkers' criticisms split roughly evenly between the two. Because you cannot trust your felt sense, the practical move is to ask specific people for a calibration read on whether you push too hard or too little, and in which situations. The authors caution that the answer is not to be moderately assertive everywhere, but to fit assertiveness to what the situation needs.",
+      "when_to_use": "In performance conversations, before or after high-stakes negotiations, when you get mixed signals about how you come across, or when you keep either getting steamrolled or creating friction.",
+      "worked_example": "A team lead believes she is diplomatic in planning meetings. She asks two trusted colleagues a specific question: in last week's roadmap meeting, did I push too hard, not hard enough, or about right, and what did you see? One says she gave up her priority the moment a director objected; the other says she cut people off when she was sure of herself. She sets two concrete goals: hold her position for at least one more exchange when challenged, and let people finish before responding. A father who thinks he is firm with his teenager asks his partner for the same kind of read and learns that he usually caves on curfew after one complaint.",
+      "common_mistakes": [
+        "Assuming that because you feel balanced, others see you that way",
+        "Asking vague questions such as 'how am I doing' instead of asking about pushing too hard or too little in a specific moment",
+        "Concluding that moderate assertiveness is always correct, rather than adjusting to the situation",
+        "Getting feedback from only one person or only people who share your style"
+      ],
+      "steps": [
+        "Pick a specific recent interaction where assertiveness mattered",
+        "Ask one or two people who saw it whether you pushed too hard, too little, or about right, and what behavior they noticed",
+        "Compare their read with your own and look for a consistent pattern",
+        "Set one concrete behavior to change and ask again after the next similar situation"
+      ],
+      "categories": [
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        },
+        {
+          "category": "professional",
+          "subcategory": "negotiation"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
+      ],
+      "situations": [
+        "Preparing for a performance review",
+        "Debriefing after a contentious negotiation",
+        "Noticing you are often overruled in meetings",
+        "Hearing that you come across as abrasive"
+      ],
+      "source": {
+        "citation": "Ames and Wazlawek, Pushing in the Dark, Personality and Social Psychology Bulletin 40(6), 775-790 (2014); Ames and Flynn, What Breaks a Leader: The Curvilinear Relation Between Assertiveness and Leadership, Journal of Personality and Social Psychology 92(2), 307-324 (2007)",
+        "underlying_research": "Ames and Wazlawek Study 1 (dyadic negotiations, modest self-other agreement); the 57 and 56 percent figures are from the Columbia press release. Ames and Flynn (2007), three studies using coded coworker comments and quantitative ratings.",
+        "urls": [
+          "https://doi.org/10.1177/0146167214525474",
+          "https://www.sciencedaily.com/releases/2014/06/140630124859.htm",
+          "https://doi.org/10.1037/0022-3514.92.2.307"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Two peer-reviewed papers from the same lab, using partner and coworker ratings rather than self-report alone; the curvilinear leadership pattern appeared across three studies. Samples skew to MBA students and managers, and the recommendation to seek calibration feedback is an inference from the findings rather than a tested intervention.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "connect-07",
+      "relation": "supports",
+      "note": "Gives specific evidence that you cannot see your own impact: people misjudged how assertive they seemed about half the time, so feedback is the only reliable check on how you push."
+    },
+    {
+      "insight_id": "connect-13",
+      "relation": "supports",
+      "note": "People who state a limit often wrongly believe they crossed a line and then give ground (the line-crossing illusion), which supports holding a carefully stated boundary rather than retreating at the first sign of displeasure."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.sciencedaily.com/releases/2014/06/140630124859.htm",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Pushing%20in%20the%20dark%22%20AND%20AUTH:%22Ames%22&format=json&resultType=core",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17279851&format=json&resultType=core",
+      "https://api.crossref.org/works/10.1177/0146167214525474",
+      "https://api.crossref.org/works/10.1037/0022-3514.92.2.307"
+    ],
+    "still_unverified": [
+      "Full text of both papers not read (SAGE and APA paywalls; Columbia-hosted copies returned 403 or connection reset).",
+      "The roughly even split of coworker criticisms between too much and too little assertiveness in Ames and Flynn (2007) is from a search-result summary of the APA press release, which itself returned a bot check; exact percentages not confirmed."
+    ]
+  },
+  "research_notes": "Two distinct insights: the line-crossing illusion and strategic umbrage (what to do after asserting yourself), and limited self-awareness of assertiveness plus the curvilinear cost (why to seek calibration). The Columbia press release supplied the percentages and the description of costly repairs; the abstract supplied the strategic-umbrage findings."
+}

@@ -1,0 +1,269 @@
+{
+  "book": {
+    "book_id": "minto-pyramid-principle",
+    "title": "The Pyramid Principle",
+    "subtitle": "Logic in Writing and Thinking",
+    "authors": [
+      "Barbara Minto"
+    ],
+    "year": 1987,
+    "publisher": "Minto International; later editions Pitman, FT Prentice Hall, Pearson",
+    "edition": "Minto's own site dates The Pyramid Principle to 1987 (reissued unchanged in London in 2002) and says it is superseded by The Minto Pyramid Principle (1996). Wikipedia gives 1985 for the first book. A Pearson edition is in print; edition used for page references not verified.",
+    "isbn": "",
+    "source_type": "book",
+    "core": false,
+    "author_credibility": "Minto, a Harvard MBA (1963), was McKinsey's first female MBA hire and developed the method while training McKinsey consultants in the 1960s and 1970s, then taught it independently to consulting firms, companies, and business schools. She originated the MECE grouping principle. Her authority is practitioner and teaching experience; she sells courses and the textbook.",
+    "evidence_base": "Practitioner method justified by logic and by a cognitive argument that readers naturally sort ideas into hierarchies (citing classic work on the limits of short-term memory). No experimental test of the method itself. Its authority is wide adoption in management consulting. Its core moves (conclusion first, explicit grouping, advance organizers) are consistent with reading research and with field experiments such as Rogers and Lasky-Fink's.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://www.barbaraminto.com/concept",
+        "note": "Minto's site, concept page, read: pyramid under a single point, applies to email through slide decks."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.barbaraminto.com/course",
+        "note": "Minto's course outline, read: reader's question, vertical and horizontal relationships, groupings must yield an insight, action ideas."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.barbaraminto.com/textbook",
+        "note": "Minto's textbook page, read: edition history."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.antoinebuteau.com/lessons-from-barbara-minto/",
+        "note": "Chapter-referenced summary of the 1987 book, read: SCQA, ordering by deduction, time, structure, or ranking, key line as statements."
+      },
+      {
+        "type": "summary",
+        "url": "https://prule.github.io/pauls-blog/page/booksummaries/the-pyramid-principle/",
+        "note": "Book summary, read: governing thought, vertical so-what and why tests, MECE, top-down versus bottom-up building."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "minto-pyramid-principle-01",
+      "name": "The Pyramid: One Governing Point, Grouped and Ordered Support",
+      "skill_type": "framework",
+      "explanation": "Minto's method organizes any document that offers your thinking (email, one-page memo, report, slide deck) as a pyramid under a single governing point. The top states your answer as a full assertion ('We should move support to a 24-hour model'), not a topic ('Support options'). Beneath it sit a few key points that answer the question the top point raises (why? how?), and beneath each of those, the evidence. Two logical checks keep it sound. Vertical: each point must summarize the group beneath it, so asking 'so what?' of a group should yield the point above it, and asking 'why?' or 'how?' of a point should be answered by the group below. Horizontal: ideas in one group must be the same kind of idea, should not overlap or leave gaps (her MECE test: mutually exclusive, collectively exhaustive), and must be in a deliberate order: time sequence (steps), structure (parts of a whole), or ranking (most to least important), or a deductive chain. A summary point must state the insight the group adds up to; 'there are three reasons' is not an insight. The reader is then guided down the pyramid, top first.",
+      "when_to_use": "Multi-paragraph emails, memos, proposals, recommendations, reports, and slide decks where you are presenting a conclusion and its support, especially to senior or busy readers.",
+      "worked_example": "A finance manager must recommend whether to renew a software contract. Her first draft walks through usage data, vendor history, and pricing in the order she researched them. She rebuilds it as a pyramid: top line 'Renew for one year, not three, and renegotiate seats down by 20 percent.' Three key points follow, ranked by importance: usage has fallen to 60 percent of licensed seats; a competitor's tool is likely to meet our needs within a year; the one-year premium is small. Each point gets two or three facts. Applying the so-what test, she notices her third group was really about vendor support quality and did not support the top line, so she cuts it. She uses the same shape to email her siblings about a parent's car: recommendation first, then the three reasons.",
+      "common_mistakes": [
+        "Presenting findings in the order you discovered them instead of the order the reader needs",
+        "Writing a governing thought or heading that names a topic rather than making a claim",
+        "Grouping unlike ideas together, or listing points that overlap and repeat each other",
+        "Using an empty summary like 'several factors are relevant' instead of stating what they add up to"
+      ],
+      "steps": [
+        "Write the governing point as one complete sentence that answers the reader's question",
+        "List the key points that support it and check they answer 'why?' or 'how?'",
+        "Check the group: same kind of idea, no overlaps, no gaps",
+        "Put them in a deliberate order (time, structure, or importance)",
+        "For each key point, confirm the evidence beneath it supports it (the so-what test upward)",
+        "Write the document top-down, with headings stated as claims"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "proposals-memos"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "executive-writing"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        }
+      ],
+      "situations": [
+        "Writing a recommendation memo",
+        "Structuring a slide deck for executives",
+        "Summarizing analysis for a decision-maker",
+        "Laying out options for a family decision by email"
+      ],
+      "source": {
+        "citation": "Barbara Minto, The Pyramid Principle: Logic in Writing and Thinking (1987; superseded by The Minto Pyramid Principle: Logic in Writing, Thinking and Problem Solving, 1996), Part One (logic of the pyramid, ordering within groupings); Minto course outline",
+        "underlying_research": "Minto's own consulting practice; she invokes classic short-term memory limits (Miller's 'magical number seven') to argue readers need grouped ideas. No experimental test of the framework.",
+        "urls": [
+          "https://www.barbaraminto.com/concept",
+          "https://www.barbaraminto.com/course",
+          "https://www.antoinebuteau.com/lessons-from-barbara-minto/",
+          "https://prule.github.io/pauls-blog/page/booksummaries/the-pyramid-principle/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Strong practitioner consensus and decades of adoption across consulting, and consistent with reading research on conclusion-first structure, but the framework itself has not been experimentally tested. Critics find the full method dense and the strict hierarchy ill-suited to relationship-sensitive or narrative messages.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "minto-pyramid-principle-02",
+      "name": "SCQ Opening: Situation, Complication, Question",
+      "skill_type": "framework",
+      "explanation": "Minto's introduction is a short story the reader already accepts, told so that the question your document answers feels natural. Situation: a brief statement of the relevant, uncontroversial context the reader knows. Complication: what has changed or gone wrong in that situation, which creates tension. Question: the question that complication raises in the reader's mind (which may stay implicit in the text, but you must be able to state it). The Answer is your governing point, which then heads the pyramid. The introduction should remind, not argue: anything that needs proof belongs in the body, not the opening. Its length depends on how much the reader already knows, from a single sentence in an email to a few paragraphs in a report. Working out the SCQ first also tests your thinking, because if you cannot state the reader's question, you do not yet know what your document is for.",
+      "when_to_use": "Opening a memo, proposal, report, or important email; framing a recommendation for someone who was not in the analysis; starting a presentation to decision-makers.",
+      "worked_example": "An IT manager opens a memo: 'We moved our 400 staff to laptops last year and support tickets have stayed flat (situation). Since the move to hybrid work, password-reset tickets have tripled and now take a third of the help desk's time (complication). How do we cut that load without weakening security (question)? We should roll out self-service password reset with two-factor checks by March (answer).' The rest of the memo supports that answer. When writing to his homeowners' association, he uses the same opening to propose a fix for repeated package thefts.",
+      "common_mistakes": [
+        "Packing the situation with background the reader does not need",
+        "Putting contested claims in the opening instead of in the supporting argument",
+        "Describing a complication that does not actually lead to the question you answer",
+        "Writing a long introduction and delaying the answer"
+      ],
+      "steps": [
+        "Write the reader's question first, in one sentence",
+        "Write the situation in one or two sentences the reader will agree with",
+        "Write the complication that makes the question pressing",
+        "State the answer immediately after",
+        "Check: does situation plus complication lead naturally to this question, and does the answer respond to it?"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "proposals-memos"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "executive-writing"
+        },
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "message-structures"
+        }
+      ],
+      "situations": [
+        "Opening a proposal or business case",
+        "Briefing an executive who was not in the analysis",
+        "Writing the first paragraph of a report",
+        "Proposing a change to a community group"
+      ],
+      "source": {
+        "citation": "Barbara Minto, The Pyramid Principle: Logic in Writing and Thinking (1987; superseded by The Minto Pyramid Principle: Logic in Writing, Thinking and Problem Solving, 1996), chapter on introductions; Minto's SCQ Framework (named on barbaraminto.com)",
+        "underlying_research": "Practitioner framework; no empirical test known.",
+        "urls": [
+          "https://www.barbaraminto.com/course",
+          "https://www.antoinebuteau.com/lessons-from-barbara-minto/",
+          "https://prule.github.io/pauls-blog/page/booksummaries/the-pyramid-principle/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Widely taught and used in consulting and business schools, and it overlaps with conclusion-first and narrative framing advice elsewhere, but it rests on expert practice rather than experiments. Rated Medium.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "minto-pyramid-principle-03",
+      "name": "Think Bottom-Up, Write Top-Down",
+      "skill_type": "technique",
+      "explanation": "Minto argues that most unclear business writing is a thinking problem, not a language problem: people start drafting before they know what they think. Her fix separates the two jobs. When your conclusion is unclear, build the pyramid from the bottom: list every point you might make, group points that belong together, and for each group write the single sentence that states what the group means. Then ask what single sentence sums up those group statements; that becomes your governing point. Building this way often exposes gaps, duplicates, and points that support nothing. Once the structure holds, present it top-down: governing point first, then the groups. When you already know your answer, start at the top with the reader's question and fill in the support. Either way, the order you discovered things in is rarely the order the reader needs.",
+      "when_to_use": "When you have a pile of findings, notes, or interview results and need to turn them into a recommendation; when a draft feels muddled; before writing any document where you are not yet sure of your main point.",
+      "worked_example": "A user researcher has 30 sticky notes from customer interviews and a readout due Friday. Instead of drafting slide by slide, she groups the notes into four clusters and writes a sentence for each: 'New users cannot find the export button', 'Admins want bulk editing', and so on. Asking what the clusters add up to, she realizes three of them point to one thing: 'Onboarding hides the features customers pay for.' That becomes her first slide, with the clusters as supporting sections and the fourth cluster moved to an appendix. She uses the same approach to sort a messy list of pros and cons before writing to her partner about whether to move.",
+      "common_mistakes": [
+        "Starting to write before knowing the governing point",
+        "Presenting the bottom-up discovery process instead of the top-down answer",
+        "Labeling groups by topic ('Customer feedback') rather than stating what the group shows",
+        "Keeping points that do not fit any group because they were hard to find"
+      ],
+      "steps": [
+        "List all the points you might make, without ordering them",
+        "Group points that are the same kind of idea",
+        "Write one sentence per group stating what that group shows",
+        "Ask what those sentences add up to and write the governing point",
+        "Drop or relocate points that support nothing",
+        "Write the document top-down from the governing point"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "proposals-memos"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "executive-writing"
+        }
+      ],
+      "situations": [
+        "Turning research findings into a recommendation",
+        "Rescuing a muddled draft",
+        "Preparing a readout deck",
+        "Organizing a personal decision before discussing it"
+      ],
+      "source": {
+        "citation": "Barbara Minto, The Pyramid Principle: Logic in Writing and Thinking (1987; superseded by The Minto Pyramid Principle: Logic in Writing, Thinking and Problem Solving, 1996), Part One (building the pyramid top-down and bottom-up); Minto course outline ('how to look critically at the groupings')",
+        "underlying_research": "Practitioner method; no empirical test known.",
+        "urls": [
+          "https://www.barbaraminto.com/course",
+          "https://www.barbaraminto.com/concept",
+          "https://www.antoinebuteau.com/lessons-from-barbara-minto/",
+          "https://prule.github.io/pauls-blog/page/booksummaries/the-pyramid-principle/"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "A plausible, widely taught procedure grounded in expert practice, but the claim that structuring before drafting improves outcomes has not been tested directly in the sources reviewed. Rated Low; the method is low-risk to try.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "communicate-with-mastery-03",
+      "relation": "supports",
+      "note": "Minto's rule that headings and key-line points should be stated as ideas, not topic labels, is the structural basis for a document whose main point survives a skim."
+    },
+    {
+      "insight_id": "communicate-with-mastery-04",
+      "relation": "supports",
+      "note": "Minto's vertical so-what test is the same move as synthesis over summary: each summary statement must state what the facts below it add up to."
+    },
+    {
+      "insight_id": "think-faster-talk-smarter-07",
+      "relation": "supports",
+      "note": "The pyramid extends a conclusion-first, then-why structure from short spoken answers to multi-page documents with several levels of support."
+    },
+    {
+      "insight_id": "communicate-with-mastery-05",
+      "relation": "supports",
+      "note": "Minto puts the answer immediately after a brief Situation-Complication-Question opening, a structured version of skipping the preamble."
+    },
+    {
+      "insight_id": "made-to-stick-03",
+      "relation": "supports",
+      "note": "The single governing thought at the top of the pyramid enforces the same discipline as finding the core: one main point that everything else serves."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.barbaraminto.com/concept",
+      "https://www.barbaraminto.com/course",
+      "https://www.barbaraminto.com/textbook",
+      "https://en.wikipedia.org/wiki/Barbara_Minto",
+      "https://www.antoinebuteau.com/lessons-from-barbara-minto/",
+      "https://prule.github.io/pauls-blog/page/booksummaries/the-pyramid-principle/"
+    ],
+    "still_unverified": [
+      "First publication year (1985 per Wikipedia, 1987 per Minto's site)",
+      "Chapter numbers and page references; the book itself was not read",
+      "Whether Minto prefers inductive over deductive groupings at the key line, as one summary states",
+      "McKinsey alumni interview content (page timed out); Minto's MECE origin claim taken from Wikipedia's citation of it"
+    ]
+  },
+  "research_notes": "The book was not read directly. Primary material: Minto's own website (concept, course outline, textbook pages). Secondary: a chapter-referenced summary (antoinebuteau.com) and a book summary blog, cross-checked against each other and against Minto's course outline; Wikipedia for biography. The McKinsey alumni interview timed out. Worked examples are original."
+}

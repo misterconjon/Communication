@@ -1,0 +1,58 @@
+{
+  "book": {
+    "book_id": "west-listening-2025",
+    "title": "High-quality listening behaviors linked to social connection between strangers",
+    "subtitle": "",
+    "authors": [
+      "Taylor N. West",
+      "Sara Huston",
+      "Kylie R. Chandler",
+      "Jieni Zhou",
+      "Barbara L. Fredrickson"
+    ],
+    "year": 2025,
+    "publisher": "Communications Psychology, 3, 165",
+    "edition": "doi:10.1038/s44271-025-00342-2; PMC12638239; open access",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Barbara Fredrickson (University of North Carolina at Chapel Hill) is a highly cited emotion and positive-relationships researcher; the team has no overlap with the Kluger and Itzchakov listening group, so it provides independent evidence. Published open access in a Nature Portfolio journal.",
+    "evidence_base": "Two preregistered studies (total N = 646). Study 1: 10-minute semi-structured deep-talk conversations with a trained confederate after a randomized social-connection versus breathing-control intervention; listening behaviors coded by observers. Study 2: brief small talk with an experimenter. Connection measured by observers, partners, self-report and conversational response times. Behavior-outcome links are correlational.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12638239/fullTextXML",
+        "note": "Full open-access text via Europe PMC (PMC web page returned a captcha)."
+      }
+    ]
+  },
+  "insights": [],
+  "supports_existing": [
+    {
+      "insight_id": "talk-wood-brooks-04",
+      "relation": "supports",
+      "note": "Independent, non-Gino evidence: in deep-talk conversations between strangers, observer-coded follow-up questions and verbal validation predicted connection rated by observers and partners, and a brief connection prompt increased follow-up questions, which in turn predicted connection."
+    },
+    {
+      "insight_id": "how-to-know-a-person-03",
+      "relation": "qualifies",
+      "note": "Visible listening matters, but the authors note that verbal signals such as validation and follow-ups are stronger evidence of listening than nods or 'mhmm', which can be faked; in brief small talk, overall listening quality mattered more than counts of specific verbal moves."
+    },
+    {
+      "insight_id": "supercommunicators-07",
+      "relation": "supports",
+      "note": "Explicit verbal evidence of understanding (validation, follow-ups) linked to stronger connection and faster, smoother turn-taking, consistent with proving you are listening rather than just listening."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12638239/fullTextXML",
+      "https://doi.org/10.1038/s44271-025-00342-2"
+    ],
+    "still_unverified": [
+      "Not yet independently replicated; partners were a trained confederate (Study 1) and an experimenter (Study 2), which the authors flag as a limitation."
+    ]
+  },
+  "research_notes": "Read the full text from Europe PMC. No new insight added: the findings strengthen existing follow-up-question and visible-listening insights rather than adding a distinct technique. The intervention did not increase listening in the small-talk study, and verbal validation did not increase with the intervention in Study 1."
+}

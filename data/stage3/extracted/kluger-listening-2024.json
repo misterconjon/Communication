@@ -1,0 +1,180 @@
+{
+  "book": {
+    "book_id": "kluger-listening-2024",
+    "title": "A Meta-analytic Systematic Review and Theory of the Effects of Perceived Listening on Work Outcomes",
+    "subtitle": "",
+    "authors": [
+      "Avraham N. Kluger",
+      "Michal Lehmann",
+      "Herman Aguinis",
+      "Guy Itzchakov",
+      "Galit Gordoni",
+      "Jetmir Zyberaj",
+      "Cafer Bakaç"
+    ],
+    "year": 2024,
+    "publisher": "Journal of Business and Psychology, 39, 295 to 344 (online 2023)",
+    "edition": "doi:10.1007/s10869-023-09897-5; open access",
+    "isbn": "",
+    "source_type": "meta-analysis",
+    "core": false,
+    "author_credibility": "Kluger (Hebrew University) coauthored the influential Kluger and DeNisi (1996) feedback-intervention meta-analysis; Itzchakov (University of Haifa) leads much of the experimental listening work; Aguinis (George Washington University) is a leading research methodologist. Kluger and Itzchakov are the main proponents of listening research, so this is not an independent check, but it pools studies from many independent labs and disciplines. The companion narrative review, Kluger and Itzchakov (2022), The Power of Listening at Work, Annual Review of Organizational Psychology and Organizational Behavior 9, was also read (author preprint).",
+    "evidence_base": "Registered systematic review with three-level meta-analyses: 664 effect sizes, about 400,000 observations. About 75 percent of the data are same-person self-reports, which inflates estimates; only about 30 effects come from experiments and only one study tested actual performance experimentally. The 2022 companion review summarizes experiments (mostly Israeli lab and field samples) on listening and speakers' attitudes, anxiety and psychological safety.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://www.hermanaguinis.com/pdf/JBPlistening.pdf",
+        "note": "Open-access article, author-hosted copy; read abstract, results, discussion and limitations."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://leibniz-psychology.org/fileadmin/user_upload/pdf/il_Kluger-and-Itzchakov-OPOB-RR.pdf",
+        "note": "Accepted preprint of the 2022 Annual Review companion; read sections on overt listening behaviors, outcomes, antecedents and training."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "kluger-listening-2024-01",
+      "name": "Listening Is the Low-Risk Lever",
+      "skill_type": "mental model",
+      "explanation": "When people feel listened to at work, nearly everything else tends to go better: across 664 effects the average correlation between perceived listening and work outcomes was about .39, and it was strongest for relationship outcomes such as trust, liking and leadership ratings (about .51). Much of that number is inflated because the same person usually rated both the listening and the outcome; using only data from separate sources or methods, the link between listening and job performance drops to about .21. That is still comparable to conscientiousness, one of the best personality predictors of performance. The authors also note a contrast with feedback: in Kluger and DeNisi's classic review, 38 percent of feedback interventions made performance worse, whereas only 1 of 30 experimental listening effects was negative, and only slightly. The likely path is relational: good listening builds trust and closeness, and better relationships support performance. For a manager or colleague, investing more of a conversation in listening is a high-probability, low-downside move, though the evidence is mostly correlational.",
+      "when_to_use": "Planning one-on-ones, performance conversations, customer calls and any relationship where you tend to default to advising, correcting or telling.",
+      "worked_example": "A new engineering manager notices his one-on-ones are mostly him giving direction and feedback. He restructures them so the first twenty minutes belong to the report: he asks what is on her mind, keeps his laptop closed, summarizes what he heard, and only then raises his own items. Over a quarter, issues surface earlier and his feedback lands with less pushback. At home, a parent who usually answers a child's complaint about a teacher with instant advice tries listening through the whole story first; the child ends up proposing her own plan.",
+      "common_mistakes": [
+        "Treating the headline correlation as a proven causal effect on performance; experiments on performance are scarce.",
+        "Listening mechanically as a technique while waiting to deliver the real message; the authors warn that instrumental, scripted listening undermines it.",
+        "Splitting attention with a phone or screen; distraction is the easiest way researchers create poor listening in experiments, and manager phone snubbing is linked to lower engagement.",
+        "Assuming listening has no costs; people who listen to traumatic accounts all day carry real strain."
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        }
+      ],
+      "situations": [
+        "Manager one-on-ones",
+        "Performance conversations",
+        "Salesperson and customer",
+        "Parent hearing a child's complaint"
+      ],
+      "source": {
+        "citation": "Kluger, A. N., Lehmann, M., Aguinis, H., Itzchakov, G., Gordoni, G., Zyberaj, J., and Bakaç, C. (2024). A Meta-analytic Systematic Review and Theory of the Effects of Perceived Listening on Work Outcomes. Journal of Business and Psychology, 39, 295 to 344 (abstract; discussion sections on listening as a performance predictor and on relationships).",
+        "underlying_research": "Kluger and DeNisi (1996) on feedback interventions; Wilmot and Ones (2019) on conscientiousness; Kluger and Itzchakov (2022), Annual Review of Organizational Psychology and Organizational Behavior 9, on antecedents (attention, training, authenticity) and on boss phubbing (Roberts and David, 2017).",
+        "urls": [
+          "https://www.hermanaguinis.com/pdf/JBPlistening.pdf",
+          "https://link.springer.com/article/10.1007/s10869-023-09897-5",
+          "https://leibniz-psychology.org/fileadmin/user_upload/pdf/il_Kluger-and-Itzchakov-OPOB-RR.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Very large pooled evidence base with a consistent positive association across many independent studies, and the authors openly correct for self-report inflation. Rated Medium because the evidence is mostly correlational, heavily self-reported, highly heterogeneous (prediction interval from about -.12 to .90), and assembled by the field's main proponents.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "kluger-listening-2024-02",
+      "name": "Listen to Loosen a Fixed View",
+      "skill_type": "technique",
+      "explanation": "Arguing with someone who holds a firm view tends to harden it. The companion review summarizes experiments in which speakers who talked to a good listener (attentive, nonjudgmental, not interrupting or advising) afterward held less extreme and more nuanced attitudes, seeing both pros and cons of the issue, and reported less social anxiety and more psychological safety, compared with speakers who talked to a distracted or poor listener. The proposed mechanism is safety: when people do not need to defend themselves, they can examine their own thinking. In practice, when a colleague, client or relative is dug in, the most useful first move may be to invite them to talk it through and listen fully, before offering your counterpoints.",
+      "when_to_use": "A colleague firmly opposed to a change, a team member with a black-and-white view of a conflict, a family member with a strong opinion you disagree with, a customer who is certain your product failed them.",
+      "worked_example": "An operations lead is convinced a new scheduling tool will fail. Instead of rebutting him in the project meeting, the project manager books thirty minutes, asks him to walk through what he expects to go wrong and what he has seen before, and listens without correcting. By the end, he has named two real risks and also conceded the tool could work for the night shift. At a holiday dinner, a woman asks her uncle how he came to his view on a local zoning fight and listens to the story; the conversation ends calmer, with him saying it is more complicated than the news makes it sound.",
+      "common_mistakes": [
+        "Listening only as a setup for a rebuttal; people sense it and stay defensive.",
+        "Paraphrasing mechanically; the authors report that trainees resist formulaic active listening.",
+        "Expecting a change of mind; the documented effect is more nuance and less extremity, not conversion.",
+        "Listening while distracted, which in experiments produces the opposite of these benefits."
+      ],
+      "steps": [
+        "Invite the person to explain their view, ideally as a story of how they came to it.",
+        "Give full attention: no devices, no interrupting, no advice.",
+        "Reflect back what you heard and ask what else matters to them.",
+        "Let silence work; give them room to notice their own mixed feelings.",
+        "Only afterward, if needed, add your perspective as one more consideration."
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "influence",
+          "subcategory": "overcoming-resistance"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
+      ],
+      "situations": [
+        "Colleague resisting a change",
+        "Disagreement at a family dinner",
+        "Upset customer",
+        "Team member with a rigid view of a conflict"
+      ],
+      "source": {
+        "citation": "Kluger, A. N., and Itzchakov, G. (2022). The Power of Listening at Work. Annual Review of Organizational Psychology and Organizational Behavior, 9 (sections on cognitive outcomes, well-being, and listening training), companion to Kluger et al. (2024).",
+        "underlying_research": "Itzchakov, Kluger and Castro (2017), Personality and Social Psychology Bulletin, on listening, attitude complexity and extremity; Itzchakov et al. (2018) and Castro et al. (2016, 2018) on psychological safety and social anxiety; Itzchakov et al. (2016) on inviting personal stories. Most experiments used Israeli participants and were run by the authors' group.",
+        "urls": [
+          "https://www.hermanaguinis.com/pdf/JBPlistening.pdf",
+          "https://link.springer.com/article/10.1007/s10869-023-09897-5",
+          "https://leibniz-psychology.org/fileadmin/user_upload/pdf/il_Kluger-and-Itzchakov-OPOB-RR.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Several randomized experiments show the attitude and anxiety effects, but nearly all come from one research group and its collaborators, mostly with Israeli samples, and outcomes are measured right after short conversations. Consistent with motivational interviewing and other evidence that nonjudgmental listening reduces defensiveness.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "how-to-know-a-person-03",
+      "relation": "supports",
+      "note": "Distraction is the most reliable way experiments produce poor listening, and manager phone snubbing is linked to lower engagement via reduced trust and safety, backing the all-on-or-off approach to attention."
+    },
+    {
+      "insight_id": "supercommunicators-07",
+      "relation": "qualifies",
+      "note": "Listening to make people feel understood is supported at scale, but the authors report trainees resist mechanical paraphrasing and note that no single overt behavior is necessary or sufficient to signal good listening."
+    },
+    {
+      "insight_id": "talk-wood-brooks-09",
+      "relation": "supports",
+      "note": "Experiments summarized in the companion review show that being listened to makes speakers' attitudes less extreme and more complex, one route by which receptiveness eases disagreement."
+    },
+    {
+      "insight_id": "how-to-know-a-person-09",
+      "relation": "supports",
+      "note": "Speakers who share personal stories receive better listening than those giving descriptive content, and the authors begin listening training by inviting stories."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.hermanaguinis.com/pdf/JBPlistening.pdf",
+      "https://link.springer.com/article/10.1007/s10869-023-09897-5",
+      "https://leibniz-psychology.org/fileadmin/user_upload/pdf/il_Kluger-and-Itzchakov-OPOB-RR.pdf"
+    ],
+    "still_unverified": [
+      "Exact citation details for Itzchakov, Kluger and Castro (2017) were taken from memory of the literature and the review's reference to Itzchakov et al. (2017); not checked against the reference list."
+    ]
+  },
+  "research_notes": "Read the full open-access meta-analysis (author-hosted PDF) and the accepted preprint of the 2022 Annual Review companion. Key numbers: r = .39 overall, .51 for relationships, .36 for performance, .21 for performance excluding self-report-only data; 75 percent self-report; 1 of 30 experimental effects negative. The meta-analysis notes stronger effects in high self-expression countries; this cross-cultural moderator is not carried into the insights per scope."
+}

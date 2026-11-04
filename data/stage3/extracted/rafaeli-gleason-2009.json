@@ -1,0 +1,171 @@
+{
+  "book": {
+    "book_id": "rafaeli-gleason-2009",
+    "title": "Skilled Support Within Intimate Relationships",
+    "subtitle": "",
+    "authors": [
+      "Eshkol Rafaeli",
+      "Marci E. J. Gleason"
+    ],
+    "year": 2009,
+    "publisher": "Journal of Family Theory and Review 1(1), 20 to 37 (Wiley)",
+    "edition": "",
+    "isbn": "",
+    "author_credibility": "Rafaeli (Bar-Ilan University and Barnard College) and Gleason (University of Texas at Austin) are close-relationships and support researchers; Gleason co-authored key diary studies on the mixed effects of received support (Gleason, Iida, Shrout and Bolger, 2008).",
+    "evidence_base": "Peer-reviewed narrative review addressing a paradox: knowing support is available reduces distress, but actually receiving it is often unhelpful and can create feelings of inadequacy, indebtedness and inequity. The authors argue support attempts often fail because they are unskilled, and identify four ways support can misfire: timing, content, process and reciprocation. Supporting studies (Bolger, Zuckerman and Kessler, 2000; Gleason et al., 2008; Girme, Overall and Simpson, 2013) are diary and observational couples studies, often around specific stressors like exams.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://api.crossref.org/works/10.1111/j.1756-2589.2009.00003.x",
+        "note": "Abstract via Crossref; read."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://socialinteractionlab.psych.umn.edu/sites/socialinteractionlab.psych.umn.edu/files/files/2013/2013/Girme%252C%2520Overall%252C%2520%2526%2520Simpson%2520%2528PSPB%252C%25202013%2529.pdf",
+        "note": "Girme, Overall and Simpson (2013, PSPB) open PDF on the authors' lab site; read abstract and literature review, which summarizes the visible versus invisible support and reciprocity findings."
+      },
+      {
+        "type": "library",
+        "url": "https://doi.org/10.1111/j.1756-2589.2009.00003.x",
+        "note": "Full review via Wiley; not read."
+      }
+    ],
+    "source_type": "review article",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "rafaeli-gleason-2009-01",
+      "name": "Four Ways Support Misfires: Timing, Content, Process, Reciprocity",
+      "skill_type": "framework",
+      "explanation": "Help from someone close can backfire: in diary studies, people who reported receiving more support from a partner on a stressful day sometimes felt worse, not better, even though simply knowing support is available reliably helps. Rafaeli and Gleason argue the problem is usually skill, not intent, and identify four places support goes wrong. Timing: support offered too early, too late or when it was not wanted. Content: the wrong kind of help, such as advice when the person wanted comfort, or comfort when they wanted practical help. Process: help delivered in a way that makes the person feel incompetent, indebted or managed. Reciprocation: support that only flows one way, which makes the receiver feel dependent; related diary research found that receiving support had mood costs mainly when people did not also give support back. Skilled supporters check what is wanted, fit the type of help to the need, protect the other person's sense of competence, and keep the relationship two-way.",
+      "when_to_use": "When someone close to you is under stress (a job hunt, an illness, an exam, a family crisis) and you want to help without making things worse.",
+      "worked_example": "A man's partner is preparing for her bar exam. He has been leaving study tips on her desk and asking nightly how many practice questions she did, and she is getting snappier. He asks, 'What would actually help most right now: me staying out of the studying, or quizzing you?' She says she wants him to handle dinners and not ask about scores. He also asks her advice on a work problem of his, so she is not only ever on the receiving end. Similarly, an adult daughter helping a recently widowed father asks which tasks he wants help with rather than taking over his finances.",
+      "common_mistakes": [
+        "Assuming you know what kind of help is needed",
+        "Giving advice that implies the person cannot handle it",
+        "Helping in a way that is visible and makes a show of the other person's struggle",
+        "Keeping the relationship one-directional so the receiver feels indebted",
+        "Taking a rebuffed offer personally instead of adjusting"
+      ],
+      "steps": [
+        "Ask what kind of help is wanted (listening, practical help, information, space)",
+        "Time it: offer, do not impose, and check whether now is a good moment",
+        "Deliver help in a way that respects their competence (frame it as teamwork)",
+        "Look for ways they can give back, so support flows both ways",
+        "Watch the response and adjust the type and amount"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "supporting-distress"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
+      ],
+      "situations": [
+        "Partner studying for a major exam",
+        "Parent after a bereavement",
+        "Friend in a job search"
+      ],
+      "source": {
+        "citation": "Rafaeli and Gleason (2009), Skilled Support Within Intimate Relationships, Journal of Family Theory and Review 1(1), 20 to 37",
+        "underlying_research": "Bolger, Zuckerman and Kessler (2000), 'Invisible support and adjustment to stress,' JPSP 79(6), 953 to 961; Gleason, Iida, Shrout and Bolger (2008), 'Receiving support as a mixed blessing,' JPSP 94(5), 824 to 838.",
+        "urls": [
+          "https://api.crossref.org/works/10.1111/j.1756-2589.2009.00003.x",
+          "https://socialinteractionlab.psych.umn.edu/sites/socialinteractionlab.psych.umn.edu/files/files/2013/2013/Girme%252C%2520Overall%252C%2520%2526%2520Simpson%2520%2528PSPB%252C%25202013%2529.pdf",
+          "https://doi.org/10.1111/j.1756-2589.2009.00003.x"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The four-part framework is the authors' theoretical organization of a real and replicated phenomenon (received support sometimes linked to worse mood). The specific remedies follow logically but have not been tested as an intervention. I read the abstract and a later paper's summary of the literature, not the full review.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "rafaeli-gleason-2009-02",
+      "name": "Match the Visibility of Support to the Person's Distress",
+      "skill_type": "technique",
+      "explanation": "Support people notice (explicit advice, reassurance, 'let me help you with that') can draw attention to the stressor and signal doubt about the person's ability to cope. Invisible support, help given so subtly the recipient does not register it as help (quietly taking over a chore, offering practical tips framed as something you would do, talking through a problem as shared), was linked in diary studies to better mood without those costs. But visibility is not always bad. In an observational study of couples discussing personal goals, explicit emotional support helped people who were highly distressed and felt supportive to them, while it was costly for people who were not distressed; subtle support was not felt as support in the moment but predicted greater goal achievement over the following year. Visible support also seems to work better when it comes with clear understanding and validation. The practical rule: when someone is visibly upset, give open, explicit comfort; when they are coping and focused, help quietly and keep their sense of competence intact.",
+      "when_to_use": "Supporting a partner, family member or close colleague through a demanding goal or stressor, such as a deadline, training, a job search, or recovery.",
+      "worked_example": "Before her partner's big presentation, a woman notices he is calm and focused. Rather than saying 'Don't be nervous, you'll be fine,' she takes the kids to her mother's for the evening and mentions she found the clicker he thought was lost. Two weeks later, after the deal collapses and he is clearly crushed, she switches to explicit comfort: sitting with him, saying how disappointing it is, and asking what he needs. A manager does the same with an employee: quiet resourcing during a sprint, open acknowledgment after a setback.",
+      "common_mistakes": [
+        "Offering reassurance to someone who was not worried, which plants the worry",
+        "Holding back explicit comfort from someone who is clearly in distress",
+        "Making support so visible that it feels like a public rescue",
+        "Expecting thanks for invisible help and resenting its absence"
+      ],
+      "steps": [
+        "Read how distressed the person is right now",
+        "If highly distressed: offer explicit comfort and understanding",
+        "If coping and focused: help practically and quietly, framed as normal teamwork",
+        "Avoid reminders of the stressor that are not needed",
+        "Revisit as their state changes"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "supporting-distress"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "professional",
+          "subcategory": "situations"
+        }
+      ],
+      "situations": [
+        "Partner before a big presentation",
+        "Family member in recovery",
+        "Teammate on a deadline"
+      ],
+      "source": {
+        "citation": "Rafaeli and Gleason (2009), Skilled Support Within Intimate Relationships, Journal of Family Theory and Review 1(1), 20 to 37; Girme, Overall and Simpson (2013), 'When visibility matters,' Personality and Social Psychology Bulletin 39(11), 1441 to 1454",
+        "underlying_research": "Bolger, Zuckerman and Kessler (2000) on invisible support during bar-exam preparation; Maisel and Gable (2009) on visible support accompanied by understanding and validation; Girme et al. (2013) on distress as moderator and long-term goal achievement.",
+        "urls": [
+          "https://socialinteractionlab.psych.umn.edu/sites/socialinteractionlab.psych.umn.edu/files/files/2013/2013/Girme%252C%2520Overall%252C%2520%2526%2520Simpson%2520%2528PSPB%252C%25202013%2529.pdf",
+          "https://api.crossref.org/works/10.1111/j.1756-2589.2009.00003.x",
+          "https://doi.org/10.1037/0022-3514.79.6.953"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Invisible-support effects have been observed across several labs with diary and observational methods, and the distress moderator comes from an observational study with one-year follow-up. Limits: mostly couples facing specific stressors, mechanisms are debated, and samples are modest (61 couples in Girme et al.).",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "connect-09",
+      "relation": "qualifies",
+      "note": "Asking what someone wants before advising is consistent with skilled timing and content, but the invisible-support research adds that, for people who are coping well, the most helpful support may be unspoken and practical rather than a conversation at all."
+    },
+    {
+      "insight_id": "how-to-know-a-person-10",
+      "relation": "supports",
+      "note": "The review explains why advice to a struggling person can backfire: visible help can signal low confidence in their ability to cope and create indebtedness."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://api.crossref.org/works/10.1111/j.1756-2589.2009.00003.x",
+      "https://socialinteractionlab.psych.umn.edu/sites/socialinteractionlab.psych.umn.edu/files/files/2013/2013/Girme%252C%2520Overall%252C%2520%2526%2520Simpson%2520%2528PSPB%252C%25202013%2529.pdf"
+    ],
+    "still_unverified": [
+      "Full text of the Rafaeli and Gleason review (only abstract read); details of how the authors define each of the four misfire types beyond the abstract labels",
+      "The reciprocity finding is attributed to Gleason et al. (2008) via the Girme et al. (2013) literature review, not checked in the original"
+    ]
+  },
+  "research_notes": "Could not access the full review. Framework labels (timing, content, process, reciprocation) are from the abstract; the elaboration draws on the open Girme, Overall and Simpson (2013) paper and its review of Bolger et al. (2000), Gleason et al. (2008) and Maisel and Gable (2009)."
+}

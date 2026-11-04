@@ -1,0 +1,175 @@
+{
+  "book": {
+    "book_id": "miller-rollnick-mi-2023",
+    "title": "Motivational Interviewing",
+    "subtitle": "Helping People Change and Grow",
+    "authors": ["William R. Miller", "Stephen Rollnick"],
+    "year": 2023,
+    "publisher": "Guilford Press",
+    "edition": "Fourth edition, 2023 (largely rewritten; prior editions 1991/1992, 2002, 2013)",
+    "isbn": "9781462552795",
+    "source_type": "book",
+    "core": false,
+    "author_credibility": "Miller (Emeritus Distinguished Professor of Psychology and Psychiatry, University of New Mexico) introduced motivational interviewing (MI) in 1983; Rollnick (Cardiff University School of Medicine) cofounded it. MI has been tested in hundreds of randomized trials, many by independent groups. The founders also lead its training community, which gives them an interest in its spread.",
+    "evidence_base": "Strong trial base, read here through the companion meta-analysis Lundahl, Kunz, Brownell, Tollefson and Burke (2010, 119 studies): versus weak or no-treatment comparisons MI produced durable small effects (average g = 0.28); versus other specific treatments it was roughly equivalent (g = 0.09, not significant). Process research (Magill et al. 2018 meta-analysis) found that MI-consistent counselor behavior goes with a higher proportion of client change talk, and that client sustain talk predicts worse outcomes. Evidence is mostly from health, addiction and counseling settings; the 4th edition extends MI to management, coaching and education, where it is far less tested.",
+    "legal_access": [
+      {"type": "publisher preview", "url": "https://www.guilford.com/books/Motivational-Interviewing/Miller-Rollnick/9781462552795", "note": "Guilford page with description, new-to-this-edition notes and full table of contents (read 2026-11-04)."},
+      {"type": "summary", "url": "https://digitalcommons.usu.edu/sswa_facpubs/199", "note": "Lundahl et al. (2010) meta-analysis abstract (read 2026-11-04)."},
+      {"type": "summary", "url": "https://ictp.uw.edu/wp-content/uploads/2026/06/UW-PACC-2026_05_14-MI-5.14.26-Distribute.pdf", "note": "University of Washington Psychiatry case-conference slides summarizing 4th edition changes and change-talk strategies (read 2026-11-04)."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "miller-rollnick-mi-2023-01",
+      "name": "Let Them Voice the Reasons for Change",
+      "skill_type": "technique",
+      "explanation": "When you push someone to change, they tend to defend the status quo, and the more they argue for not changing, the less likely they are to change. Motivational interviewing flips the roles: instead of supplying the reasons, you ask questions that draw out the person's own reasons, and you listen for and reflect any statement that leans toward change (their desire, ability, reasons, need, or commitment), giving less airtime to arguments for staying put. Useful prompts include asking what is good and not so good about the current situation, asking for examples and elaboration when a change theme appears, looking back to a time before the problem or forward to where things are heading, and asking them to rate on a 0 to 10 scale how important the change is and why they did not pick a lower number. Across 119 studies, MI produced small but durable effects compared with no or weak alternatives, and was about as effective as other established treatments. Process research adds that when a person talks themselves into the status quo, outcomes tend to be worse, which is the practical reason not to provoke that defense.",
+      "when_to_use": "When you want someone to change a behavior that is theirs to change: an employee who keeps missing deadlines, a partner who wants to exercise but does not, a parent who should stop driving at night, a client hesitating on a decision.",
+      "worked_example": "A manager's direct report keeps turning in reports late. Instead of listing the consequences again, the manager asks, 'What gets in the way, and what would be different for you if these went out on time?' The employee says the late nights are wearing on him and he would like to stop dreading Mondays. The manager reflects, 'So part of this is about getting your weekends back.' She then asks, 'On a scale of 0 to 10, how important is fixing this to you?' He says 6. 'Why a 6 and not a 3?' He explains that he wants the promotion next year. They then plan a first step he proposes himself. At home, an adult daughter uses the same questions with her father about a medical checkup he keeps postponing.",
+      "common_mistakes": [
+        "Arguing for change yourself, which invites them to argue against it",
+        "Asking leading questions that are really disguised lectures",
+        "Reflecting every reason for not changing in equal detail, which strengthens the status quo case",
+        "Jumping to a plan before the person has voiced their own reasons"
+      ],
+      "steps": [
+        "Engage first: show genuine interest and understanding before steering",
+        "Agree on a focus: what change, if any, you are talking about",
+        "Ask open questions that invite their reasons, desire and ability to change",
+        "Reflect change statements back and ask for more detail or examples",
+        "Use a 0 to 10 importance or confidence ruler and ask why not lower",
+        "Summarize the reasons they gave, then ask what, if anything, they want to do next",
+        "Plan only when they signal readiness, and let them propose the first step"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "relationships", "subcategory": "question-design"},
+        {"category": "difficult", "subcategory": "giving-feedback"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "situations": [
+        "Coaching an underperforming employee",
+        "Encouraging a parent to see a doctor",
+        "Supporting a partner who wants to change a habit",
+        "Helping a client move off the fence"
+      ],
+      "source": {
+        "citation": "Miller and Rollnick, Motivational Interviewing, 4th ed. (2023), Part II (Engaging, Focusing, Evoking, Planning) and Chapter 10 (Evoking: Cultivating Change Talk)",
+        "underlying_research": "Lundahl et al. (2010), Research on Social Work Practice 20(2), 119-study meta-analysis (g = 0.28 vs weak comparisons; g = 0.09 n.s. vs specific treatments). Magill et al. (2018), Journal of Consulting and Clinical Psychology 86(2): MI-consistent skills relate to higher proportion of change talk; sustain talk relates to worse outcomes.",
+        "urls": [
+          "https://www.guilford.com/books/Motivational-Interviewing/Miller-Rollnick/9781462552795",
+          "https://digitalcommons.usu.edu/sswa_facpubs/199",
+          "https://ictp.uw.edu/wp-content/uploads/2026/06/UW-PACC-2026_05_14-MI-5.14.26-Distribute.pdf"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "MI's effect is replicated across over a hundred trials, and the process evidence supports avoiding sustain talk. Limits: effects are small, MI is not better than other good treatments, the evidence is mostly from health and counseling, and workplace use is an extrapolation.",
+      "flags": ["none"]
+    },
+    {
+      "id": "miller-rollnick-mi-2023-02",
+      "name": "Ask, Offer, Ask: Advice That Gets Heard",
+      "skill_type": "technique",
+      "explanation": "MI does not forbid giving information or advice; it changes how you do it. First ask: find out what the person already knows or would like to know, and ask permission before offering your view. Then offer: give the information briefly and neutrally, often as what tends to help others, leaving them free to disagree. Then ask again: invite their reaction, such as what they make of it or how it might fit their situation. This sequence respects the person's autonomy, avoids repeating what they already know, and turns advice into something they evaluate rather than resist. The 4th edition gives a full chapter to offering information and advice.",
+      "when_to_use": "Whenever you are tempted to give unsolicited advice: to a colleague, a direct report, a friend facing a decision, or an aging relative.",
+      "worked_example": "A senior engineer notices a junior colleague struggling with a flaky test suite. Instead of launching into a fix, she asks, 'What have you tried so far?' then, 'Would it help if I shared what has worked on other teams?' He says yes. She explains briefly that isolating the network calls usually removes most flakiness, and adds that his setup may differ. She then asks, 'How does that fit with what you are seeing?' He spots that two tests share a database and decides to start there. With a friend weighing a job offer, the same pattern keeps the conversation from turning into a lecture.",
+      "common_mistakes": [
+        "Asking permission as a formality and then lecturing anyway",
+        "Giving long explanations instead of a short, clear piece of information",
+        "Skipping the final question, so you never learn how the advice landed",
+        "Presenting your advice as the only reasonable option"
+      ],
+      "steps": [
+        "Ask what they already know or want to know",
+        "Ask permission to share information or a suggestion",
+        "Offer it briefly, neutrally, and with their freedom to choose made explicit",
+        "Ask what they think of it and how it applies to them",
+        "Follow their response rather than adding more advice"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "difficult", "subcategory": "giving-feedback"},
+        {"category": "relationships", "subcategory": "listening"},
+        {"category": "personal-life", "subcategory": "friendships"}
+      ],
+      "situations": [
+        "Mentoring a junior colleague",
+        "Advising a friend on a job decision",
+        "Sharing health information with an older parent"
+      ],
+      "source": {
+        "citation": "Miller and Rollnick, Motivational Interviewing, 4th ed. (2023), Chapter 11: Offering Information and Advice",
+        "underlying_research": "Part of the MI method evaluated in trials as a package; the specific ask-offer-ask sequence has not been tested separately as far as verified.",
+        "urls": [
+          "https://www.guilford.com/books/Motivational-Interviewing/Miller-Rollnick/9781462552795"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Standard MI practice from the method's founders with a dedicated chapter in the 4th edition, consistent with autonomy and reactance research; the component's separate effect is not established, and the exact label used in the 4th edition was not confirmed.",
+      "flags": ["none"]
+    },
+    {
+      "id": "miller-rollnick-mi-2023-03",
+      "name": "Roll With Pushback Instead of Fighting It",
+      "skill_type": "technique",
+      "explanation": "When someone argues for the status quo or bristles at you, the instinct is to counter with stronger arguments, which usually deepens the resistance. MI distinguishes two things: sustain talk, which is the person's own reasons for not changing and is a normal part of ambivalence, and discord, which is friction in the relationship (defensiveness, interrupting, feeling judged). The recommended responses are to reflect the reluctance accurately, including both sides of their ambivalence; to state plainly that the decision is theirs; to shift focus away from the sticking point; or to apologize if you pushed too hard. Treating ambivalence as normal rather than as stubbornness lowers the temperature and leaves room for the person to consider change on their own terms.",
+      "when_to_use": "When a change conversation turns into a debate, when someone says 'yes, but' repeatedly, or when a direct report or family member becomes defensive.",
+      "worked_example": "A project lead asks a team member to start using the new ticketing system. He replies that it is a waste of time and the old spreadsheet works fine. Instead of listing the benefits again, she says, 'You have a system that works for you, and learning a new one in the middle of a release feels like a cost with no payoff.' He agrees. She adds, 'It is your call how you track your own work; the team just needs status visible in one place by Friday. What would make that least painful?' He suggests mirroring his spreadsheet into the tool weekly, which she accepts as a start. A parent uses the same reflection with a teenager who insists the curfew is unfair.",
+      "common_mistakes": [
+        "Answering every objection with a counterargument",
+        "Using reflections sarcastically or to set up a 'gotcha'",
+        "Claiming the choice is theirs while signaling there is only one acceptable answer",
+        "Ignoring signs of discord and pressing on with the agenda"
+      ],
+      "steps": [
+        "Notice whether you are hearing sustain talk (reasons not to change) or discord (friction with you)",
+        "Reflect what they said, including any part of them that sees a reason to change",
+        "Name their autonomy honestly: the decision is theirs, within whatever real constraints exist",
+        "If there is discord, slow down, acknowledge it, and apologize if you pushed",
+        "Shift to a less contested part of the topic or ask what would make a step easier"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "personal-life", "subcategory": "family"},
+        {"category": "relationships", "subcategory": "listening"}
+      ],
+      "situations": [
+        "Introducing a new tool to a reluctant teammate",
+        "Talking with a defensive teenager",
+        "Handling 'yes, but' in a coaching conversation"
+      ],
+      "source": {
+        "citation": "Miller and Rollnick, Motivational Interviewing, 4th ed. (2023), Chapter 14: Responding to Sustain Talk and Discord",
+        "underlying_research": "Magill et al. (2018) meta-analysis: client sustain talk is associated with worse outcomes; MI-inconsistent counselor behavior (confronting, warning) relates to less favorable client language.",
+        "urls": [
+          "https://www.guilford.com/books/Motivational-Interviewing/Miller-Rollnick/9781462552795",
+          "https://ictp.uw.edu/wp-content/uploads/2026/06/UW-PACC-2026_05_14-MI-5.14.26-Distribute.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Core MI guidance with supporting process research, but the specific response options are clinical practice wisdom rather than separately tested techniques, and workplace application is an extrapolation.",
+      "flags": ["none"]
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "connect-09", "relation": "supports", "note": "MI's clinical trial base backs inquiry before advice: drawing out the person's own reasons and asking permission before advising produced small, durable behavior change across 119 studies (Lundahl et al. 2010)."},
+    {"insight_id": "how-to-know-a-person-07", "relation": "supports", "note": "Reflective listening is one of MI's core skills; MI adds that which statements you choose to reflect (reasons for change versus for the status quo) shapes where the conversation goes."},
+    {"insight_id": "supercommunicators-07", "relation": "supports", "note": "Independent clinical evidence that reflecting and summarizing what someone said, rather than arguing, is part of a method with replicated effects on behavior change."},
+    {"insight_id": "connect-12", "relation": "qualifies", "note": "MI adds that in change conversations, respecting the other person's autonomy to decide is itself what keeps influence from provoking resistance."}
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.guilford.com/books/Motivational-Interviewing/Miller-Rollnick/9781462552795",
+      "https://digitalcommons.usu.edu/sswa_facpubs/199",
+      "https://ictp.uw.edu/wp-content/uploads/2026/06/UW-PACC-2026_05_14-MI-5.14.26-Distribute.pdf"
+    ],
+    "still_unverified": [
+      "Exact 4th edition terminology for the spirit of MI (the UW slides list compassion, acceptance, partnership and evocation) and whether the 4th edition still uses the term righting reflex; neither term is relied on in the insights.",
+      "Whether the 4th edition names the advice sequence ask-offer-ask or elicit-provide-elicit.",
+      "Magill et al. (2018) effect sizes beyond the sustain talk association were seen only in abstract snippets."
+    ]
+  },
+  "research_notes": "Book text not read. Used the Guilford table of contents and description, the Lundahl et al. abstract, UW Psychiatry training slides on the 4th edition, and search snippets of the Magill et al. (2018) abstract."
+}

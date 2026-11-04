@@ -1,0 +1,128 @@
+{
+  "book": {
+    "book_id": "high-dillard-2012",
+    "title": "A Review and Meta-Analysis of Person-Centered Messages and Social Support Outcomes",
+    "subtitle": "",
+    "authors": [
+      "Andrew C. High",
+      "James Price Dillard"
+    ],
+    "year": 2012,
+    "publisher": "Communication Studies 63(1), 99 to 118 (Taylor and Francis)",
+    "edition": "",
+    "isbn": "",
+    "author_credibility": "High and Dillard (Penn State) are established interpersonal communication researchers; the meta-analysis synthesizes the long-running person-centered comforting research program begun by Brant Burleson.",
+    "evidence_base": "Meta-analysis of 23 studies: a positive linear association between how person-centered a comforting message is and its actual effectiveness, and a stronger association with perceived effectiveness; effects weaker in designs using confederates. Many underlying studies rate written or hypothetical messages rather than live conversations, and the authors note the nine-level hierarchy needs sharper measurement.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://pure.psu.edu/en/publications/a-review-and-meta-analysis-of-person-centered-messages-and-social/",
+        "note": "Penn State research portal with full abstract; read."
+      },
+      {
+        "type": "summary",
+        "url": "https://soar.wichita.edu/server/api/core/bitstreams/a85f50dc-0a64-4de0-855d-18362bad478b/content",
+        "note": "Calderwood and Alberton (2022) open paper summarizing Burleson's low, moderate and high levels with bereavement examples (Rack et al., 2008); read relevant sections."
+      },
+      {
+        "type": "library",
+        "url": "https://doi.org/10.1080/10510974.2011.598208",
+        "note": "Full paper via Taylor and Francis; not read."
+      }
+    ],
+    "source_type": "meta-analysis",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "high-dillard-2012-01",
+      "name": "The Comfort Ladder: Make Messages More Person-Centered",
+      "skill_type": "framework",
+      "explanation": "Comforting messages can be ranked by how much they acknowledge, explore and legitimize the upset person's feelings. At the low end are messages that deny or criticize feelings ('you shouldn't be upset', 'it's not a big deal'), tell people how they should feel, or jump to advice. In the middle are messages that acknowledge feelings only implicitly: sympathy, distraction, or explanations of the situation ('these things happen', 'at least...'). At the high end are messages that explicitly recognize the feelings, help the person put them into words, treat them as understandable, and help them see them in a wider context. Across 23 studies, more person-centered messages were reliably judged more helpful and also produced somewhat better actual emotional outcomes, though the effect on perceived helpfulness was larger than the effect on real mood change. Bereaved adults in related research rated advice and minimizing as unhelpful and presence, willingness to listen and expressions of care as helpful.",
+      "when_to_use": "When a friend, family member, partner or colleague is upset: after a breakup, a loss, a rejection, a fight, a bad diagnosis.",
+      "worked_example": "A friend says she did not get the job she interviewed four rounds for. A low-ladder reply: 'Their loss, you'll find something better.' A middle reply: 'Ugh, sorry, that's rough.' A high-ladder reply: 'Four rounds and then a no, that must feel like a gut punch, especially after you'd started picturing yourself there. What's the hardest part of it right now?' She talks for twenty minutes about feeling foolish for getting her hopes up, and the friend says that makes complete sense given how far she got. With a teenager who was left out of a party, the same move is naming the hurt before suggesting other plans.",
+      "common_mistakes": [
+        "Rushing to silver linings or 'at least' statements",
+        "Telling people how they should feel or that they are overreacting",
+        "Leading with advice before the feelings are acknowledged",
+        "Assuming that warmth of tone makes up for a message that dismisses the feeling",
+        "Forcing deep emotional talk on someone who has signaled they want distraction"
+      ],
+      "steps": [
+        "Name the feeling you are hearing, explicitly",
+        "Signal that the feeling makes sense given the situation",
+        "Invite them to say more about what is hardest",
+        "Help them place the feeling in a wider context only after they feel heard",
+        "Offer advice or distraction later, and only if it seems wanted"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "supporting-distress"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        }
+      ],
+      "situations": [
+        "Friend rejected for a job",
+        "Teen left out by peers",
+        "Colleague after a family death",
+        "Partner after a bad medical result"
+      ],
+      "source": {
+        "citation": "High and Dillard (2012), A Review and Meta-Analysis of Person-Centered Messages and Social Support Outcomes, Communication Studies 63(1), 99 to 118",
+        "underlying_research": "Burleson's comforting-message hierarchy (Burleson, 1982, 1984; Burleson, 2010 dual-process theory); Rack, Burleson, Bodie, Holmstrom and Servaty-Seib (2008), Death Studies 32(5), on bereaved adults' evaluations of grief messages.",
+        "urls": [
+          "https://pure.psu.edu/en/publications/a-review-and-meta-analysis-of-person-centered-messages-and-social/",
+          "https://doi.org/10.1080/10510974.2011.598208",
+          "https://soar.wichita.edu/server/api/core/bitstreams/a85f50dc-0a64-4de0-855d-18362bad478b/content"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Meta-analysis of 23 studies showing a consistent linear relationship, within a long research program. Limits: the strongest effects are on perceived helpfulness, effects shrink in more realistic confederate designs, many studies rate hypothetical messages, and fine distinctions among the nine levels are not well measured.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "connect-09",
+      "relation": "supports",
+      "note": "Meta-analytic evidence (23 studies) that messages exploring and legitimizing feelings are judged more helpful than ones that minimize or redirect, consistent with inquiry before advice."
+    },
+    {
+      "insight_id": "how-to-know-a-person-10",
+      "relation": "supports",
+      "note": "Adds quantitative support to Brooks's single-case advice: minimizing and advice-giving rank low, and acknowledging pain ranks high, in perceived helpfulness; related bereavement research finds the same."
+    },
+    {
+      "insight_id": "supercommunicators-02",
+      "relation": "supports",
+      "note": "Person-centered comforting is a concrete form of matching an emotional conversation rather than shifting to a practical one."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://pure.psu.edu/en/publications/a-review-and-meta-analysis-of-person-centered-messages-and-social/",
+      "https://soar.wichita.edu/server/api/core/bitstreams/a85f50dc-0a64-4de0-855d-18362bad478b/content",
+      "https://api.crossref.org/works/10.1080/10510974.2011.598208"
+    ],
+    "still_unverified": [
+      "Exact pooled effect sizes (full paper not read)",
+      "Precise wording of the nine Burleson levels; description here follows the commonly used low, moderate and high grouping"
+    ]
+  },
+  "research_notes": "Read the Penn State abstract and an open paper summarizing Burleson's levels; the full meta-analysis was not accessible."
+}

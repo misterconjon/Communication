@@ -1,0 +1,182 @@
+{
+  "book": {
+    "book_id": "gable-2004",
+    "title": "What do you do when things go right? The intrapersonal and interpersonal benefits of sharing positive events",
+    "subtitle": "",
+    "authors": [
+      "Shelly L. Gable",
+      "Harry T. Reis",
+      "Emily A. Impett",
+      "Evan R. Asher"
+    ],
+    "year": 2004,
+    "publisher": "Journal of Personality and Social Psychology 87(2), 228 to 245 (American Psychological Association)",
+    "edition": "",
+    "isbn": "",
+    "author_credibility": "Gable (UC Santa Barbara) and Reis (University of Rochester) are leading close-relationships researchers; the paper appears in a top social psychology journal and launched a substantial line of capitalization research.",
+    "evidence_base": "Four studies using diaries and couples samples found that sharing positive events was linked to higher daily positive mood and life satisfaction beyond the event itself, and that perceiving a partner's response as active-constructive was linked to higher intimacy, satisfaction and trust. Follow-up work (Gable, Gonzaga and Strachman, 2006) used observed lab interactions and found responses to good news predicted relationship well-being and breakups two months later more strongly than responses to bad news. Peters, Reis and Gable (2018) review the later literature. Much of the data is self-report and correlational.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/february-2024/good-news-sharing-and-responding",
+        "note": "University of Rochester Behavioral Health Partners summary of Gable et al. (2004) and Gable et al. (2006); read in full."
+      },
+      {
+        "type": "summary",
+        "url": "https://doi.org/10.1111/spc3.12407",
+        "note": "Peters, Reis and Gable (2018) review abstract via Crossref; read."
+      },
+      {
+        "type": "library",
+        "url": "https://doi.org/10.1037/0022-3514.87.2.228",
+        "note": "Full paper via APA PsycNet; not read (no open copy found)."
+      }
+    ],
+    "source_type": "peer-reviewed paper",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "gable-2004-01",
+      "name": "Active-Constructive Responding to Good News",
+      "skill_type": "technique",
+      "explanation": "How you respond when someone shares good news matters for the relationship, perhaps as much as how you respond to their problems. Gable and colleagues describe four response types by crossing active versus passive with constructive versus destructive. Active-constructive is enthusiastic and engaged: you show you are glad, ask questions, and help them relive it. Passive-constructive is a quiet, low-energy 'that's nice'. Active-destructive points out the downside ('won't that mean longer hours?'). Passive-destructive ignores the news or turns the talk to yourself. Only active-constructive responses were consistently linked to greater intimacy, trust and satisfaction; the muted 'that's nice' did not help and was associated with worse outcomes, roughly like the destructive types. Later observational work found that how partners responded to good news predicted relationship well-being and breakups two months later more strongly than how they responded to bad news.",
+      "when_to_use": "Any time a partner, child, parent, friend or colleague tells you about a win, however small: a promotion, a good grade, a compliment they got, a finished project.",
+      "worked_example": "A friend texts that she got into a master's program. The reflex reply is 'Congrats! Isn't that going to be expensive?' Instead: 'That's huge! Which program? What made you go for it? How did you find out?' and a call that evening to hear the whole story. At home, when a ten-year-old says he finally landed a skateboard trick, a parent puts the phone down and asks him to show it. If you have honest concerns (the cost of the program), save them for a later conversation rather than the moment of sharing.",
+      "common_mistakes": [
+        "Offering a flat 'that's great' while still looking at your screen",
+        "Jumping to risks or practical problems in the moment of sharing",
+        "Steering the conversation to your own similar achievement",
+        "Assuming small good news does not deserve a real response",
+        "Faking enthusiasm in a way that feels hollow; genuine interest is the point"
+      ],
+      "steps": [
+        "Stop what you are doing and give your attention",
+        "Show genuine pleasure in words and tone",
+        "Ask questions that let them relive it: how it happened, what it means to them",
+        "Reflect what it says about their effort or qualities",
+        "Hold concerns for a later conversation unless asked"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        }
+      ],
+      "situations": [
+        "Partner announces a promotion",
+        "Friend gets into a program",
+        "Child shares a small win",
+        "Colleague's paper is accepted"
+      ],
+      "source": {
+        "citation": "Gable, Reis, Impett and Asher (2004), What do you do when things go right? Journal of Personality and Social Psychology 87(2), 228 to 245; Gable, Gonzaga and Strachman (2006), JPSP 91(5), 904 to 917",
+        "underlying_research": "Capitalization (Langston, 1994). Later review: Peters, Reis and Gable (2018), 'Making the good even better,' Social and Personality Psychology Compass 12(7).",
+        "urls": [
+          "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/february-2024/good-news-sharing-and-responding",
+          "https://doi.org/10.1037/0022-3514.87.2.228",
+          "https://doi.org/10.1037/0022-3514.91.5.904",
+          "https://doi.org/10.1111/spc3.12407"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Associations replicated across multiple studies, samples and methods (diaries, couples, observed interactions) and a growing literature reviewed in 2018. Limits: much of the evidence is correlational and self-reported, and whether training people to respond this way improves relationships is less established.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "gable-2004-02",
+      "name": "Share Your Good News, Not Just Your Troubles",
+      "skill_type": "technique",
+      "explanation": "People tend to reach out to friends and family when something goes wrong and keep good news to themselves to avoid seeming boastful. Gable and colleagues found that on days when people told someone about a positive event, they reported more positive emotion and life satisfaction, beyond the boost from the event itself and controlling for other events that day. Retelling a good event appears to amplify and extend it, and when the listener responds warmly, it also strengthens the relationship. Sharing good news is therefore both a well-being habit and a way to give the other person an easy chance to connect with you.",
+      "when_to_use": "After a win of any size, especially with people you want to feel closer to; in relationships that have become mostly about logistics or problems.",
+      "worked_example": "A man finally finishes a marathon training block but does not mention it to his sister because their calls are usually about their father's health. He decides to open the next call with, 'Something good: I ran 18 miles yesterday.' She asks how it felt and the call ends on a lighter note than usual. In a team, a manager asks people to start the Monday check-in with one good thing from the week.",
+      "common_mistakes": [
+        "Withholding good news for fear of seeming to brag",
+        "Only sharing when something is wrong, so the relationship becomes problem-centered",
+        "Sharing in a way that invites comparison rather than connection",
+        "Choosing someone who reliably responds dismissively, then concluding sharing does not help"
+      ],
+      "steps": [
+        "Notice positive events, including small ones",
+        "Tell someone you are close to, ideally soon after",
+        "Choose people likely to respond warmly",
+        "Return the favor by responding actively when they share"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        }
+      ],
+      "situations": [
+        "Calling a sibling",
+        "Opening a check-in with a good thing",
+        "Telling a partner about a work win"
+      ],
+      "source": {
+        "citation": "Gable, Reis, Impett and Asher (2004), What do you do when things go right? Journal of Personality and Social Psychology 87(2), 228 to 245",
+        "underlying_research": "Diary studies in Gable et al. (2004); concept of capitalization from Langston (1994).",
+        "urls": [
+          "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/february-2024/good-news-sharing-and-responding",
+          "https://doi.org/10.1037/0022-3514.87.2.228",
+          "https://doi.org/10.1111/spc3.12407"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Within-person diary findings that held after controlling for event positivity, supported by later capitalization research. Still correlational: people may share more on days they already feel good. The URMC summary confirms the main result; I could not read the full paper.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "talk-wood-brooks-04",
+      "relation": "supports",
+      "note": "Asking engaged follow-up questions about someone's good news is the core of the active-constructive response, which Gable et al. linked to greater intimacy and satisfaction."
+    },
+    {
+      "insight_id": "talk-wood-brooks-10",
+      "relation": "supports",
+      "note": "Both point to underused positive expressions: just as people hold back compliments, they often under-respond to good news, and enthusiastic responses predict closer relationships."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/february-2024/good-news-sharing-and-responding",
+      "https://api.crossref.org/works/10.1111/spc3.12407"
+    ],
+    "still_unverified": [
+      "Exact effect sizes and the specific measures used in the four 2004 studies (full text not read)",
+      "That passive-constructive responses were associated with outcomes about as poor as destructive ones: reported in summaries of the 2004 paper; not checked in the tables"
+    ]
+  },
+  "research_notes": "Could not find a legal open copy of the 2004 paper; relied on a university clinic summary, Crossref metadata, and the 2018 review abstract. The 2006 follow-up details come from the URMC summary."
+}

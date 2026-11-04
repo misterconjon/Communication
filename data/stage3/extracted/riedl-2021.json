@@ -1,0 +1,106 @@
+{
+  "book": {
+    "book_id": "riedl-2021",
+    "title": "Quantifying collective intelligence in human groups",
+    "subtitle": "",
+    "authors": [
+      "Christoph Riedl",
+      "Young Ji Kim",
+      "Pranav Gupta",
+      "Thomas W. Malone",
+      "Anita Williams Woolley"
+    ],
+    "year": 2021,
+    "publisher": "Proceedings of the National Academy of Sciences 118(21), e2005737118",
+    "edition": "",
+    "isbn": "",
+    "source_type": "meta-analysis",
+    "core": false,
+    "author_credibility": "Peer-reviewed in PNAS. Woolley (Carnegie Mellon) and Malone (MIT Center for Collective Intelligence) originated the collective intelligence construct; this paper answers critiques of their 2010 Science paper, so it is not independent of the originating team.",
+    "evidence_base": "Meta-analytic pooling of 22 studies with 5,279 individuals in 1,356 groups (online and face to face, strangers and existing teams). Finds a general collective intelligence factor that predicts performance on out-of-sample tasks; collaboration process measures predicted it most strongly, followed by individual skill and group composition; proportion of women predicted performance, mediated by members' social perceptiveness. Process measures were computed from task behavior, so the link to specific conversational habits is partly inferred.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://dspace.mit.edu/handle/1721.1/144213",
+        "note": "MIT DSpace record with abstract and significance statement, read."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.cmu.edu/tepper/news/stories/2021/may/collective-intelligence-research.html",
+        "note": "Carnegie Mellon Tepper School news story with co-author quotes, read in full."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "riedl-2021-01",
+      "name": "How the Group Works Beats Who Is in It",
+      "skill_type": "mental model",
+      "explanation": "Groups have a measurable general ability to work well together across many kinds of tasks, and that ability predicted later performance on new tasks. Pooling 22 studies and more than 1,300 groups, Riedl and colleagues found that how a group collaborates (its process) predicted this collective intelligence most strongly, roughly twice as much as the individual skill of its members, with group composition next. Members' social perceptiveness, their skill at reading others' emotions and intentions, also mattered; groups with more women scored higher, and that link ran through social perceptiveness. The practical takeaway for anyone running a meeting or project team: investing in how people coordinate and pick up on each other (who gets heard, whether people notice confusion or disengagement) is a stronger lever than recruiting one more star. The limits: the paper comes from the team that introduced the construct and was answering critics; the process measures come from task behavior, so the paper does not show which specific conversational habits matter; and the earlier finding that evenly shared speaking turns predict group performance comes from the 2010 study, not this one.",
+      "when_to_use": "When forming a project team, running a recurring meeting, or diagnosing why a group of capable people produces mediocre results.",
+      "worked_example": "A director notices her strategy group, full of strong analysts, keeps producing plans that miss obvious risks. Rather than adding another senior hire, she changes how the group works: each meeting starts with a quick round where everyone names one concern, she asks the quietest member for a view before the most senior speaks, and she watches for people who look lost and checks in with them. Over the next quarter the plans catch problems earlier. The same idea helps a family planning a move: hearing from everyone, including the teenager who rarely speaks up, surfaces issues the confident decision-maker would miss.",
+      "common_mistakes": [
+        "Assuming that the smartest individuals automatically make the smartest group",
+        "Letting one or two dominant voices set the direction unchallenged",
+        "Ignoring social perceptiveness when staffing teams that must coordinate closely",
+        "Over-reading the gender finding as a hiring rule rather than as a clue about social perceptiveness"
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
+      ],
+      "situations": [
+        "Forming a project team",
+        "Running a recurring team meeting",
+        "Making a family decision together"
+      ],
+      "source": {
+        "citation": "Riedl, Kim, Gupta, Malone and Woolley (2021), Quantifying collective intelligence in human groups, PNAS 118(21), e2005737118",
+        "underlying_research": "22 studies, 5,279 individuals, 1,356 groups; CI most strongly predicted by collaboration process, then individual skill, then composition; the CMU summary reports process measures were about twice as important as individual skill. Builds on Woolley, Chabris, Pentland, Hashmi and Malone (2010), Science 330, 686 to 688.",
+        "urls": [
+          "https://doi.org/10.1073/pnas.2005737118",
+          "https://dspace.mit.edu/handle/1721.1/144213",
+          "https://www.cmu.edu/tepper/news/stories/2021/may/collective-intelligence-research.html"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Large pooled dataset in a top journal that directly addresses earlier critiques, but produced by the originating team, and the general factor has been contested by other researchers. The translation from task-based process metrics to concrete meeting practices is an inference.",
+      "flags": [
+        "contested"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "how-to-know-a-person-11",
+      "relation": "supports",
+      "note": "Members' social perceptiveness (reading others' emotions and intentions, close to Brooks's mentalizing) predicted how well groups worked together across tasks, adding a group-level payoff to the case for building that skill."
+    },
+    {
+      "insight_id": "supercommunicators-13",
+      "relation": "supports",
+      "note": "Group collaboration process predicted collective performance more strongly than individual members' skill, consistent with the view that good outcomes are built jointly rather than delivered by one strong contributor."
+    }
+  ],
+  "research_notes": "The full text was not reachable: PMC returned a reCAPTCHA page, PNAS and Europe PMC returned Cloudflare challenges or server errors, and the MIT DSpace download did not return a PDF. Read: the abstract (Europe PMC search API), the MIT DSpace significance statement, and the Carnegie Mellon news story. The CMU story gives 5,349 participants while the abstract gives 5,279; the abstract figure is used. Exactly what the collaboration process measures captured was not confirmed.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1073/pnas.2005737118",
+      "https://dspace.mit.edu/handle/1721.1/144213",
+      "https://www.cmu.edu/tepper/news/stories/2021/may/collective-intelligence-research.html"
+    ],
+    "still_unverified": [
+      "What the collaboration process measures consisted of",
+      "How social perceptiveness was measured in the pooled studies",
+      "The 'about twice as important' ratio (from the CMU news story, not the paper)"
+    ]
+  }
+}

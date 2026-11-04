@@ -1,0 +1,173 @@
+{
+  "book": {
+    "book_id": "bond-depaulo-2006",
+    "title": "Accuracy of Deception Judgments",
+    "subtitle": "",
+    "authors": [
+      "Charles F. Bond Jr.",
+      "Bella M. DePaulo"
+    ],
+    "year": 2006,
+    "publisher": "Personality and Social Psychology Review, 10(3), 214 to 234",
+    "edition": "doi:10.1207/s15327957pspr1003_2; PMID 16859438",
+    "isbn": "",
+    "source_type": "meta-analysis",
+    "core": false,
+    "author_credibility": "Bond (Texas Christian University) and DePaulo (University of Virginia, later UC Santa Barbara) are leading deception researchers; DePaulo also led the companion Cues to Deception meta-analysis (Psychological Bulletin, 2003). The paper is one of the most cited in the field and its central estimate has held up in later work.",
+    "evidence_base": "Meta-analysis of 206 documents and 24,483 judges in which people tried to tell lies from truths in real time without aids or training. Moderator analyses cover medium (video, audio, audiovisual, transcript), motivation, preparation, baseline exposure, interaction and judge expertise. Main limitation: most studies use low-stakes lab lies by strangers.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16859438/",
+        "note": "Abstract read via PubMed E-utilities."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://assets.aclu.org/live/uploads/document/foia/2006-Personality-and-Social-Psychology-Review-Accuracy-of-Deception-Judgements.pdf",
+        "note": "Full article as released in a public ACLU FOIA document set; read the results tables and discussion."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "bond-depaulo-2006-01",
+      "name": "You Cannot Spot a Liar by Watching",
+      "skill_type": "mental model",
+      "explanation": "Across more than two hundred studies, people sorting lies from truths in real time were right about 54 percent of the time, barely above a coin flip, and the figure barely moved from study to study. People also lean toward belief: they called about 61 percent of truths honest but caught only about 47 percent of lies. Professionals whose jobs involve judging credibility were not reliably better than laypeople; the authors conclude that experts are not good lie detectors. The companion meta-analysis of 158 possible tells found that many popular cues have no link or only a weak link to lying, and that liars mainly differ in telling less forthcoming, less compelling stories. Practically, a hunch that someone is lying based on fidgeting, gaze or nervousness is weak evidence, and acting on it risks wrongly accusing honest people, especially anxious ones who want to be believed.",
+      "when_to_use": "Any time you are tempted to judge honesty from demeanor: a candidate's interview answers, an employee's account of a missed deadline, a vendor's assurances, a teenager's story about where they were.",
+      "worked_example": "A store manager suspects a cashier of skimming because he looked away and stammered when asked about a cash shortfall. Remembering that nervousness is a poor lie signal, she does not confront him. She pulls the register logs, asks him open questions about the shift, and finds the shortfall came from a refund keyed in twice by a different employee. At home, a father who feels sure his daughter is lying about finishing homework because she will not look up from her phone asks to see the assignment instead of accusing her.",
+      "common_mistakes": [
+        "Trusting your gut because you feel confident or experienced; confidence and expertise add little accuracy.",
+        "Treating nervousness, averted gaze or fidgeting as signs of guilt.",
+        "Going to the other extreme and assuming everyone lies; most people are honest most of the time and the truth bias usually serves you.",
+        "Making accusations before checking facts that can be verified."
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "nonverbal"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
+      ],
+      "situations": [
+        "Hiring interviews",
+        "Investigating a workplace problem",
+        "Doubting a teenager's story",
+        "Evaluating a vendor's claims"
+      ],
+      "source": {
+        "citation": "Bond, C. F., Jr., and DePaulo, B. M. (2006). Accuracy of Deception Judgments. Personality and Social Psychology Review, 10(3), 214 to 234 (abstract; results on receiver expertise and truth bias).",
+        "underlying_research": "DePaulo, Lindsay, Malone, Muhlenbruck, Charlton and Cooper (2003), Cues to Deception, Psychological Bulletin 129(1), 74 to 118: 1,338 estimates of 158 cues; liars somewhat less forthcoming, less compelling and more tense, but many behaviors showed no or only weak links to deceit.",
+        "urls": [
+          "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16859438&rettype=abstract&retmode=text",
+          "https://assets.aclu.org/live/uploads/document/foia/2006-Personality-and-Social-Psychology-Review-Accuracy-of-Deception-Judgements.pdf",
+          "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12555795&rettype=abstract&retmode=text",
+          "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=29016168&rettype=abstract&retmode=text"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Large meta-analysis with remarkably consistent results across studies, supported by a companion meta-analysis on cues and later work. Limits: mostly low-stakes lab lies, and the expert comparison rests on about 20 studies (a small, nonsignificant expert advantage cannot be ruled out). It shows that demeanor is a poor guide, not that deception can never be uncovered by gathering evidence.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "bond-depaulo-2006-02",
+      "name": "Listen More Than You Look",
+      "skill_type": "technique",
+      "explanation": "Visible behavior is the least informative channel for judging people. In the deception meta-analysis, judges who could only see a silent video were right about 50.5 percent of the time, essentially chance, while those who could hear the person did better; judgments from audio alone and from transcripts were about as good as full audiovisual ones. The authors suggest the common picture of a liar is mostly visual, so watching invites stereotypes while hearing the content invites more thoughtful judgment. Brief prior exposure to how a person normally talks also helped slightly. Separate experiments by Michael Kraus found that people judged others' emotions more accurately from voice alone than from video or from voice plus face, apparently because attention went to the words and vocal tone. The practical lesson: when you want to understand someone, put your attention on what they say and how they say it, compare it with how they usually sound, and ask follow-up questions, rather than scanning their face and body for tells.",
+      "when_to_use": "Interviews, sensitive one-on-ones, calls where you need to understand how someone really feels, and video meetings where the face grid pulls your attention away from content.",
+      "worked_example": "A recruiter used to judge candidates' sincerity by watching their faces on video. She now turns off self-view, looks away from the screen at moments, and listens closely to the substance: whether examples are specific, whether answers fit together, and how the candidate's tone shifts when talking about a former manager. She then asks one follow-up that probes the shift. With a friend who says she is fine after a breakup, a phone call where he can focus on her voice tells him more than a quick glance across a crowded dinner table.",
+      "common_mistakes": [
+        "Staring at faces and posture for clues and missing what is actually being said.",
+        "Judging someone you have never heard speak before against an imagined norm rather than their own baseline.",
+        "Assuming video always beats a phone call for understanding feelings.",
+        "Mistaking this for permission to cross-examine; the goal is understanding, then checking."
+      ],
+      "steps": [
+        "Shift attention from the person's body to their words and vocal tone.",
+        "Note specifics: concrete details, consistency, and where the voice changes.",
+        "Compare with how this person usually talks, if you know it.",
+        "Ask an open follow-up about the moment that stood out.",
+        "Check anything important against facts or the person's own confirmation before acting."
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "nonverbal"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "video-calls"
+        }
+      ],
+      "situations": [
+        "Interviewing candidates",
+        "Checking in on a friend by phone",
+        "One-on-one with a struggling report",
+        "Video meetings"
+      ],
+      "source": {
+        "citation": "Bond, C. F., Jr., and DePaulo, B. M. (2006), Personality and Social Psychology Review 10(3): moderator analyses on deception medium and baseline exposure.",
+        "underlying_research": "Kraus, M. W. (2017). Voice-only communication enhances empathic accuracy. American Psychologist, 72(7), 644 to 654 (5 experiments, N = 1,772; two published comments followed). Bond and DePaulo report mean accuracy of about 56 percent with baseline exposure, a small gain.",
+        "urls": [
+          "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16859438&rettype=abstract&retmode=text",
+          "https://assets.aclu.org/live/uploads/document/foia/2006-Personality-and-Social-Psychology-Review-Accuracy-of-Deception-Judgements.pdf",
+          "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12555795&rettype=abstract&retmode=text",
+          "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=29016168&rettype=abstract&retmode=text"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The medium effect in the deception meta-analysis is robust across many studies, and Kraus's experiments point the same way for emotion reading, but Kraus is one research program with published commentary questioning its interpretation, and the gains are modest. Listening better improves accuracy somewhat; it does not make anyone a reliable mind reader.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "how-to-know-a-person-14",
+      "relation": "supports",
+      "note": "Lie-truth judgments average about 54 percent across 24,483 judges, and experienced professionals do no reliably better, a concrete case of overrating our ability to read people."
+    },
+    {
+      "insight_id": "how-to-know-a-person-06",
+      "relation": "supports",
+      "note": "Because observation of demeanor is so weak, asking and checking (getting perspective) is the better route to understanding than inference from cues."
+    },
+    {
+      "insight_id": "supercommunicators-09",
+      "relation": "qualifies",
+      "note": "Nonverbal signals are informative for mood in general, but for judging honesty the body and face are among the weakest channels; audible content carries more."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16859438&rettype=abstract&retmode=text",
+      "https://assets.aclu.org/live/uploads/document/foia/2006-Personality-and-Social-Psychology-Review-Accuracy-of-Deception-Judgements.pdf",
+      "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=12555795&rettype=abstract&retmode=text",
+      "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=29016168&rettype=abstract&retmode=text"
+    ],
+    "still_unverified": [
+      "The two 2018 American Psychologist comments on Kraus (2017) were not read."
+    ]
+  },
+  "research_notes": "Read the abstract and the full article from the ACLU FOIA set (scanned PDF converted with pdftotext), focusing on moderator tables for medium, preparation, baseline exposure, interaction and expertise. Also read abstracts for DePaulo et al. (2003) and Kraus (2017). Interaction partners were found less accurate than third-party observers, consistent with a tendency to believe the people we talk with."
+}

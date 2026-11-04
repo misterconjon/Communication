@@ -1,0 +1,132 @@
+{
+  "book": {
+    "book_id": "cohen-bradford-influence-without-authority",
+    "title": "Influence Without Authority",
+    "subtitle": "",
+    "authors": ["Allan R. Cohen", "David L. Bradford"],
+    "year": 2017,
+    "publisher": "Wiley",
+    "edition": "Third edition, October 2017, 320 pages (first edition 1990, second 2005)",
+    "isbn": "9781119347712",
+    "source_type": "book",
+    "core": false,
+    "author_credibility": "Cohen is a management professor at Babson College (Distinguished Professor of Global Leadership) with a Harvard DBA; Bradford is Senior Lecturer on Organizational Behavior Emeritus at Stanford Graduate School of Business and coauthor of Connect, a core library book. Both are long-time consultants and executive educators, so the model is shaped by teaching and consulting cases rather than controlled tests.",
+    "evidence_base": "Practitioner framework built on decades of teaching and case experience, grounded in social exchange theory and the reciprocity norm. Extensive case examples; the exchange model as a package has not been experimentally tested.",
+    "legal_access": [
+      {"type": "publisher preview", "url": "https://www.wiley-vch.de/en/areas-interest/finance-economics-law/influence-without-authority-978-1-119-34771-2", "note": "Publisher description and full table of contents (read 2026-11-04)."},
+      {"type": "publisher preview", "url": "https://www.wiley.com/en-us/Influence+Without+Authority%2C+3rd+Edition-p-9781119347712", "note": "Wiley product page with description and author bios (read 2026-11-04)."},
+      {"type": "summary", "url": "https://mail.mosaicprojects.com.au/Mag_Articles/SA1025_Influence_without_authority.pdf", "note": "Mosaic Projects practitioner summary of the six-step model (read 2026-11-04)."},
+      {"type": "summary", "url": "https://www.focusu.com/blog/book-learning-influence-without-authority-by-allan-r-cohen/", "note": "Reader summary listing the five currency categories (read 2026-11-04)."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "cohen-bradford-influence-without-authority-01",
+      "name": "The Exchange Model: Influence Without a Title",
+      "skill_type": "framework",
+      "explanation": "When you need cooperation from people you do not manage (peers, other teams, your boss, clients), you cannot order it, but you can trade for it. Cohen and Bradford's model runs as a sequence. Start by assuming the other person is a potential ally, not an obstacle, and that their resistance has legitimate reasons. Get clear on your own goals and priorities, including what you could give up. Diagnose the other person's world: the pressures they face, how they are measured, what their boss wants. From that, identify which currencies they value and which you can offer. Attend to the state of the relationship, since trust determines how directly you can ask. Then influence through give and take, offering something they value in return for what you need. Most resistance, in this view, comes from the other person's incentives and constraints rather than their character, so understanding their world is usually the turning point.",
+      "when_to_use": "Getting help from another department, persuading a peer who controls resources, influencing your boss, or leading a cross-functional project where nobody reports to you.",
+      "worked_example": "A product manager needs the data engineering team to prioritize a pipeline fix, and their lead keeps deferring it. Instead of escalating, she asks him what his team is measured on this quarter; he says platform stability and reducing on-call pages. She realizes the bug she needs fixed also causes a recurring overnight alert. She frames the fix as a stability win, offers her analyst's time to write the test cases, and promises to credit his team in the launch update to leadership. He schedules it for the next sprint. In a neighborhood association, a resident who wants volunteers for a park cleanup first asks the gardening club what they need, learns they want a spot for a plant sale, and offers one at the event.",
+      "common_mistakes": [
+        "Assuming the other person is difficult by nature rather than responding to their incentives",
+        "Asking before understanding what they value",
+        "Treating the model as cold transactional bargaining, which erodes the relationship",
+        "Being vague about what you actually need, so no trade can be designed"
+      ],
+      "steps": [
+        "Assume they are a potential ally with legitimate reasons for any resistance",
+        "Clarify your goal, priorities and what you could concede",
+        "Diagnose their world: goals, pressures, metrics, boss, constraints",
+        "Identify the currencies they value and those you can supply",
+        "Assess the relationship and adjust how directly you ask",
+        "Propose a give-and-take that meets both sides' needs, and keep the relationship intact even if this trade fails"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "reciprocity"},
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "professional", "subcategory": "managing-up"},
+        {"category": "influence", "subcategory": "situations"}
+      ],
+      "situations": [
+        "Getting another team to prioritize your request",
+        "Leading a cross-functional project without authority",
+        "Persuading your boss to back an idea",
+        "Recruiting help for a community event"
+      ],
+      "source": {
+        "citation": "Cohen and Bradford, Influence Without Authority, 3rd ed. (2017), Part II: The Influence Model (Chapters 2 to 7)",
+        "underlying_research": "Social exchange theory and the norm of reciprocity; no controlled tests of the model itself identified.",
+        "urls": [
+          "https://www.wiley-vch.de/en/areas-interest/finance-economics-law/influence-without-authority-978-1-119-34771-2",
+          "https://mail.mosaicprojects.com.au/Mag_Articles/SA1025_Influence_without_authority.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Long-standing, widely taught practitioner framework consistent with robust reciprocity research, but supported by cases rather than experiments. The step sequence is confirmed in the table of contents and a secondary summary, not read in the book text.",
+      "flags": ["none"]
+    },
+    {
+      "id": "cohen-bradford-influence-without-authority-02",
+      "name": "Pay in Their Currency",
+      "skill_type": "technique",
+      "explanation": "What you can offer in exchange is much wider than budget or favors. Cohen and Bradford group the currencies people value into five kinds: inspiration-related (a chance to do something meaningful or excellent), task-related (resources, help, information, support for their own work), position-related (recognition, visibility to senior people, reputation), relationship-related (being understood, personal support, belonging), and personal (gratitude, ownership, learning, feeling competent). People differ in which currencies matter to them, and paying in a currency they do not value earns little. The authors also stress building credit before you need it: helping, informing and recognizing others routinely, so that when you ask, there is goodwill in the account.",
+      "when_to_use": "Before any ask to someone you cannot direct, and as an ongoing habit with the colleagues you depend on most.",
+      "worked_example": "A marketing coordinator needs a busy designer's help with a last-minute campaign. She knows the designer has asked for more visible work and cares about craft (position and inspiration currencies), and that money is not hers to give. She offers to present the campaign with the designer to the VP and to give her creative lead on the hero visual. Over the following months she routinely forwards the designer's best work to leadership with a short note of credit, so later requests land easily. At home, a partner who wants help with a weekend project realizes the other values time together more than a returned favor and suggests doing it side by side with lunch out afterward.",
+      "common_mistakes": [
+        "Offering what you would value rather than what they value",
+        "Only trading when you need something, so every offer looks like a setup",
+        "Overlooking low-cost currencies such as credit, information and public thanks",
+        "Keeping a visible tally, which turns goodwill into bookkeeping"
+      ],
+      "steps": [
+        "List the people whose cooperation you rely on",
+        "For each, note which of the five currency types they seem to care about, based on what they talk about and how they are measured",
+        "Inventory what you can offer in those currencies, including recognition, information and help",
+        "Give some of it now, before you need anything",
+        "When you ask, connect the request to the currency they value"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "reciprocity"},
+        {"category": "professional", "subcategory": "managing-up"},
+        {"category": "relationships", "subcategory": "networking"}
+      ],
+      "situations": [
+        "Asking a busy colleague for help",
+        "Building goodwill with a partner team",
+        "Thanking and crediting peers publicly",
+        "Sharing chores with a partner"
+      ],
+      "source": {
+        "citation": "Cohen and Bradford, Influence Without Authority, 3rd ed. (2017), Chapter 3: Goods and Services: The Currencies of Exchange; Chapter 6 on building relationships",
+        "underlying_research": "Reciprocity norm and social exchange theory; the currency categories are the authors' practitioner taxonomy.",
+        "urls": [
+          "https://www.focusu.com/blog/book-learning-influence-without-authority-by-allan-r-cohen/",
+          "https://mail.mosaicprojects.com.au/Mag_Articles/SA1025_Influence_without_authority.pdf",
+          "https://www.wiley.com/en-us/Influence+Without+Authority%2C+3rd+Edition-p-9781119347712"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Credible, widely used practitioner taxonomy consistent with reciprocity research; the five categories are confirmed in secondary summaries and the chapter title in the table of contents, but the taxonomy is not empirically validated as a set.",
+      "flags": ["none"]
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "connect-12", "relation": "supports", "note": "Connect's balance-of-influence idea is extended here by Bradford's earlier exchange model: influence across peers and upward rests on understanding the other party's world and trading in what they value."},
+    {"insight_id": "made-to-stick-10", "relation": "supports", "note": "Answering what is in it for them is generalized into a diagnostic of the other person's pressures, metrics and five kinds of currency (practitioner framework, not tested)."}
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.wiley-vch.de/en/areas-interest/finance-economics-law/influence-without-authority-978-1-119-34771-2",
+      "https://www.wiley.com/en-us/Influence+Without+Authority%2C+3rd+Edition-p-9781119347712",
+      "https://mail.mosaicprojects.com.au/Mag_Articles/SA1025_Influence_without_authority.pdf",
+      "https://www.focusu.com/blog/book-learning-influence-without-authority-by-allan-r-cohen/",
+      "https://www.newswise.com/articles/third-edition-of-influence-without-authority-released"
+    ],
+    "still_unverified": [
+      "Exact wording and examples within each currency category in the third edition (taken from secondary summaries).",
+      "Content of Chapter 16 (escalating to hardball) and Chapter 9 (influencing your boss) not read; not used."
+    ]
+  },
+  "research_notes": "Book text not read. Relied on the publisher's table of contents and description, a Creative Commons practitioner summary (Mosaic Projects, describing the second edition's six-step model) and a reader summary for currency categories. O'Reilly returned 403."
+}

@@ -1,0 +1,113 @@
+{
+  "book": {
+    "book_id": "hall-nonverbal-2019",
+    "title": "Nonverbal Communication",
+    "subtitle": "",
+    "authors": [
+      "Judith A. Hall",
+      "Terrence G. Horgan",
+      "Nora A. Murphy"
+    ],
+    "year": 2019,
+    "publisher": "Annual Review of Psychology, 70, 271 to 294",
+    "edition": "doi:10.1146/annurev-psych-010418-103145; PMID 30256720",
+    "isbn": "",
+    "source_type": "review article",
+    "core": false,
+    "author_credibility": "Judith Hall (Northeastern University) is among the most cited researchers on nonverbal behavior and interpersonal accuracy and coauthors the standard textbook in the field (Knapp, Hall and Horgan). Horgan (University of Michigan, Flint) and Murphy (Loyola Marymount) are established person-perception researchers. Annual Review of Psychology is an invited, highly selective review venue. As leaders of the interpersonal-accuracy research program they have an interest in the construct, but the review is descriptive rather than promotional.",
+    "evidence_base": "Narrative review of decades of research on the meaning of cues people send (encoding) and the accuracy of perceiving them (decoding), framed by the Brunswik lens model, with a section on measurement problems. Individual claims inherit the strength of the cited studies. Only the abstract, keywords and section headings were accessible here; the full text is paywalled.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30256720/",
+        "note": "Abstract read via the PubMed E-utilities interface (the PubMed web page itself required cookies)."
+      },
+      {
+        "type": "library",
+        "url": "https://doi.org/10.1146/annurev-psych-010418-103145",
+        "note": "Full text via Annual Reviews or a library; the publisher site returned a bot check."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "hall-nonverbal-2019-01",
+      "name": "No Body-Language Dictionary: Cues Are Probabilistic Hints",
+      "skill_type": "mental model",
+      "explanation": "Nonverbal research does not support a lookup table in which crossed arms mean defensiveness or a glance away means a lie. In the lens-model view this review uses, a person's inner state shows up in many cues, each linked to that state only loosely and on average, and the observer has to combine imperfect cues into a judgment. People do read others from face, voice, posture, touch and distance better than chance, but accuracy is modest, differs between people, and differs by what is being judged (emotion, personality, status, honesty). A related study from Hall's group found that skill at judging one trait barely predicts skill at judging another, so being a good reader of moods does not make you a good reader of everything. The practical move is to treat any single cue as a question to check, not an answer.",
+      "when_to_use": "Whenever you notice yourself drawing a firm conclusion from someone's posture, expression or tone: a client who looks bored in a pitch, a report who will not meet your eye, a partner who sounds curt, an interviewer who seems cold.",
+      "worked_example": "During a quarterly review, a product lead notices the finance director leaning back with arms folded and starts to cut his proposal short, assuming she has rejected it. He stops himself, finishes the key point, and asks what questions she has. She says the room is cold and she is trying to work out whether the cost estimate includes contractors. At home, he notices his teenage son answering in single words and, instead of concluding he is angry, asks how the day went; the son is simply exhausted after a tournament.",
+      "common_mistakes": [
+        "Reading one gesture as proof of a feeling or intention.",
+        "Ignoring the person's usual baseline and the physical context (temperature, fatigue, culture of the room).",
+        "Assuming that because you are good at sensing emotions you are equally good at judging honesty, competence or personality.",
+        "Repeating the misapplied rule that words carry only 7 percent of meaning."
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "nonverbal"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        }
+      ],
+      "situations": [
+        "Reading a client in a pitch",
+        "A report avoiding eye contact",
+        "Interpreting a partner's tone",
+        "Job interview impressions"
+      ],
+      "source": {
+        "citation": "Hall, J. A., Horgan, T. G., and Murphy, N. A. (2019). Nonverbal Communication. Annual Review of Psychology, 70, 271 to 294 (abstract; section headings on the Brunswik lens model and measuring interpersonal accuracy).",
+        "underlying_research": "Brunswik lens model of cue use and cue validity. Hall, Back, Nestler, Frauendorfer, Schmid Mast and Ruben (2018), Journal of Personality 86(2), 220 to 232: accuracies for judging different Big Five traits correlated only weakly with each other, suggesting distinct abilities. The 7 percent rule traces to Albert Mehrabian's 1960s studies of single words and inconsistent feeling messages, which were never meant as a general rule; this point is widely noted in the field and is not attributed to the Hall review here.",
+        "urls": [
+          "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30256720&rettype=abstract&retmode=text",
+          "https://scholars.lmu.edu/en/publications/nonverbal-communication/",
+          "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=28192851&rettype=abstract&retmode=text"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The underlying picture (cues are probabilistic, accuracy is above chance but modest and varies by person and domain) is a long-standing consensus in nonverbal research and is consistent with the Bond and DePaulo deception meta-analysis. Rated Medium rather than High only because the full review text could not be read, so specific claims are drawn from its abstract, headings and a related paper by the same lead author.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "how-to-know-a-person-14",
+      "relation": "supports",
+      "note": "Gives a research anchor for the claim that people read others less accurately than they believe: nonverbal decoding is above chance but modest and varies across people and across what is judged."
+    },
+    {
+      "insight_id": "communicate-with-mastery-17",
+      "relation": "qualifies",
+      "note": "The lens-model view that cues carry meaning only probabilistically and in context undercuts any fixed split of meaning between words, voice and body, such as the misapplied Mehrabian 7 percent rule that the book's index references."
+    },
+    {
+      "insight_id": "supercommunicators-09",
+      "relation": "qualifies",
+      "note": "Reading mood and energy is reasonable, but nonverbal research shows such reads are modestly accurate, so matching should be paired with checking rather than treated as sure."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30256720&rettype=abstract&retmode=text",
+      "https://scholars.lmu.edu/en/publications/nonverbal-communication/",
+      "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=28192851&rettype=abstract&retmode=text"
+    ],
+    "still_unverified": [
+      "Full text of the Hall, Horgan and Murphy review was not accessible; specific statements inside it (for example on encoding versus decoding correlations, or on the Mehrabian rule) were not confirmed.",
+      "Whether the review itself discusses the Mehrabian misapplication."
+    ]
+  },
+  "research_notes": "Read the PubMed abstract (via E-utilities), the LMU scholars record, and search-result descriptions of the section headings (Brunswik lens model, measuring interpersonal accuracy, general conclusions). Annual Reviews returned a bot check; a Scribd copy surfaced in search and was not used. Added the Hall et al. (2018) Journal of Personality abstract as supporting evidence for domain-specific accuracy."
+}

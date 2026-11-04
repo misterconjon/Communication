@@ -1,0 +1,103 @@
+{
+  "book": {
+    "book_id": "boothby-2018",
+    "title": "The Liking Gap in Conversations: Do People Like Us More Than We Think?",
+    "subtitle": "",
+    "authors": [
+      "Erica J. Boothby",
+      "Gus Cooney",
+      "Gillian M. Sandstrom",
+      "Margaret S. Clark"
+    ],
+    "year": 2018,
+    "publisher": "SAGE, Psychological Science 29(11), 1742 to 1756",
+    "edition": "Accepted manuscript read via University of Essex repository",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Peer-reviewed in Psychological Science. Clark (Yale) is a senior relationships researcher; Sandstrom leads research on talking to strangers; Boothby and Cooney study conversation. Data posted on the Open Science Framework. A different lab from the Epley group behind several existing miscalibration insights.",
+    "evidence_base": "Five studies: lab conversations between strangers (with video coded by outside observers), a study of the thoughts people had after talking, conversations of varying length up to 45 minutes, a personal development workshop with members of the public, and first-year college suitemates surveyed five times over an academic year. Effects concern perceptions; no intervention to close the gap was tested.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://repository.essex.ac.uk/23025/",
+        "note": "Open-access accepted manuscript, read in full."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "boothby-2018-01",
+      "name": "The Liking Gap: You Were Liked More Than You Think",
+      "skill_type": "mental model",
+      "explanation": "After talking with someone new, people reliably underestimate how much the other person liked them and enjoyed the conversation. Boothby and colleagues found this gap between strangers in the lab, in short and long conversations, among members of the public at a workshop, and among new college suitemates, where it lasted for several months before closing near the end of the year. Outside observers who watched the videos could see the partners' signs of liking, so the signals were there; people simply discounted them. The cause traced to self-focused, overly critical replaying of one's own performance: people's thoughts about how they came across were more negative than their thoughts about the other person. Shyer people showed a larger gap. The practical takeaway is to correct your gut read after a first conversation upward, and not let a sense that it went badly stop you from following up, suggesting a coffee, or talking to that person again. The limits: the research measures beliefs, not what happens when people act on them, and it does not test a method for closing the gap.",
+      "when_to_use": "After a networking event, interview, first meeting with a new colleague, first date or meeting another parent at school, when you catch yourself deciding it went badly and that you should not follow up.",
+      "worked_example": "A new hire has lunch with a teammate from another department and spends the afternoon replaying a rambling story she told and a joke that got only a small laugh. Her instinct is to keep her distance. Remembering the liking gap, she assumes the teammate probably enjoyed it more than she thinks, and the next week she sends a quick note inviting him to the team's Thursday coffee. He says yes and mentions he had been meaning to ask her about her old job. In a personal setting, a parent who chatted awkwardly with another parent at pickup can still suggest a weekend playdate.",
+      "common_mistakes": [
+        "Treating your own replay of awkward moments as evidence of how the other person felt",
+        "Waiting for unmistakable proof of liking before following up",
+        "Assuming the other person noticed your nervousness as much as you felt it",
+        "Overcorrecting into assuming everyone loved you and ignoring clear signs of disinterest"
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "introductions"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "small-talk"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        }
+      ],
+      "situations": [
+        "Following up after a networking event",
+        "Getting to know a new colleague",
+        "Making friends as an adult",
+        "After a first date"
+      ],
+      "source": {
+        "citation": "Boothby, Cooney, Sandstrom and Clark (2018), The Liking Gap in Conversations, Psychological Science 29(11), 1742 to 1756, Studies 1 to 5 and Discussion",
+        "underlying_research": "Study 1a (lab dyads, about five minutes); Study 1b (outside observers rated liking from videos and could predict actual liking); Study 2 (negative thoughts about one's own performance mediated the gap); Study 3 (conversations from 1 to 45 minutes); Study 4 (personal development workshops with members of the public); Study 5 (suitemates surveyed five times in a year; gap at the first four time points, not the last; an accuracy incentive did not change estimates). Shyness moderated the gap in Study 1a.",
+        "urls": [
+          "https://repository.essex.ac.uk/23025/",
+          "https://doi.org/10.1177/0956797618783714"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Five studies across lab and field samples, an observer study that rules out the idea that no liking signals were sent, a longitudinal study, open data and later extensions by other teams. It concerns perceptions only; the advice to follow up is a direct inference rather than a tested intervention.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "how-to-know-a-person-04",
+      "relation": "supports",
+      "note": "Another member of the conversational-pessimism family from an independent lab: in the workshop study, people predicted conversations with strangers would be less interesting than they turned out to be, and people consistently underrated how much partners liked them."
+    },
+    {
+      "insight_id": "think-faster-talk-smarter-04",
+      "relation": "supports",
+      "note": "The liking gap was driven by harsh judgment of one's own conversational performance against an ideal the listener cannot see, which supports the advice to aim for connection rather than a perfect performance."
+    }
+  ],
+  "research_notes": "Read the open-access accepted manuscript from the University of Essex repository in full, including methods, results for all five studies and the discussion. Study 4 used a UK general-public sample; no cross-cultural claims are made.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://repository.essex.ac.uk/23025/1/The%20Liking%20Gap%20in%20Conversations.pdf",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1177/0956797618783714"
+    ],
+    "still_unverified": []
+  }
+}

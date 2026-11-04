@@ -1,0 +1,85 @@
+{
+  "book": {
+    "book_id": "givi-kirk-2024",
+    "title": "Saying No: The Negative Ramifications From Invitation Declines Are Less Severe Than We Think",
+    "subtitle": "",
+    "authors": ["Julian Givi", "Colleen P. Kirk"],
+    "year": 2024,
+    "publisher": "Journal of Personality and Social Psychology 126(6), 1103-1115 (American Psychological Association); online December 2023",
+    "edition": "",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Givi (West Virginia University) and Kirk (New York Institute of Technology) are consumer and social psychologists who study gift giving and social decisions. Published in a top social psychology journal. Givi has said the study was prompted by his own reluctant wedding attendance.",
+    "evidence_base": "A pilot survey plus five experiments with more than 2,000 participants in total, mixing hypothetical scenarios (including an observer condition and a named real friend) with a study of real couples who wrote and declined invitations to each other. The decline reason was held constant (wanting to stay home and relax).",
+    "legal_access": [
+      {"type": "summary", "url": "https://www.sciencedaily.com/releases/2023/12/231211114524.htm", "note": "APA press release reproduced on ScienceDaily, with study details and author quotes."},
+      {"type": "interview", "url": "https://psypost.org/new-psychology-study-reveals-we-overestimate-the-consequences-of-declining-social-invitations", "note": "PsyPost write-up with study-by-study design, limitations, and author comments."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "givi-kirk-2024-01",
+      "name": "Declines Sting Less Than You Fear",
+      "skill_type": "mental model",
+      "explanation": "People often accept invitations they do not want because they expect a no to hurt or anger the inviter; in a pilot survey, 77 percent admitted doing so. Across five experiments, people who declined consistently overestimated how disappointed and angry the inviter would be, how much the relationship would suffer, and how much less likely they would be to get invited again. The gap held even between long-term romantic partners and even when the stated reason was simply wanting a quiet night at home. The reason for the gap: decliners assume the inviter will focus on the refusal itself, while inviters actually think about the reasons and circumstances behind it. The takeaway is that an occasional, considerate no to a casual invitation is low risk and can protect your time and energy. Limits: the studies covered casual social plans with friends and partners, not weddings, milestone events, or requests from a boss, and the lead author cautions that declining repeatedly can make people stop asking.",
+      "when_to_use": "When you are about to say yes to a social plan purely out of fear of how a no will land, especially when you are stretched thin.",
+      "worked_example": "A product manager is invited by a peer to Thursday drinks during a launch week when she is exhausted. Her instinct is to go so the peer does not feel snubbed. Remembering that inviters are more understanding than decliners expect, she replies that she is running on empty this week, thanks him for including her, and suggests coffee the following Tuesday. He replies that he understands and books the coffee. In her personal life, she tells her sister she will skip a Saturday brunch to rest, and does not spend the weekend worrying about it.",
+      "common_mistakes": [
+        "Saying yes to everything to avoid an imagined fallout, then resenting it",
+        "Swinging to the other extreme and declining nearly every invitation",
+        "Assuming the finding covers high-stakes events or requests from someone with power over you",
+        "Over-explaining or apologizing at length, which makes a small no feel large"
+      ],
+      "steps": [
+        "Notice when you are about to accept mainly out of fear of the other person's reaction",
+        "Remind yourself that people who decline tend to overestimate the inviter's upset",
+        "Decline briefly and warmly, with thanks for being included",
+        "If you value the relationship, propose another time or way to connect",
+        "Keep track so occasional declines do not become a pattern"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "saying-no"},
+        {"category": "difficult", "subcategory": "boundaries"},
+        {"category": "personal-life", "subcategory": "friendships"}
+      ],
+      "situations": [
+        "Turning down after-work drinks during a busy week",
+        "Skipping a friend's casual gathering to rest",
+        "Declining a partner's suggestion for a night out",
+        "Avoiding holiday-season overcommitment"
+      ],
+      "source": {
+        "citation": "Givi and Kirk, Saying No: The Negative Ramifications From Invitation Declines Are Less Severe Than We Think, Journal of Personality and Social Psychology 126(6), 1103-1115 (2024)",
+        "underlying_research": "Pilot survey plus five experiments (more than 2,000 participants), including a study of real couples; mechanism tested by mediation (decliners overweight the act of declining versus the deliberation behind it).",
+        "urls": [
+          "https://doi.org/10.1037/pspi0000443",
+          "https://www.sciencedaily.com/releases/2023/12/231211114524.htm",
+          "https://psypost.org/new-psychology-study-reveals-we-overestimate-the-consequences-of-declining-social-invitations"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Five consistent experiments in a top journal, including real couples, and the result fits the well-replicated family of social miscalibration findings. Not yet independently replicated, limited to casual invitations with one fixed reason, and outcomes were self-reported feelings rather than later behavior.",
+      "flags": ["unreplicated"]
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "connect-13", "relation": "supports", "note": "Gives research backing to the warning against assuming a boundary will damage the relationship: across five experiments, people who declined invitations overestimated the inviter's upset and the harm to the relationship, even among long-term couples."},
+    {"insight_id": "talk-wood-brooks-10", "relation": "supports", "note": "Extends the miscalibration pattern behind holding back compliments to refusals: here people overestimate the social cost of saying no, as they overestimate the awkwardness of saying something kind."}
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.sciencedaily.com/releases/2023/12/231211114524.htm",
+      "https://psypost.org/new-psychology-study-reveals-we-overestimate-the-consequences-of-declining-social-invitations",
+      "https://api.crossref.org/works/10.1037/pspi0000443"
+    ],
+    "still_unverified": [
+      "Full text not read (APA paywall; APA press release page blocked by a bot check, read via ScienceDaily reproduction).",
+      "Couples study size differs between sources: the APA release says 160 people were recruited, PsyPost says 208 couples.",
+      "Whether the studies were preregistered was not confirmed.",
+      "Effect sizes were not available."
+    ]
+  },
+  "research_notes": "The candidate assessment described the studies as preregistered-style; this could not be confirmed and is not claimed here. The limitation about larger events and the fixed decline reason comes from the PsyPost write-up; the warning against declining every invitation comes from Givi's quotes in both the APA release and PsyPost."
+}

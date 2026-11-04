@@ -1,0 +1,112 @@
+{
+  "book": {
+    "book_id": "liu-2023",
+    "title": "The Surprise of Reaching Out: Appreciated More Than We Think",
+    "subtitle": "",
+    "authors": [
+      "Peggy J. Liu",
+      "SoYon Rim",
+      "Lauren Min",
+      "Kate E. Min"
+    ],
+    "year": 2023,
+    "publisher": "American Psychological Association, Journal of Personality and Social Psychology 124(4), 754 to 771 (online 2022)",
+    "edition": "",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Peer-reviewed in a top social psychology journal; lead author Peggy Liu is a marketing and consumer psychology professor at the University of Pittsburgh. Preregistered experiments; a single team so far.",
+    "evidence_base": "A package of 13 preregistered experiments with more than 5,900 participants (undergraduate and online adult samples), including three field experiments in which people actually sent a short note, or a note and a small gift, to someone in their social circle they had not interacted with in a while, and the recipients rated their appreciation. Relies on self-reported appreciation and short-term outcomes.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://www.sciencedaily.com/releases/2022/07/220711095206.htm",
+        "note": "APA press release as republished by ScienceDaily, read in full."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.psypost.org/study-identifies-a-robust-tendency-to-underestimate-how-much-others-appreciate-being-reached-out-to",
+        "note": "PsyPost article with author quotes, read in full (study count, field experiments, limits)."
+      },
+      {
+        "type": "summary",
+        "url": "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1037/pspi0000402",
+        "note": "Official abstract."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "liu-2023-01",
+      "name": "Reach Out Just Because",
+      "skill_type": "technique",
+      "explanation": "People hesitate to send a quick hello to someone they have lost touch with, worried it will seem odd or unwelcome. Across 13 experiments, including field studies where people really sent a short note or small gift to someone in their circle they had not talked to in a while, senders consistently underestimated how much recipients appreciated it. Recipients focused on the pleasant surprise of being thought of, and that surprise drove their appreciation, so the gap was largest exactly when senders feel most awkward: when the contact comes out of the blue rather than as part of a regular pattern, and when the tie is weaker (more socially distant). The practical takeaway is that a brief, unprompted check-in to a former colleague, old friend or acquaintance needs no special reason and is likely to land better than you expect. The limits: the studies covered relationships with a positive history, not people you fell out with; appreciation was self-reported and short-term; and the research is from one team so far.",
+      "when_to_use": "When you think of a former coworker, classmate, mentor, old friend or past client you have drifted from and hesitate to message them without a reason.",
+      "worked_example": "An operations manager notices a former colleague just started a new role and hesitates because they have not spoken in two years. She sends three lines: congratulations, a memory of a project they shipped together, and a note that she would be glad to hear how the new team is. The colleague replies within an hour, says the message made her day, and suggests a call. In personal life, someone might text a college roommate a photo of the diner they used to go to, with no ask attached, after years of silence.",
+      "common_mistakes": [
+        "Waiting for a perfect reason or occasion before reaching out",
+        "Assuming that the longer the silence, the less welcome the message",
+        "Turning the check-in into a request, which changes it from a gift to an ask",
+        "Applying this to a relationship that ended badly, where the research does not apply"
+      ],
+      "steps": [
+        "Pick someone with whom you had positive history but have lost touch",
+        "Send a short message that shows you were thinking of them: a memory, a congratulations or a simple hello",
+        "Leave out any request so the contact reads as appreciation, not an ask",
+        "Let them choose whether to continue; a reply is a bonus, not the measure of success"
+      ],
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "introductions"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        }
+      ],
+      "situations": [
+        "Reconnecting with a former colleague",
+        "Keeping up a network between job searches",
+        "Reviving a lapsed friendship"
+      ],
+      "source": {
+        "citation": "Liu, Rim, Min and Min (2023), The Surprise of Reaching Out: Appreciated More Than We Think, Journal of Personality and Social Psychology 124(4), 754 to 771",
+        "underlying_research": "13 preregistered experiments, more than 5,900 participants, including three field experiments with real notes or small gifts and recipient ratings; underestimation larger in surprising contexts and between more socially distant people; recipients focused more on surprise, which predicted appreciation.",
+        "urls": [
+          "https://doi.org/10.1037/pspi0000402",
+          "https://www.sciencedaily.com/releases/2022/07/220711095206.htm",
+          "https://www.psypost.org/study-identifies-a-robust-tendency-to-underestimate-how-much-others-appreciate-being-reached-out-to"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Large preregistered package with field experiments and a consistent effect, published in a top journal, which puts it near the top of Medium. Held at Medium because it comes from a single team so far, uses self-reported appreciation, and does not cover strained relationships or longer-term outcomes.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "talk-wood-brooks-10",
+      "relation": "supports",
+      "note": "Same pattern from an independent team: people underestimate how much a small, warm gesture (here a check-in note or small gift to someone they had lost touch with) is appreciated, which keeps them from doing it."
+    }
+  ],
+  "research_notes": "The APA press release page and SSRN preprint were blocked (Incapsula and SSRN), so the paper itself was not read. Read: the official abstract (Semantic Scholar), the APA press release as republished by ScienceDaily, and PsyPost's article with author quotes. The weak-tie moderator in the paper concerns more socially distant people within one's circle, not specifically someone recently introduced.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1037/pspi0000402",
+      "https://www.sciencedaily.com/releases/2022/07/220711095206.htm",
+      "https://www.psypost.org/study-identifies-a-robust-tendency-to-underestimate-how-much-others-appreciate-being-reached-out-to"
+    ],
+    "still_unverified": [
+      "Effect sizes for the underestimation in individual experiments"
+    ]
+  }
+}

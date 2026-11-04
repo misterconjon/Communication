@@ -1,0 +1,96 @@
+{
+  "book": {
+    "book_id": "levin-dormant-ties-2011",
+    "title": "Dormant Ties: The Value of Reconnecting",
+    "subtitle": "",
+    "authors": [
+      "Daniel Z. Levin",
+      "Jorge Walter",
+      "J. Keith Murnighan"
+    ],
+    "year": 2011,
+    "publisher": "Organization Science, 22(4), 923 to 939",
+    "edition": "doi:10.1287/orsc.1100.0576",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Levin (Rutgers), Walter (George Washington University) and Murnighan (Kellogg, Northwestern; died 2016) are established organizational researchers; Organization Science is a top management journal. Follow-up: Walter, Levin and Murnighan (2015), Reconnection Choices, Organization Science 26(5).",
+    "evidence_base": "224 executives in four Executive MBA classes each reconnected with two people they had not contacted in at least three years (one formerly close, one formerly distant) and sought advice on a real, important work project, then rated the value against current ties. A second sample of 116 executives (95 completed) ranked their top 10 dormant contacts; a randomly chosen lower-ranked contact proved about as useful as the top choice. Outcomes are self-rated; reconnection was a course assignment.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://business.gwu.edu/sites/g/files/zaxdzs5326/files/15_FP.SP_Walter.J_15levin_2011a.pdf",
+        "note": "Author-distributed copy of the full article; read abstract, method, results, discussion, limitations and practical implications."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "levin-dormant-ties-2011-01",
+      "name": "Reconnect With Dormant Ties",
+      "skill_type": "technique",
+      "explanation": "People you have lost touch with for years are an underused source of help. When executives reached out to contacts they had not spoken to in three or more years for advice on a real work project, those conversations were efficient (quick to become useful, on par with current casual contacts) and produced more novel ideas than current contacts did, because the old contact had spent the intervening years meeting different people and solving different problems. Formerly close contacts kept most of their trust and shared understanding, so they combined the fresh perspective of an acquaintance with the candor of a friend. Formerly distant contacts were almost as useful. The pool also runs deep: a contact ranked tenth on someone's list was about as useful as their first choice. Executives were reluctant beforehand, which suggests many people underuse this option.",
+      "when_to_use": "Starting a new project or role, looking for a job or a fresh view on a stuck problem, entering a new field, or simply when your current circle keeps giving you the same answers.",
+      "worked_example": "A hospital operations director is redesigning patient intake and feels her current colleagues all think alike. She lists ten people she has not spoken to in years: a former classmate now in hotel operations, an old boss who moved to a clinic network, a vendor contact from a previous job. She calls two, explains the project in two sentences, and asks how they would approach it. The hotel contact suggests a pre-arrival checklist idea her team had never considered. In personal life, a man planning a move across the country messages a college roommate he has not talked to in six years who lives there; the call turns into a long catch-up and a list of neighborhoods to see.",
+      "common_mistakes": [
+        "Assuming the contact will find it odd or intrusive after years of silence, and never asking.",
+        "Only contacting the obvious first choice when many dormant ties could help.",
+        "Being purely transactional, or reconnecting only when you need something, again and again; the authors warn this can erode trust.",
+        "Sending a vague message instead of a short, specific question about a real problem."
+      ],
+      "steps": [
+        "Pick a concrete question or project you want input on.",
+        "List people you have not contacted in a few years, both formerly close and formerly distant, across past jobs, schools and communities.",
+        "Do not over-filter; lower-ranked names can be as useful as your top pick.",
+        "Reach out with a brief, warm note that names the shared history and the specific question; suggest a short call.",
+        "In the conversation, catch up briefly, then ask for their view and listen for what is new to you.",
+        "Close the loop afterward with thanks and what you did with the advice, and offer help in return."
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "professional",
+          "subcategory": "situations"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        }
+      ],
+      "situations": [
+        "Starting a new project",
+        "Job search",
+        "Moving to a new city",
+        "Stuck on a problem at work"
+      ],
+      "source": {
+        "citation": "Levin, D. Z., Walter, J., and Murnighan, J. K. (2011). Dormant Ties: The Value of Reconnecting. Organization Science, 22(4), 923 to 939 (results, robustness sample, discussion and practical implications).",
+        "underlying_research": "Granovetter (1973, 1992) on weak ties and on relationships resuming from prior shared understanding; Walter, Levin and Murnighan (2015), Reconnection Choices, Organization Science 26(5). Popularized in Marissa King, Social Chemistry (2021).",
+        "urls": [
+          "https://business.gwu.edu/sites/g/files/zaxdzs5326/files/15_FP.SP_Walter.J_15levin_2011a.pdf",
+          "https://nextbigideaclub.com/magazine/social-chemistry-decoding-patterns-human-connection-bookbite/25792/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Real reconnections on real work problems, with a robustness sample and a follow-up paper by the same authors. Limits: executive MBA participants, a course requirement prompted the outreach, value was self-rated (possibly inflated by low expectations), and independent replication is limited.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://business.gwu.edu/sites/g/files/zaxdzs5326/files/15_FP.SP_Walter.J_15levin_2011a.pdf",
+      "https://nextbigideaclub.com/magazine/social-chemistry-decoding-patterns-human-connection-bookbite/25792/"
+    ],
+    "still_unverified": [
+      "Results of the 2015 follow-up paper (Reconnection Choices) were not read."
+    ]
+  },
+  "research_notes": "Read the full article. Overlaps in spirit with Liu et al. (2023) on reaching out being appreciated more than expected (assigned to another agent), but this source is about the advice value of reconnecting rather than the recipient's appreciation."
+}

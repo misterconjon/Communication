@@ -1,0 +1,197 @@
+{
+  "book": {
+    "book_id": "king-social-chemistry",
+    "title": "Social Chemistry",
+    "subtitle": "Decoding the Patterns of Human Connection",
+    "authors": [
+      "Marissa King"
+    ],
+    "year": 2021,
+    "publisher": "Dutton (Penguin Random House)",
+    "edition": "US hardcover; publisher sell sheet lists ISBN 9781524743802 (release dated 2020 in some listings, 2021 in others)",
+    "isbn": "9781524743802",
+    "source_type": "book",
+    "core": false,
+    "author_credibility": "Professor of Organizational Behavior at the Yale School of Management, where she teaches Managing Strategic Networks, and a publishing network researcher. The book is written for a general audience and draws on her own and others' peer-reviewed network research.",
+    "evidence_base": "Peer-reviewed network science (brokerage and structural holes, closure, weak and dormant ties) plus the author's own studies, packaged with celebrity profiles and anecdotes. The three network styles (expansionist, broker, convener) are a heuristic, not validated types; a review by psychologist Davood Gozli notes the book says they are not personality types but mostly treats them as such, and that research is presented somewhat uncritically.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://nextbigideaclub.com/magazine/social-chemistry-decoding-patterns-human-connection-bookbite/25792/",
+        "note": "Author's own five key insights summary."
+      },
+      {
+        "type": "summary",
+        "url": "https://admiredleadership.com/?p=6329",
+        "note": "Book summary with page-cited quotes."
+      },
+      {
+        "type": "interview",
+        "url": "https://coachingforleaders.com/podcast/strengthen-your-network-marissa-king/",
+        "note": "Coaching for Leaders episode 525 show notes."
+      },
+      {
+        "type": "summary",
+        "url": "https://openlettersreview.com/posts/social-chemistry-by-marissa-king",
+        "note": "Critical review by Davood Gozli."
+      },
+      {
+        "type": "publisher preview",
+        "url": "https://prhinternationalsales.com/wp-content/uploads/2020/05/PG_Social-Chemistry_Sell-Sheet.pdf",
+        "note": "Publisher sell sheet."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "king-social-chemistry-01",
+      "name": "Shape Over Size: Know Your Network Style",
+      "skill_type": "framework",
+      "explanation": "King argues that how your contacts connect to one another matters more than how many you have. She describes three tendencies. Expansionists have very large, visible networks and work a room easily, but their ties can be shallow. Brokers bridge groups that do not otherwise talk, which gives them early access to varied ideas and opportunities, and the research she draws on links brokerage to better ideas and pay. Conveners build tight circles where their friends know each other, which brings deep trust, reputation and support, but also more of the same information. No style is best; different stages of life and work call for different mixes. She also suggests that most people get more from strengthening and reusing the network they already have than from adding new names.",
+      "when_to_use": "When planning a career move, feeling stuck creatively, feeling lonely despite many contacts, or deciding where to spend limited social time.",
+      "worked_example": "A marketing manager realizes all her close contacts are on the same team and know each other (a convener pattern): plenty of support, but every idea sounds familiar. She joins a cross-functional pricing project and a local nonprofit board, and introduces two acquaintances from different worlds who should know each other, building some brokerage. A newly retired engineer with hundreds of loose professional acquaintances and few close friends sees the opposite gap and starts a monthly dinner with four of them, adding convener-style depth.",
+      "common_mistakes": [
+        "Treating the three styles as fixed personality types or labels for other people.",
+        "Chasing network size as the goal.",
+        "Assuming brokerage is always better; it can cost trust and closeness.",
+        "Neglecting existing ties while hunting for new ones."
+      ],
+      "steps": [
+        "Sketch your network: list about 20 people you talk to most and mark which of them know each other.",
+        "Notice the shape: one dense cluster (convener), several separate groups (broker), or many loosely held contacts (expansionist).",
+        "Name what you need now: new ideas and opportunities, deeper trust and support, or more reach.",
+        "Adjust deliberately: join a group outside your cluster or connect two people from different worlds for novelty; deepen a few ties and introduce your friends to each other for trust.",
+        "Revisit when your role or life stage changes."
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        },
+        {
+          "category": "professional",
+          "subcategory": "situations"
+        }
+      ],
+      "situations": [
+        "Career planning",
+        "Feeling creatively stuck",
+        "Loneliness despite many contacts",
+        "Building a new life after a move or retirement"
+      ],
+      "source": {
+        "citation": "Marissa King, Social Chemistry (2021), early chapters on the three network styles (conveners, brokers and expansionists; for example pp. 11, 39, 99, 105, 164 as cited in a summary).",
+        "underlying_research": "Ronald Burt's research on structural holes and brokerage (for example Burt, 2004, Structural Holes and Good Ideas, American Journal of Sociology) and James Coleman on network closure, as the general basis for the broker and convener trade-offs. Specific studies cited in each chapter were not verified.",
+        "urls": [
+          "https://nextbigideaclub.com/magazine/social-chemistry-decoding-patterns-human-connection-bookbite/25792/",
+          "https://openlettersreview.com/posts/social-chemistry-by-marissa-king",
+          "https://coachingforleaders.com/podcast/strengthen-your-network-marissa-king/",
+          "https://admiredleadership.com/?p=6329",
+          "https://prhinternationalsales.com/wp-content/uploads/2020/05/PG_Social-Chemistry_Sell-Sheet.pdf",
+          "https://siliconguild.com/2020/04/26/social-chemistry/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The underlying trade-off between brokerage (novelty) and closure (trust) is well established in network research. The three-style typology is the author's heuristic, not a validated classification, and a reviewer criticizes treating it as personality types. Content was confirmed through the author's own summary, an interview and a page-cited summary rather than the full book.",
+      "flags": [
+        "contested"
+      ]
+    },
+    {
+      "id": "king-social-chemistry-02",
+      "name": "Network to Give, Not to Get",
+      "skill_type": "technique",
+      "explanation": "Many people avoid networking because deliberately building ties for advantage feels manipulative, even morally dirty. King cites research showing that people do report feeling this way when they picture instrumental networking, and recommends reframing: walk into an interaction thinking about what you can offer (an introduction, an idea, help, appreciation) rather than what you can extract, and anchor it in genuine shared interests. She pairs this with a confidence point: people who see social skill as fixed avoid relationship building, while reminding yourself that social skill can be learned makes it easier to show up. For starting, she suggests either doing something generous for someone in your network or asking for help with something small, since people tend to underestimate others' willingness to help.",
+      "when_to_use": "Before a conference, mixer or industry event you are dreading; when reaching out to someone senior; whenever networking feels fake or self-serving.",
+      "worked_example": "A shy accountant dreads a professional association mixer. Instead of thinking about leads, she goes in with two offers: an article she found useful on a new lease standard, and willingness to introduce people to her firm's tax partner. She spots a group of three where one person is standing at the edge and joins him first. The conversation is easier because she has something to give, and she leaves with two follow-ups. In personal life, a new parent who feels awkward joining a neighborhood group starts by offering to organize a stroller walk rather than asking for babysitter recommendations.",
+      "common_mistakes": [
+        "Treating giving as a disguised tactic; people notice transactional generosity.",
+        "Assuming you have nothing to offer; attention, thanks and introductions count.",
+        "Writing yourself off as 'not a people person' instead of treating it as a learnable skill.",
+        "Avoiding small asks; reasonable requests often strengthen ties."
+      ],
+      "steps": [
+        "Before the interaction, list two or three things you could offer: information, an introduction, help, sincere appreciation.",
+        "Look for shared interests to anchor the conversation.",
+        "Remind yourself that social skill improves with practice.",
+        "Offer something early, without keeping score.",
+        "Follow up on what you offered, and feel free to make one small, specific ask."
+      ],
+      "categories": [
+        {
+          "category": "relationships",
+          "subcategory": "networking"
+        },
+        {
+          "category": "influence",
+          "subcategory": "reciprocity"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
+      ],
+      "situations": [
+        "Industry mixer or conference",
+        "Reaching out to a senior contact",
+        "Joining a new community",
+        "Re-engaging a quiet network"
+      ],
+      "source": {
+        "citation": "Marissa King, Social Chemistry (2021), chapter on the barriers to networking, as summarized by the author (Next Big Idea Club) and in the Coaching for Leaders interview.",
+        "underlying_research": "Casciaro, Gino and Kouchaki (2014), The Contaminating Effects of Building Instrumental Ties, Administrative Science Quarterly 59(4), the likely source of the feeling-dirty finding (not confirmed as cited by name). Integrity note: Francesca Gino is a coauthor; she has been the subject of data-fabrication findings on other papers, and this paper is kept with that caveat. The fixed versus learnable social skill point likely draws on Kuwabara, Hildebrand and Zou (2018), Lay Theories of Networking, Academy of Management Review (not confirmed).",
+        "urls": [
+          "https://nextbigideaclub.com/magazine/social-chemistry-decoding-patterns-human-connection-bookbite/25792/",
+          "https://openlettersreview.com/posts/social-chemistry-by-marissa-king",
+          "https://coachingforleaders.com/podcast/strengthen-your-network-marissa-king/",
+          "https://admiredleadership.com/?p=6329",
+          "https://prhinternationalsales.com/wp-content/uploads/2020/05/PG_Social-Chemistry_Sell-Sheet.pdf",
+          "https://siliconguild.com/2020/04/26/social-chemistry/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Confirmed in the author's own summary. The reframing advice is sensible and consistent with research on instrumental networking discomfort and on prosocial framing, but the key supporting study is Gino-coauthored, and the effect of a give-first framing on actual networking outcomes is thinly tested.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "levin-dormant-ties-2011-01",
+      "relation": "supports",
+      "note": "King presents reconnecting with dormant ties as the key way to get more from an existing network, citing the Levin study's finding that dormant-tie advice was more valuable and more surprising."
+    },
+    {
+      "insight_id": "bond-depaulo-2006-02",
+      "relation": "supports",
+      "note": "King reports that relationships are maintained better through voice calls than video, which she says adds distraction, consistent with voice-only research on empathic accuracy."
+    },
+    {
+      "insight_id": "hall-nonverbal-2019-01",
+      "relation": "supports",
+      "note": "Per a review of the book, King notes researchers have found no single body or voice cue that reliably signals trustworthiness."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://nextbigideaclub.com/magazine/social-chemistry-decoding-patterns-human-connection-bookbite/25792/",
+      "https://openlettersreview.com/posts/social-chemistry-by-marissa-king",
+      "https://coachingforleaders.com/podcast/strengthen-your-network-marissa-king/",
+      "https://admiredleadership.com/?p=6329",
+      "https://prhinternationalsales.com/wp-content/uploads/2020/05/PG_Social-Chemistry_Sell-Sheet.pdf",
+      "https://siliconguild.com/2020/04/26/social-chemistry/"
+    ],
+    "still_unverified": [
+      "Full book not read; content confirmed through the author's own summary, an interview's show notes, a page-cited summary, a critical review and the publisher sell sheet.",
+      "Whether the book cites Casciaro, Gino and Kouchaki (2014) and Kuwabara et al. (2018) by name.",
+      "King's claim that networks shrank by 17 percent during the pandemic (her own study) was not used in insights."
+    ]
+  },
+  "research_notes": "Porchlight and Arab News pages did not yield substantive content. The odd-number-group tip at mixers (join a group of three to pair with the person on the edge) appears in the author's summary; it is used only in a worked example because it is an untested heuristic. King's point that people underestimate how likable they are overlaps with Boothby et al. (2018), assigned to another agent."
+}

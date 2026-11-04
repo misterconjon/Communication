@@ -76,7 +76,7 @@
       "confidence": "Medium",
       "confidence_rationale": "A proper meta-analysis across many samples, but of correlational, largely self-report studies with modest associations, so the direction of cause is unknown. The advice to favor self-directed coping humor over humor aimed at others is the authors' practical inference, not a tested intervention. The exact effect sizes were not read in the original.",
       "flags": [
-        "unreplicated"
+        "none"
       ]
     }
   ],
