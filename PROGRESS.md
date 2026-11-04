@@ -6,8 +6,8 @@ Last updated: 2026-11-04
 | Stage | Status |
 |---|---|
 | 0. Taxonomy co-design (Checkpoint 1) | Complete: taxonomy locked 2026-11-04 |
-| 1. Book deep-dives (Checkpoint 2) | Approved 2026-11-04. Verification pass (1b) running against primary sources |
-| 2. Cross-book synthesis | Not started |
+| 1. Book deep-dives (Checkpoint 2) | Approved; verification pass (1b) complete: 137 insights (6 High, 113 Medium, 18 Low) |
+| 2. Cross-book synthesis | In progress |
 | 3. Expansion research (Checkpoint 3) | Not started |
 | 4. Interactive artifact (Checkpoint 4) | Not started |
 | 5. Word guide (Checkpoint 5) | Not started |
@@ -45,10 +45,16 @@ Last updated: 2026-11-04
 - Source limitation: network policy blocked all page fetches; agents worked from search snippets and summaries. Studies not confirmed as cited by the book are labeled in each file.
 - Integrity note: two Talk-related papers (Huang et al. 2017, Yeomans et al. 2020) list Francesca Gino as coauthor; no allegation against Brooks found.
 
+## Stage 1b verification
+- Agents read publisher extracts, author companions, workbooks and paper abstracts via curl (WebFetch tool cannot resolve hosts).
+- 20 insights added, none removed, no downgrades; 2 upgrades (TFTS toast, Humor leaders) with stated reasons.
+- Remaining gaps: async (0), reciprocity (1), saying no (1), virtual presenting (1), introductions (2), proposals and memos (2).
+- Think Faster, Talk Smarter insight 16 (CLEAR conflict framework) comes from an updated edition announced Oct 2026.
+
 ## Open questions / blockers
 - fivebooks.com blocked by network policy; user supplied the list directly.
 - GitHub repo: misterconjon/communication (connected).
 - Network access opened by user 2026-11-04; Fivebooks list confirmed to match.
 
 ## Next steps
-- On approval: run Stage 2 cross-book synthesis, then Stage 3 expansion research targeting the gaps above.
+- Finish Stage 2 synthesis (docs/stage2-synthesis.md, data/learning-path.json), then Stage 3 expansion research targeting gaps, then Checkpoint 3.
