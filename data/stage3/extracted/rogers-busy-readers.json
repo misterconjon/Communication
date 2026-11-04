@@ -1,0 +1,384 @@
+{
+  "book": {
+    "book_id": "rogers-busy-readers",
+    "title": "Writing for Busy Readers",
+    "subtitle": "Communicate More Effectively in the Real World",
+    "authors": [
+      "Todd Rogers",
+      "Jessica Lasky-Fink"
+    ],
+    "year": 2023,
+    "publisher": "Dutton (Penguin Random House)",
+    "edition": "First US edition, 2023. An Australian/UK edition (Scribe) words the six principles slightly differently.",
+    "isbn": "9780593187487",
+    "source_type": "book",
+    "core": false,
+    "author_credibility": "Rogers is a behavioral scientist and professor of public policy at the Harvard Kennedy School who has run field experiments on communication and behavior change for about 25 years; he co-founded the Analyst Institute and EveryDay Labs. Lasky-Fink is research director of The People Lab at Harvard Kennedy School. Both run and publish randomized trials. Possible bias: EveryDay Labs sells optimized family communications, and the authors naturally foreground their own trials.",
+    "evidence_base": "The authors' own randomized field experiments (emails, letters, texts, newsletters sent to thousands of real recipients), eye-tracking and reading research, and surveys of how readers interpret formatting. Most trials measure response, click, or attendance rates on practical requests, often from organizations to the public, rather than internal workplace correspondence.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20PDFs/Write%20shorter%20messages.pdf",
+        "note": "Rogers and Lasky-Fink op-ed 'Write shorter messages' (Boston Globe, Dec 2020), read in full: 7,002-recipient email test, truancy-letter test, split-text test."
+      },
+      {
+        "type": "publisher preview",
+        "url": "https://penguinrandomhousehighereducation.com/2023/09/20/writing-for-busy-readers-excerpt/",
+        "note": "Penguin Random House excerpt of the introduction, read in full: what effective writing is, how they test it."
+      },
+      {
+        "type": "interview",
+        "url": "https://news.harvard.edu/gazette/story/2023/10/tips-on-how-to-connect-with-people-who-dont-have-time-to-read",
+        "note": "Harvard Gazette interview with Rogers, read in full: less is more, structure, formatting tradeoffs."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://nextbigideaclub.com/magazine/writing-busy-readers-communicate-effectively-real-world-bookbite/45483/",
+        "note": "Next Big Idea Club BookBite by the authors, read in full: skimming, headings test on 46,648 subscribers, plain words."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.artofmanliness.com/finance/career/podcast-1049-the-6-principles-for-writing-messages-people-wont-swipe-away/",
+        "note": "Art of Manliness podcast #1049 transcript, read: four reader decisions, all six principles, Rock the Vote subject line, fewer requests, yes/no questions."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "rogers-busy-readers-01",
+      "name": "Four Reader Decisions: Engage, When, How Deeply, Respond",
+      "skill_type": "mental model",
+      "explanation": "Rogers and Lasky-Fink describe a busy reader as making four quick decisions about any message: whether to engage with it at all, when to engage (now or later, which often means never), how deeply to read once they start, and whether to respond. Each decision is driven by how much effort the message looks like it will take. A long block of text, an unclear purpose, or a request that seems to need research pushes the reader to skip it, defer it, skim it until they give up, or not reply. The authors' framing is that readers give your message a small, roughly fixed budget of attention, so the writer's job is to make the important content retrievable within that budget. The burden sits with the writer, not the reader: if the point is missed, the message failed.",
+      "when_to_use": "Before sending any practical message that needs to be read or acted on: a request to a colleague, a note to a client, an announcement to a team channel, a text to a family group about logistics.",
+      "worked_example": "A program manager needs three teams to confirm their launch dates by Thursday. Her first draft opens with two paragraphs of project history. Running the four decisions, she realizes a skimming lead will see history, decide it can wait, and never reach the ask. She rewrites: subject line 'Confirm launch date by Thu', first line states the request, one bullet per team with its current date, and a closing line that a one-word 'confirmed' reply is enough. At home she applies the same test to a group text about a family reunion, putting the date and the one thing she needs from each person in the first message.",
+      "common_mistakes": [
+        "Assuming people will read the whole message because you wrote it carefully",
+        "Blaming readers for missing the point instead of revising the message",
+        "Making the message look effortful (long, dense, vague ask), which triggers 'later'",
+        "Treating 'read' as the goal when the real goal is a response or action"
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "async"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        }
+      ],
+      "situations": [
+        "Sending a request to a busy colleague",
+        "Posting an announcement in a team channel",
+        "Emailing a client who gets hundreds of messages",
+        "Coordinating family logistics by text"
+      ],
+      "source": {
+        "citation": "Todd Rogers and Jessica Lasky-Fink, Writing for Busy Readers (Dutton, 2023), introduction and early chapters on how busy readers read; described by Rogers in Art of Manliness podcast #1049",
+        "underlying_research": "Eye-tracking research showing readers dart around and skip text, plus the authors' field experiments in which harder-to-read messages got fewer responses. The four-decision sequence is the authors' synthesis rather than a single tested model.",
+        "urls": [
+          "https://www.artofmanliness.com/finance/career/podcast-1049-the-6-principles-for-writing-messages-people-wont-swipe-away/",
+          "https://news.harvard.edu/gazette/story/2023/10/tips-on-how-to-connect-with-people-who-dont-have-time-to-read",
+          "https://nextbigideaclub.com/magazine/writing-busy-readers-communicate-effectively-real-world-bookbite/45483/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The components (people skim, effortful-looking messages get fewer responses) are well supported by the authors' trials and reading research, but the four-stage model itself is an organizing framework, not something tested as a whole. Rated Medium.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "rogers-busy-readers-02",
+      "name": "Cut Ideas, Not Just Words (Your Instinct Favors Too Long)",
+      "skill_type": "technique",
+      "explanation": "Each added sentence, idea, or request lowers the chance that a busy reader reads, understands, and acts on the main one. In the authors' best-known test, 7,002 school district leaders were emailed a survey request: 4.8 percent clicked through on a 49-word version versus 2.7 percent on a 127-word version that added appreciative, well-written sentences, an increase of about 80 percent. When 148 other people were asked to predict the winner, 67 percent picked the longer email. The lesson is twofold: cutting works, and your intuition about what will work is biased toward more. The hard part is cutting only-somewhat-useful ideas, not just filler words. Detail does not have to disappear: move it below the sign-off, into an attachment, a link, or an appendix, so the core stays the core.",
+      "when_to_use": "Any practical message with a purpose: requests, updates, invitations, announcements, proposals. Especially when you feel the urge to add context, caveats, or thanks 'to be safe'.",
+      "worked_example": "An engineering lead drafts a 300-word email asking the security team to review a design by Friday, including the full history of the project and three side questions. She identifies the one thing she needs (a review by Friday), keeps two sentences of context, moves the history to a linked doc, and saves the side questions for the review meeting. The email drops to 70 words. In her personal life, she trims a long text to her landlord about a leaking faucet to the problem, a photo, and two times she is home.",
+      "common_mistakes": [
+        "Cutting only filler words while keeping every idea",
+        "Adding warm preamble assuming it will raise response rates",
+        "Trusting your gut about length instead of the evidence that writers over-predict the value of longer messages",
+        "Deleting needed detail entirely rather than relocating it below the main message"
+      ],
+      "steps": [
+        "Write the draft, then name the single outcome you need from the reader",
+        "Delete sentences that do not serve that outcome, including ones that are merely nice to know",
+        "Move background and detail to the end, an attachment, or a link",
+        "Count the requests; cut or defer all but the essential one",
+        "Reread as a skimmer: is the outcome visible in the first lines?"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "proposals-memos"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "executive-writing"
+        }
+      ],
+      "situations": [
+        "Requesting a review or approval",
+        "Inviting people to complete a survey",
+        "Writing a project update for executives",
+        "Sending a practical text to a landlord or contractor"
+      ],
+      "source": {
+        "citation": "Todd Rogers and Jessica Lasky-Fink, Writing for Busy Readers (Dutton, 2023), principle 1: Less is more; Rogers and Lasky-Fink, 'Write shorter messages' op-ed (2020)",
+        "underlying_research": "Authors' randomized email experiment with 7,002 school district leaders (49 vs 127 words; 4.8 vs 2.7 percent responded; 67 percent of 148 forecasters predicted the long version would win). Rogers also describes a fundraising email to about 700,000 donors in which deleting every other sentence still raised donations (interview report; details not verified).",
+        "urls": [
+          "https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20PDFs/Write%20shorter%20messages.pdf",
+          "https://nextbigideaclub.com/magazine/writing-busy-readers-communicate-effectively-real-world-bookbite/45483/",
+          "https://www.artofmanliness.com/finance/career/podcast-1049-the-6-principles-for-writing-messages-people-wont-swipe-away/"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Rests on large randomized field experiments by the authors, consistent across several trials they report, and on the broader principle that effort reduces follow-through. Limits: most tests are low-stakes requests to strangers measured by clicks or responses; effects on long internal relationships and on reader impressions of warmth are less tested, and the authors stress there is no universally right length, only a tradeoff.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "rogers-busy-readers-03",
+      "name": "Make Responding Easy: One Ask, Answerable in Seconds",
+      "skill_type": "technique",
+      "explanation": "If you need a response, design the message so the response costs as little as possible. The authors report that asking for two or three things makes people less likely to do any one of them, so prioritize a single request. Then shrink the effort of answering it: a yes or no question gets answered more often and sooner than an open-ended 'what do you think?'; a numbered list of options lets someone reply 'option 2' instead of writing a paragraph; pre-filled forms, checklists, and fewer steps help in the same way. Rogers' example is scheduling: offering six times and receiving a paragraph of maybes forces every other person on the thread to decode it, whereas asking people to pick from numbered options keeps the thread fast.",
+      "when_to_use": "Approvals, scheduling, decisions, sign-offs, RSVPs, and any message where you are waiting on someone else to act before you can move.",
+      "worked_example": "A marketing manager needs legal sign-off on a campaign. Instead of 'Thoughts on the attached?', she writes: 'Can you approve the attached copy for launch Monday? Reply yes, or flag the line you want changed.' Legal replies within the hour. For a weekend family dinner, she texts her siblings 'Saturday 6pm or Sunday 1pm? Reply 1 or 2' rather than asking when everyone is free.",
+      "common_mistakes": [
+        "Bundling several asks into one message and expecting all of them done",
+        "Asking open-ended questions when you actually need a decision",
+        "Making the reader hunt for the link, the deadline, or the options",
+        "Leaving it unclear what reply would count as done"
+      ],
+      "steps": [
+        "Identify the one response you need most",
+        "Turn it into the easiest possible question (yes or no, pick one, confirm)",
+        "Put the request and any deadline near the top and make the action (link, options) easy to find",
+        "Remove extra steps: pre-fill, attach, or propose a default",
+        "Save secondary requests for a later message"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "chat"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "async"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        }
+      ],
+      "situations": [
+        "Getting a manager's approval",
+        "Scheduling a meeting across several people",
+        "Asking a client to confirm a scope change",
+        "Coordinating plans in a family group chat"
+      ],
+      "source": {
+        "citation": "Todd Rogers and Jessica Lasky-Fink, Writing for Busy Readers (Dutton, 2023), principle 6: Make responding easy (and the fewer-requests rule under principle 1)",
+        "underlying_research": "The authors' field experiments and the wider behavioral science literature on reducing friction. Specific effect sizes for the number-of-requests and yes/no findings were not seen in the sources read; Rogers describes them in interview as consistent with the evidence.",
+        "urls": [
+          "https://www.artofmanliness.com/finance/career/podcast-1049-the-6-principles-for-writing-messages-people-wont-swipe-away/",
+          "https://news.harvard.edu/gazette/story/2023/10/tips-on-how-to-connect-with-people-who-dont-have-time-to-read"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Friction reduction is one of the best supported ideas in behavioral science, and the authors report experiments consistent with fewer requests, but the specific request-count and question-format results were not verified in the primary studies. Rated Medium.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "rogers-busy-readers-04",
+      "name": "Enough Formatting, But No More",
+      "skill_type": "technique",
+      "explanation": "Formatting is a navigation tool for skimmers, and it works in both directions. Headings help readers find what they need: in the authors' test with 46,648 newsletter subscribers, adding headings to a nine-paragraph message doubled clicks on the lower part of the message without reducing engagement with the top. Splitting a two-sentence text into two separate texts raised survey responses by 15 percent among 22,694 parents. Bold, underline, and highlight are read as 'this is the most important part', so readers jump to them, which also licenses them to skip the rest. That makes emphasis powerful but costly: use one kind of emphasis, on the one thing that matters, and keep it consistent. Mixing several styles (colors, bold, italics, underline) in a short message leaves readers unable to tell what you think matters. Short bullets help, and a two- or three-word label at the start of a long bullet lets skimmers decide whether to read it.",
+      "when_to_use": "Emails longer than a few lines, newsletters, documents with several sections, chat messages that carry a request, and any message with one detail (a deadline, a location) that must not be missed.",
+      "worked_example": "An HR lead sends a benefits enrollment email. She adds three headings (What is changing, What you need to do, Deadline), bolds only the deadline sentence, and labels each bullet ('Dental:', 'Vision:', 'HSA:'). She resists bolding a second sentence because she knows that bolded text pulls the eye away from everything else. For a school pickup change she sends her co-parent two short texts: the change, then the one thing he needs to do.",
+      "common_mistakes": [
+        "Bolding or highlighting several sentences so nothing stands out",
+        "Using several different emphasis styles in one short message",
+        "Emphasizing a minor detail and drawing attention from the main request",
+        "Writing long unlabeled bullets that skimmers still have to read in full"
+      ],
+      "steps": [
+        "Decide the single most important line and emphasize only that, in one style",
+        "Add short descriptive headings when a message has distinct parts",
+        "Use bullets for parallel items and start long ones with a short label",
+        "Keep paragraphs short and use white space",
+        "Check: if someone read only the headings and bold text, would they get the point?"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "chat"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "proposals-memos"
+        }
+      ],
+      "situations": [
+        "Writing a policy or benefits announcement",
+        "Sending a team newsletter",
+        "Flagging a deadline in a long email",
+        "Texting a schedule change"
+      ],
+      "source": {
+        "citation": "Todd Rogers and Jessica Lasky-Fink, Writing for Busy Readers (Dutton, 2023), principles 3 and 4: Design for easy navigation; Use enough formatting, but no more",
+        "underlying_research": "Authors' newsletter headings experiment (46,648 subscribers; clicks on the lower part doubled); EveryDay Labs split-text experiment (22,694 parents; 15 percent higher response); the authors' surveys and experiments on how readers interpret bold, underline, and highlight; eye-tracking research on skimming.",
+        "urls": [
+          "https://nextbigideaclub.com/magazine/writing-busy-readers-communicate-effectively-real-world-bookbite/45483/",
+          "https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20PDFs/Write%20shorter%20messages.pdf",
+          "https://news.harvard.edu/gazette/story/2023/10/tips-on-how-to-connect-with-people-who-dont-have-time-to-read",
+          "https://www.artofmanliness.com/finance/career/podcast-1049-the-6-principles-for-writing-messages-people-wont-swipe-away/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Headings and split-text results come from large randomized field experiments, but each is essentially a single test, and the crowding-out cost of emphasis is reported from the authors' surveys and experiments without effect sizes in the sources read. Rated Medium overall; the core advice is low-risk.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "rogers-busy-readers-05",
+      "name": "Lead With What They Value, and Say Who It Is For",
+      "skill_type": "technique",
+      "explanation": "Within the content you already plan to send, put first the part the reader is most likely to care about, and make it obvious who the message is for. You are not changing your goal or your facts, only the emphasis. Rogers describes a voter-registration group recruiting concert volunteers: a subject line stressing that volunteers attend concerts for free reportedly worked about four times better than one that simply said to volunteer, though the message body was the same. The second half of the rule is signaling relevance: busy readers ignore messages that seem to be for someone else, so name the audience ('For anyone presenting at the offsite:') and why it matters to them ('So what?' and 'Why me?'). When only part of a list needs to act, say so explicitly, or send them a separate message.",
+      "when_to_use": "Subject lines and first sentences of emails, announcements to broad lists where only some people need to act, recruiting volunteers or participants, internal requests that compete with people's own priorities.",
+      "worked_example": "An operations analyst needs teams to clean up old cloud resources. Her draft subject line is 'Cloud resource cleanup'. She rewrites it as 'Cut your team's cloud bill: 3 resources to delete' and opens with 'If you own a project tagged legacy, this is for you.' Owners of untagged projects can safely ignore it. For a neighborhood email asking for park cleanup volunteers, she leads with the free breakfast and the chance to meet neighbors, and says it is aimed at families on the east side.",
+      "common_mistakes": [
+        "Leading with what matters to you (your process, your deadline pressure) rather than to the reader",
+        "Sending one broad message where only a subset needs to act, without saying which subset",
+        "Changing the substance or overpromising in the subject line, which erodes trust",
+        "Burying the benefit in the last paragraph"
+      ],
+      "steps": [
+        "List what the reader could get out of the message (time saved, a benefit, avoiding a problem)",
+        "Move the most valued element into the subject line or first sentence",
+        "State who needs to act and who can ignore it",
+        "Keep the claim accurate to the body"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "clarity-structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "framing"
+        }
+      ],
+      "situations": [
+        "Writing a subject line for a request",
+        "Recruiting volunteers or survey participants",
+        "Sending an announcement to a large distribution list",
+        "Asking another team for help with your priority"
+      ],
+      "source": {
+        "citation": "Todd Rogers and Jessica Lasky-Fink, Writing for Busy Readers (Dutton, 2023), principle 5: Tell readers why they should care",
+        "underlying_research": "Rock the Vote volunteer email subject-line test as described by Rogers in Art of Manliness podcast #1049 (about four times more effective); sample size and exact wording not verified.",
+        "urls": [
+          "https://www.artofmanliness.com/finance/career/podcast-1049-the-6-principles-for-writing-messages-people-wont-swipe-away/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Consistent with well-established research on personal relevance and attention, and the authors report a field test, but the headline example's details were verified only through an interview, not the published study. Rated Medium.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "communicate-with-mastery-03",
+      "relation": "supports",
+      "note": "Adds causal evidence for the scan test: in the authors' trial with 46,648 newsletter subscribers, adding headings doubled clicks on the lower part of the message without reducing engagement with the top. Rogers also endorses the military's bottom line up front rule."
+    },
+    {
+      "insight_id": "communicate-with-mastery-02",
+      "relation": "supports",
+      "note": "Field evidence for Brief and Clear: a 49-word email beat a 127-word version (4.8 vs 2.7 percent response among 7,002 recipients), and truancy letters rewritten at a fifth-grade level were about 40 percent more effective at reducing absences than the standard 10th-grade letter."
+    },
+    {
+      "insight_id": "made-to-stick-03",
+      "relation": "supports",
+      "note": "Supports finding the core with experimental data: each additional idea or request in a practical message reduces the chance the main one is read and acted on."
+    },
+    {
+      "insight_id": "think-faster-talk-smarter-09",
+      "relation": "supports",
+      "note": "Supports accessibility and concision for writing: the authors cite limited US adult literacy and show simpler, lower-reading-level messages get more action, arguing that plain writing is not dumbing down."
+    },
+    {
+      "insight_id": "supercommunicators-12",
+      "relation": "qualifies",
+      "note": "For practical requests, extra warmth can cost responses: the longer email that lost the 7,002-person test differed by added sentences, which the authors describe as expressing gratitude for the recipients' work. Warmth still matters for relationship messages, but in task requests keep pleasantries brief."
+    },
+    {
+      "insight_id": "made-to-stick-10",
+      "relation": "supports",
+      "note": "Rogers reports a subject-line test in which emphasizing the volunteer's benefit (free concert entry) rather than the organization's need reportedly improved response about fourfold, consistent with appealing to what the audience values."
+    },
+    {
+      "insight_id": "communicate-with-mastery-05",
+      "relation": "supports",
+      "note": "Rogers highlights bottom line up front, noting it especially helps lower-status writers, who otherwise feel pressure to open with rapport-building preamble."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20PDFs/Write%20shorter%20messages.pdf",
+      "https://news.harvard.edu/gazette/story/2023/10/tips-on-how-to-connect-with-people-who-dont-have-time-to-read",
+      "https://nextbigideaclub.com/magazine/writing-busy-readers-communicate-effectively-real-world-bookbite/45483/",
+      "https://penguinrandomhousehighereducation.com/2023/09/20/writing-for-busy-readers-excerpt/",
+      "https://www.artofmanliness.com/finance/career/podcast-1049-the-6-principles-for-writing-messages-people-wont-swipe-away/"
+    ],
+    "still_unverified": [
+      "Exact effect sizes for the fewer-requests and yes/no question findings",
+      "Rock the Vote subject-line test details (sample, exact wording, outcome measure); reported only in interview",
+      "Fundraising email to about 700,000 donors with every other sentence deleted (interview report)",
+      "Chapter numbers and exact wording of the rules under each principle in the US edition"
+    ]
+  },
+  "research_notes": "Full book text not read. Read in full: the authors' 2020 op-ed PDF hosted by HKS, the Penguin Random House introduction excerpt, the Harvard Gazette interview, the Next Big Idea Club BookBite, and the Art of Manliness podcast transcript. The OSU six-principles handout could not be downloaded (TLS error). Principle 2 (make reading easy: short common words, short sentences) is recorded under supports_existing rather than as a new insight because the library already covers plain, brief writing."
+}

@@ -1,0 +1,114 @@
+{
+  "book": {
+    "book_id": "van-laer-2014",
+    "title": "The Extended Transportation-Imagery Model: A Meta-Analysis of the Antecedents and Consequences of Consumers' Narrative Transportation",
+    "subtitle": "",
+    "authors": [
+      "Tom van Laer",
+      "Ko de Ruyter",
+      "Luca M. Visconti",
+      "Martin Wetzels"
+    ],
+    "year": 2014,
+    "publisher": "Oxford University Press, Journal of Consumer Research 40(5), 797 to 817",
+    "edition": "Accepted manuscript (SSRN 2033192) read via City, University of London open-access repository",
+    "isbn": "",
+    "source_type": "meta-analysis",
+    "core": false,
+    "author_credibility": "Peer-reviewed in a top marketing journal. The authors are established narrative and consumer researchers, and the model extends Green and Brock's widely used transportation-imagery model. No obvious commercial bias, though the field is marketing, so many studies test advertising stories.",
+    "evidence_base": "Quantitative meta-analysis of 132 effect sizes from 76 published and unpublished articles on narrative transportation (the state of being absorbed in a story). Reports reliability-corrected correlations for what drives transportation and what it changes, plus a file-drawer check suggesting the effects are not an artifact of publication bias. Most studies are lab experiments or surveys with ads, fiction, TV and health messages, so applying the findings to workplace stories is an inference.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://openaccess.city.ac.uk/id/eprint/6755/",
+        "note": "Open-access accepted manuscript, read in full (results section and Table 2)."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "van-laer-2014-01",
+      "name": "Transport the Listener: Character, Picture, Plausibility",
+      "skill_type": "technique",
+      "explanation": "Stories change minds mainly through transportation: the listener gets absorbed, feels with a character and pictures the events, and while absorbed they generate fewer counterarguments. Pooling about two decades of studies, van Laer and colleagues found that three things a storyteller controls each made transportation more likely: a character the listener can clearly identify and empathize with, a plot concrete enough to picture, and verisimilitude (events that feel like they could really happen, which matters more than whether the story is literally true). Listener factors mattered too, especially paying attention and being familiar with the story's world. Once transported, people showed strongly story-consistent feelings and moderately story-consistent attitudes and intentions, with a smaller drop in critical thoughts. For a professional, the takeaway is that a story works when people can see someone specific living through a believable situation they recognize, not when it is a summary with the word story attached. The limits: most evidence comes from ads, fiction and health messages in lab settings, effects are correlational associations of small to medium size, and the authors suggest that when listeners sense an overt sales motive, absorption may break down (a proposal, not a tested result).",
+      "when_to_use": "When you want a story to shift how people feel or what they intend to do: making the case for a change, explaining why a customer problem matters, or persuading a family member about a decision.",
+      "worked_example": "A product manager wants leadership to fund accessibility fixes. Instead of saying many users struggle with the checkout, she tells them about one customer, a retired teacher with low vision, who tried three times to order her grandson's birthday gift, zoomed the page until the button vanished, and finally phoned support, where she waited 40 minutes. She describes the screen as the customer saw it, so the room can picture it, and keeps every detail plausible. Then she gives the numbers on abandoned checkouts. Personally, someone urging a parent to get a hearing test might describe a specific family dinner where the parent missed the punchline and quietly withdrew, rather than citing hearing-loss statistics.",
+      "common_mistakes": [
+        "Telling an abstract case ('a customer had trouble') with no identifiable person to empathize with",
+        "Skipping concrete sensory detail, so listeners cannot picture what happened",
+        "Exaggerating to the point the story stops feeling plausible, which invites scrutiny",
+        "Choosing a story world the audience does not know, so they cannot step into it",
+        "Telling a story while people are distracted, since attention is one of the strongest listener factors",
+        "Making the sales motive so obvious that listeners shift into critical, defensive listening"
+      ],
+      "steps": [
+        "Pick one specific person the audience can identify with, and say who they are and what they want",
+        "Describe a few concrete moments vividly enough that listeners can picture them",
+        "Keep every detail believable; lifelike beats dramatic",
+        "Set the story in a world your audience knows (their customers, their kind of workday, their family situations)",
+        "Get attention first: tell the story when people can listen, not over a busy agenda",
+        "Let the story make its point before you add the explicit ask or the data"
+      ],
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        },
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        }
+      ],
+      "situations": [
+        "Making the case for funding a fix",
+        "Opening a presentation with a customer story",
+        "Persuading a parent about a health decision"
+      ],
+      "source": {
+        "citation": "van Laer, de Ruyter, Visconti and Wetzels (2014), The Extended Transportation-Imagery Model, Journal of Consumer Research 40(5), 797 to 817; results section and Table 2 of the accepted manuscript",
+        "underlying_research": "Meta-analysis of 132 effect sizes from 76 articles. In the accepted manuscript, reliability-corrected correlations with transportation were about .20 for identifiable characters, .29 for imaginable plot, .27 for verisimilitude, .29 for attention and .21 for familiarity; consequences were about .57 for affective responses, .44 attitudes, .31 intentions, .26 beliefs and minus .20 for critical thoughts. Builds on Green and Brock (2000, 2002).",
+        "urls": [
+          "https://openaccess.city.ac.uk/id/eprint/6755/",
+          "https://doi.org/10.1086/673383"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Large meta-analysis with a publication-bias check, building on a well-replicated theory, so the existence of transportation and its main drivers is well supported. Not higher than High for workplace use because the studies are mostly ads, fiction and health messages, the associations are correlational and small to medium, and the overt-persuasion point is a proposal for future research.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "made-to-stick-12",
+      "relation": "supports",
+      "note": "The meta-analysis gives a measured mechanism for the book's simulation idea: absorbed listeners empathize with characters and imagine the plot, and transportation goes with story-consistent attitudes and intentions."
+    },
+    {
+      "insight_id": "made-to-stick-09",
+      "relation": "supports",
+      "note": "Identifiable characters were one of three storyteller factors that reliably increased transportation (corrected correlation about .20), consistent with the advice to tell about one person rather than a crowd."
+    },
+    {
+      "insight_id": "made-to-stick-07",
+      "relation": "supports",
+      "note": "An imaginable plot, one listeners can picture, was among the strongest storyteller drivers of transportation (about .29), backing the case for concrete, sensory detail."
+    }
+  ],
+  "research_notes": "Read the open-access accepted manuscript (SSRN version) from City, University of London in full, including the results and Table 2. Figures are from that manuscript and could differ slightly from the published journal version. The finding that education and (female) sex had small positive associations, and age none, is not used because it does not translate into practical advice.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://openaccess.city.ac.uk/id/eprint/6755/1/SSRN-id2033192.pdf",
+      "https://api.crossref.org/works?query.bibliographic=The+Extended+Transportation-Imagery+Model"
+    ],
+    "still_unverified": [
+      "Whether the published Journal of Consumer Research version reports identical effect sizes to the accepted manuscript"
+    ]
+  }
+}

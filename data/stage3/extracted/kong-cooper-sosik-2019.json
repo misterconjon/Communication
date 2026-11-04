@@ -1,0 +1,68 @@
+{
+  "book": {
+    "book_id": "kong-cooper-sosik-2019",
+    "title": "The state of research on leader humor",
+    "subtitle": "",
+    "authors": [
+      "Dejun Tony Kong",
+      "Cecily D. Cooper",
+      "John J. Sosik"
+    ],
+    "year": 2019,
+    "publisher": "SAGE, Organizational Psychology Review 9(1), 3 to 40",
+    "edition": "",
+    "isbn": "",
+    "source_type": "review article",
+    "core": false,
+    "author_credibility": "Peer-reviewed systematic review in Organizational Psychology Review. Cooper (University of Miami) is a leading leader-humor researcher; Sosik (Penn State) is an established leadership scholar; Kong publishes in top management journals. Independent of the Humor, Seriously authors, so it is a useful check on that book's claims.",
+    "evidence_base": "Systematic review plus a meta-analysis and path analyses of the quantitative leader-humor literature (a later scoping review describes it as covering 34 quantitative studies). The underlying studies are mostly cross-sectional field surveys, so links between leader humor and follower outcomes are associations, not demonstrated causes. The authors themselves flag problems with construct clarity, measurement and theory.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://api.crossref.org/works/10.1177/2041386619846948",
+        "note": "Official abstract read via Crossref metadata."
+      },
+      {
+        "type": "summary",
+        "url": "https://pure.psu.edu/en/publications/the-state-of-research-on-leader-humor/",
+        "note": "Penn State research portal record (abstract)."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.610795/pdf",
+        "note": "Rosenberg et al. (2021) open-access scoping review in Frontiers in Psychology, read in full; summarizes Kong et al.'s main meta-analytic finding (34 studies; humor expression more strongly associated with follower outcomes than trait humor)."
+      }
+    ]
+  },
+  "insights": [],
+  "supports_existing": [
+    {
+      "insight_id": "humor-seriously-01",
+      "relation": "supports",
+      "note": "Kong et al. separate trait humor (being a funny person) from humor expression (actually using humor), and their meta-analysis found that leaders' expressed humor is more strongly associated with follower outcomes than their trait humor. That backs the book's claim that the benefit comes from a learnable habit of sharing lightness rather than from being a natural comedian."
+    },
+    {
+      "insight_id": "humor-seriously-14",
+      "relation": "qualifies",
+      "note": "An independent systematic review confirms leader humor is positively associated with follower outcomes, but the evidence is mostly correlational survey data with unresolved measurement problems. Treat confident percentage claims about leader humor (such as 27 percent more motivating) as illustrative, not established effects."
+    },
+    {
+      "insight_id": "humor-seriously-03",
+      "relation": "qualifies",
+      "note": "The review stresses that leader-humor research lacks agreed definitions and measures, and that most studies cannot show humor causes better leadership outcomes; the experimental status findings the book relies on are a narrower, lab-based slice of a field that is otherwise mostly correlational."
+    }
+  ],
+  "research_notes": "The full text is behind a Cloudflare check on SAGE (journals.sagepub.com returned a challenge page), so the paper itself was not read. Read: the official abstract (Crossref and Semantic Scholar metadata) and the open-access Rosenberg, Walker, Leiter and Graffam (2021) scoping review, which reports Kong et al.'s headline finding. I did not add a new insight because the source's practical contributions (humor is a behavior you can use, and the evidence is correlational) restate or qualify existing Humor, Seriously insights rather than adding a distinct technique. A later paper reportedly describes leader-member exchange (relationship quality) as the main mediator in Kong et al.'s path analyses, but I could not confirm that against the paper, so it is not used.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://api.crossref.org/works?query.bibliographic=The+state+of+research+on+leader+humor",
+      "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1177/2041386619846948",
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.610795/pdf"
+    ],
+    "still_unverified": [
+      "Number of studies and effect sizes in the meta-analysis (34 studies is from a secondary scoping review, not the paper)",
+      "Whether leader-member exchange is the main mediator in the path analyses (reported only by a later secondary source)"
+    ]
+  }
+}

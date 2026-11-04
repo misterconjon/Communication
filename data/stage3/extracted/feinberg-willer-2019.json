@@ -1,0 +1,79 @@
+{
+  "book": {
+    "book_id": "feinberg-willer-2019",
+    "title": "Moral reframing: A technique for effective and persuasive communication across political divides",
+    "subtitle": "",
+    "authors": ["Matthew Feinberg", "Robb Willer"],
+    "year": 2019,
+    "publisher": "Social and Personality Psychology Compass (Wiley), 13(12), e12501",
+    "edition": "Review article; DOI 10.1111/spc3.12501",
+    "isbn": "",
+    "source_type": "review article",
+    "core": false,
+    "author_credibility": "Feinberg (Rotman School of Management, University of Toronto) and Willer (Stanford sociology, Polarization and Social Change Lab) ran many of the primary moral reframing experiments. As authors reviewing their own research program they have an interest in the effect, though the article openly discusses null and inconsistent findings.",
+    "evidence_base": "Narrative review of moral reframing experiments on environmental policy, military spending, immigration, same-sex marriage, candidates, vaccines and charity giving, plus one canvassing field experiment (Kalla, Levine and Broockman 2019). Rests on moral foundations theory, which has critics. Much of the base comes from the authors' labs; some studies found inconsistent effects.",
+    "legal_access": [
+      {"type": "author excerpt", "url": "https://sdimakis.github.io/moral_psychology/readings/week_10/Feinberg_2019.pdf", "note": "Course-hosted PDF of the article (read in full, 2026-11-04)."},
+      {"type": "summary", "url": "https://greatergood.berkeley.edu/article/item/how_to_speak_your_opponents_language_in_a_political_debate", "note": "Greater Good summary of the research (not read this session)."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "feinberg-willer-2019-01",
+      "name": "Argue From Their Values, Not Yours",
+      "skill_type": "technique",
+      "explanation": "People naturally make the case for a position using the values that persuaded them, which is why their arguments often fall flat, or even offend, with someone whose priorities differ. Moral reframing means presenting the same position in terms of values the listener already holds. In US experiments, conservatives became more supportive of environmental protection when it was framed around purity and patriotism rather than harm, and liberals became more supportive of military spending when it was framed around fairness and opportunity rather than loyalty and strength. The effect appears to work because the listener sees a match between the message and their own convictions, and may read the speaker as someone on their side. Two practical cautions from the review: people rarely do this on their own (fewer than 10 percent did so even when offered a cash prize for persuading the other side), and reframing fails if the link to the value is weak, buried among other arguments, or delivered by a messenger the audience distrusts. The workplace version is simple: before persuading, learn what the other person cares about (cost control, risk, fairness to the team, customers, craft) and connect your proposal to it honestly.",
+      "when_to_use": "When your proposal is opposed by someone whose priorities differ from yours: a finance leader weighing a culture initiative, an engineer weighing a sales request, a relative on the other side of a political issue.",
+      "worked_example": "A people-operations manager wants a skeptical CFO to fund a mentoring program. Her own reason is fairness and growth for junior staff, and her first pitch on that basis goes nowhere. Before the second meeting she asks the CFO what worries him most this year; he names turnover costs and key-person risk. She reframes the program as a way to protect institutional knowledge and cut the cost of replacing early-career hires, with a modest pilot and a retention metric. He approves the pilot. At home, someone who wants a fiscally conservative parent to back a local transit measure talks about saving taxpayer money on road repairs and keeping the town's young families close, rather than about emissions.",
+      "common_mistakes": [
+        "Guessing the other person's values instead of finding out",
+        "Making a strained or insincere link to their value, which reads as manipulation",
+        "Diluting the reframed argument by stacking it with your usual arguments",
+        "Expecting it to work when you are seen as an opponent they distrust"
+      ],
+      "steps": [
+        "Write down why you support the position; notice which values those reasons rest on",
+        "Find out what the other person cares about, ideally by asking",
+        "Identify a genuine way your position serves that value",
+        "Lead with that frame and keep it uncluttered",
+        "Check for fit: ask how it lands for them and adjust"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "foundations", "subcategory": "audience-goals"},
+        {"category": "professional", "subcategory": "executive-communication"}
+      ],
+      "situations": [
+        "Pitching a people initiative to a finance leader",
+        "Persuading across functions with different metrics",
+        "Talking politics with a family member"
+      ],
+      "source": {
+        "citation": "Feinberg and Willer (2019), Moral reframing: A technique for effective and persuasive communication across political divides, Social and Personality Psychology Compass 13(12), e12501",
+        "underlying_research": "Feinberg and Willer (2013, 2015); Feygina, Jost and Goldsmith (2010); Wolsko, Ariceaga and Seiden (2016); Voelkel and Willer (2019); Kalla, Levine and Broockman (2019, canvassers framing appeals around a value elicited from the resident). Moral foundations theory (Graham, Haidt and Nosek 2009).",
+        "urls": [
+          "https://sdimakis.github.io/moral_psychology/readings/week_10/Feinberg_2019.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Multiple experiments across issues support the effect, but much of the base comes from the authors' own labs, effects are modest and inconsistent in some studies, untargeted audiences usually show no change, and the underlying moral foundations theory is debated. Application to workplace priorities (as opposed to political morals) is an extension of the principle.",
+      "flags": ["contested"]
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "made-to-stick-10", "relation": "supports", "note": "Gives experimental backing to framing for the listener's concerns: arguments framed around the audience's own moral values persuaded political opponents more than arguments framed around the speaker's values (review of moral reframing studies)."},
+    {"insight_id": "supercommunicators-10", "relation": "supports", "note": "Moral reframing works partly because the message matches the listener's identity-linked convictions and signals an ingroup source; messages framed in the other side's moral language can harden opposition."},
+    {"insight_id": "made-to-stick-11", "relation": "qualifies", "note": "Identity appeals help only when the link is genuine and the messenger is not distrusted; a reframed appeal from a reviled outgroup source is likely to be rejected, and some reframing studies found inconsistent effects."}
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://sdimakis.github.io/moral_psychology/readings/week_10/Feinberg_2019.pdf"
+    ],
+    "still_unverified": [
+      "The workplace examples (CFO, cross-functional priorities) are an extension; the reviewed studies concern political and moral attitudes."
+    ]
+  },
+  "research_notes": "Read the full article from a course-hosted PDF. Scope kept to the US studies the review describes; cross-national comments in the review were not used."
+}

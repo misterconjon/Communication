@@ -1,0 +1,108 @@
+{
+  "book": {
+    "book_id": "mesmer-magnus-2012",
+    "title": "A meta-analysis of positive humor in the workplace",
+    "subtitle": "",
+    "authors": [
+      "Jessica Mesmer-Magnus",
+      "David J. Glew",
+      "Chockalingam Viswesvaran"
+    ],
+    "year": 2012,
+    "publisher": "Emerald, Journal of Managerial Psychology 27(2), 155 to 190",
+    "edition": "",
+    "isbn": "",
+    "source_type": "meta-analysis",
+    "core": false,
+    "author_credibility": "Peer-reviewed meta-analysis. Viswesvaran (Florida International University) is a highly cited meta-analysis methodologist in industrial-organizational psychology; Mesmer-Magnus has published several workplace meta-analyses. Independent of the Humor, Seriously authors.",
+    "evidence_base": "Meta-analysis of 49 independent studies (about 8,500 people) on employee and supervisor positive humor. The underlying studies are correlational, mostly self-report, so the results show associations rather than effects of adding humor. Negative or aggressive humor was largely outside its scope, and the evidence is now more than a decade old.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://discovery.fiu.edu/display/pub106137",
+        "note": "FIU research portal record (citation and keywords: coping humor, burnout, workgroup cohesion, supervisor effectiveness)."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.610795/pdf",
+        "note": "Rosenberg et al. (2021) open-access scoping review, read in full; summarizes the meta-analysis (49 studies, n = 8,532; positive sense of humor associated with health, buffering of work stress and effective functioning)."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "mesmer-magnus-2012-01",
+      "name": "Coping Humor Under Pressure",
+      "skill_type": "technique",
+      "explanation": "Across 49 workplace studies, employees' positive humor went along with better coping, better health and less burnout and stress, and supervisors' positive humor went along with more satisfied subordinates and more cohesive work groups. The authors drew a practical line from this: encouraging people to use humor to cope with their own stress (finding the absurd in a hard week, laughing at the situation rather than at a person) looks low risk, while promoting humor at work in general can backfire because derogatory or sexist humor carries real interpersonal and legal costs. For an ordinary professional the takeaway is to treat lightness as a pressure valve aimed at the situation or yourself, not at colleagues. The limits matter: these are modest associations from correlational, mostly self-report studies, so people who are coping well may simply joke more, and the data cannot show that adding jokes will lower anyone's burnout.",
+      "when_to_use": "During a stressful stretch at work (a deadline crunch, a failed launch, a reorganization) when you want to relieve tension without making anyone the target.",
+      "worked_example": "A project lead's team has spent a week fixing a vendor's broken data feed. In the Friday wrap-up she says the feed has now failed in more creative ways than their test plan imagined and proposes naming the next bug after the vendor's mascot. People laugh, someone adds a line of their own, and the meeting moves to next steps. She avoids jokes about the junior analyst whose script missed the problem. At home, a parent facing a chaotic morning of lost shoes and a flat tire can do the same thing: laugh at the morning, not at the child who lost the shoe.",
+      "common_mistakes": [
+        "Aiming the joke at a person, especially someone with less power, instead of at the situation",
+        "Mandating fun or humor programs and expecting them to cut burnout",
+        "Using humor to dismiss a real problem someone is raising",
+        "Treating the research as proof that jokes cause better performance"
+      ],
+      "steps": [
+        "Notice the shared frustration or absurdity everyone is already feeling",
+        "Point the humor at the situation or at yourself, never at a colleague's competence or identity",
+        "Keep it brief, then return to the work so the joke relieves rather than replaces the problem",
+        "Read the room: if someone is genuinely distressed, acknowledge that first and skip the humor"
+      ],
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "humor"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        }
+      ],
+      "situations": [
+        "A team under deadline pressure",
+        "Wrapping up a rough week",
+        "A chaotic family morning"
+      ],
+      "source": {
+        "citation": "Mesmer-Magnus, Glew and Viswesvaran (2012), A meta-analysis of positive humor in the workplace, Journal of Managerial Psychology 27(2), 155 to 190",
+        "underlying_research": "Meta-analysis of 49 independent samples (n = 8,532) of employee and supervisor positive humor and workplace outcomes, including coping, health, burnout, stress, work withdrawal, workgroup cohesion, subordinate satisfaction and perceived supervisor performance.",
+        "urls": [
+          "https://doi.org/10.1108/02683941211199554",
+          "https://discovery.fiu.edu/display/pub106137",
+          "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.610795/pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "A proper meta-analysis across many samples, but of correlational, largely self-report studies with modest associations, so the direction of cause is unknown. The advice to favor self-directed coping humor over humor aimed at others is the authors' practical inference, not a tested intervention. The exact effect sizes were not read in the original.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "humor-seriously-14",
+      "relation": "qualifies",
+      "note": "The meta-analysis links supervisor positive humor with subordinate satisfaction, workgroup cohesion and perceived supervisor performance, which supports the direction of the book's claim; but the associations are correlational and modest, so they do not show that a leader adding humor will produce those results."
+    },
+    {
+      "insight_id": "humor-seriously-04",
+      "relation": "supports",
+      "note": "The authors explicitly caution against promoting workplace humor broadly because derogatory or sexist humor carries interpersonal and legal risk, which reinforces the book's advice not to aim jokes down or at identity."
+    }
+  ],
+  "research_notes": "The full text (Emerald) was not available; the abstract is elided in Semantic Scholar and the QIC-WD umbrella summary PDF failed TLS verification, so it was not read. Read: the FIU portal record and the open-access Rosenberg et al. (2021) scoping review, which summarizes the meta-analysis. Search-result summaries of the abstract (supervisor humor most strongly associated with subordinate satisfaction, cohesion and perceived supervisor performance; caution about legal risk; self-directed or coping humor as a possible buffer) were used only where consistent with these sources.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://discovery.fiu.edu/display/pub106137",
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.610795/pdf",
+      "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1108/02683941211199554"
+    ],
+    "still_unverified": [
+      "Specific effect sizes for each outcome",
+      "Exact wording of the authors' recommendation about encouraging self-directed or coping humor (known from search-result summaries of the abstract, not read directly)"
+    ]
+  }
+}

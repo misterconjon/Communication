@@ -1,0 +1,176 @@
+{
+  "book": {
+    "book_id": "kruger-epley-2005",
+    "title": "Egocentrism over e-mail: Can we communicate as well as we think?",
+    "subtitle": "",
+    "authors": [
+      "Justin Kruger",
+      "Nicholas Epley",
+      "Jason Parker",
+      "Zhi-Wen Ng"
+    ],
+    "year": 2005,
+    "publisher": "Journal of Personality and Social Psychology, 89(6), 925-936",
+    "edition": "Journal article; full text read via author-hosted PDF",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Kruger (then NYU Stern; co-author of the Dunning-Kruger paper) and Epley (University of Chicago Booth, a leading researcher on mind perception and egocentrism). Published in the flagship social psychology journal. Parker and Ng were at the University of Illinois.",
+    "evidence_base": "Five lab experiments plus a follow-up study, all with US university students (for example 12 Cornell students in Study 1, 54 and 58 Illinois students in Studies 4 and 5). Studies compared predicted and actual accuracy in conveying sarcasm, seriousness, emotions, and humor over email versus voice or face to face, and two studies manipulated the sender's own experience of the message to test the egocentrism mechanism.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://web-docs.stern.nyu.edu/pa/kruger_email_ego.pdf",
+        "note": "Author-hosted full text (NYU Stern), read: all five studies, caveats including the emoticon follow-up."
+      },
+      {
+        "type": "summary",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16393025/",
+        "note": "PubMed record and abstract."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "kruger-epley-2005-01",
+      "name": "Tone Check: Reread in the Opposite Voice, or Use Your Voice",
+      "skill_type": "technique",
+      "explanation": "When you write a message, you hear it in your head with the tone you intend, so sarcasm sounds sarcastic and a joke sounds funny. Your reader gets only the words. Across five experiments, senders consistently overestimated how well email conveyed their tone: in one study senders expected about 89 percent of their emotions and tones to be identified correctly over email, versus about 63 percent actually identified, a larger gap than in voice-only or face-to-face conditions. In another, sarcasm sent by email was decoded at about chance level, while the same statements spoken aloud were decoded much more accurately, yet senders were equally confident either way. Familiarity did not help: friends were as overconfident as strangers. And in a follow-up, allowing emoticons did not reduce the overconfidence. What did work in the lab was breaking the sender's own perspective: when senders read their sarcastic lines aloud in a serious voice (and serious lines sarcastically) before predicting, their overconfidence disappeared. The practical takeaway is to test your own message by rereading it in a flat or opposite tone, and to move sarcasm, humor, criticism, and emotionally loaded content to a voice or video channel when misreading would be costly.",
+      "when_to_use": "Before sending any written message that relies on tone: sarcasm or dry humor, criticism or feedback, a reply when you are irritated, a joke in a team channel, a short reply that could read as curt, or any message to someone who might be anxious about you.",
+      "worked_example": "A team lead types into the project chat, 'Great, another deadline change, love it.' He means it as shared, joking frustration. Before sending, he rereads it in a flat, literal voice and hears how it could read as an attack on the product manager who just announced the change. He deletes it and writes, 'Deadline moved to the 15th. Annoying timing, but workable. I will adjust the plan today.' Later, his sister texts a sharp-sounding comment about holiday plans; rather than trading texts, he calls her, and the tone that had seemed hostile turns out to be tiredness.",
+      "common_mistakes": [
+        "Assuming that because you know you were joking, the reader will too",
+        "Believing that a close relationship guarantees your tone will land",
+        "Relying on an emoji to fix a message whose words could still read as hostile",
+        "Sending sensitive feedback or sarcasm by text when a call would be quick"
+      ],
+      "steps": [
+        "Before sending, identify any line whose meaning depends on tone",
+        "Reread it in a neutral or opposite voice (serious if you meant it as a joke, sharp if you meant it as kind)",
+        "If it can be read badly, rewrite it to say the intent plainly or remove it",
+        "For criticism, irony, humor, or high-stakes emotional content, switch to a call, video, or in-person conversation"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "tone-misreading"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "chat"
+        }
+      ],
+      "situations": [
+        "Joking in a team chat",
+        "Replying to an email while annoyed",
+        "Giving written feedback",
+        "Texting a family member about a touchy topic"
+      ],
+      "source": {
+        "citation": "Kruger, J., Epley, N., Parker, J., and Ng, Z.-W. (2005). Egocentrism over e-mail: Can we communicate as well as we think? Journal of Personality and Social Psychology, 89(6), 925-936.",
+        "underlying_research": "Studies 1 to 3 (overconfidence over email versus voice and face to face; friends versus strangers), Study 4 (opposite-tone vocalization eliminated overconfidence, 54 students), Study 5 (watching a performed version of jokes made senders expect recipients to find them funnier, 58 students), and a follow-up with emoticons allowed. Builds on Newton's (1990) tapping study and Keysar and Henly (2002).",
+        "urls": [
+          "https://doi.org/10.1037/0022-3514.89.6.925",
+          "https://web-docs.stern.nyu.edu/pa/kruger_email_ego.pdf",
+          "https://pubmed.ncbi.nlm.nih.gov/16393025/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The overconfidence effect appeared in all five studies in a top journal and fits later work on emotion in email (for example Byron 2008), so the core warning is well grounded. But samples were small groups of college students conveying short, contrived statements, email conditions banned emoticons in the main studies, and the opposite-voice reread was a lab manipulation, not a tested self-help practice. Rated Medium overall: High for the existence of the gap, lower for the remedy.",
+      "flags": [
+        "unreplicated"
+      ]
+    },
+    {
+      "id": "kruger-epley-2005-02",
+      "name": "Hold Your Reading of Their Tone Loosely",
+      "skill_type": "mental model",
+      "explanation": "Egocentrism runs on the receiving end too. In the same experiments, people reading emails were much more confident that they had correctly identified the sender's tone than they actually were: in one study readers believed they had correctly identified about 88 percent of statements as sarcastic or serious, versus about 63 percent actually correct, and the overconfidence was larger for email than for voice. The authors suggest that once you hear a message as sarcastic or hostile, it becomes hard to hear it any other way. The practical takeaway is to treat your first read of a curt, ambiguous, or seemingly sarcastic message as a hypothesis, not a fact: consider a more charitable reading, and ask or switch to voice before reacting. The finding comes from short lab statements read by students, so the size of the gap in real workplace threads is unknown, but the direction is consistent across studies.",
+      "when_to_use": "When a message from a colleague, manager, partner, or friend lands as rude, cold, or sarcastic; before forwarding or escalating a message you found offensive; when a short reply ('fine.', 'ok') leaves you unsure.",
+      "worked_example": "A new analyst gets a one-line reply from her manager to a draft: 'This needs work.' She reads it as disappointment and spends the evening anxious. Remembering that readers overrate how well they decode tone, she treats her reading as one possibility and asks in the morning, 'Want to walk me through the top two things to fix?' The manager explains he was typing between meetings and thought the draft was close. With her partner, when a text says 'Sure, whatever you want', she asks a quick question instead of assuming annoyance.",
+      "common_mistakes": [
+        "Treating your first emotional reading of a message as what the sender meant",
+        "Replying in kind to a message you perceived as sarcastic or hostile",
+        "Forwarding a message as evidence of rudeness without checking intent",
+        "Assuming that knowing someone well makes your reading of their texts accurate"
+      ],
+      "steps": [
+        "Notice a strong reaction to a written message's tone",
+        "Write down at least one more charitable interpretation",
+        "If the stakes are real, ask a neutral clarifying question or call",
+        "Respond to the content, not to the tone you inferred"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "tone-misreading"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "chat"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
+      ],
+      "situations": [
+        "Receiving a terse email from a manager",
+        "Reading a short reply from a partner",
+        "A tense thread with another team",
+        "Deciding whether to escalate a message you found rude"
+      ],
+      "source": {
+        "citation": "Kruger, J., Epley, N., Parker, J., and Ng, Z.-W. (2005). Egocentrism over e-mail: Can we communicate as well as we think? Journal of Personality and Social Psychology, 89(6), 925-936., Studies 2 to 4 and General Discussion",
+        "underlying_research": "Receivers' perceived versus actual accuracy in detecting sarcasm and emotions (for example 88.2 percent believed versus 62.8 percent actual in Study 4; larger overconfidence over email than voice in Studies 2 and 3).",
+        "urls": [
+          "https://web-docs.stern.nyu.edu/pa/kruger_email_ego.pdf",
+          "https://doi.org/10.1037/0022-3514.89.6.925"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Receiver overconfidence was observed in three studies but was secondary to the paper's main hypotheses, and the samples were small student groups with contrived statements. Consistent with Byron's (2008) argument that work emails tend to be read as more negative than intended. Rated Medium.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "supercommunicators-12",
+      "relation": "supports",
+      "note": "Primary evidence for avoiding sarcasm online: email sarcasm was decoded at about chance in Study 2 while senders were as confident as when speaking. Qualifies one fix: in a follow-up, allowing emoticons did not reduce senders' overconfidence."
+    },
+    {
+      "insight_id": "communicate-with-mastery-09",
+      "relation": "supports",
+      "note": "Supports pause and verify for writing: senders overestimated how well their tone came across in all five studies, and familiarity with the reader did not reduce the gap."
+    },
+    {
+      "insight_id": "made-to-stick-01",
+      "relation": "supports",
+      "note": "Extends the curse of knowledge to tone: the paper frames email overconfidence as the same egocentrism seen in Newton's tapping study, and shows that the richer the sender's own experience of a message, the larger the gap."
+    },
+    {
+      "insight_id": "humor-seriously-13",
+      "relation": "supports",
+      "note": "Supports choosing warm lightness over sarcasm in writing: in Study 5, senders who had seen jokes performed expected email recipients to find them funnier, although recipients' ratings were no different."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://web-docs.stern.nyu.edu/pa/kruger_email_ego.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/16393025/"
+    ],
+    "still_unverified": [
+      "Exact accuracy rates in Study 2 (read from the text as near chance for email and close to three quarters for voice; figure values not extracted)",
+      "Sample size of the emoticon follow-up study (not reported in the text read)"
+    ]
+  },
+  "research_notes": "Read the full article via the author-hosted PDF. The paper itself mainly supports existing library insights; the two new insights cover the tested de-biasing manipulation (opposite-voice rereading) and the receiver-side overconfidence, which no existing insight states. The stern.nyu.edu research highlights page did not resolve."
+}

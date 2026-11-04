@@ -1,0 +1,95 @@
+{
+  "book": {
+    "book_id": "braddock-dillard-2016",
+    "title": "Meta-analytic evidence for the persuasive effect of narratives on beliefs, attitudes, intentions, and behaviors",
+    "subtitle": "",
+    "authors": [
+      "Kurt Braddock",
+      "James Price Dillard"
+    ],
+    "year": 2016,
+    "publisher": "Taylor and Francis, Communication Monographs 83(4), 446 to 467",
+    "edition": "",
+    "isbn": "",
+    "source_type": "meta-analysis",
+    "core": false,
+    "author_credibility": "Peer-reviewed in a flagship communication journal. Dillard (Penn State) is a leading persuasion and emotion scholar; Braddock (American University) researches narrative persuasion, including extremist recruitment. Independent of the Made to Stick authors.",
+    "evidence_base": "Meta-analysis of 74 studies, screened from about 6,400, that compared narrative messages with non-narrative controls. Effects are small: correlations of about .17 for beliefs, .19 for attitudes, .17 for intentions and about .23 for behaviors (behavior from only 5 studies, under 1,000 people). Medium and research design did not change effect size; fictionality results were mixed; outcomes were measured soon after exposure, so durability is unknown.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://thedecisionlab.com/insights/society/can-stories-change-us",
+        "note": "The Decision Lab summary, read in full: sample, per-outcome effect sizes, fiction versus nonfiction results, limitations."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "braddock-dillard-2016-01",
+      "name": "Stories Nudge, They Do Not Convert",
+      "skill_type": "mental model",
+      "explanation": "Stories really do move people, but by a modest amount. Across 74 experiments comparing a story with a non-story message, hearing a narrative shifted beliefs, attitudes, intentions and, in the few studies that measured it, actual behavior in the story's direction, with small effects (correlations around .17 to .23). That makes a story a dependable tool for tilting a decision, not a guaranteed winner over data, and it argues against inflated claims such as stories being ten times more memorable or persuasive than statistics. The practical model: use a story to make the point felt and remembered, and back it with the evidence and a clear ask rather than relying on either alone (that pairing is an inference from the small, variable effects, not something the meta-analysis tested). Limits: effects varied with unexplained moderators, the fiction versus nonfiction results were mixed (nonfiction stories moved beliefs more reliably in this data), the behavior estimate rests on only five studies, and outcomes were measured right after exposure.",
+      "when_to_use": "When deciding how much weight to put on a story in a pitch, proposal, presentation or personal appeal, and when someone tells you a story alone will win the room.",
+      "worked_example": "A nurse manager wants hospital leadership to approve a new fall-prevention protocol. A colleague advises skipping the data and just telling the story of the patient who fell. She instead opens with that true patient story, two minutes long, then shows the unit's fall rate against peer hospitals and the protocol's cost, and closes with a specific request. When one executive pushes back on the numbers, the story has already made the problem feel real, and the data answers the skeptic. In a personal setting, someone persuading a sibling to update an aging parent's emergency contacts might share what happened to a neighbor, then walk through the specific steps rather than hoping the anecdote alone will prompt action.",
+      "common_mistakes": [
+        "Expecting one good story to overturn strong opposing views",
+        "Dropping the evidence entirely because stories are said to beat statistics",
+        "Repeating inflated claims about how much more persuasive stories are",
+        "Assuming a made-up illustrative story will change factual beliefs as well as a true one"
+      ],
+      "steps": [],
+      "categories": [
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        },
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        }
+      ],
+      "situations": [
+        "Building a business case",
+        "Choosing between a story and data for a presentation",
+        "Persuading a family member to act"
+      ],
+      "source": {
+        "citation": "Braddock and Dillard (2016), Meta-analytic evidence for the persuasive effect of narratives on beliefs, attitudes, intentions, and behaviors, Communication Monographs 83(4), 446 to 467",
+        "underlying_research": "74 studies comparing narrative and non-narrative messages: beliefs k = 37, N = 7,376, r = .17; attitudes k = 40, N = 7,132, r = .19; intentions k = 28, N = 5,211, r = .17; behaviors k = 5, N = 978, r about .23. Medium did not moderate effects.",
+        "urls": [
+          "https://doi.org/10.1080/03637751.2015.1128555",
+          "https://thedecisionlab.com/insights/society/can-stories-change-us"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "The core finding (narratives persuade, modestly, across all four outcome types) comes from a large meta-analysis in a leading journal and agrees with other narrative meta-analyses. The recommendation to pair stories with evidence is an inference, and the behavior and fiction-versus-nonfiction details rest on fewer studies and secondary reporting.",
+      "flags": [
+        "none"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "made-to-stick-12",
+      "relation": "qualifies",
+      "note": "Narratives do shift beliefs, attitudes, intentions and behavior, but the meta-analytic effects are small (r about .17 to .23), so the classroom figure of 63 percent recalling stories versus 5 percent recalling statistics should not be read as the general size of the story advantage in persuasion."
+    },
+    {
+      "insight_id": "van-laer-2014-01",
+      "relation": "supports",
+      "note": "Independently confirms that stories produce story-consistent beliefs, attitudes and intentions, while indicating the overall effect of a narrative versus a non-narrative message is small."
+    }
+  ],
+  "research_notes": "The full text and abstract are behind Taylor and Francis; Semantic Scholar elides the abstract. Read The Decision Lab's detailed summary in full; per-outcome k, N and r values for beliefs, attitudes and intentions also appeared in a search-result rendering of the abstract and match. The behavior effect (about .23) and the fiction versus nonfiction split (nonfiction significant for beliefs, fiction for attitudes) come from The Decision Lab summary only.",
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://thedecisionlab.com/insights/society/can-stories-change-us",
+      "https://api.semanticscholar.org/graph/v1/paper/DOI:10.1080/03637751.2015.1128555"
+    ],
+    "still_unverified": [
+      "Behavior effect size (r about .23) not read in the original abstract or paper",
+      "Fiction versus nonfiction moderator results by outcome (from a secondary summary)"
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+ "book": {
+  "book_id": "bailenson-zoom-fatigue",
+  "title": "Nonverbal Overload: A Theoretical Argument for the Causes of Zoom Fatigue",
+  "subtitle": "",
+  "authors": [
+   "Jeremy N. Bailenson"
+  ],
+  "year": 2021,
+  "publisher": "American Psychological Association (Technology, Mind, and Behavior 2(1))",
+  "edition": "Open access article, doi 10.1037/tmb0000030",
+  "isbn": "",
+  "author_credibility": "Bailenson is the founding director of Stanford's Virtual Human Interaction Lab and has published peer-reviewed work on mediated and virtual communication for over two decades, including his own studies of gaze and personal space with virtual faces. He states he has no conflicts of interest and that he uses Zoom himself; the article is framed as design critique, not an attack on the product.",
+  "evidence_base": "A theoretical argument, explicitly labeled by the author as arguments rather than findings. It builds on established research on gaze and interpersonal distance (Argyle and Dean 1965; Hall 1966), cognitive load on video versus audio (Hinds 1999), louder speech on video (Croes et al. 2019), mirror-induced self-evaluation (Duval and Wicklund 1972; Fejfar and Hoyle 2000 meta-analysis, small effect on negative affect; Ingram et al. 1988), and movement and cognition (Oppezzo and Schwartz 2014; Goldin-Meadow). Later survey work from the same lab (Fauville et al. 2023, Computers in Human Behavior Reports, convenience sample of 9,787) found that all four mechanisms were associated with self-reported fatigue and that women reported more of them; that is correlational and self-report.",
+  "legal_access": [
+   {
+    "type": "author excerpt",
+    "url": "https://vhil.stanford.edu/sites/g/files/sbiybj29011/files/media/file/bailenson-apa-nonverbal-overload.pdf",
+    "note": "Full open-access PDF read in full"
+   },
+   {
+    "type": "summary",
+    "url": "https://vhil.stanford.edu/publications/videoconferencing/video-conferencing-usage-dynamics-and-nonverbal-mechanisms",
+    "note": "Abstract of the follow-up Fauville et al. (2023) survey from the same lab"
+   }
+  ],
+  "source_type": "peer-reviewed paper",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "bailenson-zoom-fatigue-01",
+   "name": "Turn Down the Nonverbal Overload on Video",
+   "skill_type": "technique",
+   "explanation": "Bailenson argues that video calls tire people for four reasons that have little to do with the meeting itself. Faces appear large and close, at a size that in person would mean intimate distance, and every face appears to stare at you the whole time, even when you are only listening. Sending and reading cues takes deliberate effort: you exaggerate nods, look at the camera instead of faces, speak louder, and see glances on your grid that mean nothing because everyone's layout differs. The default self-view acts like an all-day mirror, which invites self-evaluation. And the camera frame pins you in your chair, removing the movement that normally helps people think. The practical takeaway is that settings and habits, not stamina, are the main levers: make faces smaller, hide self-view once you are framed, get room to move, and use audio when faces add nothing. Limits: the paper is theory built on older research, not a test of video calls; a later survey from the same lab found these mechanisms track self-reported fatigue, especially for women, but that evidence is correlational.",
+   "when_to_use": "Days with several back-to-back video calls; presenting or teaching on video, where being watched by a grid of faces adds arousal; one-on-one calls with colleagues or family that do not need a shared screen.",
+   "worked_example": "A program manager has five video calls on Tuesdays and is drained by noon. She switches from full-screen speaker view to a smaller window, checks her framing at the start of each call and then hides self-view, and moves her laptop back with an external keyboard so she can lean back and gesture. For her weekly one-on-one with a peer, where they only talk through status, they agree to switch to a phone call and she walks while they talk. When she presents to the regional team, she keeps the gallery small so she is not facing two dozen large staring faces, and glances at her notes the way she would in a room.",
+   "common_mistakes": [
+    "Treating fatigue as a personal weakness instead of changing view, distance and self-view settings",
+    "Leaving self-view on all day and critiquing your own face during other people's points",
+    "Defaulting to video for calls that would work as well by phone",
+    "Reading meaning into a colleague's sideways glance on your grid, when their screen layout differs from yours",
+    "Sitting rigidly centered in frame for hours, which removes the movement that helps thinking"
+   ],
+   "steps": [
+    "Shrink the video window or switch away from full-screen speaker view, or sit farther from the screen, so faces are not larger than in person",
+    "Check your framing and lighting at the start, then hide self-view",
+    "Use an external camera or keyboard if you can, so you can move back, stand, or gesture",
+    "For calls that do not need faces or a shared screen, propose audio only or a phone call",
+    "As a host, build in audio-only stretches or breaks in long sessions",
+    "Do not over-read small cues on video; ask directly if you need to know how someone is reacting"
+   ],
+   "categories": [
+    {
+     "category": "public-speaking",
+     "subcategory": "virtual"
+    },
+    {
+     "category": "written-digital",
+     "subcategory": "video-calls"
+    },
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "nonverbal"
+    }
+   ],
+   "situations": [
+    "Back-to-back video meetings",
+    "Presenting or teaching on video",
+    "Weekly one-on-one by video",
+    "Video calls with family"
+   ],
+   "source": {
+    "citation": "Bailenson, J. N. (2021). Nonverbal overload: A theoretical argument for the causes of Zoom fatigue. Technology, Mind, and Behavior, 2(1). Sections: Eye Gaze at a Close Distance; Cognitive Load; An All Day Mirror; Reduced Mobility; Conclusion.",
+    "underlying_research": "Argyle and Dean (1965) gaze and distance equilibrium; Hall (1966) personal space zones; Hinds (1999) cognitive load of video; Croes et al. (2019) people speak about 15% louder on video; Fejfar and Hoyle (2000) meta-analysis of self-awareness and negative affect; Ingram et al. (1988); Oppezzo and Schwartz (2014) walking and creativity. Follow-up evidence: Fauville, Luo, Queiroz, Lee, Bailenson and Hancock (2023), Computers in Human Behavior Reports, survey of 9,787 linking mirror anxiety, hyper-gaze, feeling trapped and cue effort to Zoom fatigue, more so for women.",
+    "urls": [
+     "https://vhil.stanford.edu/sites/g/files/sbiybj29011/files/media/file/bailenson-apa-nonverbal-overload.pdf",
+     "https://vhil.stanford.edu/publications/social-interaction/nonverbal-overload-theoretical-argument-causes-zoom-fatigue",
+     "https://vhil.stanford.edu/publications/videoconferencing/video-conferencing-usage-dynamics-and-nonverbal-mechanisms"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Credible expert theory grounded in established nonverbal and self-awareness research, with later correlational survey support from the same lab and causal support for the camera and self-presentation piece from Shockley et al. (2021). The specific remedies (smaller faces, hidden self-view, audio-only) have not been tested as interventions in the paper itself.",
+   "flags": [
+    "unreplicated"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "communicate-with-mastery-12",
+   "relation": "qualifies",
+   "note": "Bailenson agrees video strips and distorts cues, but argues that deliberately producing extra cues (exaggerated nods, looking into the camera, speaking louder) is itself a source of fatigue, so compensating should be selective and paired with settings changes and audio-only options rather than more effort on every call."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://vhil.stanford.edu/sites/g/files/sbiybj29011/files/media/file/bailenson-apa-nonverbal-overload.pdf",
+   "https://vhil.stanford.edu/publications/social-interaction/nonverbal-overload-theoretical-argument-causes-zoom-fatigue",
+   "https://vhil.stanford.edu/publications/videoconferencing/video-conferencing-usage-dynamics-and-nonverbal-mechanisms"
+  ],
+  "still_unverified": [
+   "Whether hiding self-view or shrinking faces reduces fatigue has not been tested experimentally in this paper; Fauville et al. (2023) is a correlational convenience sample",
+   "Description of the Fauville et al. sample as an online convenience sample comes from a secondary summary, not the full paper"
+  ]
+ },
+ "research_notes": "Read the full open-access PDF from Stanford VHIL and the abstract of the Fauville et al. (2023) follow-up survey. The four mechanisms and remedies in the insight come from the paper itself; the gender finding comes from the follow-up survey. Author explicitly says most arguments are hypothetical."
+}

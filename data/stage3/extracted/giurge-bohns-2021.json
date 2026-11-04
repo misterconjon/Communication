@@ -1,0 +1,117 @@
+{
+  "book": {
+    "book_id": "giurge-bohns-2021",
+    "title": "You don't need to answer right away! Receivers overestimate how quickly senders expect responses to non-urgent work emails",
+    "subtitle": "",
+    "authors": [
+      "Laura M. Giurge",
+      "Vanessa K. Bohns"
+    ],
+    "year": 2021,
+    "publisher": "Organizational Behavior and Human Decision Processes, 167, 114-128",
+    "edition": "Journal article; accepted manuscript read via LSE Research Online",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Giurge is a behavioural scientist at the London School of Economics; Bohns is a professor of organizational behavior at Cornell's ILR School who studies how people misjudge their influence on others. Published in a leading organizational behavior journal. Bohns's broader research program on perspective gaps could incline the team toward egocentrism explanations.",
+    "evidence_base": "Six main and two supplemental pre-registered experiments (N = 4,004). Study 1 used recall among public sector employees in Spain; the remaining main studies used US Prolific samples, with Studies 3 to 6 restricted to full-time employees, mostly reading hypothetical sender or receiver scenarios. Study 6 (854 US full-time employees) tested a one-line note from the sender.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://researchonline.lse.ac.uk/id/eprint/115230/1/Giurge_Bohns._2021._The_email_urgency_bias._OBHDP.pdf",
+        "note": "Open accepted manuscript (LSE Research Online), read: methods, study list, Study 6 note wording, general discussion, limitations."
+      },
+      {
+        "type": "summary",
+        "url": "https://ideas.repec.org/a/eee/jobhdp/v167y2021icp114-128.html",
+        "note": "Abstract on IDEAS/RePEc, read."
+      },
+      {
+        "type": "interview",
+        "url": "https://news.cornell.edu/node/322477",
+        "note": "Cornell Chronicle press release with Bohns quotes, read."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "id": "giurge-bohns-2021-01",
+      "name": "State Your Response Clock (Email Urgency Bias)",
+      "skill_type": "technique",
+      "explanation": "People who receive a non-urgent work email tend to assume the sender wants a reply faster than the sender actually does. Giurge and Bohns call this the email urgency bias. It showed up across eight pre-registered studies, was clearest for emails sent outside normal working hours (evenings, weekends), and sometimes appeared during the workday too. Receivers felt more stress than senders predicted, and the bias was linked to lower well-being through that stress. Even when participants were told the email was non-urgent, receivers still overestimated the expected speed; a short note from the sender saying the matter is not urgent and can wait brought receivers' expectations in line with senders'. The practical takeaway runs both ways: as a sender, state your actual response timeline in the message, especially when you write after hours; as a receiver, assume a non-urgent off-hours message can wait, or ask, rather than replying by reflex. Limits: most studies used hypothetical scenarios or recall rather than real inboxes, all come from one research team, and power differences between sender and receiver were not tested.",
+      "when_to_use": "Sending work email or chat messages in the evening, on weekends, or across time zones; managers writing to direct reports; any non-urgent request that could be read as needing an immediate answer.",
+      "worked_example": "A director clears her inbox on Sunday night and sends a direct report a question about next quarter's budget. Knowing that the report will likely assume she wants an answer tonight, she adds: 'Not urgent: anytime this week is fine.' The report reads it Sunday, relaxes, and replies Tuesday. On the receiving side, when a friend from the board of their kids' school league texts a planning question at 10pm, the director replies the next morning instead of feeling she must answer before bed.",
+      "common_mistakes": [
+        "Assuming your lack of urgency is obvious because you know you do not need an answer yet",
+        "Sending after-hours messages with no timeline, especially to people who report to you",
+        "Answering every off-hours message immediately, which teaches others to expect it",
+        "Relying only on scheduling tools without stating expectations when you do send"
+      ],
+      "steps": [
+        "Before sending, decide when you actually need a reply",
+        "Write it in the message: a date, 'no rush', or 'reply when you are back on Monday'",
+        "For truly urgent items, say so and say why, so 'urgent' keeps its meaning",
+        "As a receiver, if no timeline is given on a non-urgent after-hours message, default to replying in working hours or ask"
+      ],
+      "categories": [
+        {
+          "category": "written-digital",
+          "subcategory": "async"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "chat"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        }
+      ],
+      "situations": [
+        "Sending a work email on a weekend",
+        "A manager messaging a direct report after hours",
+        "Working across time zones",
+        "Feeling pressure to answer a late-night message"
+      ],
+      "source": {
+        "citation": "Giurge, L. M., and Bohns, V. K. (2021). You don't need to answer right away! Receivers overestimate how quickly senders expect responses to non-urgent work emails. Organizational Behavior and Human Decision Processes, 167, 114-128.",
+        "underlying_research": "Eight pre-registered experiments (N = 4,004); Study 6 (854 US full-time employees) tested the note 'This is not an urgent matter so you can get to it whenever you can.' Theory draws on boundary theory and egocentrism research.",
+        "urls": [
+          "https://doi.org/10.1016/j.obhdp.2021.08.002",
+          "https://researchonline.lse.ac.uk/id/eprint/115230/1/Giurge_Bohns._2021._The_email_urgency_bias._OBHDP.pdf",
+          "https://ideas.repec.org/a/eee/jobhdp/v167y2021icp114-128.html",
+          "https://news.cornell.edu/node/322477"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The bias replicated across eight pre-registered studies in a top journal, but all from one team, mostly scenario-based, with outcomes measured as expectations and perceived stress rather than real behavior over time. The note remedy was tested in one study. Moderation by after-hours timing was found in some studies but not all. Rated Medium.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "supercommunicators-12",
+      "relation": "supports",
+      "note": "Adds a specific case of making the implicit explicit in digital channels: receivers infer more urgency than senders intend, and an explicit note about timing corrects it (Giurge and Bohns 2021, Study 6)."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://researchonline.lse.ac.uk/id/eprint/115230/1/Giurge_Bohns._2021._The_email_urgency_bias._OBHDP.pdf",
+      "https://ideas.repec.org/a/eee/jobhdp/v167y2021icp114-128.html",
+      "https://news.cornell.edu/node/322477"
+    ],
+    "still_unverified": [
+      "Whether the bias holds in live workplace inboxes over time (authors call for longitudinal tests)",
+      "Whether sender power moderates the bias (untested)"
+    ]
+  },
+  "research_notes": "Read the open accepted manuscript in full for methods, Study 6, general discussion and limitations, plus the abstract and Cornell press release. Study 1 sampled public sector employees in Spain; the other main studies used US participants, which fits the US scope. The ScienceDirect version was not read."
+}

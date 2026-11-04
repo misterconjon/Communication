@@ -1,0 +1,80 @@
+{
+  "book": {
+    "book_id": "kalla-broockman-2020",
+    "title": "Reducing Exclusionary Attitudes Through Interpersonal Conversation: Evidence From Three Field Experiments",
+    "subtitle": "",
+    "authors": ["Joshua L. Kalla", "David E. Broockman"],
+    "year": 2020,
+    "publisher": "American Political Science Review (Cambridge University Press), 114(2), 410-425",
+    "edition": "Journal article; DOI 10.1017/S0003055419000923",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Kalla (Yale) and Broockman (UC Berkeley) are political scientists known for pre-registered, transparent field experiments; they exposed the fabricated 2014 LaCour canvassing study before running valid versions of their own. Published in the flagship political science journal, with replication data posted publicly.",
+    "evidence_base": "Three pre-registered randomized field experiments in which 230 canvassers held door-to-door conversations with 6,869 voters across 7 US locations, targeting attitudes toward unauthorized immigrants and transgender people. Outcomes measured by follow-up surveys for months afterward.",
+    "legal_access": [
+      {"type": "summary", "url": "https://isps.yale.edu/research/publications/isps20-01", "note": "Yale ISPS page with full abstract and link to the open preprint (read 2026-11-04)."},
+      {"type": "summary", "url": "https://econpapers.repec.org/RePEc:cup:apsrev:v:114:y:2020:i:2:p:410-425_8", "note": "Bibliographic record."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "kalla-broockman-2020-01",
+      "name": "Trade Stories, Not Just Arguments",
+      "skill_type": "technique",
+      "explanation": "When someone holds a firm view on a charged topic, adding more arguments rarely moves them. In three pre-registered field experiments with nearly 7,000 US voters, door-to-door conversations that relied on arguments alone had no measurable effect on attitudes. Otherwise identical conversations that also included a non-judgmental exchange of personal stories (the canvasser asking about the voter's own relevant experience, listening, and sharing a story of their own) produced reductions in exclusionary attitudes that lasted at least four months. The effects were small per conversation (standardized differences of about 0.04 to 0.08), so the realistic goal of one talk is a modest, durable shift, not a conversion. The practical lesson for everyday persuasion on value-laden topics: ask for the other person's experience, listen without judging, and share a concrete story of your own, rather than escalating the case.",
+      "when_to_use": "Conversations where the other person has a settled, identity-linked view: a relative's stance on a social issue, a colleague's skepticism about an inclusion initiative, a team member who distrusts a policy change.",
+      "worked_example": "An HR partner is talking with a veteran plant supervisor who thinks a new flexible-scheduling policy for caregivers is unfair to everyone else. Instead of restating the business case for the third time, she asks whether he has ever had to juggle work around a family member's needs. He describes covering night shifts while his wife was ill and how one manager quietly let him swap days. She listens, reflects that it mattered, and shares her own experience of a colleague who nearly quit while caring for a parent. He does not endorse the policy on the spot, but he says he will give it a trial on his line. At a holiday dinner, someone uses the same approach with an uncle on immigration, asking about his grandparents' arrival story before saying anything about policy.",
+      "common_mistakes": [
+        "Treating the story exchange as a setup for a lecture, which makes it feel judgmental",
+        "Expecting one conversation to flip a view; effects are real but small",
+        "Sharing only your own story without first asking for theirs",
+        "Using the technique on a topic where you have not actually listened to their reasons"
+      ],
+      "steps": [
+        "Ask for their current view and listen without rebutting",
+        "Ask about a relevant experience in their own life (a time they needed understanding, were treated unfairly, or helped someone)",
+        "Reflect what you heard and what it seems to mean to them",
+        "Share a brief, concrete story of your own or of someone you know that connects to the issue",
+        "Invite them to consider the issue in light of both stories, and accept a small shift as success"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "conversations", "subcategory": "storytelling"},
+        {"category": "relationships", "subcategory": "empathy"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "situations": [
+        "Talking with a relative about a charged social issue",
+        "Winning over a skeptic of an inclusion initiative",
+        "Discussing a contested policy change with a veteran employee"
+      ],
+      "source": {
+        "citation": "Kalla and Broockman (2020), Reducing Exclusionary Attitudes Through Interpersonal Conversation: Evidence From Three Field Experiments, American Political Science Review 114(2), 410-425",
+        "underlying_research": "Builds on Broockman and Kalla (2016, Science) deep canvassing study. Experiment 1: arguments-only conversations had no effect; adding narrative exchange gave d = 0.08 lasting at least four months. Experiments 2 and 3 (transphobia) replicated with d = 0.08 and 0.04.",
+        "urls": [
+          "https://isps.yale.edu/research/publications/isps20-01"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Pre-registered, randomized, large-sample field experiments with internal replication. Limits: effects are small, the setting is political and social attitudes with trained canvassers, and transfer to workplace decisions is plausible but untested.",
+      "flags": ["none"]
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "how-to-know-a-person-06", "relation": "supports", "note": "Field-experimental support for asking about the other person's experience rather than only imagining it: conversations that exchanged personal narratives durably reduced exclusionary attitudes, while arguments alone had no effect (Kalla and Broockman 2020, three pre-registered experiments, about 6,900 voters)."},
+    {"insight_id": "supercommunicators-11", "relation": "supports", "note": "Adds rigorous evidence that non-judgmental listening and story exchange, not argument, is what moves people in heated disagreements, with the caveat that per-conversation effects are small (d about 0.04 to 0.08)."},
+    {"insight_id": "talk-wood-brooks-09", "relation": "supports", "note": "Receptive, non-judgmental engagement in disagreement produced durable attitude change in the field, whereas argument-only versions of the same conversation did not."}
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://isps.yale.edu/research/publications/isps20-01"
+    ],
+    "still_unverified": [
+      "Exact conversation script elements (for example whether canvassers always shared their own story first or asked for the voter's first); the insight describes the narrative exchange at the level stated in the abstract.",
+      "Full paper and preprint not read in this session."
+    ]
+  },
+  "research_notes": "Read the full abstract on the Yale ISPS page. Did not read the full preprint. Effect sizes and sample sizes come from the abstract."
+}

@@ -1,0 +1,80 @@
+{
+  "book": {
+    "book_id": "feeley-anker-aloe-2012",
+    "title": "The Door-in-the-Face Persuasive Message Strategy: A Meta-Analysis of the First 35 Years",
+    "subtitle": "",
+    "authors": ["Thomas Hugh Feeley", "Ashley E. Anker", "Ariel M. Aloe"],
+    "year": 2012,
+    "publisher": "Communication Monographs (Taylor and Francis), 79(3), 316-343",
+    "edition": "Journal article; DOI 10.1080/03637751.2012.697631",
+    "isbn": "",
+    "source_type": "meta-analysis",
+    "core": false,
+    "author_credibility": "Feeley is a professor of communication at the University at Buffalo who studies persuasion and health communication; Aloe is a meta-analysis methodologist (University of Iowa). Published in a leading peer-reviewed communication journal. No commercial stake in the technique is apparent.",
+    "evidence_base": "Random-effects meta-analysis of door-in-the-face studies from roughly 1975 to 2010: 78 effect sizes for verbal compliance and 39 for behavioral compliance. Many primary studies are older, short, lab or campus requests, often prosocial (volunteering, donating), so transfer to workplace requests is an extrapolation.",
+    "legal_access": [
+      {"type": "summary", "url": "https://iro.uiowa.edu/esploro/outputs/journalArticle/The-Door-in-the-Face-Persuasive-Message-Strategy-A/9984371078502771", "note": "University of Iowa research portal record with the abstract (page shell fetched 2026-11-04; abstract figures confirmed through search snippets of this record)."},
+      {"type": "summary", "url": "https://www.tandfonline.com/doi/abs/10.1080/03637751.2012.697631", "note": "Publisher abstract page; full text paywalled."},
+      {"type": "summary", "url": "https://www.buffalo.edu/ubreporter/archive/2012_11_01/feeley_ditf.html", "note": "University at Buffalo news summary; returned 403 to direct fetch, known only through search snippets."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "feeley-anker-aloe-2012-01",
+      "name": "A Retreat Wins a Yes, Not Always a Follow-Through",
+      "skill_type": "mental model",
+      "explanation": "The door-in-the-face tactic means making a large request that is likely to be refused and then retreating to the smaller request you actually want. The retreat feels like a concession, and people tend to reciprocate by agreeing to the second ask. A meta-analysis of 35 years of studies found that this reliably but modestly raises verbal agreement (about r = .13 across 78 effects), while its effect on actually doing the thing (showing up, giving, completing the task) was small and not statistically significant (about r = .05 across 39 effects). The effect also shrank in tougher contexts where few people would comply anyway. The practical takeaway: a concession can open a door, but a spoken yes obtained this way is a weak predictor of action, so pair it with a concrete commitment and follow-up. Only open with a larger request you would genuinely welcome, since an inflated first ask that is later exposed damages trust.",
+      "when_to_use": "When you are about to scale back a request in a negotiation, a volunteer drive, or a resourcing conversation, and when you are judging how much to rely on someone's verbal agreement after you have conceded.",
+      "worked_example": "A team lead asks a peer manager to lend two engineers for a full quarter. The peer says no. The lead then asks for one engineer for three weeks to finish the integration, and the peer agrees in the meeting. Knowing that a verbal yes after a concession often fades, the lead immediately proposes a name and a start date, sends a two-line confirmation email that afternoon, and books a short check-in for the first day. At home, a parent who scales back from asking a teenager to clean the whole garage to just clearing the bikes area gets a quick yes and then agrees on a specific time (Saturday at 10) rather than leaving it open.",
+      "common_mistakes": [
+        "Treating a yes won through a concession as a firm commitment",
+        "Opening with a deliberately absurd first request, which reads as manipulation once noticed",
+        "Expecting the tactic to work when compliance is already hard to get; the effect weakens in tough contexts",
+        "Using it repeatedly with the same person, who learns the pattern"
+      ],
+      "steps": [
+        "Make your larger request only if you would genuinely accept it",
+        "If it is declined, retreat openly to the smaller request and name it as a scaled-back version",
+        "When they agree, convert the yes into specifics on the spot: who, what, by when",
+        "Confirm in writing and set a near-term check-in",
+        "Judge the tactic by what gets done, not by what was agreed in the room"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "reciprocity"},
+        {"category": "professional", "subcategory": "negotiation"},
+        {"category": "influence", "subcategory": "persuasive-structure"}
+      ],
+      "situations": [
+        "Scaling back a staffing or budget request",
+        "Recruiting volunteers after an initial refusal",
+        "Negotiating chores with a teenager",
+        "Deciding how far to trust a verbal agreement"
+      ],
+      "source": {
+        "citation": "Feeley, Anker and Aloe (2012), The Door-in-the-Face Persuasive Message Strategy: A Meta-Analysis of the First 35 Years, Communication Monographs 79(3), 316-343",
+        "underlying_research": "Original technique from Cialdini et al. (1975). Meta-analytic estimates: verbal compliance k = 78, r = .126 (significant); behavioral compliance k = 39, r = .052 (not significant). Baseline toughness of donation contexts negatively predicted effect size for both outcomes.",
+        "urls": [
+          "https://iro.uiowa.edu/esploro/outputs/journalArticle/The-Door-in-the-Face-Persuasive-Message-Strategy-A/9984371078502771",
+          "https://www.tandfonline.com/doi/abs/10.1080/03637751.2012.697631"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Large meta-analysis in a top communication journal; the core contrast (reliable small verbal effect, negligible behavioral effect) is the summary estimate itself. The recommendation to lock in a concrete commitment is my practical extrapolation, and the primary studies are mostly older prosocial requests rather than workplace asks.",
+      "flags": ["none"]
+    }
+  ],
+  "supports_existing": [],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://iro.uiowa.edu/esploro/outputs/journalArticle/The-Door-in-the-Face-Persuasive-Message-Strategy-A/9984371078502771",
+      "https://www.tandfonline.com/doi/abs/10.1080/03637751.2012.697631"
+    ],
+    "still_unverified": [
+      "The Stage 3 candidate note gave the behavioral effect as about r = .13; the abstract reports r = .052 (not significant) for behavior and r = .126 for verbal compliance. The abstract figures are used here.",
+      "Whether the authors explicitly interpret the moderator pattern through social responsibility theory (one search snippet says so); not stated in the insight.",
+      "Full text not read; publication bias analyses not checked."
+    ]
+  },
+  "research_notes": "Read the abstract via the University of Iowa repository record and search snippets of the Taylor and Francis abstract. University at Buffalo news pages and Medical Xpress returned 403/400. Full text paywalled and not read."
+}

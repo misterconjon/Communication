@@ -1,0 +1,58 @@
+{
+ "book": {
+  "book_id": "korner-body-position-meta",
+  "title": "Dominance and Prestige: Meta-Analytic Review of Experimentally Induced Body Position Effects on Behavioral, Self-Report, and Physiological Dependent Variables",
+  "subtitle": "",
+  "authors": [
+   "Robert Körner",
+   "Lukas Röseler",
+   "Astrid Schütz",
+   "Brad J. Bushman"
+  ],
+  "year": 2022,
+  "publisher": "American Psychological Association (Psychological Bulletin 148(1-2), 67-85)",
+  "edition": "doi 10.1037/bul0000356",
+  "isbn": "",
+  "author_credibility": "Published in Psychological Bulletin, the leading review journal in psychology. Bushman is a highly cited social psychologist; Körner, Röseler and Schütz (Bamberg, Halle) research body posture and self-perception and have published critical commentary on earlier posture meta-analyses. Preregistered, with an open web app for updating results.",
+  "evidence_base": "Preregistered meta-analysis of 313 effects from 88 studies (9,779 participants), published and unpublished. Overall effect of body positions g = 0.35 (95% CI 0.28 to 0.42). Both expansive poses (dominance) and upright postures (prestige) affected self-report and behavioral measures but not physiological ones (for example testosterone and cortisol). Behavioral effects were sensitive to publication bias or outliers. Effects were noticeably larger in studies without cover stories and in within-subject designs, suggesting demand characteristics may partly explain them. Most studies lacked a neutral control condition, so it is unclear whether upright postures help or slumped ones hurt. Sex, student status and individualistic versus collectivistic culture did not moderate effects.",
+  "legal_access": [
+   {
+    "type": "summary",
+    "url": "https://neurosciencenews.com/dominant-stance-confidence-20591/",
+    "note": "Article reproducing the paper's abstract and the university press release"
+   },
+   {
+    "type": "summary",
+    "url": "https://idw-online.de/en/news793807",
+    "note": "University of Halle press release via idw"
+   }
+  ],
+  "source_type": "meta-analysis",
+  "core": false
+ },
+ "insights": [],
+ "supports_existing": [
+  {
+   "insight_id": "communicate-with-mastery-19",
+   "relation": "qualifies",
+   "note": "An 88-study preregistered meta-analysis found upright or expansive postures produce a small-to-moderate lift in self-reported feelings (overall g = 0.35) but no hormone effects, fragile behavioral effects, and signs that demand characteristics inflate results. So an open posture is a harmless confidence nudge before speaking, not a proven performance hack; the excitement reappraisal and rehearsal remain the better-supported tools."
+  },
+  {
+   "insight_id": "communicate-with-mastery-17",
+   "relation": "qualifies",
+   "note": "Supports a stable, upright stance as something that may help speakers feel more confident, but the meta-analysis finds no reliable physiological effect and weak evidence for behavior change, so stance advice should be justified by how it looks to the audience and how it feels to the speaker, not by claims about hormones."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://neurosciencenews.com/dominant-stance-confidence-20591/",
+   "https://idw-online.de/en/news793807"
+  ],
+  "still_unverified": [
+   "Separate effect sizes for self-report versus behavioral outcomes (full paper not read)",
+   "Uni-Bamberg press page listed in candidate assessment was not re-read in this session"
+  ]
+ },
+ "research_notes": "Read the paper's abstract as reproduced by Neuroscience News and the Halle University press release on idw. EurekAlert returned 403 and the Bamberg repository returned 503. No new insight added: the source mainly corrects and qualifies the existing posture advice in communicate-with-mastery-19 rather than adding a distinct technique."
+}

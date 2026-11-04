@@ -1,0 +1,114 @@
+{
+ "book": {
+  "book_id": "bitterly-schweitzer-deflection",
+  "title": "The Economic and Interpersonal Consequences of Deflecting Direct Questions",
+  "subtitle": "",
+  "authors": [
+   "T. Bradford Bitterly",
+   "Maurice E. Schweitzer"
+  ],
+  "year": 2020,
+  "publisher": "American Psychological Association (Journal of Personality and Social Psychology 118(5), 945-990)",
+  "edition": "doi 10.1037/pspi0000200",
+  "isbn": "",
+  "author_credibility": "Schweitzer is a Wharton professor with a long research record on trust, deception and negotiation; Bitterly is a management researcher (now HKUST, previously Michigan) who also coauthored humor research. Published in a top social psychology journal. No obvious commercial conflict.",
+  "evidence_base": "Eight experiments, mostly online participants reading or reacting to scripted negotiation and interview exchanges (for example a buyer asked whether they own other pieces from an art collection). Responses compared: honest disclosure, declining to answer, lying, paltering, dodging, and deflection (answering a question with a question). Deflection caused less reputational harm than detected deception and less interpersonal harm than declining; in some cases it beat honest disclosure on both interpersonal and economic outcomes. Mechanism: observers infer a motive to seek information rather than hide it. Settings are scenarios, not live audience Q&A.",
+  "legal_access": [
+   {
+    "type": "summary",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31318228/",
+    "note": "PubMed abstract read via NCBI E-utilities"
+   },
+   {
+    "type": "summary",
+    "url": "https://bm.hkust.edu.hk/bizinsight/2022/07/deflecting-difficult-questions-interviews",
+    "note": "HKUST Business School research summary"
+   },
+   {
+    "type": "summary",
+    "url": "https://www.pon.harvard.edu/daily/business-negotiations/how-to-respond-to-the-toughest-questions-nb/",
+    "note": "Harvard Program on Negotiation article summarizing the studies"
+   }
+  ],
+  "source_type": "peer-reviewed paper",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "bitterly-schweitzer-deflection-01",
+   "name": "Deflect a Loaded Question With a Relevant Question",
+   "skill_type": "technique",
+   "explanation": "Some direct questions put you in a bind: answering honestly costs you, saying you would rather not answer makes you look cagey and less likable, and lying is a serious risk if it comes out. Across eight experiments, a fourth option worked better on balance: respond with a genuine, on-topic question of your own. In negotiation scenarios, people who deflected got better economic outcomes than those who disclosed honestly, and were trusted and liked more than those who declined to answer; outright lies sometimes paid off economically but cost far more trust once detected. Deflection works because listeners read it as curiosity, a wish to get information, rather than concealment, so the question has to be relevant and sincere. The practical takeaway: for questions that probe information you are entitled to keep private (other offers, salary history, family plans), prepare a natural follow-up question in advance. Limits: the evidence comes from scripted scenarios with online participants rather than live audiences, and it is one research team. It is a tool for protecting legitimate privacy and bargaining position, not for hiding facts a listener has a right to know.",
+   "when_to_use": "Job interviews and salary talks, vendor or client negotiations, and Q&A where someone asks for confidential or personal information you are not obliged to share.",
+   "worked_example": "In a final-round interview, the hiring manager asks whether the candidate has other offers. She has none yet and does not want to weaken her position. Rather than saying she would prefer not to say, or hinting at offers she does not have, she replies with interest, 'Can you tell me how you see the timeline for a decision on your side?' The manager walks through the process, and the conversation moves on without the candidate disclosing or inventing anything. At a family gathering, when an aunt asks when she and her partner plan to have kids, she smiles and asks, 'Are you hoping for more little ones at these get-togethers?' and the aunt starts talking about her own grandchildren.",
+   "common_mistakes": [
+    "Deflecting with an off-topic or evasive question that reads as stonewalling",
+    "Using deflection to hide something the other person has a legitimate right to know",
+    "Flatly refusing ('I'd rather not say'), which costs trust and liking",
+    "Lying or paltering, which may help in the moment but costs much more if discovered",
+    "Improvising under pressure instead of preparing likely tough questions and follow-ups in advance"
+   ],
+   "steps": [
+    "List the direct questions you expect but should not answer fully (offers, current pay, internal numbers, personal plans)",
+    "Decide for each whether withholding is legitimate; if the asker has a right to know, answer honestly",
+    "Prepare a sincere, relevant question that moves toward information you both need",
+    "Deliver it in a curious, friendly tone rather than a defensive one",
+    "Listen to the answer and continue the conversation from there"
+   ],
+   "categories": [
+    {
+     "category": "public-speaking",
+     "subcategory": "qa"
+    },
+    {
+     "category": "professional",
+     "subcategory": "negotiation"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "boundaries"
+    }
+   ],
+   "situations": [
+    "Being asked about other job offers",
+    "Being asked about current salary",
+    "A client asking for your lowest price",
+    "A personal question at a family event"
+   ],
+   "source": {
+    "citation": "Bitterly, T. B., and Schweitzer, M. E. (2020). The economic and interpersonal consequences of deflecting direct questions. Journal of Personality and Social Psychology, 118(5), 945-990.",
+    "underlying_research": "Eight experiments comparing deflection, disclosure, declining, lying, paltering and dodging; mechanism via inferred communication motive (seeking versus hiding information).",
+    "urls": [
+     "https://pubmed.ncbi.nlm.nih.gov/31318228/",
+     "https://bm.hkust.edu.hk/bizinsight/2022/07/deflecting-difficult-questions-interviews",
+     "https://www.pon.harvard.edu/daily/business-negotiations/how-to-respond-to-the-toughest-questions-nb/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Consistent results across eight experiments in a top journal, but one research team, mostly vignette and online negotiation settings, and no independent replication; transfer to live Q&A is an inference.",
+   "flags": [
+    "unreplicated"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "think-faster-talk-smarter-11",
+   "relation": "qualifies",
+   "note": "ADD assumes you can answer the question; this research covers the case where a direct answer would hurt you, showing that a relevant question in return costs less trust than declining and less reputation than a detected lie."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://pubmed.ncbi.nlm.nih.gov/31318228/",
+   "https://bm.hkust.edu.hk/bizinsight/2022/07/deflecting-difficult-questions-interviews",
+   "https://www.pon.harvard.edu/daily/business-negotiations/how-to-respond-to-the-toughest-questions-nb/"
+  ],
+  "still_unverified": [
+   "Per-study sample sizes and effect sizes (full paper not read)",
+   "The HKUST summary figure that 76.9% of sellers were put at a disadvantage was not checked against the paper and is not used"
+  ]
+ },
+ "research_notes": "Read the PubMed abstract and two reputable research summaries (HKUST, Harvard PON). The full paper is paywalled. The finding that deflection sometimes beats honest disclosure includes questions about past untrustworthy behavior, which raises an ethical concern I flag in the insight."
+}

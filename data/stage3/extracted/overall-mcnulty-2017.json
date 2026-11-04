@@ -1,0 +1,165 @@
+{
+  "book": {
+    "book_id": "overall-mcnulty-2017",
+    "title": "What type of communication during conflict is beneficial for intimate relationships?",
+    "subtitle": "",
+    "authors": [
+      "Nickola C. Overall",
+      "James K. McNulty"
+    ],
+    "year": 2017,
+    "publisher": "Current Opinion in Psychology (Elsevier), volume 13, pages 1 to 5",
+    "edition": "",
+    "isbn": "",
+    "author_credibility": "Overall (University of Auckland) and McNulty (Florida State University) are prominent relationship scientists whose longitudinal and observational couples studies are widely cited. They review largely their own labs' work, which is a mild source of bias, but the two programs are independent and converge.",
+    "evidence_base": "Short peer-reviewed review of longitudinal and observational couples studies, including Overall et al. (2009) on which communication types change problems over a year and McNulty and Russell (2010) on problem severity. Mostly heterosexual couples in New Zealand and the US; moderators are still being tested.",
+    "legal_access": [
+      {
+        "type": "author excerpt",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5181851/",
+        "note": "Open-access author manuscript on PMC; read in full."
+      }
+    ],
+    "source_type": "review article",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "overall-mcnulty-2017-01",
+      "name": "Match Directness to the Problem",
+      "skill_type": "framework",
+      "explanation": "There is no single best way to fight. Overall and McNulty sort conflict communication on two dimensions: whether it expresses opposition or cooperation, and whether it is direct or indirect. Their review finds that directness is what produces change: directly naming a problem and asking for change (even with visible frustration) predicted partners actually improving the problem over the following year and, through that, greater satisfaction, whereas indirect, tactful approaches often signaled that change was unnecessary. But context decides whether directness helps. Direct opposition works when the problem is serious and the partner is able to change; it backfires when the problem is minor (it feels unnecessarily harsh) or when the partner lacks the confidence or capacity to respond, for example when depressed. Warm, validating, softening communication is the better choice for minor or unchangeable issues and for partners who become defensive or withdraw, but it can let serious problems fester. The practical rule: be clearly direct about serious, fixable problems, and lead with warmth for small ones, unchangeable ones, or when the other person is fragile.",
+      "when_to_use": "Before raising a problem with a partner or other close person: decide how serious and changeable it is and how able the other person is to respond right now.",
+      "worked_example": "A partner has been drinking more each week and it is starting to affect their child care. A soft hint ('maybe we could have a dry January?') has gone nowhere for months. The other partner says plainly: 'I'm worried about how much you're drinking. It's affecting the kids and I need it to change.' It is uncomfortable, but it is serious and changeable. By contrast, the same person decides that their partner's habit of leaving cupboard doors open is minor and mostly unchangeable, and handles it with a joke and acceptance. When the drinking partner is in a depressive slump, they shift to warmth and help finding support rather than more pressure.",
+      "common_mistakes": [
+        "Applying one rule (always be gentle, or always be blunt) to every problem",
+        "Hinting for months about something serious and concluding the partner does not care",
+        "Bringing full-strength confrontation to a minor irritation",
+        "Pressing hard when the partner is depressed or overwhelmed and cannot act on it",
+        "Mistaking directness for contempt; direct means clear about the problem, not insulting"
+      ],
+      "steps": [
+        "Ask how serious the problem is and whether the other person can actually change it",
+        "For serious, changeable problems: state the problem and the change you need, plainly",
+        "For minor or unchangeable issues: lean on warmth, humor and acceptance",
+        "If the other person is fragile, depressed or very defensive, soften first and support their capacity to change",
+        "Check over the following weeks whether the problem is actually improving, and adjust"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
+      ],
+      "situations": [
+        "Raising a partner's drinking or spending",
+        "Deciding whether to mention a small irritating habit",
+        "Confronting an adult family member about a serious pattern"
+      ],
+      "source": {
+        "citation": "Overall and McNulty (2017), What type of communication during conflict is beneficial for intimate relationships? Current Opinion in Psychology 13, 1 to 5",
+        "underlying_research": "Overall, Fletcher, Simpson and Sibley (2009, JPSP) on communication types predicting problem change across a year; McNulty and Russell (2010, JPSP) on direct opposition helping with serious but harming with minor problems; Baker and McNulty on depression as a moderator.",
+        "urls": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5181851/",
+          "https://doi.org/10.1016/j.copsyc.2016.03.002"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "Peer-reviewed review of longitudinal and observational studies from two independent labs that converge on the core finding that direct communication drives change and that context moderates its effect on satisfaction. Limits: mostly couples data, brief format, and several moderators are supported by single studies.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "overall-mcnulty-2017-02",
+      "name": "Guilt Trips Buy Reassurance, Not Change",
+      "skill_type": "mental model",
+      "explanation": "Indirect opposition (sulking, inducing guilt, appealing to how hurt you are) feels safer than asking directly, but the research Overall and McNulty review found it was ineffective at getting problems solved. People who feel insecure in a relationship use guilt induction more, and it can work in the short term to win reassurance that the partner still cares. The cost is that the actual problem stays unaddressed, the partner becomes increasingly dissatisfied, and partners who value independence push back harder against guilt appeals, which lowers problem resolution further. If you notice you are trying to make someone feel bad rather than telling them what you want, the fix is to separate the two needs: ask for reassurance directly if that is what you need, and ask for the specific change directly if that is what you need.",
+      "when_to_use": "When you catch yourself sighing pointedly, going quiet, or saying 'it's fine' when it is not; when you are on the receiving end of repeated guilt appeals.",
+      "worked_example": "A woman feels hurt that her partner keeps making weekend plans with his friends. Her habit is to go quiet and say 'Have fun, I'll just be here.' He feels guilty, stays home resentfully, and the pattern repeats. She tries a direct version: 'I miss you on weekends. Can we keep Saturdays for us at least twice a month? And honestly, I also just need to hear that you like spending time with me.' He agrees to the schedule and is relieved to know what she actually wants. The same applies to a parent who guilt-trips an adult child about visiting.",
+      "common_mistakes": [
+        "Believing that a hint or a hurt silence is clearer than it is",
+        "Using guilt to test whether the other person cares",
+        "Responding to a guilt appeal with withdrawal instead of asking what the person wants",
+        "Confusing a request for reassurance with a request for change"
+      ],
+      "steps": [
+        "Notice when you are trying to make someone feel bad instead of saying what you want",
+        "Name the specific change you want, directly",
+        "If you need reassurance, ask for it directly as well",
+        "When on the receiving end, ask 'what would you like me to do?' rather than defending"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
+      ],
+      "situations": [
+        "Partner making plans without you",
+        "Parent guilt-tripping about visits",
+        "Friend sulking after being left out"
+      ],
+      "source": {
+        "citation": "Overall and McNulty (2017), What type of communication during conflict is beneficial for intimate relationships? Current Opinion in Psychology 13, 1 to 5",
+        "underlying_research": "Overall et al. (2009) and Overall, Girme, Lemay and Hammond (2014, JPSP) on guilt induction, attachment anxiety and avoidant partners' resistance.",
+        "urls": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5181851/",
+          "https://doi.org/10.1016/j.copsyc.2016.03.002"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Findings come mainly from Overall's lab with couples samples and are summarized in a brief review; consistent but not yet widely replicated outside that program.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "connect-05",
+      "relation": "qualifies",
+      "note": "Raising issues directly is supported for serious, changeable problems, but direct opposition over minor irritations can feel unnecessarily harsh and lower satisfaction (McNulty and Russell, 2010); for small pinches, the light, proportional tone in that insight matters."
+    },
+    {
+      "insight_id": "gottman-seven-principles-01",
+      "relation": "qualifies",
+      "note": "Gentle start-up is not always best: longitudinal studies show direct, even negative, engagement predicts more problem change for serious issues, while softening can let serious problems persist."
+    },
+    {
+      "insight_id": "talk-wood-brooks-09",
+      "relation": "qualifies",
+      "note": "Receptive, validating communication is most useful for minor or unchangeable issues and with defensive partners; for serious changeable problems in close relationships, too much softening can reduce change."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5181851/"
+    ],
+    "still_unverified": [
+      "Full bibliographic details of the underlying studies (Overall et al. 2009; McNulty and Russell 2010; Overall, Girme, Lemay and Hammond 2014; Baker and McNulty) were taken from memory and the review text, not checked against the reference list"
+    ]
+  },
+  "research_notes": "Read the full author manuscript on PMC. Couples-focused; extension to family and friendships is my reasonable generalization, labeled via secondary categories."
+}

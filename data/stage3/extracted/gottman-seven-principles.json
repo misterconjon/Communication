@@ -1,0 +1,373 @@
+{
+  "book": {
+    "book_id": "gottman-seven-principles",
+    "title": "The Seven Principles for Making Marriage Work",
+    "subtitle": "A Practical Guide from the Country's Foremost Relationship Expert (revised edition)",
+    "authors": [
+      "John M. Gottman",
+      "Nan Silver"
+    ],
+    "year": 2015,
+    "publisher": "Harmony Books (Penguin Random House)",
+    "edition": "Revised edition, 2015 (original 1999)",
+    "isbn": "9780553447712",
+    "author_credibility": "Gottman is professor emeritus of psychology at the University of Washington and ran long-running observational studies of couples (the 'Love Lab') with many peer-reviewed papers, including Gottman, Coan, Carrere and Swanson (1998) and Driver and Gottman (2004). Nan Silver is a science journalist. Gottman co-founded the commercial Gottman Institute, which sells workshops and therapist training based on these ideas, a conflict of interest worth noting.",
+    "evidence_base": "Translates decades of observational, physiological and longitudinal couples research into exercises. The basic associations (contempt, criticism, defensiveness and stonewalling predict worse outcomes; everyday positivity cushions conflict) are broadly consistent with other labs. The headline divorce-prediction accuracy figures were fit in-sample, and Heyman and Slep (2001) showed such accuracy drops sharply under cross-validation. The seven-principle program as a package has not been tested in independent randomized trials, and specific numbers (the 5 to 1 ratio, 69 percent perpetual problems, 86 versus 33 percent turning toward) come from Gottman's own samples.",
+    "legal_access": [
+      {
+        "type": "summary",
+        "url": "https://www.porchlightbooks.com/products/seven-principles-for-making-marriage-work-john-gottman-9780553447712",
+        "note": "Retailer listing with publisher description and the seven principle headings; read."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.gottman.com/blog/the-four-horsemen-the-antidotes/",
+        "note": "Gottman Institute article on the Four Horsemen antidotes (gentle start-up, appreciation, responsibility, self-soothing); read in full."
+      },
+      {
+        "type": "author excerpt",
+        "url": "https://www.gottman.com/blog/turn-toward-instead-of-away/",
+        "note": "Gottman Institute article on bids and turning toward, with the 86 versus 33 percent newlywed figure; read."
+      },
+      {
+        "type": "summary",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1622921/",
+        "note": "Heyman and Slep (2001) cross-validation critique of divorce-prediction studies, open on PMC; abstract and introduction read."
+      }
+    ],
+    "source_type": "book",
+    "core": false
+  },
+  "insights": [
+    {
+      "id": "gottman-seven-principles-01",
+      "name": "Four Horsemen and Their Antidotes",
+      "skill_type": "framework",
+      "explanation": "Gottman's research names four conflict behaviors that most reliably predict a relationship going downhill: criticism (attacking the person's character instead of naming a specific behavior), contempt (speaking from moral superiority through sarcasm, mockery, eye-rolling or name-calling), defensiveness (warding off a complaint by counterattacking or playing the innocent victim), and stonewalling (shutting down and withdrawing from the conversation). Contempt is the most corrosive. Every couple shows these sometimes; what matters is how often and whether they get interrupted. Each has a practical antidote: replace criticism with a gentle start-up (a complaint about a specific situation, framed as what you feel and what you need), replace contempt with a habit of expressed appreciation and respect, replace defensiveness by accepting responsibility for at least part of the problem, and replace stonewalling with a deliberate break to calm down.",
+      "when_to_use": "When an argument with a partner, family member or housemate keeps escalating; when you notice yourself using 'always' and 'never', rolling your eyes, or saying 'it's not my fault'; when one person goes silent mid-fight.",
+      "worked_example": "A couple keeps fighting about who handles the kids' bedtime. One partner used to open with 'You never help, you're so selfish.' She switches to: 'I'm wiped out by eight and I need a break. Could you take bedtime on weeknights?' He notices his reflex to list everything he does and instead says, 'You're right that I've been ducking it on work nights.' The same pattern works with an adult sibling who criticizes how you care for a parent: name the specific issue, own your part, skip the sarcasm.",
+      "common_mistakes": [
+        "Treating the horsemen as a verdict on the relationship rather than habits to interrupt",
+        "Dressing up criticism as an 'I feel' statement ('I feel that you're lazy')",
+        "Using humor that is really mockery and calling it a joke",
+        "Answering a complaint with your own counter-complaint",
+        "Expecting the other person to drop their horsemen first"
+      ],
+      "steps": [
+        "Notice which horseman you reach for most under stress",
+        "Start a complaint with the specific situation, what you feel, and what you need",
+        "Make a habit of saying what you appreciate, so contempt has less room to grow",
+        "When criticized, find the part that is true and say so before explaining",
+        "If you or they are shutting down, call a break rather than pushing on"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
+      ],
+      "situations": [
+        "Recurring fight with a partner about chores",
+        "Argument with an adult sibling about parent care",
+        "Tense discussion with a roommate"
+      ],
+      "source": {
+        "citation": "John M. Gottman and Nan Silver, The Seven Principles for Making Marriage Work, revised edition (Harmony, 2015), chapter 2 (how Gottman predicts divorce) and the conflict chapters; Gottman Institute, 'The Four Horsemen: The Antidotes'",
+        "underlying_research": "Gottman's observational couples studies (for example Gottman, Coan, Carrere and Swanson, 1998, Journal of Marriage and the Family 60(1), 5 to 22). Heyman and Slep (2001, Journal of Marriage and Family) showed the divorce-prediction accuracy reported in such studies falls sharply under cross-validation.",
+        "urls": [
+          "https://www.gottman.com/blog/the-four-horsemen-the-antidotes/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC1622921/",
+          "https://www.porchlightbooks.com/products/seven-principles-for-making-marriage-work-john-gottman-9780553447712"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The link between hostile, contemptuous conflict and declining satisfaction is well documented across labs, and the antidotes are sensible. But the strength of prediction was overstated in-sample (Heyman and Slep, 2001), the antidotes as a set have not been tested in independent randomized trials, and the author has a commercial interest. Overall and McNulty (2017) also show that direct negative engagement can help with serious problems, so the antidotes should not be read as 'never express anger'.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "gottman-seven-principles-02",
+      "name": "Turn Toward Bids for Connection",
+      "skill_type": "technique",
+      "explanation": "Much of a relationship's health is decided in tiny, ordinary moments rather than big conversations. A bid is any small attempt to get the other person's attention, interest, affection or help: pointing out a bird, sighing, sharing a news story, asking 'how was your call?'. You can turn toward a bid (acknowledge and engage), turn away (miss or ignore it), or turn against (respond with irritation). Gottman reports that in a six-year follow-up of newlyweds, couples who stayed married had turned toward each other's bids far more often than couples who divorced. He argues that turning away is in some ways worse than turning against, because a rebuffed bid at least keeps the exchange alive, whereas ignored bids slowly stop being made. Many bids carry a second layer: 'look at this' often means 'pay attention to me'.",
+      "when_to_use": "Everyday life with a partner, children, parents or close friends, especially when you are distracted by phones, work or fatigue.",
+      "worked_example": "While making dinner, a partner says, 'Huh, my old manager just got laid off.' The other partner, half-reading email, could grunt. Instead she looks up and asks, 'Wow, how do you feel about that?' It turns into a ten-minute talk about his own job worries. With a teenager who mentions a song in the car, a parent asks to hear it rather than saying 'turn it down'.",
+      "common_mistakes": [
+        "Waiting for big conversations to build closeness while missing small daily openings",
+        "Responding only to the literal content of a bid and missing the request underneath",
+        "Treating a busy moment as a reason to ignore rather than briefly acknowledge ('I want to hear this, give me five minutes')",
+        "Keeping score of who bids more"
+      ],
+      "steps": [
+        "Learn to spot bids, including indirect ones like sighs or offhand comments",
+        "Respond with at least a brief, warm acknowledgment",
+        "If you cannot engage now, say when you can, then follow through",
+        "Make bids yourself and say plainly when you want attention",
+        "Notice if your bids have dwindled; that is an early warning sign worth raising"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "friendships"
+        }
+      ],
+      "situations": [
+        "Distracted evenings with a partner",
+        "Connecting with a teenager",
+        "Keeping a long-distance friendship warm"
+      ],
+      "source": {
+        "citation": "John M. Gottman and Nan Silver, The Seven Principles for Making Marriage Work, revised edition (Harmony, 2015), chapter on Principle 3 (turn toward each other instead of away); Gottman Institute, 'Turn Towards Instead of Away'",
+        "underlying_research": "Driver and Gottman (2004), 'Daily marital interactions and positive affect during marital conflict among newlywed couples,' Family Process 43(3), 301 to 314. The Gottman Institute reports that couples still married at six years had turned toward bids 86 percent of the time versus 33 percent for couples who divorced.",
+        "urls": [
+          "https://www.gottman.com/blog/turn-toward-instead-of-away/",
+          "https://www.porchlightbooks.com/products/seven-principles-for-making-marriage-work-john-gottman-9780553447712"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Observational research from Gottman's lab, broadly consistent with independent work on perceived partner responsiveness. The 86 versus 33 percent figures come from one lab's newlywed sample and have not been independently replicated, so the specific numbers should not be cited as precise.",
+      "flags": [
+        "unreplicated"
+      ]
+    },
+    {
+      "id": "gottman-seven-principles-03",
+      "name": "Flooding Calls for a Real Time-Out",
+      "skill_type": "technique",
+      "explanation": "When a conflict becomes heated, people can become physiologically flooded: heart rate climbs, stress hormones surge, and the ability to listen, think flexibly or use humor collapses. In that state, people tend either to stonewall or to explode. Gottman's remedy is a deliberate break: name that you are overwhelmed, agree to stop, spend at least about twenty minutes doing something genuinely calming that is not rehearsing the argument, and then come back to the conversation. He describes interrupting couples mid-argument in the lab and finding that after a quiet break their heart rates were lower and their discussion more productive. The key is that a time-out is a pause with a promised return, not an exit.",
+      "when_to_use": "When you notice a racing heart, tunnel vision or the urge to shout or leave during a fight; when the same argument keeps going in circles late at night; when someone has gone silent and glazed.",
+      "worked_example": "Two partners are arguing about money at 11 p.m. and one feels his chest pounding. He says, 'I'm getting overwhelmed and I'll say something unfair. Can we stop for half an hour and pick this up at 11:30?' He walks the dog instead of drafting rebuttals in his head. When they resume he is able to hear that her worry is about retirement, not his spending. A parent and adult child arguing over holiday plans can use the same move by phone: 'Let me call you back after dinner.'",
+      "common_mistakes": [
+        "Storming out without saying when you will return, which feels like abandonment",
+        "Spending the break rehearsing your case, which keeps you flooded",
+        "Returning too soon, before the body has calmed",
+        "Using 'I need a break' to avoid ever having the conversation"
+      ],
+      "steps": [
+        "Learn your own flooding signals (pulse, heat, urge to flee or attack)",
+        "Say you are overwhelmed and propose a specific return time",
+        "Spend at least about twenty minutes on something soothing and unrelated",
+        "Come back as promised and restart gently",
+        "Agree in a calm moment that either person can call a time-out"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        }
+      ],
+      "situations": [
+        "Late-night argument with a partner",
+        "Heated call with a parent",
+        "Escalating disagreement with a roommate"
+      ],
+      "source": {
+        "citation": "John M. Gottman and Nan Silver, The Seven Principles for Making Marriage Work, revised edition (Harmony, 2015), conflict chapters (flooding and self-soothing); Gottman Institute, 'The Four Horsemen: The Antidotes' (stonewalling and physiological self-soothing)",
+        "underlying_research": "Gottman and Levenson's psychophysiological couples studies on flooding and diffuse physiological arousal; the magazine-break description is from the Gottman Institute article.",
+        "urls": [
+          "https://www.gottman.com/blog/the-four-horsemen-the-antidotes/",
+          "https://www.porchlightbooks.com/products/seven-principles-for-making-marriage-work-john-gottman-9780553447712"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The idea that high arousal impairs listening and problem solving is consistent with broad stress research, and the time-out is standard in couples therapy. The specific twenty-minute figure and the lab break anecdote come from Gottman's own program and have not been tested as a stand-alone intervention in independent trials.",
+      "flags": [
+        "none"
+      ]
+    },
+    {
+      "id": "gottman-seven-principles-04",
+      "name": "Repair Attempts Ride on Everyday Goodwill",
+      "skill_type": "mental model",
+      "explanation": "Every couple says hurtful things in arguments; Gottman argues that what distinguishes lasting relationships is not the absence of fights but whether repair attempts land. A repair attempt is any move that de-escalates mid-conflict: a joke, a touch, 'I'm sorry, that came out wrong', 'can we start over?', or 'I see your point'. Whether a repair works depends less on how skillful it is than on the background of goodwill between the two people. When there is a steady supply of everyday positivity (appreciation, affection, interest), a clumsy repair is received generously; when resentment dominates, even a graceful one is heard as manipulation. Gottman's slogan for building that background is small things often, and his work is the source of the popular claim that stable couples have about five positive interactions for every negative one during conflict.",
+      "when_to_use": "During any argument with someone close; when repairs you offer keep getting rejected, which signals the background goodwill needs attention outside of conflict.",
+      "worked_example": "Mid-argument about a missed anniversary dinner, one partner says, 'Okay, I'm being a jerk. Can I try that again?' Because they have been trading small appreciations all month, the other laughs and the conversation resets. Months earlier, during a rough patch, the same line had been met with 'Don't try to charm your way out of this.' The difference was the goodwill account, not the wording. Two friends after a tense group trip can use the same logic: a quick 'that got heated, I'm sorry' only works if the friendship has been tended.",
+      "common_mistakes": [
+        "Thinking repair is a technique that works regardless of the relationship's overall climate",
+        "Rejecting a partner's awkward repair because it was not perfectly worded",
+        "Treating the 5 to 1 ratio as a precise target to count",
+        "Saving all appreciation for special occasions"
+      ],
+      "steps": [
+        "Offer repairs early in an argument, before both people are flooded",
+        "Accept repairs from the other person even when they are clumsy",
+        "Outside of conflict, add small, frequent positives: thanks, interest, affection",
+        "If repairs keep failing, work on everyday goodwill rather than better lines"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "apologies"
+        }
+      ],
+      "situations": [
+        "Mid-argument reset with a partner",
+        "Patching up after a tense family dinner",
+        "Smoothing over a sharp exchange with a close friend"
+      ],
+      "source": {
+        "citation": "John M. Gottman and Nan Silver, The Seven Principles for Making Marriage Work, revised edition (Harmony, 2015), chapter on repair attempts and the conflict chapters; Gottman Institute, 'The Four Horsemen: The Antidotes' (Small Things Often and the 5 to 1 ratio)",
+        "underlying_research": "Gottman's observational studies of couples' conflict interactions; the 5 to 1 ratio traces to Gottman and Levenson's early work and is reported by the Gottman Institute.",
+        "urls": [
+          "https://www.gottman.com/blog/the-four-horsemen-the-antidotes/",
+          "https://www.porchlightbooks.com/products/seven-principles-for-making-marriage-work-john-gottman-9780553447712"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Repair and positive sentiment are central, consistent findings in Gottman's program and match broader research showing that overall relationship climate colors how behaviors are interpreted. The 5 to 1 ratio is a summary of one lab's data, often repeated as a rule, and should be treated as a rough heuristic rather than a validated threshold.",
+      "flags": [
+        "contested"
+      ]
+    },
+    {
+      "id": "gottman-seven-principles-05",
+      "name": "Perpetual Problems Need Dialogue, Not Victory",
+      "skill_type": "framework",
+      "explanation": "Gottman separates conflicts into solvable problems (a situation that can be fixed, such as who drives on Tuesdays) and perpetual problems that come from lasting differences in personality, values or needs (one person wants more order, the other more spontaneity). He reports that most recurring couple conflicts in his samples were perpetual, a figure popularized as 69 percent. The goal with perpetual issues is not to win or to solve them once and for all, but to keep a friendly, humorous, ongoing dialogue about them so they do not harden into gridlock. Gridlock shows up as the same fight with no movement, each person feeling rejected, and growing distance. Gottman's way out of gridlock is to explore the dream or deeper meaning behind each person's position (what the issue represents for them) before looking for a temporary compromise both can live with.",
+      "when_to_use": "When the same disagreement with a partner, parent or close friend keeps returning year after year; when compromise feels like giving up who you are.",
+      "worked_example": "A couple has argued for years about money: one saves anxiously, the other spends on travel. Instead of another budget fight, they each answer, 'What does money mean to you, and where does that come from?' He talks about a childhood with debt collectors; she talks about a parent who died before ever taking the trip they planned. Neither position changes overnight, but they agree to a yearly travel fund with a fixed savings floor and revisit it each January. A similar approach helps adult siblings who disagree about how often to visit a parent.",
+      "common_mistakes": [
+        "Treating a personality-based difference as a problem one good talk will solve",
+        "Trying to convert the other person to your values",
+        "Rushing to compromise before understanding what the issue means to each person",
+        "Assuming that unresolved means the relationship is failing"
+      ],
+      "steps": [
+        "Ask whether the issue is a fixable situation or a lasting difference",
+        "For solvable problems, start gently and look for a practical compromise",
+        "For perpetual ones, ask each other what the position means and what dream sits under it",
+        "Agree a temporary arrangement both can accept and set a time to revisit",
+        "Keep the tone light enough that the topic can be raised again"
+      ],
+      "categories": [
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
+      ],
+      "situations": [
+        "Long-running money disagreement with a partner",
+        "Recurring clash with a parent over visits",
+        "Housemates with different standards of tidiness"
+      ],
+      "source": {
+        "citation": "John M. Gottman and Nan Silver, The Seven Principles for Making Marriage Work, revised edition (Harmony, 2015), chapters on Principle 5 (solve your solvable problems) and Principle 6 (overcome gridlock)",
+        "underlying_research": "Gottman's longitudinal couples observations. The idea that many differences should be accepted rather than solved also appears in acceptance-based couple therapy (Jacobson and Christensen's integrative behavioral couple therapy), which has independent trial support; that link is my mapping, not confirmed as cited in the book.",
+        "urls": [
+          "https://www.psychologytoday.com/us/blog/social-instincts/202512/why-69-percent-of-couples-conflict-will-never-go-away",
+          "https://www.porchlightbooks.com/products/seven-principles-for-making-marriage-work-john-gottman-9780553447712"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The solvable versus perpetual distinction is widely used in couples therapy and is consistent with acceptance-based approaches that have independent evidence. The 69 percent figure comes from Gottman's own samples and is mostly repeated in secondary sources; I could not verify the primary study details.",
+      "flags": [
+        "unreplicated"
+      ]
+    }
+  ],
+  "supports_existing": [
+    {
+      "insight_id": "connect-05",
+      "relation": "supports",
+      "note": "Gottman's gentle start-up (complaint about a specific situation, framed as what I feel and what I need) is the couples-research version of raising pinches early in non-accusatory language; his observational work links harsh openings to worse conflict outcomes."
+    },
+    {
+      "insight_id": "connect-04",
+      "relation": "supports",
+      "note": "Gottman's distinction between a complaint about behavior and criticism of character matches behavior-plus-impact feedback, applied to partners."
+    },
+    {
+      "insight_id": "connect-12",
+      "relation": "supports",
+      "note": "Principle 4 (let your partner influence you) argues that partners who refuse influence, in Gottman's data especially husbands, are at higher risk of breakdown; this gives partner-specific support for keeping influence in balance."
+    },
+    {
+      "insight_id": "connect-14",
+      "relation": "supports",
+      "note": "Gottman's repair-attempt research adds that repair success depends on the everyday goodwill between people, not just on the repair conversation itself."
+    },
+    {
+      "insight_id": "supercommunicators-11",
+      "relation": "supports",
+      "note": "Gottman's finding that all couples fight and that conflict is managed rather than resolved underlies Duhigg's point that happy and unhappy couples argue similarly often."
+    }
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://www.porchlightbooks.com/products/seven-principles-for-making-marriage-work-john-gottman-9780553447712",
+      "https://www.gottman.com/blog/the-four-horsemen-the-antidotes/",
+      "https://www.gottman.com/blog/turn-toward-instead-of-away/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC1622921/",
+      "https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/"
+    ],
+    "still_unverified": [
+      "Exact chapter numbers and page references in the 2015 revised edition (book text not read)",
+      "The 69 percent perpetual-problems figure: primary study and sample not verified",
+      "The 86 versus 33 percent turning-toward figure: reported by the Gottman Institute, primary table in Driver and Gottman (2004) not read",
+      "Whether the book states the 5 to 1 ratio for conflict interactions specifically or for interactions generally"
+    ]
+  },
+  "research_notes": "Book text was not available; insights rest on the publisher description, the Gottman Institute's own articles (author excerpts), and the Heyman and Slep critique on PMC. Love maps, fondness and admiration, and shared meaning were not extracted as separate insights because they overlap existing items on curiosity, appreciation and deep questions. Present all prescriptions as research-informed, not proven as a package; the Institute is commercial."
+}

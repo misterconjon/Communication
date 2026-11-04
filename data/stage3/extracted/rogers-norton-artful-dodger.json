@@ -1,0 +1,158 @@
+{
+ "book": {
+  "book_id": "rogers-norton-artful-dodger",
+  "title": "The Artful Dodger: Answering the Wrong Question the Right Way",
+  "subtitle": "",
+  "authors": [
+   "Todd Rogers",
+   "Michael I. Norton"
+  ],
+  "year": 2011,
+  "publisher": "American Psychological Association (Journal of Experimental Psychology: Applied 17(2), 139-147)",
+  "edition": "",
+  "isbn": "",
+  "author_credibility": "Rogers (Harvard Kennedy School) and Norton (Harvard Business School) are well-cited behavioral scientists; Rogers also coauthored Writing for Busy Readers. Rogers has said publicly he sees political dodging as a problem for democracy, which frames the paper's aims.",
+  "evidence_base": "Four experiments in which participants watched a recorded speaker answer a question. The same answer (about health care) was attached to a similar question (illegal drug use) or a clearly different one (the war on terror). Listeners largely failed to notice the similar-question dodge and did not rate the dodger worse; they noticed the clearly unrelated dodge. Detection rose when listeners were told to judge relevance or when the question stayed on screen during the answer. A fluent answer to a similar question was rated more positively than a disfluent answer to the actual question. Samples were online participants in a political debate setting.",
+  "legal_access": [
+   {
+    "type": "summary",
+    "url": "https://www.hks.harvard.edu/publications/artful-dodger-answering-wrong-question-right-way",
+    "note": "Harvard Kennedy School page with full abstract"
+   },
+   {
+    "type": "interview",
+    "url": "https://www.harvardmagazine.com/2012/02/the-art-of-the-dodge",
+    "note": "Harvard Magazine article with study details and Rogers interview"
+   }
+  ],
+  "source_type": "peer-reviewed paper",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "rogers-norton-artful-dodger-01",
+   "name": "Audiences Judge Delivery Before Relevance: Restate the Question, Then Answer It Fluently",
+   "skill_type": "mental model",
+   "explanation": "When people listen to someone answer a question, they are mostly forming an impression of the speaker (do I like and trust this person?) rather than checking whether the answer fits the question. In these experiments, listeners often missed it when a speaker answered a similar but different question, and a smooth answer to the wrong question was rated better than a halting answer to the right one. Two practical lessons follow for an honest speaker in Q&A or an interview. First, fluency matters a lot, so rehearse answers to the hard questions you expect; stumbling through the correct answer can cost you more than you think. Second, make your relevance visible by briefly restating the question before answering, since detection of off-target answers rose sharply when the question stayed in view and those caught dodging were judged more harshly. The ethical corollary is that covert dodging can work in the moment but backfires with an attentive audience or when the question is on record. Limits: recorded political-debate answers and online samples; not tested in workplace Q&A.",
+   "when_to_use": "Preparing for Q&A after a presentation, a job or media interview, a town hall, or any setting where you will face pointed questions.",
+   "worked_example": "A product director preparing for an all-hands Q&A expects a question about why a popular feature was cut. In past sessions she rambled when surprised. This time she writes the likely question down, practices a two-sentence answer aloud until it flows, and plans to open with a short restatement: 'The question is why we retired the export tool.' In the session she restates, answers it directly, and adds what is replacing it. Because the restatement makes the link obvious, nobody feels she sidestepped, and her confident delivery reads as candor rather than spin.",
+   "common_mistakes": [
+    "Assuming a correct but halting answer will be judged on content alone",
+    "Skipping the restatement, so listeners cannot tell your answer fits",
+    "Quietly answering an easier, nearby question and hoping no one notices",
+    "Rehearsing the presentation but not the questions you most fear"
+   ],
+   "steps": [
+    "List the hardest questions you expect",
+    "Draft a short, direct answer to each and say it aloud until it is fluent",
+    "In the moment, restate the question in neutral words",
+    "Answer that question first, then add context",
+    "If you cannot answer, say so openly rather than substituting a different question"
+   ],
+   "categories": [
+    {
+     "category": "public-speaking",
+     "subcategory": "qa"
+    },
+    {
+     "category": "influence",
+     "subcategory": "credibility"
+    },
+    {
+     "category": "public-speaking",
+     "subcategory": "delivery"
+    }
+   ],
+   "situations": [
+    "Q&A after a presentation",
+    "Job interview",
+    "Town hall with tough questions",
+    "Media or panel interview"
+   ],
+   "source": {
+    "citation": "Rogers, T., and Norton, M. I. (2011). The artful dodger: Answering the wrong question the right way. Journal of Experimental Psychology: Applied, 17(2), 139-147.",
+    "underlying_research": "Four experiments with recorded speakers answering debate-style questions; Gricean conversational norms; goal-directed attention.",
+    "urls": [
+     "https://www.hks.harvard.edu/publications/artful-dodger-answering-wrong-question-right-way",
+     "https://www.harvardmagazine.com/2012/02/the-art-of-the-dodge"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Four controlled experiments with clear, plausible effects, published in a peer-reviewed journal, but online samples, a narrow political-debate setting, and limited replication in organizational Q&A.",
+   "flags": [
+    "unreplicated"
+   ]
+  },
+  {
+   "id": "rogers-norton-artful-dodger-02",
+   "name": "Keep the Question in View to Catch Dodges",
+   "skill_type": "technique",
+   "explanation": "The flip side of the artful dodge is a tool for anyone on the receiving end of answers: hiring managers, board members, moderators, buyers, or a parent asking a teenager where they were. Because listeners naturally attend to how they feel about a speaker, they miss answers that drift to a related topic. In the experiments, simply keeping the text of the question visible while the speaker answered made nearly everyone notice a subtle dodge, and directing listeners to judge whether the question was answered also raised detection. The practical takeaway: write down or display the exact question, and after the answer check it against what was asked before deciding whether you got one. Limits: tested with recorded political answers and online participants; the strong effect of a visible question was reported for one study.",
+   "when_to_use": "Interviewing candidates, evaluating vendor or contractor answers, moderating a panel or town hall, reviewing a team's response to an incident, and family conversations where an answer seems to slide past the question.",
+   "worked_example": "An operations manager interviewing a vendor asks, 'What was your uptime last quarter?' The rep talks confidently about their new monitoring platform. Because the manager has written the question at the top of her notepad, she notices that no number was given and follows up: 'Thanks. And the uptime figure for last quarter?' As a panel moderator later that month, she puts each audience question on the shared screen while the panelist answers, so the room can see whether it was addressed.",
+   "common_mistakes": [
+    "Rating an answer on the speaker's confidence and warmth instead of its relevance",
+    "Not writing down the exact question before the answer starts",
+    "Letting a related but different answer close the topic",
+    "Accusing someone of dodging without first restating the question neutrally"
+   ],
+   "steps": [
+    "Write down or display the exact question before the answer begins",
+    "Listen for whether the answer addresses that question, not just whether it sounds good",
+    "Compare the answer with the written question when the speaker finishes",
+    "If it did not land, restate the question politely and ask again"
+   ],
+   "categories": [
+    {
+     "category": "public-speaking",
+     "subcategory": "qa"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "listening"
+    },
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    }
+   ],
+   "situations": [
+    "Interviewing a job candidate",
+    "Evaluating a vendor pitch",
+    "Moderating a panel",
+    "Asking a teenager about their evening"
+   ],
+   "source": {
+    "citation": "Rogers, T., and Norton, M. I. (2011). The artful dodger: Answering the wrong question the right way. Journal of Experimental Psychology: Applied, 17(2), 139-147.",
+    "underlying_research": "Four experiments with recorded speakers answering debate-style questions; Gricean conversational norms; goal-directed attention.",
+    "urls": [
+     "https://www.hks.harvard.edu/publications/artful-dodger-answering-wrong-question-right-way",
+     "https://www.harvardmagazine.com/2012/02/the-art-of-the-dodge"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Direct experimental manipulation (question kept visible) raised detection, with a large effect described by the author, but in one study with recorded political answers and online samples.",
+   "flags": [
+    "unreplicated"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "think-faster-talk-smarter-11",
+   "relation": "supports",
+   "note": "Gives experimental backing for paraphrasing the question before answering: listeners mostly judge the speaker, and making the question visible sharply increases their ability to see whether an answer fits, which helps honest speakers. It also shows fluency strongly shapes how answers are judged, so ADD answers should be rehearsed."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://www.hks.harvard.edu/publications/artful-dodger-answering-wrong-question-right-way",
+   "https://www.harvardmagazine.com/2012/02/the-art-of-the-dodge"
+  ],
+  "still_unverified": [
+   "Exact detection rates and sample sizes per study (full paper not read; the author PDF on toddrogers.scholars.harvard.edu returned 403)"
+  ]
+ },
+ "research_notes": "Read the full abstract on the Harvard Kennedy School site and the Harvard Magazine article with study details and Rogers's comments. Could not access the author PDF (403). Insight 02 uses the 'question on screen' result described in the abstract (Study 4) and by Rogers in Harvard Magazine."
+}

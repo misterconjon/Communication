@@ -1,0 +1,114 @@
+{
+ "book": {
+  "book_id": "guyer-vocal-confidence",
+  "title": "Speech Rate, Intonation, and Pitch: Investigating the Bias and Cue Effects of Vocal Confidence on Persuasion",
+  "subtitle": "",
+  "authors": [
+   "Joshua J. Guyer",
+   "Leandre R. Fabrigar",
+   "Thomas I. Vaughan-Johnston"
+  ],
+  "year": 2019,
+  "publisher": "SAGE (Personality and Social Psychology Bulletin 45(3), 389-405)",
+  "edition": "doi 10.1177/0146167218787805",
+  "isbn": "",
+  "author_credibility": "Fabrigar (Queen's University) is a leading attitudes and persuasion methodologist; Guyer has a program of research on paralinguistic cues and persuasion. The same group, with Petty and Brinol, published an open-access 2021 review in the Journal of Nonverbal Behavior that situates this paper in the wider literature. No commercial conflicts declared.",
+  "evidence_base": "Three between-participants experiments (N = 394, 412, 397) using the elaboration likelihood framework. Experiment 1 manipulated speech rate (fast or slow) and end-of-sentence intonation (falling or rising); Experiments 2 and 3 manipulated pitch (raised or lowered). Each crossed vocal features with whether listeners were motivated to think carefully. Vocal features changed perceived speaker confidence. With high thinking, perceived confidence biased the favorability of listeners' thoughts, which shaped attitudes; with low thinking, it acted directly as a cue. Alternative explanations were tested and not supported. The 2021 review adds that falling intonation increased persuasion for strong arguments and decreased it for weak ones (Guyer et al. 2018), and that very fast speech can reduce processing and blunt the advantage of strong arguments (Moore et al. 1986). Samples were mostly students listening to audio recordings.",
+  "legal_access": [
+   {
+    "type": "summary",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30084307/",
+    "note": "PubMed abstract read via NCBI E-utilities"
+   },
+   {
+    "type": "author excerpt",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8553728/",
+    "note": "Open-access 2021 review by the same group (Guyer, Brinol, Vaughan-Johnston, Fabrigar, Moreno, Petty), read in full via PMC"
+   }
+  ],
+  "source_type": "peer-reviewed paper",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "guyer-vocal-confidence-01",
+   "name": "Vocal Confidence Amplifies Your Arguments, It Does Not Replace Them",
+   "skill_type": "mental model",
+   "explanation": "Listeners hear confidence in a few specific vocal features: statements that end with falling rather than rising intonation, a brisk rather than slow pace, and a lower rather than raised pitch. In three experiments, changing these features changed how confident the speaker seemed, and that perception moved attitudes by two routes. When listeners were not thinking hard, a confident voice worked as a shortcut and swayed them directly. When listeners were engaged, a confident voice tilted how favorably they thought about the content, which in related work made strong arguments more persuasive and weak arguments less persuasive. The practical takeaway: sound sure of your strongest points by landing sentences with a downward finish and keeping an energetic pace, but expect an attentive audience to scrutinize content more closely, so do not lean on delivery to rescue a thin case. Limits: modest effects with student listeners hearing recordings; very fast speech can hurt comprehension; lower pitch is perceived differently for women and should not be forced.",
+   "when_to_use": "Delivering a recommendation, pitch, or decision; answering questions where you want to sound certain about what you know; any talk where nerves push your voice up at the ends of sentences.",
+   "worked_example": "An analyst presenting a budget recommendation hears in a recording that her sentences rise at the end, so '$40,000 will cover it' sounds like a question. She practices finishing each key claim on a downward note and trims the long pauses that made her pace drag. She also checks that her strongest evidence comes first, because the finance committee will be listening closely. In the meeting her delivery sounds settled, and the questions focus on the numbers rather than on whether she believes them.",
+   "common_mistakes": [
+    "Ending statements with a rising tone, which signals doubt",
+    "Racing so fast that listeners cannot follow the reasoning",
+    "Forcing an unnaturally deep voice instead of using the lower end of your natural range",
+    "Relying on a confident voice to carry weak evidence in front of an engaged audience",
+    "Sounding equally certain about everything, including points you are unsure of"
+   ],
+   "steps": [
+    "Record a run-through and listen for rising endings on statements",
+    "Practice landing key claims with a falling finish",
+    "Keep a brisk, natural pace, and slow down only where listeners need to absorb detail",
+    "Speak in the comfortable lower part of your range rather than straining",
+    "Strengthen the content before polishing delivery, especially for attentive audiences"
+   ],
+   "categories": [
+    {
+     "category": "public-speaking",
+     "subcategory": "delivery"
+    },
+    {
+     "category": "influence",
+     "subcategory": "credibility"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "nonverbal"
+    }
+   ],
+   "situations": [
+    "Presenting a recommendation",
+    "Pitching to investors or leaders",
+    "Answering questions in an interview",
+    "Making a case to a skeptical committee"
+   ],
+   "source": {
+    "citation": "Guyer, J. J., Fabrigar, L. R., and Vaughan-Johnston, T. I. (2019). Speech rate, intonation, and pitch: Investigating the bias and cue effects of vocal confidence on persuasion. Personality and Social Psychology Bulletin, 45(3), 389-405.",
+    "underlying_research": "Elaboration likelihood model (Petty and Cacioppo). Context from the same group's open-access review: Guyer, Brinol, Vaughan-Johnston, Fabrigar, Moreno and Petty (2021), Journal of Nonverbal Behavior 45(4), 479-504, citing Guyer et al. (2018) on intonation and argument quality and Moore et al. (1986) on very fast speech.",
+    "urls": [
+     "https://pubmed.ncbi.nlm.nih.gov/30084307/",
+     "https://pmc.ncbi.nlm.nih.gov/articles/PMC8553728/",
+     "https://durham-repository.worktribe.com/output/1222274/paralinguistic-features-communicated-through-voice-can-affect-appraisals-of-confidence-and-evaluative-judgments"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Three well-powered experiments, with conceptual replication across studies and consistency with a broader paralinguistics literature, but effects are modest, listeners were mostly students hearing audio, and real-world presentation settings are untested.",
+   "flags": [
+    "none"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "communicate-with-mastery-13",
+   "relation": "qualifies",
+   "note": "Supports the warning against uptalk (falling intonation sounded more confident and persuaded more with strong arguments) and that lower pitch reads as confident, but qualifies the 'slower' half: in this literature faster speech sounds more confident, so slowing is for emphasis and comprehension, not for sounding sure, and it does not test pitch lowering for leadership."
+  },
+  {
+   "insight_id": "communicate-with-mastery-17",
+   "relation": "supports",
+   "note": "Gives experimental evidence that the vocal channel (pace, intonation, pitch) changes perceived confidence and attitudes, while showing content still matters most when listeners are paying attention, which is consistent with the book's caution about misquoted nonverbal statistics."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://pubmed.ncbi.nlm.nih.gov/30084307/",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC8553728/"
+  ],
+  "still_unverified": [
+   "Exact speech rates and pitch shifts used in the manipulations and the per-condition effect sizes (full PSPB article not read)",
+   "The direction of the speech-rate effect in Experiment 1 specifically is inferred from the abstract plus the review's statement that faster speakers are perceived as more confident"
+  ]
+ },
+ "research_notes": "Read the PubMed abstract and the full open-access 2021 review by the same authors via PMC. Did not access the paywalled PSPB article. Worked example and steps are my own application."
+}

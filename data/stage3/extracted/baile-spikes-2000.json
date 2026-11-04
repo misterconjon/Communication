@@ -1,0 +1,137 @@
+{
+  "book": {
+    "book_id": "baile-spikes-2000",
+    "title": "SPIKES: A Six-Step Protocol for Delivering Bad News",
+    "subtitle": "Application to the Patient with Cancer",
+    "authors": ["Walter F. Baile", "Robert Buckman", "Renato Lenzi", "Gary Glober", "Estela A. Beale", "Andrzej P. Kudelka"],
+    "year": 2000,
+    "publisher": "The Oncologist 5(4), 302-311 (AlphaMed Press; now Oxford University Press)",
+    "edition": "",
+    "isbn": "",
+    "source_type": "peer-reviewed paper",
+    "core": false,
+    "author_credibility": "Baile (MD Anderson Cancer Center) and Buckman (University of Toronto and MD Anderson) are oncologists and long-time communication-skills educators. The paper is one of the most cited in medical communication and SPIKES is taught in medical and nursing curricula worldwide. The authors also run training based on the protocol, so they have an interest in its adoption.",
+    "evidence_base": "Expert consensus built on prior research about what patients want when receiving bad news; the authors state it meets published recommendations but was not derived wholly from empirical tests. At launch the only outcome data were trainee reports of increased confidence. A later systematic review and meta-analysis (Johnson and Panagioti, 2018, Academic Medicine, 17 studies) found that bad-news training raises observer-rated delivery skill (SMD 0.74) and clinician confidence (SMD 0.60), but only one study measured patient distress. Critiques (Dean and Willis, 2016) question rigid, single-meeting use.",
+    "legal_access": [
+      {"type": "summary", "url": "https://nexusipe.org/node/6980", "note": "Abstract and citation (National Center for Interprofessional Practice and Education)."},
+      {"type": "author excerpt", "url": "https://streaming.mdanderson.org/transcript/icare_basicprinciples_spikes_overview_mdanderson.htm", "note": "Transcript of Robert Buckman's MD Anderson I*CARE video explaining each SPIKES step."},
+      {"type": "summary", "url": "https://med-fom-cpd-hiv-testing.sites.olt.ubc.ca/files/2012/09/Summary-on-Breaking-Bad-News.pdf", "note": "University of British Columbia teaching summary adapted from Baile et al. (2000) and Buckman (2005)."},
+      {"type": "author excerpt", "url": "https://eprints.whiterose.ac.uk/131932/", "note": "Accepted manuscript of Johnson and Panagioti (2018) meta-analysis of bad-news training."},
+      {"type": "author excerpt", "url": "https://shura.shu.ac.uk/12857/", "note": "Accepted manuscript of Dean and Willis (2016) critique of SPIKES."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "baile-spikes-2000-01",
+      "name": "SPIKES: A Six-Step Sequence for Delivering Bad News",
+      "skill_type": "framework",
+      "explanation": "Bad news is any news that seriously changes how someone sees their future, so how bad it is depends on what the listener expected. SPIKES gives the conversation an order. Setting: get privacy, time, the right people, and sit down. Perception: before telling, ask what the person already knows or suspects, so you start where they are. Invitation: ask how much detail they want now, and respect a wish to hear less. Knowledge: give a brief warning that difficult news is coming, then deliver it in plain words and small pieces, checking understanding as you go. Emotions: when feelings surface, stop, name the emotion you see and what caused it, and give the person time before moving on. Strategy and summary: recap what was said and agree on concrete next steps. It was written for doctors telling patients about cancer; the sequence carries over to a layoff, a rejected proposal, or hard family news, but that transfer is an extrapolation.",
+      "when_to_use": "Any planned conversation where you must tell someone something that will disappoint, frighten, or upset them: eliminating a role, denying a promotion, cancelling a project, telling family about a diagnosis or a move.",
+      "worked_example": "A director has to tell a project lead that her product launch is being cancelled. She books a private room for 45 minutes rather than catching her after standup (Setting). She opens by asking how the lead has been reading the recent budget discussions; the lead says she suspected cuts but assumed her project was safe (Perception). The director asks whether she wants the full reasoning now or the headline first (Invitation). She then says she has difficult news, and explains in two short pieces that the launch is cancelled and why, pausing after each (Knowledge). When the lead goes quiet and then says she feels blindsided, the director says it makes sense to feel blindsided when months of work stop with little warning, and waits (Emotions). They close by listing what happens to the team, what the lead gets to decide, and a follow-up meeting on Thursday (Strategy and summary). At home, a parent uses the same order to tell a teenager the family is moving: ask what he has picked up, check he wants to talk now, give the news simply, sit with his anger, then plan together how he will stay in touch with friends.",
+      "common_mistakes": [
+        "Delivering the news in a hallway, by text, or with a hard stop in ten minutes",
+        "Opening with long background so the listener spends the time dreading what is coming",
+        "Skipping the question about what they already know, and so pitching the news at the wrong level",
+        "Using jargon or euphemism that leaves the listener unsure what actually happened",
+        "Rushing to solutions or silver linings before acknowledging the emotion",
+        "Reciting the steps as a script instead of responding to the actual person"
+      ],
+      "steps": [
+        "Setting: arrange privacy and enough time, include anyone the person would want present, sit down, and silence interruptions",
+        "Perception: ask what they already know or suspect before you tell them anything",
+        "Invitation: ask how much detail they want now, and offer to cover more later",
+        "Knowledge: give a short warning that the news is difficult, then state it plainly in small chunks and check understanding after each",
+        "Emotions: name the emotion you observe and its cause, let silence happen, and respond before moving on",
+        "Strategy and summary: recap the key points, agree on next steps and who does what, and set the next contact"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "bad-news"},
+        {"category": "personal-life", "subcategory": "supporting-distress"},
+        {"category": "relationships", "subcategory": "empathy"},
+        {"category": "professional", "subcategory": "situations"}
+      ],
+      "situations": [
+        "Telling an employee their role is being eliminated",
+        "Telling a team their project is cancelled",
+        "Telling a family member about a serious diagnosis",
+        "Telling a child the family is moving"
+      ],
+      "source": {
+        "citation": "Baile, Buckman, Lenzi, Glober, Beale and Kudelka, SPIKES: A Six-Step Protocol for Delivering Bad News, The Oncologist 5(4), 302-311 (2000); Buckman, MD Anderson I*CARE SPIKES overview transcript",
+        "underlying_research": "Expert consensus plus prior studies of patient preferences. Johnson and Panagioti (2018, Academic Medicine 93(9)), systematic review and meta-analysis of 17 studies: bad-news training produced large gains in observer-rated delivery skill (SMD 0.74, 19 comparisons, 1,322 participants) and moderate gains in confidence (SMD 0.60); only one study measured patient depression or anxiety.",
+        "urls": [
+          "https://doi.org/10.1634/theoncologist.5-4-302",
+          "https://nexusipe.org/node/6980",
+          "https://streaming.mdanderson.org/transcript/icare_basicprinciples_spikes_overview_mdanderson.htm",
+          "https://med-fom-cpd-hiv-testing.sites.olt.ubc.ca/files/2012/09/Summary-on-Breaking-Bad-News.pdf",
+          "https://eprints.whiterose.ac.uk/131932/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The most widely adopted bad-news structure, and training in it reliably improves observed skill and the deliverer's confidence (meta-analysis of 17 studies). But the protocol was built from expert consensus, its effect on how recipients actually fare is barely tested (one study in the meta-analysis), and it was designed for clinicians, so its use at work and at home is a reasonable extrapolation rather than tested.",
+      "flags": ["none"]
+    },
+    {
+      "id": "baile-spikes-2000-02",
+      "name": "Bad News Is a Process, Not One Meeting",
+      "skill_type": "technique",
+      "explanation": "Structured protocols like SPIKES tend to be read as a single conversation that ends with a plan. Critics point out that people who have just heard distressing news often cannot absorb details or make decisions in the same sitting, because strong emotion impairs memory and thinking. In one German survey of cancer patients, fewer than half were satisfied with how their diagnosis was delivered, and over half said they would have preferred a second conversation before deciding anything. The practical adjustment is to treat bad news as a series of contacts: signal beforehand that a serious conversation is coming when you can, keep the first meeting to the news and the immediate reaction, put the key points in writing, and schedule a follow-up for decisions. Use the steps as a checklist that keeps you from skipping something, not as a script that replaces attention to the person in front of you.",
+      "when_to_use": "When the news is large enough that the listener will need time to absorb it, or when it involves choices they must make (severance options, a care plan, a relocation).",
+      "worked_example": "A manager telling an employee that his role is being eliminated keeps the first meeting short: the decision, the reason, the immediate reaction, and a one-page summary of dates and severance terms. She says she does not expect any decisions today and books a second meeting two days later to walk through options and questions. When a nurse friend is asked about a scan result unexpectedly in a hospital corridor, she acknowledges the question, finds a quieter spot, and says she will come back with the doctor that afternoon to go through it properly.",
+      "common_mistakes": [
+        "Pushing for a decision or commitment in the same conversation as the news",
+        "Assuming the person heard and remembered the details you gave in the first meeting",
+        "Treating the protocol as a script and losing genuine contact with the person",
+        "Having no plan for follow-up, so the person is left alone with questions"
+      ],
+      "steps": [
+        "If possible, give advance notice that you need to talk about something serious, without leaving a long anxious gap",
+        "In the first meeting, deliver the news and respond to the reaction; do not require decisions",
+        "Give the essentials in writing so the person does not have to remember them",
+        "Schedule a follow-up for questions and choices, and say how to reach you before then",
+        "If the news comes up unplanned, acknowledge the question and move to a better setting or time rather than delivering it badly on the spot"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "bad-news"},
+        {"category": "difficult", "subcategory": "situations"},
+        {"category": "professional", "subcategory": "situations"}
+      ],
+      "situations": [
+        "A layoff conversation that involves severance choices",
+        "Sharing a serious medical result with a relative",
+        "Being asked for bad news unexpectedly before you are ready"
+      ],
+      "source": {
+        "citation": "Dean and Willis, The use of protocol in breaking bad news: evidence and ethos, International Journal of Palliative Nursing 22(6), 265-271 (2016), a critique of Baile et al. (2000)",
+        "underlying_research": "Seifart et al. (2014) survey of German cancer patients (46.2 percent satisfied with diagnosis delivery; over half preferred a second consultation before deciding), as reported by Dean and Willis; Warnock et al. (2010) on bad news as a series of interactions; Kessels (2003) on anxiety impairing patients' memory of medical information.",
+        "urls": [
+          "https://shura.shu.ac.uk/12857/",
+          "https://shura.shu.ac.uk/12857/1/Willis%20Breaking%20bad%20news%20evidence%20and%20ethos.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "A credible clinical critique drawing on a patient survey, qualitative studies, and established findings that distress impairs memory. The specific recommendation (split news from decisions) has not been tested as an intervention, and the evidence is from healthcare settings.",
+      "flags": ["none"]
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "how-to-know-a-person-11", "relation": "supports", "note": "SPIKES's Emotions step operationalizes empathy for hard news: identify the emotion, identify its cause, and respond in a way that links the two before continuing. Patient-preference research cited by Dean and Willis supports high empathy during delivery."},
+    {"insight_id": "how-to-know-a-person-12", "relation": "supports", "note": "SPIKES puts conditions before content: setting, then checking perception and getting an invitation before any news is delivered, which matches the advice to establish safety before substance."}
+  ],
+  "verification": {
+    "date": "2026-11-04",
+    "sources_read": [
+      "https://nexusipe.org/node/6980",
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10964998&format=json&resultType=core",
+      "https://streaming.mdanderson.org/transcript/icare_basicprinciples_spikes_overview_mdanderson.htm",
+      "https://med-fom-cpd-hiv-testing.sites.olt.ubc.ca/files/2012/09/Summary-on-Breaking-Bad-News.pdf",
+      "https://eprints.whiterose.ac.uk/131932/",
+      "https://shura.shu.ac.uk/12857/1/Willis%20Breaking%20bad%20news%20evidence%20and%20ethos.pdf"
+    ],
+    "still_unverified": [
+      "Full text of Baile et al. (2000) was not read directly (publisher pages returned 403); step details come from the abstract, Buckman's own MD Anderson transcript, a UBC teaching summary citing the paper, and Dean and Willis's table adapted from it.",
+      "Seifart et al. (2014) figures are as reported by Dean and Willis, not read in the original."
+    ]
+  },
+  "research_notes": "Read the abstract (Europe PMC), Buckman's MD Anderson video transcript describing each step in his own words, the UBC summary (which includes the three-part empathic response and the advice to lead with any genuine positives), the Johnson and Panagioti (2018) accepted manuscript abstract on White Rose, and the full Dean and Willis (2016) accepted manuscript. PubMed returned rate-limit errors and the Oxford and Wiley pages returned 403. The workplace and family applications are extrapolations from a clinical protocol and are labeled as such."
+}

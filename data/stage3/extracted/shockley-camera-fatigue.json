@@ -1,0 +1,124 @@
+{
+ "book": {
+  "book_id": "shockley-camera-fatigue",
+  "title": "The Fatiguing Effects of Camera Use in Virtual Meetings: A Within-Person Field Experiment",
+  "subtitle": "",
+  "authors": [
+   "Kristen M. Shockley",
+   "Allison S. Gabriel",
+   "Daron Robertson",
+   "Christopher C. Rosen",
+   "Nitya Chawla",
+   "Mahira L. Ganster",
+   "Maira E. Ezerins"
+  ],
+  "year": 2021,
+  "publisher": "American Psychological Association (Journal of Applied Psychology 106(8), 1137-1155)",
+  "edition": "doi 10.1037/apl0000948",
+  "isbn": "",
+  "author_credibility": "Industrial-organizational psychologists at the University of Georgia, University of Arizona, University of Arkansas and Texas A&M, publishing in a top applied psychology journal. Coauthor Daron Robertson was CEO of BroadPath, the company that hosted the study and whose leadership had a prior view that constant front-facing video was uncomfortable; that is a possible expectation bias, though the design was randomized.",
+  "evidence_base": "A four-week experience-sampling field experiment with 103 employees of one US remote-work company (1,408 daily observations). Camera use was randomly assigned: half kept cameras on for two weeks and off for two, the other half the reverse. Calendar data allowed the authors to control for the number and length of meetings. Outcomes (fatigue, voice, engagement) were self-reported daily. Effects on voice and engagement ran through fatigue rather than directly. Stronger effects for women and newer employees.",
+  "legal_access": [
+   {
+    "type": "summary",
+    "url": "https://experts.arizona.edu/en/publications/the-fatiguing-effects-of-camera-use-in-virtual-meetings-a-within-/",
+    "note": "University of Arizona research portal with full abstract"
+   },
+   {
+    "type": "summary",
+    "url": "https://news.uga.edu/cameras-not-meetings-cause-zoom-fatigue/",
+    "note": "UGA press release with design details and author comments"
+   },
+   {
+    "type": "summary",
+    "url": "https://eller.arizona.edu/news/2021/08/cameras-or-research-suggests-cameras-during-virtual-meetings-lowers-fatigue",
+    "note": "Eller College press release with author comments"
+   }
+  ],
+  "source_type": "peer-reviewed paper",
+  "core": false
+ },
+ "insights": [
+  {
+   "id": "shockley-camera-fatigue-01",
+   "name": "Camera-Optional Meetings Get More Voice",
+   "skill_type": "technique",
+   "explanation": "Many hosts assume that cameras on means people are more engaged. In a randomized field experiment with remote employees, the opposite pattern appeared: on days people kept their cameras on, they reported more fatigue at day's end, even after accounting for how many meetings they had and how long they ran, and that fatigue went with speaking up less and feeling less engaged in meetings, that day and the next. The camera effect was stronger for women and for people newer to the organization, groups the authors argue face more pressure to look polished and prove themselves on screen. The practical takeaway for anyone running recurring video meetings is to make cameras a choice, ask for them only where faces add value (a first meeting, a sensitive conversation, a short check-in), and not treat a camera-off colleague as checked out. Limits: one company, about 100 people, self-reported outcomes, and not yet replicated in the same design; the authors themselves do not recommend cameras off all the time.",
+   "when_to_use": "Setting norms for team meetings, all-hands and trainings; running long or back-to-back video sessions; including new hires and others who may feel watched; deciding whether to require cameras for a presentation audience.",
+   "worked_example": "A team lead notices that in her daily video stand-up the same three senior people talk and two recent hires say little. She announces that cameras are optional for stand-ups and internal working sessions, keeps them on herself for the first minute to greet people, and asks for cameras on only for the monthly retrospective and for one-on-ones where tone matters. She calls on quieter members by name with a specific question and welcomes chat replies. Over a few weeks the newer hires start raising blockers, and she stops reading a dark tile as a sign someone is not paying attention.",
+   "common_mistakes": [
+    "Mandating cameras on as a proxy for engagement",
+    "Assuming meeting count alone causes fatigue and ignoring camera load",
+    "Judging people who turn cameras off as distracted or unproductive",
+    "Swinging to cameras off for everything, including conversations where seeing faces matters",
+    "Forgetting that new or less established team members may feel the most pressure to stay on camera"
+   ],
+   "steps": [
+    "Make cameras optional as the default for routine internal meetings",
+    "Name the few meeting types where you will ask for cameras, and say why",
+    "Model the norm yourself, for example camera on for greetings, optional afterward",
+    "Use other routes for participation: call on people, invite chat, pause for questions",
+    "Check in privately with newer team members about what helps them contribute",
+    "Revisit the norm after a few weeks based on how much people speak up"
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "written-digital",
+     "subcategory": "video-calls"
+    },
+    {
+     "category": "public-speaking",
+     "subcategory": "virtual"
+    }
+   ],
+   "situations": [
+    "Setting video norms for a remote team",
+    "Running a daily video stand-up",
+    "Onboarding new hires remotely",
+    "Hosting a long virtual training"
+   ],
+   "source": {
+    "citation": "Shockley, K. M., Gabriel, A. S., Robertson, D., Rosen, C. C., Chawla, N., Ganster, M. L., and Ezerins, M. E. (2021). The fatiguing effects of camera use in virtual meetings: A within-person field experiment. Journal of Applied Psychology, 106(8), 1137-1155.",
+    "underlying_research": "Self-presentation theory; within-person experience-sampling field experiment at BroadPath (103 employees, 1,408 daily observations).",
+    "urls": [
+     "https://experts.arizona.edu/en/publications/the-fatiguing-effects-of-camera-use-in-virtual-meetings-a-within-/",
+     "https://news.uga.edu/cameras-not-meetings-cause-zoom-fatigue/",
+     "https://eller.arizona.edu/news/2021/08/cameras-or-research-suggests-cameras-during-virtual-meetings-lowers-fatigue"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Strong design (random assignment, within-person, real workplace, controls for meeting load) in a top journal, consistent with Bailenson's self-view argument and the Fauville et al. survey, but a single organization and self-reported fatigue, voice and engagement, and not yet replicated with the same design.",
+   "flags": [
+    "unreplicated"
+   ]
+  }
+ ],
+ "supports_existing": [
+  {
+   "insight_id": "bailenson-zoom-fatigue-01",
+   "relation": "supports",
+   "note": "Provides experimental field evidence for the self-view and self-presentation mechanism: randomly assigned camera-on days produced more self-reported fatigue than camera-off days, independent of meeting count and length."
+  },
+  {
+   "insight_id": "communicate-with-mastery-12",
+   "relation": "qualifies",
+   "note": "Compensating for the thin channel should not mean requiring cameras: camera use raised fatigue, which in turn lowered voice and engagement, so explicit turn-taking and check-ins are better levers than camera mandates."
+  }
+ ],
+ "verification": {
+  "date": "2026-11-04",
+  "sources_read": [
+   "https://experts.arizona.edu/en/publications/the-fatiguing-effects-of-camera-use-in-virtual-meetings-a-within-/",
+   "https://news.uga.edu/cameras-not-meetings-cause-zoom-fatigue/",
+   "https://eller.arizona.edu/news/2021/08/cameras-or-research-suggests-cameras-during-virtual-meetings-lowers-fatigue"
+  ],
+  "still_unverified": [
+   "Effect sizes and exact moderation estimates for gender and tenure (full article not read; abstract and press releases only)"
+  ]
+ },
+ "research_notes": "Read the full abstract on the University of Arizona portal and two university press releases with design details and author quotes. Did not read the full article (paywalled). The worked example and steps are my own application of the findings."
+}
