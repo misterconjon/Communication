@@ -8,12 +8,16 @@ Last updated: 2026-11-04
 | 0. Taxonomy co-design (Checkpoint 1) | Complete: taxonomy locked 2026-11-04 |
 | 1. Book deep-dives (Checkpoint 2) | Approved; verification pass (1b) complete: 137 insights (6 High, 113 Medium, 18 Low) |
 | 2. Cross-book synthesis | Complete: docs/stage2-synthesis.md, data/learning-path.json |
-| 3. Expansion research (Checkpoint 3) | Shortlist ready (70 candidates, docs/stage3-shortlist.md), awaiting user selection |
+| 3. Expansion research (Checkpoint 3) | Approved: 56 sources (score 7+). Extraction (3b) running |
 | 4. Interactive artifact (Checkpoint 4) | Not started |
 | 5. Word guide (Checkpoint 5) | Not started |
 | 6. Quality assurance | Not started |
 
 ## Decisions made
+- Stage 3: add all candidates scoring 7+ (option B, 56 sources).
+- Papers and books: extract every relevant high-quality insight, no fixed count; no redundant insights (use supports_existing instead).
+- No cross-cultural communication; US context only.
+- Status updates and aging parents remain documented gaps.
 - Keep all 18 Low-confidence insights, clearly flagged.
 - Keep Gino-coauthored studies with an integrity note (no downgrade).
 - Run verification pass (docs/verification-brief.md) before Stage 2.
@@ -52,7 +56,6 @@ Last updated: 2026-11-04
 - Think Faster, Talk Smarter insight 16 (CLEAR conflict framework) comes from an updated edition announced Oct 2026.
 
 ## Open questions / blockers
-- Cross-cultural communication has no taxonomy slot (flagged in Stage 2). Add or leave out?
 - Fixed: docs/taxonomy.md was accidentally emptied at Stage 0 lock; restored from commit e8a68ad.
 - fivebooks.com blocked by network policy; user supplied the list directly.
 - GitHub repo: misterconjon/communication (connected).
