@@ -1,0 +1,573 @@
+{
+  "book": {
+    "book_id": "made-to-stick",
+    "title": "Made to Stick",
+    "subtitle": "Why Some Ideas Survive and Others Die",
+    "authors": ["Chip Heath", "Dan Heath"],
+    "year": 2007,
+    "publisher": "Random House",
+    "edition": "First edition, hardcover (US)",
+    "isbn": "9781400064281",
+    "author_credibility": "Chip Heath is a professor of organizational behavior at Stanford Graduate School of Business and has published peer-reviewed work on why ideas spread, including a study of urban legends (Heath, Bell and Sternberg, 2001, Journal of Personality and Social Psychology). Dan Heath is a senior fellow at Duke University's CASE center and a former course developer and educational publisher. The book blends Chip's academic research and teaching with practitioner case stories. As popular business authors with a commercial framework to sell (the SUCCESs checklist), they tend to choose vivid confirming cases and rarely discuss null or contrary findings.",
+    "evidence_base": "Mixed. Some principles rest on peer-reviewed psychology (the curse of knowledge in economics and cognitive psychology, concreteness effects on memory, Loewenstein's information gap theory of curiosity, the identifiable victim research of Small, Loewenstein and Slovic, mental simulation research by Pham and Taylor, and Heath's own urban legend study). Much of the book is case evidence and anecdote (Southwest Airlines, the Army's Commander's Intent, Subway's Jared, the Don't Mess with Texas campaign, Nordstrom stories) plus classroom exercises from Chip Heath's Stanford course that are not peer-reviewed. Some cited findings have since weakened under replication, notably the identifiable victim effect and a well-known curse of knowledge study (Birch and Bloom, 2007).",
+    "legal_access": [
+      {"type": "author excerpt", "url": "https://heathbrothers.com/", "note": "The authors' site hosts free resources for the book (model summaries and teaching materials). The host was blocked by the session network policy, so it was not read directly."},
+      {"type": "publisher preview", "url": "https://www.penguinrandomhouse.com/books/isbn/9781400064281", "note": "Publisher listing for the 2007 Random House hardcover. Blocked by network policy; bibliographic details confirmed via search snippets and library catalog records."},
+      {"type": "library", "url": "https://opac.westchesterlibraries.org/Record/3262070", "note": "Public library catalog record (New York: Random House, 2007). Widely held in public libraries."},
+      {"type": "summary", "url": "https://fourweekmba.com/success-model/", "note": "Third-party summary of the SUCCESs model, seen via search results."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "made-to-stick-01",
+      "name": "The Curse of Knowledge",
+      "skill_type": "mental model",
+      "explanation": "Once you know something, it becomes very hard to imagine not knowing it. Experts, managers and anyone close to a project unconsciously assume their audience shares their background, vocabulary and context, so they speak in abstractions that feel full of meaning to them but land as empty to listeners. The Heaths treat this as the main villain of clear communication: the problem is rarely a lack of information but an inability to see your message from the outside. The fix is not simply trying harder to empathize but using deliberate tools (concrete examples, stories, analogies, testing the message on an outsider) that work even when your own sense of clarity is unreliable.",
+      "when_to_use": "Any time you are explaining something you know well to someone who does not: briefing a new team member, writing a status update for executives, explaining a technical decision to a non-technical partner, or giving instructions to family members.",
+      "worked_example": "A data engineer tells her director that the pipeline migration is 'blocked on schema drift in the upstream CDC feed.' The director nods and leaves confused. Recognizing the curse, she rewrites it: 'The sales system changed the format of its customer records without telling us, so our nightly import breaks. We need the sales team to agree to warn us before changes. Until then, reports may be a day late.' At home the same week, she catches herself telling her father to 'just clear the cache' and instead walks him through what to tap, one screen at a time.",
+      "common_mistakes": [
+        "Assuming that because a message feels obvious to you, it is clear to others",
+        "Trying to fix it by adding more detail and jargon rather than examples",
+        "Testing the message only on colleagues who share your knowledge",
+        "Mistaking polite nodding for understanding"
+      ],
+      "steps": [],
+      "categories": [
+        {"category": "foundations", "subcategory": "audience-goals"},
+        {"category": "foundations", "subcategory": "mindset"},
+        {"category": "written-digital", "subcategory": "clarity-structure"},
+        {"category": "professional", "subcategory": "executive-communication"}
+      ],
+      "situations": [
+        "Explaining a technical issue to a non-technical manager",
+        "Onboarding a new team member",
+        "Writing a project update for senior leaders",
+        "Helping a parent use new technology",
+        "Teaching a skill you have done for years"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Introduction",
+        "underlying_research": "Elizabeth Newton's 1990 Stanford doctoral study ('tappers and listeners'): tappers predicted listeners would name about half of tapped songs; listeners named about 3 of 120 (2.5 percent). The term comes from Camerer, Loewenstein and Weber (1989), Journal of Political Economy 97(5). Related work: Birch and Bloom (2007), Psychological Science, on the curse of knowledge in false-belief reasoning.",
+        "urls": [
+          "https://en.wikipedia.org/wiki/Curse_of_knowledge",
+          "https://madoc.bib.uni-mannheim.de/57750"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The broad phenomenon (difficulty ignoring privileged knowledge, closely related to hindsight bias and egocentric projection) is well supported across economics and psychology. However, the tapping study the book leans on is an unpublished dissertation not widely replicated as a standalone experiment, and at least one prominent curse of knowledge paradigm (Birch and Bloom, 2007) has had failed or weaker replications. Rated Medium rather than High for these reasons; the practical advice to test messages on outsiders is low-risk.",
+      "flags": ["unreplicated"]
+    },
+    {
+      "id": "made-to-stick-02",
+      "name": "The SUCCESs Checklist",
+      "skill_type": "framework",
+      "explanation": "The Heaths argue that ideas that stick (urban legends, proverbs, great campaigns) share six traits, captured in the mnemonic SUCCESs: Simple (a stripped-down core), Unexpected (breaks a pattern to grab attention), Concrete (sensory, specific), Credible (believable on its own terms), Emotional (makes people care), and Stories (gets people to act on it). It is a checklist, not a formula: you do not need all six, and the value is in using it to diagnose a weak message and pick the one or two traits that would strengthen it most. The authors also note that the hard work happens after you have found your answer, in the separate stage of telling it to others.",
+      "when_to_use": "When preparing any message that needs to be remembered or acted on later: a pitch, a change announcement, a presentation, a safety rule, a fundraising appeal, or a family rule you want kids to remember.",
+      "worked_example": "A team lead drafts an all-hands slide: 'Q3 priority: improve customer-centricity across touchpoints.' Running the checklist, she sees it is not simple (no single priority), not concrete, and has no story. She revises to: 'This quarter, every customer email gets a human reply within one business day.' She adds a short story of a customer who cancelled after waiting six days, and a surprising fact: their fastest competitor answers in two hours. In a personal setting, a parent uses the same check on 'be responsible with money' and turns it into a concrete rule with a story from their own first credit card.",
+      "common_mistakes": [
+        "Trying to force all six traits into every message",
+        "Treating the checklist as decoration added after the content is fixed, rather than as a diagnostic",
+        "Using surprise or emotion as gimmicks disconnected from the core point",
+        "Confusing 'simple' with 'dumbed down'"
+      ],
+      "steps": [
+        "Write your message in one or two sentences as you would naturally say it",
+        "Ask of it: Is it Simple? Unexpected? Concrete? Credible? Emotional? Is there a Story?",
+        "Mark the weakest one or two traits that matter most for this audience",
+        "Rework the message to strengthen those traits (see the other insights from this book for tools)",
+        "Test it: tell it to someone outside the topic, wait a while, and ask what they remember"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "memorable-messages"},
+        {"category": "foundations", "subcategory": "message-structures"},
+        {"category": "public-speaking", "subcategory": "structure"}
+      ],
+      "situations": [
+        "Preparing a pitch or proposal",
+        "Announcing an organizational change",
+        "Designing a training session",
+        "Writing a fundraising or volunteer appeal",
+        "Setting a household rule children will remember"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Introduction and Epilogue (overview of the six principles; one chapter per principle)",
+        "underlying_research": "Authors' synthesis of case studies, urban legend analysis (Heath, Bell and Sternberg, 2001), and classroom exercises. The framework itself has not been tested as a whole in controlled studies.",
+        "urls": [
+          "https://fourweekmba.com/success-model/",
+          "https://www.supersummary.com/made-to-stick/summary/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Several individual components have research support (concreteness, curiosity, emotional content in spread), but the six-part framework is the authors' synthesis, supported mainly by selected cases. It is a useful diagnostic, not a validated model.",
+      "flags": ["none"]
+    },
+    {
+      "id": "made-to-stick-03",
+      "name": "Find the Core (Commander's Intent)",
+      "skill_type": "technique",
+      "explanation": "Simple, in the Heaths' sense, means finding the single most important thing and ruthlessly cutting everything else, even good points. They borrow the military idea of Commander's Intent: a short plain statement of what success looks like, so people can still act sensibly when the detailed plan falls apart. A well-found core works as a decision filter. Their example is Southwest Airlines framing itself as the low-fare airline, which let employees reject an appealing idea (adding a meal) because it did not serve the core. The discipline is forced prioritization: if you say three things, you say nothing.",
+      "when_to_use": "When delegating, kicking off a project, writing a long email or report, setting team priorities, or when people keep making decisions that drift from what you wanted.",
+      "worked_example": "A manager going on two weeks' leave writes a five-page handover. Instead she adds one line at the top: 'If you only remember one thing: the client launch on the 14th must not slip; everything else can wait.' Her deputy later faces a choice between fixing an internal dashboard and testing the client release, and the one line settles it. At home, a couple planning a renovation agrees on a core ('the kitchen must work for cooking together') and uses it to say no to an expensive island that blocks the walkway.",
+      "common_mistakes": [
+        "Listing several priorities and calling them all the core",
+        "Writing a core so abstract ('excellence', 'customer focus') that it cannot guide a real decision",
+        "Cutting the core to a slogan that loses the actual meaning",
+        "Assuming people will infer the priority from a long, detailed plan"
+      ],
+      "steps": [
+        "Ask: if the audience remembers only one thing, what must it be?",
+        "Write it in one sentence of plain language",
+        "Test it against a realistic tradeoff: would this sentence tell someone what to do?",
+        "Cut or move supporting points that compete with it",
+        "Lead with the core in speech and writing, then add detail beneath it"
+      ],
+      "categories": [
+        {"category": "foundations", "subcategory": "message-structures"},
+        {"category": "professional", "subcategory": "executive-communication"},
+        {"category": "written-digital", "subcategory": "executive-writing"},
+        {"category": "influence", "subcategory": "memorable-messages"}
+      ],
+      "situations": [
+        "Delegating a task before going on leave",
+        "Kicking off a project",
+        "Writing the first line of a long email",
+        "Setting priorities for a team",
+        "Agreeing on goals for a family decision"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 1: Simple",
+        "underlying_research": "US Army doctrine on Commander's Intent; Southwest Airlines case (anecdotal, attributed to former CEO Herb Kelleher). The chapter also discusses decision-paralysis research (choice under conflict); not verified in this session.",
+        "urls": [
+          "https://www.shortform.com/blog/?p=45730",
+          "https://www.pdma.org/review_made_to_stick"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Commander's Intent is established military practice and leading with the main point is a strong consensus in professional writing guidance. Evidence in the book is case-based rather than experimental, and the Southwest salad story is a single anecdote whose details vary across retellings.",
+      "flags": ["single-anecdote"]
+    },
+    {
+      "id": "made-to-stick-04",
+      "name": "Borrow a Schema (Analogies That Do the Work)",
+      "skill_type": "technique",
+      "explanation": "One way to make a complex idea simple without losing substance is to attach it to something the audience already understands. The Heaths' example: explaining an unfamiliar fruit (a pomelo) as 'like a supersized grapefruit with a thick soft rind' instantly loads a whole picture. Good analogies are compact and also generative: they help people make new decisions. The book cites Disney calling employees 'cast members', which tells staff how to behave in countless situations no rulebook covers. Weak analogies are merely decorative; strong ones carry the logic of the idea.",
+      "when_to_use": "When explaining a new concept, product, or role to people without background; when you need people to apply an idea to situations you cannot anticipate.",
+      "worked_example": "A security lead tries to explain zero-trust networking to the leadership team and loses them. She switches to: 'Today our network is like an office with a guarded front door, but once inside you can walk into any room. We are moving to a hotel model, where your key card opens only your own room.' Executives immediately start asking useful questions about which 'rooms' matter. In a personal setting, someone explains a friend's chronic fatigue to family using the 'spoon theory' (a fixed number of spoons of energy per day), which helps relatives stop taking cancelled plans personally.",
+      "common_mistakes": [
+        "Choosing an analogy that is vivid but misleading on the key point",
+        "Using an analogy the audience does not actually know (sports or cultural references they do not share)",
+        "Stretching one analogy to cover details it does not fit",
+        "Stacking several analogies so none sticks"
+      ],
+      "steps": [
+        "Identify the core feature of the idea people must grasp",
+        "List things the audience already knows that share that feature",
+        "Pick one whose implications point people toward the right behavior",
+        "State the analogy, then name where it breaks down if that matters",
+        "Check: can listeners use it to answer a new question correctly?"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "memorable-messages"},
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "written-digital", "subcategory": "clarity-structure"},
+        {"category": "public-speaking", "subcategory": "structure"}
+      ],
+      "situations": [
+        "Explaining a technical concept to executives",
+        "Pitching a new product category",
+        "Describing a health condition to family",
+        "Explaining a role or culture to new hires"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 1: Simple (schemas, generative analogies)",
+        "underlying_research": "General cognitive psychology of schemas and analogical reasoning; the book's support is mainly illustrative examples (pomelo, Disney cast members, Hollywood high-concept pitches).",
+        "urls": [
+          "https://www.supersummary.com/made-to-stick/summary/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "That prior knowledge (schemas) aids comprehension and that analogies support learning has broad support in education research, but the book itself relies on examples rather than citing specific studies; specific claims about 'generative' analogies are expert judgment.",
+      "flags": ["none"]
+    },
+    {
+      "id": "made-to-stick-05",
+      "name": "Break the Guessing Machine",
+      "skill_type": "technique",
+      "explanation": "People stop paying attention to what they can predict. To capture attention, the Heaths advise identifying what your audience expects about your topic and then deliberately violating that expectation, in a way that is tied to your core message rather than a random gimmick. A surprise must be 'post-dictable': once explained, it makes sense and deepens the point. Their journalism-class example: students write a lead about a list of speakers at a school meeting, then learn the real news is that there will be no school next Thursday, which reframes what a lead is for. Common sense is the enemy of memorable messages, so find the part of your idea that is counter-intuitive.",
+      "when_to_use": "Opening a presentation or meeting, starting a written proposal, introducing a change people think they already understand, or getting a distracted audience to re-engage.",
+      "worked_example": "A safety manager knows staff tune out the annual training. He opens with: 'Most injuries in our warehouse last year did not involve forklifts or heavy loads. They happened walking to the break room.' Staff look up, and he connects it to his core point about wet floors and phone use. A parent uses the same move at dinner: instead of a lecture about screen time, she says 'I read that the average teenager checks their phone more often than they blink in a minute' (after checking it is true), opening a real conversation.",
+      "common_mistakes": [
+        "Using shock or a joke unrelated to the core point, which wins attention but hijacks memory",
+        "Inventing or exaggerating a surprising statistic",
+        "Surprising people repeatedly until it feels manipulative",
+        "Assuming your counter-intuitive point is counter-intuitive to the audience without checking what they expect"
+      ],
+      "steps": [
+        "Write down your core message",
+        "List what the audience currently assumes about the topic",
+        "Find the part of your message that contradicts one of those assumptions",
+        "Open with that contradiction",
+        "Explain it so the surprise makes sense and points back to the core"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "memorable-messages"},
+        {"category": "public-speaking", "subcategory": "structure"},
+        {"category": "influence", "subcategory": "overcoming-resistance"}
+      ],
+      "situations": [
+        "Opening a presentation",
+        "Starting a mandatory training session",
+        "Writing the first line of a proposal",
+        "Getting teenagers to listen to a safety message"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 2: Unexpected",
+        "underlying_research": "General attention and schema-violation research on surprise; book support is largely anecdote and examples (Nordstrom stories, a journalism teacher's lesson on leads, airline safety announcements).",
+        "urls": [
+          "https://www.supersummary.com/made-to-stick/summary/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "That novelty and expectation violation capture attention is well established in psychology, but the specific practice advice is supported by illustrative cases rather than controlled comparisons of message openings.",
+      "flags": ["none"]
+    },
+    {
+      "id": "made-to-stick-06",
+      "name": "Open a Curiosity Gap",
+      "skill_type": "technique",
+      "explanation": "Surprise grabs attention; curiosity holds it. Drawing on George Loewenstein's information gap theory, the Heaths explain that curiosity arises when people notice a gap between what they know and what they want to know, and they feel an itch to close it. So instead of leading with facts, first highlight a question or mystery the audience cares about, show them what they do not know, and then fill the gap. Mystery-style framing works well for presentations and teaching. Note the theory's own boundary: people need some knowledge to feel a gap, so total novices or total experts are less curious.",
+      "when_to_use": "Presentations, teaching, long reports or emails where you need sustained attention, and pitching ideas that require people to stay with a line of reasoning.",
+      "worked_example": "A finance analyst presenting quarterly results starts with: 'Our revenue went up 12 percent, yet our cash on hand went down. By the end of this ten-minute update you will know why, and it is not what most people guess.' The room stays engaged until she reveals delayed customer payments. At home, someone trying to interest their partner in a budget review asks first: 'Want to guess which of our subscriptions we used least this year?'",
+      "common_mistakes": [
+        "Opening a gap and never closing it, which frustrates people",
+        "Creating clickbait-style gaps that oversell a dull answer",
+        "Assuming curiosity exists when the audience lacks the background to care",
+        "Revealing the answer in the first sentence out of habit"
+      ],
+      "steps": [
+        "Identify the most interesting question your content answers",
+        "Check the audience knows enough to care about the question",
+        "Pose the question or puzzle before giving facts",
+        "Release information in a sequence that progressively narrows the gap",
+        "Close the gap clearly and link the answer to your core point"
+      ],
+      "categories": [
+        {"category": "public-speaking", "subcategory": "structure"},
+        {"category": "influence", "subcategory": "memorable-messages"},
+        {"category": "conversations", "subcategory": "storytelling"}
+      ],
+      "situations": [
+        "Presenting quarterly results",
+        "Teaching a workshop",
+        "Opening a long written report",
+        "Getting a partner interested in a household budget"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 2: Unexpected (gap theory of curiosity)",
+        "underlying_research": "George Loewenstein (1994), 'The psychology of curiosity: A review and reinterpretation', Psychological Bulletin 116(1), 75-98. Tested by Kang et al. (2009), which found an inverted-U relation between confidence and curiosity consistent with the theory.",
+        "urls": [
+          "https://stafforini.com/works/loewenstein-1994-psychology-curiosity-review/",
+          "https://www.cmu.edu/dietrich/sds/docs/golman/golman_loewenstein_curiosity.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Loewenstein's theory is influential and has supporting experiments (for example Kang et al., 2009), but it is a theoretical framework with competing accounts (novelty-based curiosity) and no direct replication program of applied communication effects. Practical use is low-risk.",
+      "flags": ["none"]
+    },
+    {
+      "id": "made-to-stick-07",
+      "name": "Make It Concrete (Velcro Memory)",
+      "skill_type": "technique",
+      "explanation": "Abstract language (strategy, value, synergy, quality) is hard to understand and easy to forget. Concrete language describes things people can see, hear, touch or picture, and it helps both understanding and memory. The Heaths describe memory as Velcro: the more hooks (sensory details, emotions, associations) an idea has, the more ways it can stick. Concreteness also coordinates teams, because a concrete goal ('a man on the moon by the end of the decade') means the same thing to everyone, whereas an abstract goal invites each person to imagine something different.",
+      "when_to_use": "Setting goals, writing job descriptions or feedback, explaining abstract strategy, describing a problem you want fixed, or giving instructions anyone will follow later.",
+      "worked_example": "Instead of telling a direct report 'you need to be more proactive with clients', a manager says: 'Last week the Acme client emailed twice asking for the timeline before we replied. I'd like clients to hear from you before they have to ask, for example a Friday note with what happened and what's next.' At home, rather than 'help out more around the house', one partner says 'can you own taking out the bins on Tuesday nights and emptying the dishwasher each morning?'",
+      "common_mistakes": [
+        "Believing abstraction sounds more professional or strategic",
+        "Giving one concrete example and then retreating to abstraction",
+        "Being concrete about trivial details while the main goal stays vague",
+        "Using vivid detail that is inaccurate"
+      ],
+      "steps": [
+        "Circle the abstract words in your draft (improve, quality, support, engage)",
+        "For each, ask: what would this look like if I filmed it?",
+        "Replace with a specific example, number, name, place or observable behavior",
+        "Where possible, show the thing (a prototype, a real email, a sample) rather than describe it",
+        "Check that two different people would picture the same thing"
+      ],
+      "categories": [
+        {"category": "written-digital", "subcategory": "clarity-structure"},
+        {"category": "difficult", "subcategory": "giving-feedback"},
+        {"category": "influence", "subcategory": "memorable-messages"},
+        {"category": "personal-life", "subcategory": "partners"}
+      ],
+      "situations": [
+        "Giving feedback to a direct report",
+        "Setting team goals",
+        "Writing a job description",
+        "Asking a partner for help at home",
+        "Explaining a company strategy"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 3: Concrete",
+        "underlying_research": "Concreteness effect in memory and comprehension: Allan Paivio's dual coding theory (concrete material is encoded both verbally and as imagery); Sadoski, Goetz and Fritz (1993) on concrete text being rated more comprehensible and interesting and better recalled. Caveat from Marschark and colleagues that the imagery explanation is debated.",
+        "urls": [
+          "https://link.springer.com/content/pdf/10.3758/BF03197531.pdf",
+          "https://www.scribd.com/doc/171991178/Dual-Coding-Theory-Paivio"
+        ]
+      },
+      "confidence": "High",
+      "confidence_rationale": "The concreteness advantage in recall and comprehension is one of the more robust findings in memory research, replicated from single words to longer text. The mechanism (dual coding) is debated, but the practical effect is well supported. The Velcro metaphor is the authors' framing, not a technical model.",
+      "flags": ["none"]
+    },
+    {
+      "id": "made-to-stick-08",
+      "name": "Let the Audience Test It (Internal Credibility)",
+      "skill_type": "technique",
+      "explanation": "When you lack authority or your audience is skeptical, the Heaths suggest building credibility from inside the message rather than from credentials. Tools include: vivid, accurate details that signal you know the subject; statistics translated to human scale so people can feel what they mean; the 'Sinatra test' (one example so strong it proves the general case, like 'if you can make it there, you can make it anywhere'); and 'testable credentials', inviting the audience to check the claim for themselves ('try it this week and see'). They also note that anti-authorities, people with lived experience, can be more credible than experts.",
+      "when_to_use": "Proposing an idea when you are junior or new, persuading a skeptical stakeholder, presenting data, making a case to family or friends who doubt you, or pitching a vendor without a track record.",
+      "worked_example": "A junior analyst wants approval for a new reporting tool. Rather than citing vendor marketing, he says: 'Give me one week with it on last month's sales data; if I can't produce the board report in half the time, we drop it.' He also notes they already use the tool's parent product in finance (a Sinatra-style example). With a skeptical parent who thinks a used electric car is a bad idea, he translates the fuel savings into human scale: 'it covers your monthly phone bill and then some.'",
+      "common_mistakes": [
+        "Burying people in statistics instead of translating one into human terms",
+        "Using vivid details that turn out to be wrong, which destroys credibility",
+        "Leaning on borrowed authority the audience does not respect",
+        "Offering a test you are not confident will succeed"
+      ],
+      "steps": [
+        "Identify why the audience might doubt you",
+        "Pick the strongest single example that would convince a skeptic (Sinatra test)",
+        "Translate key numbers into a comparison from everyday life",
+        "Add one or two specific, verifiable details",
+        "Where possible, invite the listener to verify the claim themselves"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "credibility"},
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "professional", "subcategory": "managing-up"},
+        {"category": "written-digital", "subcategory": "proposals-memos"}
+      ],
+      "situations": [
+        "Proposing an idea as a junior employee",
+        "Presenting data to a skeptical audience",
+        "Pitching a new vendor or tool",
+        "Persuading a doubtful family member"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 4: Credible",
+        "underlying_research": "Mostly case examples (for example the 'Where's the beef?' advertising campaign as a testable credential, and a smoking-harm spokesperson as an anti-authority). No controlled studies verified in this session for the Sinatra test or testable credentials specifically.",
+        "urls": [
+          "https://www.supersummary.com/made-to-stick/summary/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Ideas such as human-scale numbers and verifiable evidence fit broader persuasion and numeracy research, and the advice is credible practitioner guidance. However, the specific tools are named and supported by cases rather than tested experimentally; some vivid-detail claims rest on single studies the book summarizes briefly.",
+      "flags": ["none"]
+    },
+    {
+      "id": "made-to-stick-09",
+      "name": "One Person, Not a Million (Identifiable Victim)",
+      "skill_type": "mental model",
+      "explanation": "The Heaths argue that people care more about one specific individual than about large statistics (they call it the Mother Teresa principle, after a remark attributed to her that she would act for the one, not the mass). They cite research in which people gave more to help one named, pictured girl than in response to statistics about millions suffering, and gave less when statistics were added to her story, suggesting that putting people into analytic mode dampens feeling. The communication lesson: when you want people to care, show a specific person or case before (or instead of) aggregate numbers. Important caveat: the underlying research has replicated poorly, so treat the size of this effect with caution.",
+      "when_to_use": "Fundraising or volunteer appeals, making the case for a customer-facing fix, explaining why a policy matters to real people, or persuading friends and family to care about a cause.",
+      "worked_example": "A product manager asking for engineering time to fix accessibility bugs starts with Maria, a long-time customer who uses a screen reader and was locked out of paying her invoice for a week, and only then shows that 4 percent of users rely on assistive technology. For a neighborhood food bank drive, a volunteer writes about one family's week rather than leading with county hunger statistics.",
+      "common_mistakes": [
+        "Using a sad story that is not representative, misleading the audience",
+        "Exploiting someone's story without consent",
+        "Dropping the data entirely when decision-makers need it",
+        "Assuming the effect is large and reliable in every setting"
+      ],
+      "steps": [],
+      "categories": [
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "influence", "subcategory": "persuasive-structure"},
+        {"category": "conversations", "subcategory": "storytelling"}
+      ],
+      "situations": [
+        "Writing a fundraising appeal",
+        "Arguing for a bug fix that affects customers",
+        "Explaining why a policy change matters",
+        "Asking friends to support a cause"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 5: Emotional",
+        "underlying_research": "Small, Loewenstein and Slovic (2007), 'Sympathy and callousness', Organizational Behavior and Human Decision Processes 102(2), 143-153 (the 'Rokia' study). Replication: Maier et al. (2024), a pre-registered replication published in Collabra, found no support for the identifiable victim effect; Lee and Feeley's (2016) meta-analysis found a significant but small effect (r = .05), which a later bias-corrected reanalysis by Maier and colleagues suggests may be near zero.",
+        "urls": [
+          "https://en.wikipedia.org/wiki/Identifiable_victim_effect",
+          "https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/understanding-emotional-appeals-how-to-get-chartiable-donations/",
+          "https://pure.skku.edu/en/publications/the-identifiable-victim-effect-a-meta-analytic-review/"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "The original study was influential, but a pre-registered replication of Small et al. (2007) failed and meta-analytic evidence suggests a small effect that may disappear after correcting for publication bias. The general advice to pair data with a concrete human example is still reasonable on concreteness grounds, but the specific claim that statistics reduce giving should be treated as contested.",
+      "flags": ["contested", "unreplicated"]
+    },
+    {
+      "id": "made-to-stick-10",
+      "name": "Answer 'What's in It for Them', Vividly",
+      "skill_type": "technique",
+      "explanation": "To make people care, the Heaths say appeal to self-interest, and do it concretely: help people imagine themselves enjoying the benefit rather than listing features. They describe a study where homeowners who were asked to imagine how cable TV would improve their lives subscribed at much higher rates than those simply told its benefits. They also caution against assuming people only care about basic needs (money, security): communicators often underestimate how much others care about learning, growth, meaning and recognition, the higher levels of Maslow's hierarchy, which the authors call the mistake of living in 'Maslow's basement'.",
+      "when_to_use": "Pitching a change to a team, selling an idea to a client, recruiting, persuading someone to adopt a habit, or asking a partner or friend to try something new.",
+      "worked_example": "A team lead introducing a new ticketing system skips the feature list and says: 'Picture Friday afternoon with no one pinging you on chat to ask about status, because they can see it themselves.' She also notes the system's reporting will give each person a visible record of the hard problems they solved, appealing to recognition, not just convenience. Persuading a friend to join a running club, someone describes the Saturday coffee afterwards, not the training plan.",
+      "common_mistakes": [
+        "Listing features instead of helping people picture the benefit",
+        "Assuming money is the only motivator",
+        "Making benefits so generic that no one can imagine them",
+        "Overpromising benefits that will not materialize"
+      ],
+      "steps": [
+        "List what the audience gets, from their point of view",
+        "Include higher-level benefits (growth, recognition, meaning) not just material ones",
+        "Turn the top benefit into a short scene they can imagine themselves in",
+        "Use 'you' language and ask them to picture it",
+        "Keep claims realistic so the picture survives contact with reality"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "persuasive-structure"},
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "professional", "subcategory": "negotiation"},
+        {"category": "foundations", "subcategory": "audience-goals"}
+      ],
+      "situations": [
+        "Rolling out a new tool to a team",
+        "Pitching to a client",
+        "Recruiting a candidate",
+        "Encouraging a friend to try a new habit"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 5: Emotional (self-interest and Maslow's hierarchy)",
+        "underlying_research": "Gregory, Cialdini and Carpenter (1982), 'Self-relevant scenarios as mediators of likelihood estimates and compliance: Does imagining make it so?', Journal of Personality and Social Psychology 43(1), 89-99 (cable TV door-to-door study in Tempe, Arizona). Maslow's hierarchy of needs as a framing device. The authors also cite a Chip Heath study on people assuming others are more motivated by extrinsic rewards than they themselves are (not verified in this session).",
+        "urls": [
+          "https://scilit.net/publications/e164b37b31b26aa534e999f81712ce2b",
+          "https://persuasion-and-influence.blogspot.com/2015/01/imagine-that.html"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Focusing on audience benefits is strong consensus in persuasion practice, and the imagery study is a published peer-reviewed experiment; however, it is a single 1980s study and later research has found that imagery appeals can backfire when the scenario is hard to imagine. Maslow's hierarchy as a strict hierarchy has weak empirical support, so it is used here only as a reminder that people value non-material benefits.",
+      "flags": ["unreplicated"]
+    },
+    {
+      "id": "made-to-stick-11",
+      "name": "Appeal to Identity",
+      "skill_type": "technique",
+      "explanation": "People often decide not by calculating costs and benefits but by asking 'what would someone like me do here?' The Heaths draw on James March's identity-based model of decision-making and use the Don't Mess with Texas anti-litter campaign as an example: rather than appealing to guilt or fines, it framed littering as something real Texans do not do, using figures the target audience admired. The lesson is to connect your request to who your audience believes they are (a professional, a good parent, a team player, a proud member of a community).",
+      "when_to_use": "Behavior change requests, culture-setting messages, persuading groups with a strong shared identity, and personal requests where values matter more than incentives.",
+      "worked_example": "An engineering manager wants more thorough code reviews. Instead of announcing a new policy with penalties, she says: 'We're the team other teams copy. The way we review code is part of what people mean when they say our work is solid.' In a family, a parent encourages a teenager to call an elderly grandparent by saying 'you're the one in this family who always notices when someone is lonely', which lands better than a reminder about obligations.",
+      "common_mistakes": [
+        "Appealing to an identity the audience does not hold or resents",
+        "Using identity as a guilt trip ('a real team player would...')",
+        "Implying the listener's identity is in question, which provokes defensiveness",
+        "Picking messengers who do not represent the identity"
+      ],
+      "steps": [
+        "Identify which identity is most relevant to the decision (profession, role, community, values)",
+        "Ask what a person with that identity would naturally do in this situation",
+        "Frame your request as consistent with that identity",
+        "Use messengers or examples the audience sees as their own",
+        "Avoid implying they are failing at the identity"
+      ],
+      "categories": [
+        {"category": "influence", "subcategory": "framing"},
+        {"category": "influence", "subcategory": "overcoming-resistance"},
+        {"category": "personal-life", "subcategory": "family"},
+        {"category": "professional", "subcategory": "meetings"}
+      ],
+      "situations": [
+        "Changing team habits without new rules",
+        "Running a community or volunteer campaign",
+        "Encouraging a teenager's behavior",
+        "Setting cultural norms for a new team"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 5: Emotional (appealing to identity)",
+        "underlying_research": "James G. March's distinction between consequence-based and identity-based (appropriateness) decision-making; Don't Mess with Texas campaign as a case study.",
+        "urls": []
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Identity-based motivation and social identity effects are well studied in social psychology, and March's framework is a respected theory, but the book's support is a case study (a single, famous campaign) rather than experiments directly testing identity framing.",
+      "flags": ["single-anecdote"]
+    },
+    {
+      "id": "made-to-stick-12",
+      "name": "Stories as Simulation and Inspiration",
+      "skill_type": "framework",
+      "explanation": "The Heaths argue stories do two jobs: they act as mental flight simulators (showing people how to handle situations so they can act well later) and as inspiration (motivating action). They point to research showing that mentally rehearsing the process of reaching a goal improves performance more than imagining the outcome. They also say you do not need to invent stories: spot them in daily work and file them. Three plot types are especially useful for inspiration: the Challenge plot (overcoming odds), the Connection plot (people bridging a gap), and the Creativity plot (a breakthrough or new way of solving a problem). A related classroom observation: students in Chip Heath's Stanford class remembered stories from short speeches far better than statistics.",
+      "when_to_use": "Training and onboarding, motivating a team, presenting a case for change, teaching children lessons, or making a personal point to a friend without lecturing.",
+      "worked_example": "Instead of a slide on 'escalation best practices', a support manager tells the story of a night when a junior agent noticed an unusual pattern in three tickets, escalated it despite feeling unsure, and caught an outage early. New hires now know what to do and that it is welcome (simulation plus a Challenge plot). At a family dinner, a grandmother tells how she and an estranged sister reconnected (Connection plot), which says more to two quarrelling siblings than advice would.",
+      "common_mistakes": [
+        "Telling a story with no clear connection to the point",
+        "Making stories too long or full of irrelevant detail",
+        "Using only polished success stories that feel unrealistic",
+        "Forgetting to collect real stories, so you fall back on generic ones",
+        "Over-trusting a single story as evidence for a general claim"
+      ],
+      "steps": [
+        "Decide whether you need the story to teach (simulate) or to motivate (inspire)",
+        "Keep a running file of real stories from work and life",
+        "Pick a story whose turning point illustrates your core message",
+        "Match it to a plot (Challenge, Connection, Creativity) when you want inspiration",
+        "Tell it with concrete detail, and state the lesson briefly if it is not obvious"
+      ],
+      "categories": [
+        {"category": "conversations", "subcategory": "storytelling"},
+        {"category": "public-speaking", "subcategory": "structure"},
+        {"category": "influence", "subcategory": "memorable-messages"},
+        {"category": "professional", "subcategory": "meetings"}
+      ],
+      "situations": [
+        "Onboarding or training new staff",
+        "Motivating a team after a setback",
+        "Making a case for change",
+        "Giving advice to family without lecturing",
+        "Opening a keynote or toast"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Chapter 6: Stories",
+        "underlying_research": "Pham and Taylor (1999), 'From thought to action: Effects of process- versus outcome-based mental simulations on performance', Personality and Social Psychology Bulletin 25, 250-260 (students who simulated the study process studied more and earned better grades than those imagining the outcome). The stories-versus-statistics recall result (reported as about 63 percent recalling stories versus about 5 percent recalling any statistic) comes from Chip Heath's classroom exercise, not a peer-reviewed study.",
+        "urls": [
+          "https://journals.sagepub.com/doi/10.1177/0146167299025002010",
+          "https://mannerofspeaking.org/2009/10/13/making-it-stick-tell-stories/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Process simulation is supported by a published experiment and related mental-simulation research, and narrative advantages in engagement are broadly accepted. The memorable classroom figures are informal and frequently misquoted (and inflated claims such as 'stories are 22 times more memorable' have no verifiable source). The three plot types are the authors' taxonomy rather than an empirical finding.",
+      "flags": ["unreplicated"]
+    },
+    {
+      "id": "made-to-stick-13",
+      "name": "Spread by Emotion, Not Just Truth",
+      "skill_type": "mental model",
+      "explanation": "Ideas compete for attention and retelling, and the ones that win are not necessarily the truest. Chip Heath's own research on urban legends found that stories evoking stronger shared emotions (in that case disgust) were more widely passed on. For communicators this cuts two ways: accurate messages need emotional and concrete hooks to compete with sticky falsehoods, and you should be wary of ideas (rumors, office gossip, viral claims) that spread because they are emotionally gripping rather than accurate.",
+      "when_to_use": "Correcting misinformation or a workplace rumor, designing a message that must be retold by others, and evaluating claims that spread quickly in your team, family chat or social feeds.",
+      "worked_example": "A rumor spreads that the company will close the regional office. The site manager realizes a dry 'no changes are planned at this time' email cannot compete with an anxious story. She holds a short meeting, names the rumor, gives concrete facts (the new five-year lease signed last month, the hiring plan for two roles), and invites questions. In a family group chat, a sibling pauses before forwarding an alarming health claim, noticing it spreads because it is scary, and checks it first.",
+      "common_mistakes": [
+        "Assuming the truth will spread on its own merits",
+        "Repeating the false claim prominently when correcting it",
+        "Fighting emotional rumors with abstract reassurance",
+        "Forwarding emotionally gripping claims without checking them"
+      ],
+      "steps": [],
+      "categories": [
+        {"category": "influence", "subcategory": "memorable-messages"},
+        {"category": "difficult", "subcategory": "bad-news"},
+        {"category": "written-digital", "subcategory": "chat"}
+      ],
+      "situations": [
+        "Correcting an office rumor",
+        "Responding to misinformation in a family group chat",
+        "Writing a message employees must retell to customers",
+        "Announcing uncertain news before details are final"
+      ],
+      "source": {
+        "citation": "Chip Heath and Dan Heath, Made to Stick (2007), Introduction and Chapter 5: Emotional",
+        "underlying_research": "Heath, Bell and Sternberg (2001), 'Emotional selection in memes: The case of urban legends', Journal of Personality and Social Psychology 81(6), 1028-1041 (legends with more disgust-evoking motifs were more widely distributed and people were more willing to pass them on).",
+        "urls": [
+          "https://bec.ucla.edu/wp-content/uploads/sites/108/archive/papers/Heath_Emotional_Selection.pdf",
+          "https://read.qxmd.com/read/11761305/emotional-selection-in-memes-the-case-of-urban-legends"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Supported by a peer-reviewed study by one of the authors, consistent with later research showing emotional and novel content spreads further online. The study focused on disgust and urban legends, so generalizing to all emotions and workplace communication is an extrapolation; note the author has an interest in the finding.",
+      "flags": ["none"]
+    }
+  ],
+  "research_notes": "Network access: WebFetch was blocked for every host attempted (heathbrothers.com, readingraphics.com, forrt.org, penguinrandomhouse.com, gsb.stanford.edu), so no page was read in full. All verification came from WebSearch result snippets and summaries of: third-party book summaries (supersummary, fourweekmba, shortform, pdma review, mannerofspeaking), library catalog and bookseller records (Random House, 2007, ISBN 9781400064281, ISBN-10 1400064287; one catalog lists 2008, likely a reprint), Wikipedia entries on the curse of knowledge and identifiable victim effect, abstracts and indexes for Camerer, Loewenstein and Weber (1989), Birch and Bloom (2007), Loewenstein (1994), Small, Loewenstein and Slovic (2007), Lee and Feeley (2016), Maier et al. (2024), Pham and Taylor (1999), Gregory, Cialdini and Carpenter (1982), Heath, Bell and Sternberg (2001), and concreteness/dual coding literature (Paivio; Sadoski et al.). Chapter structure (Introduction; Simple; Unexpected; Concrete; Credible; Emotional; Stories; Epilogue) and several book examples (pomelo, Disney cast members, Don't Mess with Texas, Maslow's basement, March's identity model, Sinatra test, the three plots) are described from general knowledge of the book and corroborated by summaries in search results, but were not checked against the book text in this session. Details to verify against the book: the Southwest salad anecdote (details vary across retellings), the exact Rokia donation figures (not confirmed), the decision-paralysis studies mentioned in Chapter 1, and the Chip Heath study on extrinsic incentive bias. Newton's tapping study is an unpublished 1990 Stanford dissertation; sources disagree on her exact status. The classroom stories-versus-statistics figures (63 percent vs 5 percent) are informal and inconsistently reported. Edition field reflects the first US hardcover; page count not verified."
+}
