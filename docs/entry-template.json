@@ -18,6 +18,7 @@
     {
       "id": "short-kebab-case-id-01",
       "name": "Short memorable name",
+      "takeaway": "One sentence of practical advice, 10 to 22 words, shown in search results.",
       "skill_type": "technique",
       "explanation": "One plain-language paragraph in your own words.",
       "when_to_use": "The situations where this helps.",

@@ -13,10 +13,13 @@
 
 ## What the page does
 
-- **Library**: free-text search plus filters for category, subcategory, book or source, confidence level, skill type (mental model, technique, framework) and origin (core book or added source). Click an entry to open it: explanation, when to use it, worked example, steps, common mistakes, situations, confidence and its rationale, credibility flags, source citation and the research behind it, and other sources that support or qualify it.
-- **Learning path**: the seven-stage sequence from the Stage 2 synthesis.
+- **Find** (home): type the moment you are facing; get matching situation playbooks and techniques ranked by relevance. Quick chips cover common moments.
+- **Situations**: step-by-step playbooks for high-stakes moments (`data/situations.json`), filterable by work, personal, writing, in person and video. Each step links to the entries it draws on.
+- **Library**: search plus filters for category and subcategory (with live counts), evidence level, skill type, origin and source. Entries open in a reader panel with the idea, when to use it, an example, steps, mistakes, playbooks that use it, related entries, evidence and flags, source and research, and what other sources add. Arrow keys move through the current list.
+- **Path**: the seven-stage learning path with progress per stage and a Continue button.
+- **Saved**: starred situations and entries, and entries marked as practiced. Stored in your browser only (per device).
 - **Sources**: every core book and added source with a credibility note; click through to its entries.
-- Every entry has a stable link: `#insight-<id>`.
+- Stable links: `#insight-<id>` and `#situation-<id>`. Press `/` to jump to search.
 
 ## Add a book
 
@@ -24,6 +27,7 @@
 2. **Fill in the book details.** Complete the `book` block. Set `"core": false` for anything outside the original nine books.
 3. **Write the insights.** Add one object per insight to `insights`. Give each a unique id (`<book-id>-01`, `<book-id>-02`, and so on).
    - Write explanations and examples in your own words. Quote no more than a short phrase.
+   - `takeaway` is the one-sentence advice shown in result lists (10 to 22 words). State the advice itself, not what the source says.
    - `skill_type` must be `mental model`, `technique` or `framework`.
    - `confidence` must be `High` (replicated research or strong consensus), `Medium` (credible expert or case evidence) or `Low` (plausible but thinly supported). Explain the rating in `confidence_rationale`.
    - `categories` must use the ids listed in `docs/stage1-schema.md`. One insight can sit in several categories.
@@ -44,6 +48,7 @@
 | `taxonomy` | Categories, each with subcategories (ids and display names) |
 | `sources` | One record per book or paper: title, authors, year, publisher, source type, core flag, credibility and evidence notes, legal access links |
 | `insights` | One record per insight, as in the template, plus `source_id` and `supporting_evidence` (links from other sources) |
+| `situations` | Situation playbooks: context, goal, ordered steps with linked insight ids, example wording, pitfalls, evidence note |
 | `learning_path.stages` | Ordered stages, each with title, purpose, rationale and ordered `insight_ids` |
 | `convergent_concepts`, `related_insights` | Cross-book synthesis from Stage 2 |
 
