@@ -2799,6 +2799,93 @@
    ]
   },
   {
+   "source_id": "crucial-conversations",
+   "title": "Crucial Conversations",
+   "subtitle": "Tools for Talking When Stakes Are High",
+   "authors": [
+    "Joseph Grenny",
+    "Kerry Patterson",
+    "Ron McMillan",
+    "Al Switzler",
+    "Emily Gregory"
+   ],
+   "year": 2021,
+   "publisher": "McGraw Hill",
+   "edition": "Third edition, McGraw Hill, published October 2021 (publisher press release gives October 26, 2021), 304 pages per the press release and Open Library (library catalogs record xii, 279 numbered pages). The first edition was published in 2002 by McGraw-Hill with four authors (Patterson, Grenny, McMillan, Switzler); Emily Gregory joined as coauthor for the third edition, which added a new chapter on responding rather than initiating (Retake Your Pen), new tips and scripts, and updated examples.",
+   "isbn": "9781260474183",
+   "source_type": "book",
+   "core": false,
+   "author_credibility": "The authors are cofounders and leaders of Crucial Learning (formerly VitalSmarts), a Provo, Utah training company whose flagship course is Crucial Conversations; Grenny and Patterson have backgrounds in organizational behavior consulting, and Gregory is a longtime Crucial Learning executive and course developer. They are experienced practitioners and trainers rather than academic researchers. The book is the basis of a large commercial training business (the authors report several million readers and course participants), so the authors have a direct financial interest in the method, and most of the supporting data comes from their own company surveys rather than independent studies.",
+   "evidence_base": "The authors say the skills came from observing opinion leaders (people colleagues named as unusually effective in high-stakes moments) inside mostly US companies, then teaching what those people did. Supporting numbers come mainly from the company's own surveys, for example the Silence Kills report with the American Association of Critical-Care Nurses (Maxfield, Grenny, McMillan, Patterson and Switzler, 2005), its sequel The Silent Treatment, and a 2021 survey of about 1,300 people on feeling unsafe to speak up; these are not peer-reviewed outcome studies. No randomized controlled trial of the training was found. Independent evaluations located are weak: an uncontrolled pre and post safety-culture survey after resident training at Oklahoma State University (Som, Beaman, Keener and Stroup, Oklahoma State Medical Proceedings, 2021; 60 percent then 21 percent response rates) and a 2014 nursing conference poster reporting a very small change in a quasi-experimental design. Several individual ideas are consistent with independent research (psychological safety, attribution bias, cognitive reappraisal, specific action plans), but the named frameworks themselves are untested as such.",
+   "legal_access": [
+    {
+     "type": "author site",
+     "url": "https://cruciallearning.com/crucial-conversations-book/",
+     "note": "Book resource page; the model handout, discussion questions and videos are emailed after a form, which was not completed."
+    },
+    {
+     "type": "author articles",
+     "url": "https://cruciallearning.com/blog/crucial-conversations-skill-summary-start-with-heart/",
+     "note": "Free official skill summaries (Start with Heart, Make It Safe, Master My Stories) and a weekly reader Q&A column written by the authors and master trainers."
+    },
+    {
+     "type": "publisher press release",
+     "url": "https://cruciallearning.com/press/crucial-learning-releases-third-edition-of-acclaimed-bestselling-book-crucial-conversations/",
+     "note": "Edition details and what changed in the third edition."
+    },
+    {
+     "type": "library",
+     "url": "https://openlibrary.org/isbn/9781260474183",
+     "note": "Widely held in public libraries in print, ebook and audio."
+    }
+   ]
+  },
+  {
+   "source_id": "difficult-conversations",
+   "title": "Difficult Conversations",
+   "subtitle": "How to Discuss What Matters Most",
+   "authors": [
+    "Douglas Stone",
+    "Bruce Patton",
+    "Sheila Heen"
+   ],
+   "year": 1999,
+   "publisher": "Viking (first edition, 1999); Penguin Books (10th anniversary edition, 2010; updated third edition, 2023)",
+   "edition": "10th anniversary edition (Penguin Books, 2010), which adds 'Answers to Ten Questions People Ask'. First edition: Viking, 1999, 250 pages, ISBN 9780670883394. An updated third edition (Penguin Books, 2023, ISBN 9780143137597) adds material on race, culture, gender, power and technology and was not consulted.",
+   "isbn": "9780143118442",
+   "source_type": "book",
+   "core": false,
+   "author_credibility": "Stone and Heen are lecturers on law at Harvard Law School and cofounders of Triad Consulting Group; Patton is a coauthor of Getting to Yes. All three wrote the book from the Harvard Negotiation Project, and Roger Fisher wrote the foreword. They teach negotiation and have worked as mediators and consultants for companies, governments and nonprofits. Triad sells training built on the book, so the authors have a commercial interest in the method.",
+   "evidence_base": "Practitioner synthesis from mediation, negotiation teaching and consulting, illustrated with composite stories and scripted dialogues. Publishers Weekly noted it draws on law, organizational behavior, cognitive, family and social psychology and dialogue studies; Heen credits Chris Argyris's action science (the unspoken internal voice) as a key influence. Several component ideas match later or independent research (people credit their own intentions more than others', naive realism, affect labeling, self-affirmation, the value of being listened to), but the framework and its steps have not been tested as a package.",
+   "legal_access": [
+    {
+     "type": "publisher preview",
+     "url": "https://www.penguinrandomhouse.com/books/331191/difficult-conversations-by-douglas-stone-bruce-patton-and-sheila-heen/",
+     "note": "Penguin Random House book page with author bios and edition details."
+    },
+    {
+     "type": "author companion",
+     "url": "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf",
+     "note": "Triad Consulting Group's free preparation worksheet instructions (copy hosted by Wentworth Institute of Technology), which summarize the three conversations, the three purposes and an opening line."
+    },
+    {
+     "type": "summary",
+     "url": "https://www.beyondintractability.org/bksum/stone-difficult",
+     "note": "Chapter-by-chapter summary by the Conflict Research Consortium (University of Colorado), with page references to the 1999 edition."
+    },
+    {
+     "type": "summary",
+     "url": "https://www.pon.harvard.edu/daily/conflict-resolution/telling-the-third-story/",
+     "note": "Harvard Program on Negotiation article on the third story."
+    },
+    {
+     "type": "interview",
+     "url": "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+     "note": "Sheila Heen interview (2019) with a full transcript covering all three conversations and the third story."
+    }
+   ]
+  },
+  {
    "source_id": "talk-like-ted",
    "title": "Talk Like TED",
    "subtitle": "The 9 Public-Speaking Secrets of the World's Top Minds",
@@ -4313,7 +4400,18 @@
    "confidence": "Medium",
    "confidence_rationale": "Model confirmed in the authors' own GSB interview, Robin's Bookbite and the podcast notes, including the net metaphor and the point that people act as amateur psychologists about others' motives. The attribution-bias research supports the logic, but the model's effect on outcomes is untested, so Medium.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "Separating observable behavior from guesses about intent matches the Path to Action, which adds that the story we tell drives our own emotions, so changing the story changes the feeling (crucial-conversations-05)."
+    },
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations is an earlier source of the intent and impact distinction. It adds the receiving side in more detail: when accused, listen for the feeling under the accusation, acknowledge the impact before explaining, and admit that your own intentions are often mixed. Heen also suggests 'assume you do not know' their intent rather than 'assume good faith', which fails in strained long-term relationships. See difficult-conversations-05."
+    }
+   ]
   },
   {
    "id": "connect-04",
@@ -4379,6 +4477,11 @@
      "source_id": "gottman-seven-principles",
      "relation": "supports",
      "note": "Gottman's distinction between a complaint about behavior and criticism of character matches behavior-plus-impact feedback, applied to partners."
+    },
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "STATE My Path also starts with observable facts but adds stating your tentative story explicitly, asking for theirs, and inviting them to test it (crucial-conversations-07)."
     }
    ]
   },
@@ -4460,6 +4563,16 @@
      "source_id": "overall-mcnulty-2017",
      "relation": "qualifies",
      "note": "Raising issues directly is supported for serious, changeable problems, but direct opposition over minor irritations can feel unnecessarily harsh and lower satisfaction (McNulty and Russell, 2010); for small pinches, the light, proportional tone in that insight matters."
+    },
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "The third edition's claim that relationship and team health is measured by the lag between seeing a problem and raising it supports raising pinches early; the authors also warn that what is not talked out gets acted out."
+    },
+    {
+     "source_id": "difficult-conversations",
+     "relation": "qualifies",
+     "note": "Connect urges raising small irritations early. Difficult Conversations agrees that avoidance often worsens problems but adds a decision step: some issues are better let go, especially when the conflict is mainly inside you or your only purpose is to change the other person. It offers four attitudes for letting go well. See difficult-conversations-09."
     }
    ]
   },
@@ -4520,7 +4633,13 @@
    "confidence": "Medium",
    "confidence_rationale": "Confirmed in Robin's podcast takeaways (avoid 'I feel that' and 'I feel like'; follow 'I feel' with a feeling word), her Bookbite, and the book's feelings-vocabulary appendix. Research supports precise emotion labeling for the speaker; evidence that it improves the listener's response is mostly practitioner consensus. Medium.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations makes the same distinction between describing a feeling and disguising a judgment as one, and adds two steps: negotiate with your feelings by checking the story behind them, and recognize that feelings come in mixed bundles that can be expressed together with 'and'. See difficult-conversations-07."
+    }
+   ]
   },
   {
    "id": "connect-07",
@@ -4585,6 +4704,11 @@
      "source_id": "ames-wazlawek-2014",
      "relation": "supports",
      "note": "Gives specific evidence that you cannot see your own impact: people misjudged how assertive they seemed about half the time, so feedback is the only reliable check on how you push."
+    },
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "Retake Your Pen adds the receiver's internal precondition: secure your own sense of worth so you can look for the data in feedback even when it is badly delivered (crucial-conversations-10)."
     }
    ]
   },
@@ -4645,7 +4769,13 @@
    "confidence": "Medium",
    "confidence_rationale": "Confirmed by a summary of the authors' own article, and a book excerpt quoted in reviews makes the related point that asking why something is not working beats blaming. Credible expert practice with broad consensus but no direct experimental test of this framing, so Medium.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Adds a fuller method for the 'look for your own contribution' step: map the whole contribution system (each person's actions and inactions, including avoidance), remember contributions are rarely equal and are not the same as blame, and name your part first because people reciprocate. See difficult-conversations-06."
+    }
+   ]
   },
   {
    "id": "connect-09",
@@ -5461,6 +5591,11 @@
      "source_id": "kalla-broockman-2020",
      "relation": "supports",
      "note": "Field-experimental support for asking about the other person's experience rather than only imagining it: conversations that exchanged personal narratives durably reduced exclusionary attitudes, while arguments alone had no effect (Kalla and Broockman 2020, three pre-registered experiments, about 6,900 voters)."
+    },
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Explore Each Other's Stories applies perspective getting to conflict: assume they have information you lack, ask what they see that you do not, and tell their story until a neutral friend would find it reasonable. See difficult-conversations-03."
     }
    ]
   },
@@ -5528,6 +5663,11 @@
      "source_id": "miller-rollnick-mi-2023",
      "relation": "supports",
      "note": "Reflective listening is one of MI's core skills; MI adds that which statements you choose to reflect (reasons for change versus for the status quo) shapes where the conversation goes."
+    },
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations' listening chapter ('Listen from the Inside Out') teaches the same paraphrase-and-check move and adds that your stance matters more than technique: genuine curiosity, managing your loud internal voice, and the rule that you cannot move a conversation forward until the other person feels heard. It also warns against questions that are disguised statements."
     }
    ]
   },
@@ -5852,6 +5992,16 @@
      "source_id": "baile-spikes-2000",
      "relation": "supports",
      "note": "SPIKES puts conditions before content: setting, then checking perception and getting an invitation before any news is delivered, which matches the advice to establish safety before substance."
+    },
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "Crucial Conversations is a main source for the safety-before-substance idea. It adds a diagnosis (is mutual purpose or mutual respect at risk?) and concrete repair tools: apology, contrasting, and CRIB; see crucial-conversations-03 and -04."
+    },
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Brooks's official versus actual conversation matches the Feelings and Identity layers in Difficult Conversations, and his splitting move (name the difference, then build on what you share) resembles the third story, which opens by describing the gap between two views in terms both accept."
     }
    ]
   },
@@ -8725,7 +8875,13 @@
    "confidence": "Medium",
    "confidence_rationale": "A useful and intuitively valid diagnostic that overlaps with established practitioner frameworks (Harvard Negotiation Project), but the specific three-part typology is a journalistic synthesis, not an empirically tested taxonomy.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations (1999) is the earlier source of a three-layer model: What Happened, Feelings and Identity. It differs from Duhigg's typology in one useful way: the three are not kinds of conversation but layers running at once inside every hard one, in both people. Its first layer is about competing stories, blame and assumed intent rather than practical problem-solving. See difficult-conversations-01."
+    }
+   ]
   },
   {
    "id": "supercommunicators-02",
@@ -8851,7 +9007,13 @@
    "confidence": "Medium",
    "confidence_rationale": "Each rule aligns with established practitioner guidance (interest-based negotiation, emotional disclosure, identity in conflict), but the four-rule package is the author's synthesis rather than a tested protocol. Wording now verified against the author's own companion guide.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "The learning conversation originates with Stone, Patton and Heen, who contrast it with a message-delivery stance and give it three purposes: learning, expression and problem-solving. Their version adds the hand-grenade point (no wording makes a hard message painless) and the reminder that curiosity does not mean abandoning your view. See difficult-conversations-02."
+    }
+   ]
   },
   {
    "id": "supercommunicators-04",
@@ -9138,6 +9300,16 @@
      "source_id": "west-listening-2025",
      "relation": "supports",
      "note": "Explicit verbal evidence of understanding (validation, follow-ups) linked to stronger connection and faster, smoother turn-taking, consistent with proving you are listening rather than just listening."
+    },
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "Paraphrase in AMPP is the same move as looping. The book adds Mirror (naming a mismatch between words and tone) and Prime (offering a guess when someone is stuck), and the Agree, Build, Compare response (crucial-conversations-08)."
+    },
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations gives looping a conflict-specific rationale: acknowledgment is not agreement, and the other person will not listen to you until they feel understood. It suggests asking questions that explore all three conversations (their story, feelings and what is at stake for them)."
     }
    ]
   },
@@ -9414,6 +9586,11 @@
      "source_id": "kalla-broockman-2020",
      "relation": "supports",
      "note": "Adds rigorous evidence that non-judgmental listening and story exchange, not argument, is what moves people in heated disagreements, with the caveat that per-conversation effects are small (d about 0.04 to 0.08)."
+    },
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "Both aim for understanding over conversion in heated disagreement. Crucial Conversations adds a way to spot lost safety (silence and violence) and the step-out, restore, step-back-in sequence."
     }
    ]
   },
@@ -10171,6 +10348,16 @@
      "source_id": "overall-mcnulty-2017",
      "relation": "qualifies",
      "note": "Receptive, validating communication is most useful for minor or unchangeable issues and with defensive partners; for serious changeable problems in close relationships, too much softening can reduce change."
+    },
+    {
+     "source_id": "crucial-conversations",
+     "relation": "qualifies",
+     "note": "Crucial Conversations endorses tentative, hedged language but warns that hedging can slide into silence: the concern itself must still be stated clearly, blending confidence with humility."
+    },
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations' learning stance and And Stance anticipate the receptiveness recipe: aim to understand rather than win, acknowledge their view, and hold both views without conceding yours."
     }
    ]
   },
@@ -10367,7 +10554,13 @@
    "confidence": "Medium",
    "confidence_rationale": "Confirmed in the author's workbook, which presents the compass and quadrants from the book. It is a theoretical review framework from credible researchers, not a tested intervention.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations gives a goal set for hard conversations specifically: drop purposes you cannot control (changing them) and adopt learning, expression and problem-solving."
+    }
+   ]
   },
   {
    "id": "talk-wood-brooks-13",
@@ -10483,7 +10676,13 @@
    "confidence": "Medium",
    "confidence_rationale": "Confirmed in the author's workbook as a framework from the book. It is a credible expert's diagnostic model rather than a tested intervention.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Brooks's layers (content, emotions, beliefs, motives, identity) extend the three conversations of Difficult Conversations. The earlier book adds concrete fixes for each layer: explore stories, separate intent from impact, map contribution, describe feelings and ground your identity."
+    }
+   ]
   },
   {
    "id": "think-faster-talk-smarter-01",
@@ -11432,7 +11631,18 @@
    "confidence": "Medium",
    "confidence_rationale": "Confirmed from the author's own reading of the chapter. Its components (pausing to regulate, receptive listening, perspective taking, acknowledging before advocating) are backed by credible research and expert consensus, but the five-step package is an untested synthesis. Note that it belongs to the updated edition.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "CLEAR's step of questioning the villain story is borrowed from Joseph Grenny and Crucial Conversations. The original adds the victim and helpless stories and a specific question for each (my role, why would a reasonable person do this, what should I do now); see crucial-conversations-06."
+    },
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "CLEAR's 'use and instead of but' step echoes the And Stance in Difficult Conversations, which applies 'and' to both views, to mixed feelings and to your own self-image, not only to how you phrase disagreement."
+    }
+   ]
   },
   {
    "id": "ames-wazlawek-2014-01",
@@ -13209,6 +13419,11 @@
      "source_id": "thompson-mind-heart-negotiator",
      "relation": "supports",
      "note": "Thompson and Hrebec's meta-analysis of 32 experiments documents the cost of assuming opposed interests, giving research backing to the interests-over-positions principle (sibling extraction from this batch)."
+    },
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "CRIB's 'Recognize the purpose behind the strategy' applies interests-over-positions thinking to everyday conflicts and pairs it with inventing a broader shared purpose before brainstorming."
     }
    ]
   },
@@ -13265,7 +13480,13 @@
    "flags": [
     "contested"
    ],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations, written by Patton and colleagues from the same Harvard Negotiation Project, develops the people side of this principle into a full method: the feelings and identity layers, intent versus impact, and contribution instead of blame."
+    }
+   ]
   },
   {
    "id": "fisher-ury-getting-to-yes-03",
@@ -13318,7 +13539,13 @@
    "confidence": "Medium",
    "confidence_rationale": "Consistent with experimental findings that negotiators miss joint gains when they assume a fixed pie; the book's brainstorming techniques themselves are expert guidance.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "The problem-solving chapter of Difficult Conversations applies option invention to personal and workplace disputes and adds two direct questions: ask what would persuade them, and tell them what would persuade you. If no option works, walk away while explaining your interests and feelings."
+    }
+   ]
   },
   {
    "id": "fisher-ury-getting-to-yes-04",
@@ -13370,7 +13597,13 @@
    "flags": [
     "contested"
    ],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations recommends the same move in everyday disputes: when you cannot agree, ask what principles or standards would make a solution fair to both."
+    }
+   ]
   },
   {
    "id": "fisher-ury-getting-to-yes-05",
@@ -13599,7 +13832,13 @@
    "confidence": "Medium",
    "confidence_rationale": "The steps are confirmed in Franco's interview and are consistent with broader relationship research on direct communication and repair, but evidence specific to friendships is thin and the book is a single-author synthesis.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Franco's sequence (value the friendship, share feelings, ask their side, own your part) closely follows the Difficult Conversations method of opening from the third story, describing feelings, listening, and naming your contribution."
+    }
+   ]
   },
   {
    "id": "franco-platonic-03",
@@ -13647,7 +13886,13 @@
    "confidence": "Low",
    "confidence_rationale": "Plausible and confirmed as Franco's advice in a university interview, but rests on a single illustrative example and practitioner judgment. It sits in some tension with active-constructive responding (gable-2004-01), which emphasizes enthusiasm; the two fit together if the honest note is brief and the main response stays engaged.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "The And Stance in Difficult Conversations gives the general principle behind honest mixed feelings: you can feel happy for someone and hurt, or love a person and be frustrated by them, and say both."
+    }
+   ]
   },
   {
    "id": "gabarro-kotter-managing-your-boss-01",
@@ -15002,7 +15247,13 @@
    "flags": [
     "unreplicated"
    ],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "difficult-conversations",
+     "relation": "supports",
+     "note": "Difficult Conversations states the same idea as its single most important rule for managing a hard interaction: you cannot move the conversation forward until the other person feels heard. The listening research gives that practitioner rule an evidence base."
+    }
+   ]
   },
   {
    "id": "kross-2014-01",
@@ -15874,7 +16125,13 @@
    "confidence": "Medium",
    "confidence_rationale": "Implicit voice theories were documented across several studies and are central in the review, but evidence that noticing and testing them changes behavior is indirect. The exact list of rules was not verified against the original paper.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "The authors' Silence Kills survey with the American Association of Critical-Care Nurses (2005) reported that few health care workers felt able to raise concerns about colleagues; it is a vendor survey rather than peer-reviewed research, but it illustrates habitual silence in a high-stakes field."
+    }
+   ]
   },
   {
    "id": "morrison-2014-voice-03",
@@ -15989,7 +16246,13 @@
    "confidence": "High",
    "confidence_rationale": "A peer-reviewed review of a sizable literature by active researchers, with each checklist item linked to a study. Most underlying evidence is correlational survey data, so individual items are better read as well-supported practices than proven causal levers.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "Meeting science's advice to be honest about decision rights and to send clear follow-ups is operationalized in the book's four decision methods and the WWWF close (crucial-conversations-11 and -12)."
+    }
+   ]
   },
   {
    "id": "mroz-allen-2018-meetings-02",
@@ -17593,7 +17856,13 @@
    "confidence": "Medium",
    "confidence_rationale": "Credible expert framework confirmed in the publisher's reader's guide and Ury's own interview. It is a descriptive typology, not empirically tested; it resembles established conflict-style models (for example the accommodating and avoiding styles in Thomas-Kilmann), but that link is our observation, not the book's.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "Silence and violence map onto avoid or accommodate versus attack. Crucial Conversations adds finer categories (masking, avoiding, withdrawing; controlling, labeling, attacking) and a self-assessment of your default style under stress."
+    }
+   ]
   },
   {
    "id": "van-laer-2014-01",
@@ -17662,6 +17931,1317 @@
      "note": "Adds a practical way to create an identifiable character: Bryan Stevenson chose stories about his grandmother and family because nearly everyone has one, building trust before the hard facts."
     }
    ]
+  },
+  {
+   "id": "crucial-conversations-01",
+   "source_id": "crucial-conversations",
+   "name": "Start with Heart: What Do I Really Want?",
+   "takeaway": "Before and during a hard talk, ask what you really want for yourself, them, and the relationship, and refuse either-or choices.",
+   "skill_type": "technique",
+   "explanation": "The authors argue that in a high-stakes moment our motives slip before our behavior does: we drift from wanting to solve a problem to wanting to win, be right, save face or punish, usually without noticing. Start with Heart is a short self-check. First accept that you are part of the problem and the only person you can reliably change. Then read your motive from the outside in by asking what your behavior suggests you want. Then ask what you really want for yourself, for the other person and for the relationship, and what you would do right now if you wanted those things. The last step is refusing the Fool's Choice, the belief that you must pick between honesty and keeping the peace, by searching for an option that serves both. It is practitioner advice drawn from observing skilled communicators, not a tested intervention.",
+   "when_to_use": "In the minutes before a planned difficult conversation, and in the middle of one when you notice yourself interrupting, overstating, or trying to score points. Also useful when you are tempted to stay quiet to protect a relationship. Less needed for routine, low-stakes exchanges.",
+   "worked_example": "A product lead notices she is cutting off an engineer in a design review and shaking her head at his points. She pauses and asks herself what it looks like she wants: to win. What she really wants is a product that ships on time and an engineer who still brings her problems. Her new question becomes, 'How can I push for the deadline and still get his best thinking?' She says, 'I've been arguing instead of listening. I want to hit the date and I want your concerns on the table. Can you walk me through the risk you see?' At home, the same move turns 'Do I tell my sister her plan is risky or keep quiet?' into 'How can I be honest about my worry and show I am on her side?'",
+   "common_mistakes": [
+    "Running the check only before the conversation and never again once emotions rise mid-conversation.",
+    "Answering 'what do I really want' with a short-term win such as getting them to admit they were wrong.",
+    "Treating 'and' thinking as a way to avoid saying the hard thing at all.",
+    "Using flattery as a stand-in for good intent; the authors warn against sandwiching honest content between insincere praise."
+   ],
+   "steps": [
+    "Assume you are part of the problem and focus on what you can change in yourself.",
+    "Notice your behavior and ask: what does it look like I want right now?",
+    "Ask what you really want for yourself, for the other person, and for the relationship.",
+    "Ask what you would do right now if you really wanted those results.",
+    "If you feel stuck between candor and peace, frame an 'and' question that seeks both, then act on it."
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "mindset"
+    }
+   ],
+   "situations": [
+    "Catching yourself arguing to win in a meeting",
+    "Deciding whether to raise a worry with a family member",
+    "Preparing for a tense conversation with a coworker"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter Start with Heart; Crucial Learning skill summary 'Start with Heart' (2022).",
+    "underlying_research": "Practitioner experience and the authors' observation of opinion leaders; no direct empirical test of the technique.",
+    "urls": [
+     "https://cruciallearning.com/blog/crucial-conversations-skill-summary-start-with-heart/",
+     "https://cruciallearning.com/blog/how-to-become-a-better-listener/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "A widely taught expert practice that fits general findings on goal clarity and self-regulation, but the specific questions and the Fool's Choice idea have not been tested in controlled studies.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-02",
+   "source_id": "crucial-conversations",
+   "name": "Learn to Look: Silence and Violence",
+   "takeaway": "Notice when a talk turns crucial, and spot silence (masking, avoiding, withdrawing) or violence (controlling, labeling, attacking) in others and yourself.",
+   "skill_type": "framework",
+   "explanation": "The authors say most people are so absorbed in the content of a hard conversation that they miss its conditions. Learn to Look means splitting attention between what is being said and how safe people feel saying it. When people stop feeling safe they move toward one of two poles. Silence is any deliberate withholding of meaning: masking (sarcasm, sugarcoating, understating), avoiding (steering away from the real issue) and withdrawing (leaving the conversation). Violence is any attempt to convince, control or compel: controlling (forcing views, dominating), labeling (sticking a stereotype on a person or idea) and attacking (belittling, threatening). Either one signals that safety is at risk and that pushing the content harder will fail. The book includes a Style Under Stress self-assessment so readers can see their own default. Grenny has said the word violence is deliberately strong, and that silence is not the morally better choice.",
+   "when_to_use": "During any conversation where stakes, emotions or disagreement are rising, and afterward as a debrief on your own habits. Especially useful in groups, where one person's quiet withdrawal is easy to miss.",
+   "worked_example": "In a budget meeting a director says, 'Sure, whatever works,' and starts checking his phone after his proposal is cut. His manager recognizes withdrawing, a form of silence, rather than agreement. She also notices she has been repeating her point more forcefully, a slide toward controlling. She stops and says, 'I've been pushing hard, and I'm not sure I've heard what this cut means for your team. What am I missing?' At home, a parent who hears a teenager say 'Fine' and leave the room treats it the same way: as a sign the talk stopped feeling safe, not as the end of the issue.",
+   "common_mistakes": [
+    "Watching only the other person and missing your own slide into silence or violence.",
+    "Treating silence as polite or harmless; the authors argue it causes as much damage as aggression.",
+    "Responding to violence with more violence instead of stepping out to restore safety.",
+    "Using the labels as accusations ('You're being violent') rather than as private signals."
+   ],
+   "steps": [
+    "Notice the signs that a conversation has turned crucial: rising stakes, strong emotion, or opposing views, and your own physical stress signals.",
+    "Split your attention between content and conditions: is everyone still able to say what they think?",
+    "Scan others for silence (masking, avoiding, withdrawing) and violence (controlling, labeling, attacking).",
+    "Scan yourself for the same six behaviors, and know your default style under stress.",
+    "Treat any sign as a cue to step out of the content and rebuild safety before continuing."
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    }
+   ],
+   "situations": [
+    "A colleague goes quiet after their idea is rejected",
+    "Noticing you are dominating a disagreement",
+    "A teenager shuts down mid-conversation"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter Learn to Look and the Style Under Stress assessment.",
+    "underlying_research": "Practitioner observation; the Style Under Stress typology has no published validation that was found. The link to research on employee silence and voice (for example Morrison, 2014, already in this library) is drawn here, not by the book.",
+    "urls": [
+     "https://cruciallearning.com/blog/the-ultimate-guide-to-workplace-communication-crucial-learning/",
+     "https://cruciallearning.com/blog/the-painful-truth-about-silence-and-violence/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Noticing withdrawal and aggression as signs of lost safety is consistent with research on voice, silence and conflict escalation, but the six-category typology and the self-test are untested.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-03",
+   "source_id": "crucial-conversations",
+   "name": "Make It Safe: Mutual Purpose and Mutual Respect",
+   "takeaway": "When defensiveness appears, step out of the topic, check whether purpose or respect is at risk, repair that, then step back in.",
+   "skill_type": "framework",
+   "explanation": "The authors' central claim is that people do not get defensive because of what you say but because of why they think you are saying it. Two conditions create safety: Mutual Purpose (the other person believes you care about their goals and interests) and Mutual Respect (they believe you respect them as a person). When either breaks, you see silence or violence. The fix is to pause the content, diagnose which condition is missing, and repair it. Apologize sincerely if you actually caused harm. Use Contrasting to correct a misread intent. If your goals truly conflict, use CRIB: Commit to seek a mutual purpose, Recognize the purpose behind each person's strategy, Invent a broader shared purpose, and Brainstorm new strategies that serve it. Grenny adds that the principle is universal while the outward signals of safety (eye contact, distance, tone) vary by culture.",
+   "when_to_use": "Whenever someone becomes defensive, goes quiet, or attacks, and at the start of any conversation where your intent could be misread. CRIB is for genuine conflicts of goals, not just misunderstandings.",
+   "worked_example": "A team lead asks a new hire to change how she logs tickets, and she replies, 'So I'm doing everything wrong?' He steps out of the topic: 'Let me pause. I'm not unhappy with your work, and I want you to look good to the support team. Can we figure out a logging habit that works for you and for them?' When she says she logs late because she is pulled into calls all day, he recognizes the purpose behind her strategy (keeping customers happy), and they brainstorm logging during the call itself. With a partner, the same move sounds like, 'I'm not trying to win this. I want us both to feel good about how we spend the holidays.'",
+   "common_mistakes": [
+    "Arguing the content harder when the real problem is that the person no longer feels safe.",
+    "Diagnosing the wrong condition, for example reassuring about respect when the issue is that your goals seem opposed.",
+    "Apologizing for something you did not do as a tactic; the apology must be sincere.",
+    "Treating safety as your sole responsibility; the authors note each person is also responsible for their own sense of safety."
+   ],
+   "steps": [
+    "Notice signs of silence or violence and pause the content.",
+    "Ask yourself: do they doubt that I care about their goals (purpose), or that I respect them (respect)?",
+    "If you caused real harm, apologize briefly and sincerely.",
+    "If your intent was misread, use a don't/do contrasting statement.",
+    "If goals truly conflict, commit to finding a shared purpose, ask what each strategy is for, name a broader goal, and brainstorm options together.",
+    "Return to the original topic once the other person re-engages."
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "giving-feedback"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "trust-vulnerability"
+    }
+   ],
+   "situations": [
+    "A direct report hears criticism where none was meant",
+    "Two teammates want incompatible plans",
+    "A partner feels attacked during a money talk"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter Make It Safe; Crucial Learning skill summary 'Make It Safe' (2022).",
+    "underlying_research": "Practitioner experience and the authors' opinion-leader observation. Not cited by the book but consistent with it: Edmondson (1999), Psychological safety and learning behavior in work teams, Administrative Science Quarterly 44(2), which links team psychological safety to speaking up and learning. The CRIB step of separating purposes from strategies parallels Fisher and Ury's interests versus positions.",
+    "urls": [
+     "https://cruciallearning.com/blog/crucial-conversations-skill-summary-make-it-safe/",
+     "https://cruciallearning.com/blog/how-to-train-a-resistant-coworker/",
+     "https://cruciallearning.com/blog/do-the-crucial-conversations-skills-work-for-everyone-regardless-of-race-gender-or-power/",
+     "https://cruciallearning.com/blog/whos-responsible-for-psychological-safety-in-a-crucial-conversation/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "The importance of felt safety for candor has solid support in team research, but the purpose and respect diagnosis and the CRIB sequence are practitioner tools without direct tests.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-04",
+   "source_id": "crucial-conversations",
+   "name": "Contrasting: The Don't/Do Statement",
+   "takeaway": "When your intent may be misread, say what you do not mean, then what you do mean, before continuing.",
+   "skill_type": "technique",
+   "explanation": "Contrasting is the book's best-known repair tool for misunderstood intent. You briefly step outside the topic and state what you are not trying to do (the part that addresses their fear) followed by what you are trying to do (your real purpose). For example: you are not blaming anyone for the missed launch; you want to find how to catch problems earlier. The authors say the literal words don't and do are optional, and that contrasting is not an apology: it does not take back the message, it puts it in its proper size. It can be used reactively, after someone bristles, or proactively, just before a point you expect to sting. It works because, in the authors' framing, safety depends on perceived intent rather than content, and contrasting gives the listener direct evidence of your intent.",
+   "when_to_use": "Right after someone reacts as if you meant something you did not, or just before delivering feedback or a concern that could be heard as an attack. Avoid it as a ritual prefix before every sentence, where it sounds scripted.",
+   "worked_example": "A nurse manager is about to raise a charting error with a senior nurse. She opens: 'I'm not questioning your skill or how much you care about patients; you're one of the people the new staff look to. I do want to talk about one charting step that's been missed a few times, because it affects the night shift.' Later, in a friendship, someone says: 'I don't want you to feel I'm judging your new job. I do want to tell you why I've been worried, because you matter to me.'",
+   "common_mistakes": [
+    "Using the 'do' half to slip in the criticism the 'don't' half just denied ('I'm not saying you're lazy, I'm saying you never finish').",
+    "Watering down the message so much that the real concern is never stated.",
+    "Using it as a substitute for an apology when you actually caused harm.",
+    "Delivering it in a flat, scripted way that signals technique rather than sincerity."
+   ],
+   "steps": [
+    "Identify what the other person fears you mean (blame, disrespect, a hidden agenda).",
+    "State plainly that this is not your intent.",
+    "State what you do intend, linked to something they care about.",
+    "Pause to check that the explanation landed, then return to the topic and say the hard thing clearly."
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "giving-feedback"
+    }
+   ],
+   "situations": [
+    "Raising a mistake with a respected senior colleague",
+    "A friend thinks you are judging their choices",
+    "Opening a post-mortem without sounding like blame"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter Make It Safe (Contrasting); Crucial Learning skill summary 'Make It Safe' (2022).",
+    "underlying_research": "Practitioner experience; no direct empirical test of contrasting was found.",
+    "urls": [
+     "https://cruciallearning.com/blog/crucial-conversations-skill-summary-make-it-safe/",
+     "https://cruciallearning.com/blog/how-to-train-a-resistant-coworker/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "A simple, widely used expert technique that follows from the well-supported idea that perceived intent shapes defensiveness; the technique itself is untested.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-05",
+   "source_id": "crucial-conversations",
+   "name": "Master My Stories: Retrace the Path to Action",
+   "takeaway": "When you feel strong emotion, trace it back: separate what you actually saw and heard from the story you told yourself.",
+   "skill_type": "framework",
+   "explanation": "The Path to Action is the book's model of how emotions arise in conflict: we see and hear something, tell ourselves a story about it (an interpretation of motive or meaning), feel an emotion that fits the story, and then act. Because the story step happens in an instant, we experience our feelings as caused by the other person, when they are actually caused by our interpretation. Mastering your stories means retracing the path backward: notice your behavior, name the feeling, identify the story behind it, and then check which parts are observable facts and which are conclusions. Crucial Learning's own illustration is a manager who checks in three times in an hour; the story 'she doesn't trust me' produces resentment, while the facts are compatible with a manager trying to help. Changing the story, not suppressing the feeling, is what changes the emotion.",
+   "when_to_use": "Whenever you are angry, hurt, or anxious about another person's behavior and about to act on it, and before you raise a concern, so that you lead with facts rather than conclusions.",
+   "worked_example": "A designer fumes that a colleague presented their shared work to the VP without inviting him. Retracing the path, he notes his action (drafting a sharp message), his feeling (humiliation), his story ('she's taking credit to get promoted') and the facts (she presented the deck; he was not in the meeting; his name was on the title slide). With the story loosened, he asks, 'How did the VP meeting come together? I'd have liked to be there.' In a marriage, the same tracing turns 'He forgot again because he doesn't care' into 'He didn't pick up the prescription; I don't yet know why.'",
+   "common_mistakes": [
+    "Calling a conclusion a fact ('He was rude') instead of naming the behavior ('He looked at his phone while I talked').",
+    "Trying to stop the feeling without changing the story that produces it.",
+    "Assuming the first story is the only reasonable one.",
+    "Using the model to dismiss other people's emotions as 'just a story'."
+   ],
+   "steps": [
+    "Notice your action: am I moving toward silence or violence?",
+    "Name the feeling under the action as precisely as you can.",
+    "Identify the story you are telling about why this happened.",
+    "List the observable facts: what did you actually see and hear?",
+    "Ask whether the facts support other stories, and hold your story tentatively until you have talked."
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "mindset"
+    }
+   ],
+   "situations": [
+    "Feeling sidelined by a colleague's decision",
+    "Resenting a manager's frequent check-ins",
+    "A partner forgets a promise again"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter Master My Stories (Path to Action); Crucial Learning skill summary 'Master My Stories' (2021).",
+    "underlying_research": "Not cited by the book but consistent with it: appraisal-based accounts of emotion, and Webb, Miles and Sheeran (2012), Dealing with feeling: a meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation, Psychological Bulletin 138(4), which found that reappraising a situation reliably changes emotional outcomes while suppressing expression does not. The Path to Action itself has no direct test.",
+    "urls": [
+     "https://cruciallearning.com/blog/crucial-conversations-skill-summary-master-my-stories/",
+     "https://cruciallearning.com/blog/addressing-that-annoying-thing-your-coworker-does/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "The core idea that interpretations drive emotions and can be changed is well supported by emotion regulation research; the specific four-step model is a practitioner simplification without its own test.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-06",
+   "source_id": "crucial-conversations",
+   "name": "Victim, Villain, Helpless Stories (Tell the Rest of the Story)",
+   "takeaway": "Challenge self-justifying stories: ask your role, why a reasonable person would act this way, and what to do now.",
+   "skill_type": "technique",
+   "explanation": "The authors identify three clever stories people tell themselves to justify bad behavior in conflict. Victim stories say it is not my fault and leave out our own contribution. Villain stories exaggerate the other person's bad motives or incompetence and often come with labels, which makes insulting them feel justified. Helpless stories say there is nothing I can do, which excuses silence or blowing up. Each has a matching question that tells the rest of the story. For victim stories: what am I pretending not to notice about my role? For villain stories: why would a reasonable, rational, decent person do this? For helpless stories: what do I really want, and what should I do right now to move toward it? The questions do not excuse the other person; they restore the missing facts so you can act deliberately.",
+   "when_to_use": "When you catch yourself blaming, labeling, or feeling stuck, especially when venting to a friend about someone. Also before a confrontation, to check you are not walking in with a villain story.",
+   "worked_example": "An operations analyst tells a friend, 'My boss dumps last-minute requests on me because he doesn't respect my time, and I can't say no to him.' Her three questions reveal more: she never told him her weekly schedule (victim), a reasonable manager might be getting late requests from his own boss (villain), and she could propose a Thursday cutoff (helpless). She asks him, 'Are these requests coming late to you too? I'd like to set a cutoff that still covers emergencies.' A parent can use the same questions about a child who 'never listens'.",
+   "common_mistakes": [
+    "Using the questions to talk yourself out of a legitimate concern that still needs raising.",
+    "Asking the 'reasonable person' question sarcastically and keeping the villain story.",
+    "Applying the questions to other people's stories ('You're playing the victim') instead of your own.",
+    "Stopping at insight and never moving to the action the third question calls for."
+   ],
+   "steps": [
+    "Notice blame, labels, or a sense of being trapped in your thinking.",
+    "Ask: what am I pretending not to notice about my own role?",
+    "Ask: why would a reasonable, rational, decent person do what they did?",
+    "Ask: what do I really want, and what should I do right now to move toward it?",
+    "Choose one concrete action, often opening a conversation with facts and a tentative story."
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "empathy"
+    }
+   ],
+   "situations": [
+    "Venting about a boss's unreasonable requests",
+    "Labeling a coworker as lazy",
+    "Feeling unable to raise an issue with leadership"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter Master My Stories (clever stories); Crucial Learning skill summary 'Master My Stories' (2021).",
+    "underlying_research": "Not cited by the book but relevant: Ross (1977), The intuitive psychologist and his shortcomings: distortions in the attribution process, Advances in Experimental Social Psychology 10, describing the tendency to explain others' behavior by character rather than circumstances, which the villain-story question counters. The three-story typology itself is untested.",
+    "urls": [
+     "https://cruciallearning.com/blog/crucial-conversations-skill-summary-master-my-stories/",
+     "https://cruciallearning.com/blog/what-to-do-when-you-disagree-about-facts/",
+     "https://cruciallearning.com/blog/what-to-do-when-someone-shuts-you-out-and-refuses-to-talk/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "The villain-story correction aligns with long-standing attribution research, but the three-category scheme and the questions are practitioner tools without direct tests.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-07",
+   "source_id": "crucial-conversations",
+   "name": "STATE My Path",
+   "takeaway": "Share your facts, tell your story as a story, ask for their view, speak tentatively, and invite them to challenge you.",
+   "skill_type": "framework",
+   "explanation": "STATE is the book's structure for saying something risky. It has three what-to-say skills and two how-to-say-it skills. Share your facts: start with observable, least controversial details. Tell your story: say what you are starting to conclude, because facts alone leave the listener guessing at the point. Ask for others' paths: invite their facts and story. Talk tentatively: present your story as your interpretation ('I'm starting to wonder whether...'), not as truth. Encourage testing: make it genuinely safe for them to disagree, sometimes by inviting the opposing view outright. The idea is to blend confidence (saying the conclusion clearly) with humility (being open to being wrong). The authors warn that tentative does not mean timid: a wishy-washy story that never states the concern is a form of silence. The order mirrors their Path to Action, letting the listener see how a reasonable person could reach your view.",
+   "when_to_use": "When you need to raise a concern, give unwelcome feedback, or share a view you expect to provoke defensiveness, at work or at home. Less needed when you are simply passing on uncontested information.",
+   "worked_example": "A project manager suspects a vendor contact is hiding delays. 'Three of the last four status reports said on track, and then the milestones slipped by a week or more (facts). I'm starting to wonder whether issues are surfacing late on your side, or whether our reports aren't asking the right questions (tentative story). How do you see it (ask)? If I'm reading this wrong, please tell me; I'd rather be corrected than keep guessing (encourage testing).' A parent can use the same shape: 'Your grades dropped in two classes and you've been up late gaming. I'm wondering if those are connected. What's your take?'",
+   "common_mistakes": [
+    "Leading with the conclusion ('You're hiding delays') instead of the facts.",
+    "Stating facts but never the story, leaving the other person to guess the concern.",
+    "Being so tentative that the real concern disappears into hedging.",
+    "Asking for their view as a formality and not changing your story when they add facts."
+   ],
+   "steps": [
+    "Before speaking, sort your facts (what you saw and heard) from your story (your conclusion).",
+    "Open with the facts, briefly and neutrally.",
+    "State your story clearly as your current interpretation.",
+    "Ask how they see it, and mean it.",
+    "Use tentative wording without diluting the concern.",
+    "Invite disagreement, and update your story if their facts change the picture."
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "giving-feedback"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    }
+   ],
+   "situations": [
+    "Raising suspected missed deadlines with a vendor",
+    "Telling a teenager you are worried about a pattern",
+    "Disagreeing with your manager's plan"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter STATE My Path.",
+    "underlying_research": "Practitioner experience. Not cited by the book but related: Yeomans, Minson, Collins, Chen and Gino (2020), Conversational receptiveness: improving engagement with opposing views, Organizational Behavior and Human Decision Processes 160, which found that hedging and acknowledging the other view make disagreement go better. The STATE sequence itself is untested.",
+    "urls": [
+     "https://cruciallearning.com/blog/the-ultimate-guide-to-workplace-communication-crucial-learning/",
+     "https://cruciallearning.com/blog/addressing-that-annoying-thing-your-coworker-does/",
+     "https://cruciallearning.com/blog/what-to-do-when-you-disagree-about-facts/",
+     "https://www.shortform.com/blog/crucial-conversations-state/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Leading with observable behavior and hedging claims are consistent with research on feedback and conversational receptiveness, though the five-part sequence is untested. Integrity note: Francesca Gino is a coauthor of the related receptiveness paper; it is not among her retracted papers, but readers should be aware of the broader concerns about her work.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-08",
+   "source_id": "crucial-conversations",
+   "name": "Explore Others' Paths with AMPP",
+   "takeaway": "Draw out someone's view with Ask, Mirror, Paraphrase, and Prime, then respond by agreeing, building, or comparing rather than arguing.",
+   "skill_type": "technique",
+   "explanation": "When someone is upset or going silent, the authors advise getting curious about their path to action (their facts and story) rather than reacting to their emotion. AMPP is the toolkit. Ask: sincerely invite their view with an open question. Mirror: if their tone or body language does not match their words, describe what you see ('You say it's fine, but you sound frustrated'). Paraphrase: restate their story in your own words to check you have it. Prime: if they are still holding back, offer your best guess at what they might be thinking, so they can confirm or correct it. Once you understand, respond with ABC: Agree where you do agree, Build when they are mostly right but missed something, and Compare when you see it differently, laying the two views side by side instead of calling theirs wrong. Mirror and prime go beyond ordinary paraphrasing.",
+   "when_to_use": "When someone is visibly upset, defensive, or quiet in a conversation that matters, and when you are receiving a complaint. Priming fits only when you have a reasonable guess and the person seems to want to talk; skip it if it would put words in their mouth.",
+   "worked_example": "A shift supervisor notices a usually chatty employee answering in single words. Ask: 'How are things going with the new rotation?' Mirror: 'You said it's fine, but you seem pretty tense.' Paraphrase after she mentions weekends: 'So the new rotation means you're working most weekends?' Prime when she hesitates: 'I'm wondering if it feels like the newer people got the better schedules.' She says yes, and he responds: 'I agree weekends have been uneven. I'd add that two senior staff asked for weekends. Let's look at the full schedule together.' With a friend who says 'I'm fine' after a cancellation, the same mirror and prime open things up.",
+   "common_mistakes": [
+    "Asking in a tone that signals you already have the answer.",
+    "Mirroring with an accusation ('You're obviously angry') instead of a neutral description.",
+    "Priming with a guess that is really your own argument in disguise.",
+    "Jumping to Compare before you have honestly found points of agreement."
+   ],
+   "steps": [
+    "Ask an open question that invites their view.",
+    "If words and tone do not match, mirror what you observe, calmly.",
+    "Paraphrase their story in your own words and check it.",
+    "If they are still stuck, prime with your best guess at their thoughts or feelings.",
+    "Respond with Agree, Build, or Compare instead of disagreeing outright."
+   ],
+   "categories": [
+    {
+     "category": "relationships",
+     "subcategory": "listening"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "receiving-feedback"
+    }
+   ],
+   "situations": [
+    "An employee gives one-word answers after a schedule change",
+    "A friend says 'I'm fine' but clearly is not",
+    "Responding to a customer's angry complaint"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter Explore Others' Paths (AMPP; Agree, Build, Compare).",
+    "underlying_research": "Practitioner experience. Paraphrasing and visible listening are supported by listening research elsewhere in this library (for example Kluger and colleagues' 2024 meta-analytic work); mirroring and priming as defined here have no direct test.",
+    "urls": [
+     "https://cruciallearning.com/blog/how-to-become-a-better-listener/",
+     "https://cruciallearning.com/blog/how-to-respond-when-youre-ambushed/",
+     "https://cruciallearning.com/blog/awkward-classroom-comments/",
+     "https://www.shortform.com/blog/?p=9747"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Asking and paraphrasing rest on well-supported listening research; mirror, prime, and the ABC response are reasonable practitioner extensions without their own tests.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-09",
+   "source_id": "crucial-conversations",
+   "name": "Choose Your Topic: Unbundle with CPR",
+   "takeaway": "Decide whether the issue is one incident, a recurring pattern, or the relationship itself, and hold that conversation, not the easier one.",
+   "skill_type": "technique",
+   "explanation": "Before opening your mouth, the third edition asks you to choose the right topic. Many hard conversations fail not because of how they are held but because they address the wrong thing. CPR is the sorting tool. Content is the single incident: this report was late. Pattern is the recurrence: reports have been late three times and each time we discussed only that instance. Relationship is what the pattern is doing to trust, respect, or how you work together: I am starting to doubt I can rely on your commitments. The authors say a common mistake is debating content long after content is the issue, so the same conversation repeats. Grenny describes using CPR on his coauthor during the writing of this edition: he kept raising individual missed deadlines when the real issue was a pattern. Choosing the topic also separates what to discuss from how to discuss it.",
+   "when_to_use": "When you notice you are having the same conversation again, when a minor incident provokes a big reaction, or when you feel the real issue is trust. Start with content for a first occurrence.",
+   "worked_example": "A tenant has asked her landlord three times to fix a leaking faucet, and each time he says he'll get to it. Instead of a fourth content request, she raises the pattern: 'This is the third time we've agreed on the faucet and it hasn't happened. I'd like to figure out what's getting in the way.' Months later, if repairs still stall, she raises the relationship: 'I'm starting to feel I can't count on repairs, and that makes me reluctant to renew.' A couple who argue about whose turn it was to call the plumber can ask whether they are really arguing about the plumber or about feeling like one person carries the household.",
+   "common_mistakes": [
+    "Repeating content conversations about each new incident when a pattern is the real problem.",
+    "Jumping straight to a relationship conversation after a single incident, which feels like an overreaction.",
+    "Bundling several issues into one conversation so none gets resolved.",
+    "Choosing the topic that feels safest rather than the one that matters."
+   ],
+   "steps": [
+    "List what is bothering you and unbundle it into separate issues.",
+    "For each, ask: is this the first instance (content), a repeat (pattern), or affecting trust and respect (relationship)?",
+    "Pick the one topic that, if resolved, would make the biggest difference.",
+    "Open by naming that level explicitly ('This isn't about today's report; it's about a pattern').",
+    "Only then plan how you will raise it safely."
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "giving-feedback"
+    },
+    {
+     "category": "personal-life",
+     "subcategory": "repair"
+    }
+   ],
+   "situations": [
+    "Repeated missed deadlines from a coworker",
+    "A partner keeps breaking small promises",
+    "The same argument keeps coming back"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter Choose Your Topic (Unbundle with CPR). CPR also appears in the authors' Crucial Accountability.",
+    "underlying_research": "Practitioner experience; no direct empirical test of the CPR distinction was found.",
+    "urls": [
+     "https://cruciallearning.com/blog/writing-the-third-edition-of-crucial-conversations-behind-the-scenes/",
+     "https://cruciallearning.com/blog/politics-is-ruining-our-relationship-what-can-we-do/",
+     "https://cruciallearning.com/blog/recovering-from-a-ruined-reputation/"
+    ]
+   },
+   "confidence": "Low",
+   "confidence_rationale": "A useful and intuitive sorting heuristic, but it is an untested three-part typology supported only by the authors' teaching experience and examples.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-10",
+   "source_id": "crucial-conversations",
+   "name": "Retake Your Pen",
+   "takeaway": "When feedback stings, remember that you, not the critic, define your worth, then look for the truth in it.",
+   "skill_type": "mental model",
+   "explanation": "Retake Your Pen is the third edition's new chapter on receiving hard messages, especially badly delivered ones. Your pen is the power to define your own worth. If you hand it to whoever is criticizing you, their feedback feels like a verdict on whether you are acceptable, and you either melt down or fight back. People who handle tough feedback well, the authors say, secure their own sense of safety and worth first, which frees them to look calmly for what is true in the message. Grenny frames it bluntly: you are responsible for your own psychological safety, and the belief that you must make others feel respected leads to sugarcoating and avoidance. The authors present this as long-term personal work as well as an in-the-moment reminder; it is a mindset more than a script.",
+   "when_to_use": "When you are blindsided by criticism, in a performance review, or receiving feedback from someone whose delivery is harsh. It is not a reason to tolerate genuine abuse or physical danger; those are different safety problems that call for leaving or getting protection.",
+   "worked_example": "In a project retrospective a peer says, 'Honestly, your documentation made this harder for everyone.' Mark feels his face heat up and the urge to list everyone else's mistakes. He reminds himself that his value does not hinge on this comment, and that he can decide what to do with it. He asks, 'What part was hardest to use?' and learns the setup steps were out of date, which is true and fixable. When his father criticizes his career choice at dinner, the same reminder lets him listen without needing his father's approval to feel secure.",
+   "common_mistakes": [
+    "Using 'I define my worth' as a reason to dismiss all criticism.",
+    "Expecting the other person to deliver feedback perfectly before you will engage with it.",
+    "Confusing this with tolerating mistreatment; physical or ongoing threats call for different action.",
+    "Treating it as a one-time trick rather than ongoing work on self-worth."
+   ],
+   "steps": [],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "receiving-feedback"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "mindset"
+    }
+   ],
+   "situations": [
+    "Harsh comments in a project retrospective",
+    "A parent criticizes your life choices",
+    "A tough performance review"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter 10, Retake Your Pen (new in the third edition).",
+    "underlying_research": "Practitioner experience; no direct empirical test. The authors do not name supporting studies in the sources read.",
+    "urls": [
+     "https://cruciallearning.com/blog/retaking-your-pen-learning-to-author-your-worth/",
+     "https://cruciallearning.com/blog/whos-responsible-for-psychological-safety-in-a-crucial-conversation/",
+     "https://cruciallearning.com/blog/caught-off-guard-and-trying-to-recover/"
+    ]
+   },
+   "confidence": "Low",
+   "confidence_rationale": "A plausible mindset that echoes broader ideas about self-worth and threat, but the chapter is new and its specific claims are supported only by the authors' reasoning and anecdotes.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-11",
+   "source_id": "crucial-conversations",
+   "name": "Decide How You Will Decide: Command, Consult, Vote, Consensus",
+   "takeaway": "Before discussing a decision, agree how it will be made: command, consult, vote, or consensus, so input is not mistaken for veto.",
+   "skill_type": "framework",
+   "explanation": "Dialogue fills the pool of shared meaning, but the authors stress that dialogue is not decision making, and violated expectations about who decides cause much of the resentment after a good discussion. They describe four methods with rising involvement. Command: someone else decides, or the decision is handed off, and the group's job is to make it work. Consult: the decision maker gathers input from experts and affected people, then decides and explains. Vote: used when there are several good options and speed matters more than everyone's buy-in. Consensus: everyone must honestly agree, which builds strong commitment but is slow and best kept for high-stakes, complex decisions where support is essential. More involvement buys more commitment at the cost of speed. The key move is to make the method explicit at the start, especially with people who might assume they have a veto.",
+   "when_to_use": "At the start of any meeting or conversation that ends in a decision, especially across levels of authority, in families making shared choices, or when someone was upset after their input was not adopted.",
+   "worked_example": "A director opens a planning meeting: 'This is a consult decision. I want everyone's view on which two features to cut, I'll decide by Friday, and I'll explain my reasoning even if it isn't your preferred option.' When a team member later objects that his idea was ignored, she can point back to the agreed method and share why. A family choosing a vacation might agree that the parents decide the budget (command) while everyone votes among three destinations within it.",
+   "common_mistakes": [
+    "Running a consensus-style discussion when the decision is already made, which breeds cynicism.",
+    "Defaulting to consensus for low-stakes choices and wasting time.",
+    "Voting when a minority will have to carry out a decision they strongly oppose.",
+    "Consulting people but never telling them what was decided or why."
+   ],
+   "steps": [
+    "Before discussion, identify who has authority over this decision.",
+    "Choose the method: command, consult, vote, or consensus, weighing commitment needed against time available.",
+    "State the method openly at the start, including who makes the final call.",
+    "Hold the dialogue to fill the pool of meaning.",
+    "Announce the decision and the reasoning to everyone who gave input."
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    },
+    {
+     "category": "professional",
+     "subcategory": "managing-up"
+    }
+   ],
+   "situations": [
+    "Opening a meeting that must end in a choice",
+    "An employee is angry their suggestion was not adopted",
+    "A family planning a shared purchase or trip"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter 11, Move to Action (the four methods of decision making).",
+    "underlying_research": "Practitioner experience. Not cited by the book but closely parallel: Vroom and Yetton (1973), Leadership and Decision-Making, the normative model in which leaders choose how much to involve others based on the need for quality and acceptance.",
+    "urls": [
+     "https://cruciallearning.com/blog/volunteer-micromanager/",
+     "https://cruciallearning.com/blog/working-with-employee-input/",
+     "https://www.shortform.com/blog/methods-of-decision-making-crucial-conversations/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "The trade-off between involvement, commitment and speed matches a long line of participative decision research, and meeting research supports clarifying decision rights; the four-method scheme is the authors' own simplification.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-12",
+   "source_id": "crucial-conversations",
+   "name": "WWWF: Who Does What by When, and How We Follow Up",
+   "takeaway": "End every hard conversation by naming who does what by when, and how and when you will follow up.",
+   "skill_type": "technique",
+   "explanation": "The authors observe that many good conversations fail afterward because the agreement was vague: people leave with different ideas of what was promised. Their fix is a four-part close. Who: name one specific person for each task, not 'we' or 'the team'. Does what: spell out the deliverable precisely enough that everyone pictures the same result. By when: set a real date, not 'soon'. Follow up: agree how and when you will check progress, whether a quick message or a meeting, and write commitments down when trust is low or the work is complex. Al Switzler suggests that when agreements fail anyway, the next conversation should address how you will work together in the future, rather than replaying who promised what. The step is simple, but the authors present it as where dialogue turns into results.",
+   "when_to_use": "At the end of any conversation that produces an agreement, at work or at home, and especially when past agreements have slipped or the people involved distrust each other.",
+   "worked_example": "After resolving a dispute over a shared client, two account managers close with: 'So Priya sends the revised proposal to the client by Wednesday noon, I confirm pricing with finance by Tuesday, and we'll check in with a five-minute call Thursday at 9. I'll put this in a short email so we both have it.' Two roommates settling a chores argument end with: 'You take trash and recycling, I take the kitchen, starting Monday, and we'll check how it's going next Sunday.'",
+   "common_mistakes": [
+    "Assigning a task to 'we', so nobody owns it.",
+    "Agreeing on vague deliverables like 'look into it'.",
+    "Skipping the follow-up plan, so slips are discovered too late.",
+    "Relying on memory for complex agreements instead of writing them down."
+   ],
+   "steps": [
+    "Name one owner for each action.",
+    "State each deliverable concretely.",
+    "Set a specific deadline for each.",
+    "Agree how and when progress will be checked.",
+    "Write the agreement down and share it if the stakes or the history call for it."
+   ],
+   "categories": [
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    },
+    {
+     "category": "professional",
+     "subcategory": "status-updates"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    }
+   ],
+   "situations": [
+    "Closing a meeting that resolved a dispute",
+    "Roommates or partners dividing chores",
+    "Re-agreeing after a missed commitment"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter 11, Move to Action (WWWF).",
+    "underlying_research": "Practitioner experience. Not cited by the book but supportive: Gollwitzer and Sheeran (2006), Implementation intentions and goal achievement: a meta-analysis of effects and processes, Advances in Experimental Social Psychology 38, showing that specifying when and how you will act improves follow-through.",
+    "urls": [
+     "https://cruciallearning.com/blog/responding-to-false-accusations/",
+     "https://cruciallearning.com/blog/the-ultimate-guide-to-workplace-communication-crucial-learning/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Research on specific action plans and on meeting follow-up supports concrete who, what and when commitments; the WWWF checklist itself is an untested practitioner format.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "crucial-conversations-13",
+   "source_id": "crucial-conversations",
+   "name": "The Pool of Shared Meaning",
+   "takeaway": "Aim to get everyone's facts, opinions, and feelings into the open; fuller shared understanding yields better decisions and stronger commitment.",
+   "skill_type": "mental model",
+   "explanation": "The book defines dialogue as the free flow of meaning between people. Each person enters a conversation with their own opinions, feelings, theories and experiences; the pool of shared meaning is what everyone has put on the table. The authors' claim is that the size of the pool predicts the quality of the outcome: when relevant meaning is withheld (silence) or forced in (violence), decisions are made on partial information, and people who were not heard comply without committing. When people feel safe enough to add their meaning, even unpopular views, the group can see more of the problem and people act more willingly on the result, even if their own idea was not chosen. The goal of a hard conversation shifts from winning to filling the pool. In the third edition the authors add that the health of a team or relationship can be measured by the lag between seeing a problem and discussing it.",
+   "when_to_use": "As the guiding aim for any high-stakes discussion or decision, and as a check when a group seems to agree too quickly or a key person has said nothing.",
+   "worked_example": "A school principal notices the staff vote on a new schedule passed quickly while two veteran teachers said nothing. Thinking of the pool, she asks them afterward what concerns they had not voiced. One mentions that the new schedule cuts the only common planning time for the special education team, a fact nobody else knew. The schedule is adjusted before launch. In a family deciding whether to move for a job, the same aim means asking each child what they would miss, not just announcing the decision.",
+   "common_mistakes": [
+    "Treating dialogue as a contest to get your view adopted rather than to fill the pool.",
+    "Assuming silence means agreement.",
+    "Believing that adding meaning to the pool gives everyone a vote on the decision.",
+    "Collecting input that will not be used, which teaches people not to contribute."
+   ],
+   "steps": [],
+   "categories": [
+    {
+     "category": "foundations",
+     "subcategory": "mindset"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "conversations",
+     "subcategory": "group-dynamics"
+    }
+   ],
+   "situations": [
+    "A team agrees too quickly on a big change",
+    "A family making a major decision",
+    "Disagreeing with someone whose views differ sharply from yours"
+   ],
+   "source": {
+    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter Mastering Crucial Conversations: The Power of Dialogue (Pool of Shared Meaning) and the updated opening chapter on lag time.",
+    "underlying_research": "Practitioner model; the authors cite their own surveys and observation. Consistent with, but not directly tested by, research on psychological safety and voice already in this library. No direct test of the pool concept.",
+    "urls": [
+     "https://cruciallearning.com/blog/the-ultimate-guide-to-workplace-communication-crucial-learning/",
+     "https://cruciallearning.com/blog/working-with-employee-input/",
+     "https://cruciallearning.com/blog/why-teamwork-breaks-down-despite-verbal-agreement-and-what-to-do-about-it/",
+     "https://cruciallearning.com/press/crucial-learning-releases-third-edition-of-acclaimed-bestselling-book-crucial-conversations/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "The idea that sharing more relevant information and voice improves decisions and buy-in fits research on team voice and participation; the pool metaphor and the lag-time claim are not independently tested.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-01",
+   "source_id": "difficult-conversations",
+   "name": "The Three Conversations: What Happened, Feelings, Identity",
+   "takeaway": "Before a hard talk, sort out three layers: your story of what happened, the feelings involved, and what it threatens about you.",
+   "skill_type": "framework",
+   "explanation": "Stone, Patton and Heen found that if you listen to what people think and feel but do not say in a hard conversation, the same structure appears every time, in both people. The What Happened conversation is each side's story: who is right, who is to blame and what the other person intended. The Feelings conversation is about the strong, often mixed emotions each person is having and whether they belong in the discussion. The Identity conversation is the one you have with yourself about what this says about you: am I competent, a good person, worthy of love? Most trouble comes from errors on these hidden layers, not from choosing the wrong words. This is the original source of the three-layer idea that later books echo, including Supercommunicators (practical, emotional, social) and Talk (content, emotions, identity). The book's three layers are not types of conversation; all three run at once inside every difficult one.",
+   "when_to_use": "When preparing for a conversation you are dreading, when one keeps going badly, or when you feel stuck afterward and want to work out what really went wrong. It is mainly a preparation and diagnosis tool; you do not need to name the layers aloud.",
+   "worked_example": "Dana needs to tell a colleague, Marcus, that his late analyses keep forcing her team to work weekends. Preparing, she writes three short lists. What Happened: 'My story is that he does not respect our time; his story may be that the client keeps moving the deadline. I am not sure what he intends.' Feelings: 'Frustrated, worn out, and also a bit guilty that I never said anything.' Identity: 'This shakes my image of myself as the easygoing teammate, and he may hear it as me calling him unreliable.' Seeing the layers, she drops her plan to prove he is at fault and instead opens with: 'I think we see the Friday handoffs differently, and I want to understand what is happening on your end and share what it is doing to my team.' At home, the same three lists help a man see that a fight about holiday plans is really about feeling like an outsider in his partner's family.",
+   "common_mistakes": [
+    "Treating the conversation as only a dispute about facts and ignoring the feelings and identity layers underneath",
+    "Using the framework to analyze the other person while skipping your own feelings and identity questions",
+    "Thinking that finding the perfect wording will make a hard message painless",
+    "Confusing the three layers with three separate meetings or topics to cover in order"
+   ],
+   "steps": [
+    "Write your story of what happened, including what you are sure you are right about, who you blame and what you assume they intended",
+    "Imagine the other person's story of the same events as they would tell it",
+    "List your feelings, including mixed or contradictory ones, and guess at theirs",
+    "Ask what the situation threatens about your identity (competence, goodness, being loved) and about theirs",
+    "Decide your purpose and an opening based on what the three layers reveal"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "mindset"
+    }
+   ],
+   "situations": [
+    "Preparing to confront a colleague about a recurring problem",
+    "Asking your boss for a raise",
+    "A family argument that keeps repeating",
+    "Reviewing a conversation that went badly"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (10th anniversary edition, 2010), Chapter 1 'Sort Out the Three Conversations'; Triad Consulting Group preparation worksheet instructions; Heen interviews (Art of Manliness, 2019; Global Leadership Network episodes 31 and 32, 2018)",
+    "underlying_research": "Practitioner model from the Harvard Negotiation Project; Heen credits Chris Argyris's action science work on the unspoken internal voice. No direct empirical test of the three-conversation framework was found.",
+    "urls": [
+     "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf",
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+     "https://globalleadership.org/podcast/ep-031-sheila-heen-with-jeff-lockyer",
+     "https://globalleadership.org/podcast/ep-032-sheila-heen-with-jeff-lockyer-part-2"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Confirmed in the table of contents, the authors' own worksheet and several Heen interviews. Widely taught and adopted by later authors, but it is a practitioner typology without a direct empirical test.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-02",
+   "source_id": "difficult-conversations",
+   "name": "From Delivering a Message to a Learning Conversation",
+   "takeaway": "Go into a hard conversation to understand why you see it differently, not to deliver a message proving you are right.",
+   "skill_type": "mental model",
+   "explanation": "When we finally decide to raise something hard, we tend to stick to what we are sure of and plan a message: here is why I am right and what you must change. The authors call this a message-delivery or battle stance, and it fails because the other person is just as sure they are right about other things. Their image is a hand grenade: throwing it goes badly, holding it once the pin is out is no better, and there is no diplomatic way to deliver one. The alternative is to change your purpose, not your wording. In a learning conversation you assume you lack part of the picture, set out to learn their story, express your own, and then solve the problem together. Curiosity does not mean giving up your views or pretending they are right. This is the original version of the learning conversation that Duhigg later builds Supercommunicators around.",
+   "when_to_use": "Whenever you notice you are rehearsing arguments for a conversation, especially with a boss, client, partner or relative, or when a request (such as for a raise) could back the other person into a yes or no corner.",
+   "worked_example": "Priya planned to open her raise conversation with a list of wins and 'So I deserve a raise.' Reframing to a learning stance, she says: 'I have pulled together what I did this year and I would like to walk you through it. To me it points to a raise, including what similar roles pay elsewhere. I am also curious how you think about compensation and my work, because you may see things I do not.' Her manager explains that the bonus pool shrank and that the next pay band depends on client leadership. Priya does not get the raise this quarter but leaves knowing exactly what it would take.",
+   "common_mistakes": [
+    "Treating curiosity as a tactic to soften people up before delivering the same verdict",
+    "Thinking a learning stance means abandoning your view or not saying what you need",
+    "Assuming you already know their story because you know them well",
+    "Asking questions that are thinly disguised judgments, such as 'Don't you think that was unfair?'"
+   ],
+   "steps": [],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "mindset"
+    }
+   ],
+   "situations": [
+    "Asking for a raise or promotion",
+    "Telling a manager you disagree with a decision",
+    "Raising a long-standing irritation with a partner"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapter 1 and Part II 'Shift to a Learning Stance'; Heen, Art of Manliness interview (2019) on the battle stance, the hand-grenade metaphor and the raise example; Global Leadership Network episode 31 (2018)",
+    "underlying_research": "Practitioner experience. Research the book does not cite is consistent with it: Collins, Dorison, Gino and Minson (2022, Psychological Science 33(10)) found that people underestimate their counterparts' wish to learn in disagreements and that this worsens the exchange. Integrity note: Francesca Gino is a coauthor of that paper.",
+    "urls": [
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+     "https://globalleadership.org/podcast/ep-031-sheila-heen-with-jeff-lockyer",
+     "https://www.beyondintractability.org/bksum/stone-difficult"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Central to the book and confirmed in the authors' worksheet and interviews. Consistent with research on learning goals in disagreement, though the linked paper is not cited by the book and is Gino-coauthored (see integrity note); the stance itself is untested as an intervention.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-03",
+   "source_id": "difficult-conversations",
+   "name": "Explore Each Other's Stories",
+   "takeaway": "Stop arguing about who is right; ask what the other person sees, knows and cares about that makes their story make sense.",
+   "skill_type": "technique",
+   "explanation": "Arguments about who is right go nowhere because each person's story is built from different information and different interpretations, and each story makes sense from the inside. People often agree on the bare facts but differ on what they mean and what matters; frequently both are right and simply talking about different things. Instead of attacking their story and defending yours, the authors suggest moving from certainty to curiosity: ask what they see that you do not, and also why you read the situation the way you do. Your aim is to be able to tell their story so well that a neutral friend would say it makes a lot of sense. Understanding their story is not agreeing with it, and you keep your own. The book calls this shift the core move of the What Happened conversation.",
+   "when_to_use": "When a disagreement keeps circling around 'that is not what happened' or 'you are wrong', in contract disputes, project post-mortems, family arguments about the past, or any conflict where both sides feel obviously right.",
+   "worked_example": "Two co-owners of a shop argue over a supplier contract. Lee thinks it requires delivery every Monday; Sam says Lee is twisting it. Lee stops and asks, 'Help me see how you read it.' Sam explains that since the supplier lost a driver, a strict Monday reading would mean losing them entirely. Lee realizes they agree on what the contract says and disagree on what it should mean now. In a family, a daughter asks her father why he thought skipping her recital was fine and learns he thought it was an optional dress rehearsal.",
+   "common_mistakes": [
+    "Asking about their view only to collect ammunition for your rebuttal",
+    "Saying 'I understand' and then restating your own story unchanged",
+    "Treating understanding as surrender and so refusing to try",
+    "Exploring only their story and never examining why you see it as you do"
+   ],
+   "steps": [
+    "Notice when you are thinking 'they are wrong' or 'there is no excuse'",
+    "Replace it with the question: what might they know, see or care about that I do not?",
+    "Ask open questions about how they see it and what led them there",
+    "Say back their story until they agree you have it, without adding a rebuttal",
+    "Share the information and reasoning behind your own story",
+    "Name where the stories differ, which usually reveals the real issue"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "empathy"
+    }
+   ],
+   "situations": [
+    "Disputing what an agreement means",
+    "A project post-mortem where teams blame each other",
+    "Siblings disagreeing about a parent's care"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapter 2 'Stop Arguing About Who's Right: Explore Each Other's Stories'; Triad preparation worksheet ('Understand each other's stories'); Heen, Art of Manliness interview (2019) and Global Leadership Network episode 31",
+    "underlying_research": "Consistent with research on naive realism, the tendency to see our own view as objective and to assume people who disagree are uninformed or biased (Ross and Ward, 1996, in Values and Knowledge), which the book does not cite as such. The technique itself is practitioner guidance.",
+    "urls": [
+     "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf",
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+     "https://globalleadership.org/podcast/ep-031-sheila-heen-with-jeff-lockyer"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Confirmed in the chapter title, the authors' worksheet and interviews. Consistent with well-established research on naive realism and perspective getting, but the specific method is untested.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-04",
+   "source_id": "difficult-conversations",
+   "name": "The And Stance",
+   "takeaway": "Replace either/or with 'and': hold your view and theirs, and mixed feelings about yourself, without one cancelling the other.",
+   "skill_type": "mental model",
+   "explanation": "Hard conversations push us into either/or thinking: either I am right or you are, either I love my mother or I am annoyed by her calls, either I am a good person or I did something hurtful. The authors propose the And Stance as the alternative that runs through the whole book. You can believe your story and also understand theirs. You can feel grateful and also frustrated. You can be a competent professional and also have made this mistake. Saying 'and' lets both stories, both sets of feelings and a more complex self-image sit on the table, which makes it easier to listen without feeling you are conceding and to speak without denying the other person's reality. Heen describes it as what lets people move out of black-and-white thinking into a learning stance.",
+   "when_to_use": "When you feel you must choose between your view and theirs, when your own feelings are contradictory, or when criticism makes you swing between 'I am perfect' and 'I am terrible'.",
+   "worked_example": "A woman's mother calls daily asking her to visit. Instead of either avoiding the calls or snapping, she says: 'Mom, I love hearing from you and I am grateful for how much you help us. I am also stretched thin right now, and I am not sure I can come this weekend. And I wonder if it has been lonely for you lately. Can you tell me about that?' At work, a team lead tells a peer, 'I think the launch date is too risky, and I also see why sales needs it. Let's look at both.'",
+   "common_mistakes": [
+    "Using 'and' as a disguised 'but' that still erases the first half of the sentence",
+    "Thinking the And Stance means splitting the difference or agreeing with everything",
+    "Applying it to their view but not to your own mixed feelings and identity"
+   ],
+   "steps": [],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "mindset"
+    },
+    {
+     "category": "personal-life",
+     "subcategory": "family"
+    }
+   ],
+   "situations": [
+    "Turning down a parent's request while staying close",
+    "Disagreeing with a colleague you respect",
+    "Hearing criticism that is partly true"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), introduced in Chapter 2 and applied in Chapters 5, 6 and 10 (as summarized by Beyond Intractability); Heen, Global Leadership Network episode 32 (2018) and Art of Manliness interview (2019)",
+    "underlying_research": "Practitioner concept; no direct empirical test found.",
+    "urls": [
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://globalleadership.org/podcast/ep-032-sheila-heen-with-jeff-lockyer-part-2",
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "A named concept confirmed in a detailed chapter summary and in Heen's own interviews. Credible expert practice, but untested as a standalone method; Medium rather than Low because it is a reframing aid, not a strong empirical claim.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-05",
+   "source_id": "difficult-conversations",
+   "name": "Disentangle Intent From Impact",
+   "takeaway": "Describe the impact on you and ask about their intent; when accused, acknowledge your impact before explaining what you meant.",
+   "skill_type": "technique",
+   "explanation": "We judge ourselves by our intentions and others by their impact on us. When someone hurts us, we jump from how we feel to assuming they meant it, often to the worst motive, and they react to the accusation instead of the problem. When we hurt someone, we defend our good intentions as if that erased the impact. The authors' fix runs in both directions. When you are hurt, hold your guess about their intent as a hypothesis, talk about what they did and its impact, and ask what was going on. Heen adds that 'assume good faith' fails in long, strained relationships, so 'assume you do not know' works better. When you have hurt someone, listen for the feeling behind the accusation, acknowledge the impact, and look honestly at your own intentions, which are often mixed. This idea appears later in Connect's three realities and the net; Difficult Conversations is the earlier source.",
+   "when_to_use": "When you catch yourself thinking 'they did that on purpose', when someone accuses you of a motive you did not have, and in feedback where good intentions caused bad effects.",
+   "worked_example": "A project lead left Jordan off a client call. Jordan's first thought is 'he is cutting me out.' Instead he says: 'I was not on Tuesday's client call, and I ended up giving the client outdated numbers the next day, which was embarrassing. I do not know what happened on your end. Can you tell me?' Later, when his partner says, 'You clearly do not care about my job,' after he joked about it at dinner, he resists saying 'I was only kidding' and says, 'I can see that joke landed badly and made you feel dismissed. That was not what I meant, and I want to understand how it came across.'",
+   "common_mistakes": [
+    "Swapping one assumed motive for another instead of actually asking",
+    "Leading with 'I did not mean it' before acknowledging the impact",
+    "Hiding an accusation inside a question ('Why did you want to embarrass me?')",
+    "Insisting your intentions were purely good when they were mixed"
+   ],
+   "steps": [
+    "Notice the leap from 'I felt hurt' to 'they meant to hurt me'",
+    "Separate what they did, the impact on you, and your guess about why",
+    "Speak about the action and its impact, and say you do not know their intent",
+    "Ask what was going on for them",
+    "When you are the one accused, acknowledge the impact first, then share your intent and own any mixed motives"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "giving-feedback"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "empathy"
+    }
+   ],
+   "situations": [
+    "Being left out of a meeting or email thread",
+    "A joke that hurt your partner",
+    "Responding to an accusation about your motives"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapter 3 'Don't Assume They Meant It: Disentangle Intent from Impact'; Triad preparation worksheet ('Disentangle intent and impact'); Heen, Art of Manliness interview (2019) and Global Leadership Network episode 31",
+    "underlying_research": "Kruger and Gilovich (2004, Personality and Social Psychology Bulletin 30(3), 328 to 339) found that people give themselves more credit for their intentions than they give others, so they judge themselves more favorably. This paper postdates the first edition and is not cited by it; it is my mapping. Related research on correspondence bias (Gilbert and Malone, 1995) is also consistent.",
+    "urls": [
+     "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf",
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+     "https://globalleadership.org/podcast/ep-031-sheila-heen-with-jeff-lockyer",
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://pubmed.ncbi.nlm.nih.gov/15030624/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "The self-other asymmetry in weighing intentions is supported by experimental research, and the advice is widely taught. The specific conversational steps are practitioner guidance, untested as an intervention.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-06",
+   "source_id": "difficult-conversations",
+   "name": "Abandon Blame: Map the Contribution System",
+   "takeaway": "Instead of assigning blame, map what each person did or failed to do that produced the problem, and name your part first.",
+   "skill_type": "technique",
+   "explanation": "Blame looks backward, asks who is at fault and who should be punished, and so makes everyone defend themselves and hide information. Contribution asks how each person's actions and inactions combined to produce the result, so you can understand the past and change what happens next. Contributing is not the same as being blameworthy: leaving your car unlocked contributes to its theft without making you to blame. Contributions are rarely 50/50; it can be 90/10, and common ones include avoiding the issue until now, being unapproachable, or clashing assumptions about roles. Owning your part early tends to invite the other person to own theirs, because people reciprocate. The authors note real exceptions, such as abuse or legal liability, where assigning fault matters.",
+   "when_to_use": "After a mistake, missed deadline or recurring fight where people are trading blame, in post-mortems, and in relationships where the same problem keeps coming back. Not a substitute for accountability in cases of abuse, harassment or legal fault.",
+   "worked_example": "After a failed product launch, a marketing lead opens the review: 'Before we look at what went wrong, here is what I contributed: I saw the timeline was tight in March and did not push back because I did not want to seem negative. I would like each of us to name what we did or did not do that fed into this, so we can change the handoffs.' The engineering lead then admits they never shared the test results. At home, a couple stuck in a fight about money each list their contributions: one avoided looking at the bills; the other made big purchases without mentioning them.",
+   "common_mistakes": [
+    "Naming your contribution as a setup for a long list of theirs",
+    "Treating contribution as an admission of guilt and so refusing to name any",
+    "Assuming contributions must be equal",
+    "Using contribution language when a real wrong, such as abuse, needs to be named as such"
+   ],
+   "steps": [
+    "Ask: how did we get here, rather than whose fault is it?",
+    "List what you did or did not do that contributed, including avoidance and silence",
+    "List what they did or did not do, and what third parties or systems contributed",
+    "Try the other person's role or a neutral observer's view to see contributions you are missing",
+    "Open by owning your contribution plainly, then invite theirs",
+    "Use the map to agree what each of you will do differently"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "personal-life",
+     "subcategory": "repair"
+    },
+    {
+     "category": "professional",
+     "subcategory": "meetings"
+    }
+   ],
+   "situations": [
+    "A project post-mortem",
+    "A recurring argument with a partner",
+    "Repairing trust with a colleague after a mistake"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapter 4 'Abandon Blame: Map the Contribution System' (p. 59 in the 1999 edition on why blame impedes learning, per Beyond Intractability); Triad preparation worksheet ('Sort out contributions'); Heen, Art of Manliness interview (2019) and Global Leadership Network episode 31",
+    "underlying_research": "Practitioner experience. Heen cites the norm of reciprocity as the reason owning your part invites theirs. No direct empirical test of contribution mapping was found.",
+    "urls": [
+     "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf",
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+     "https://globalleadership.org/podcast/ep-031-sheila-heen-with-jeff-lockyer"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Confirmed across the chapter title, worksheet, a detailed summary and Heen's interviews; Publishers Weekly singled it out as the most useful part of the book. Credible expert practice consistent with reciprocity research, but untested as a method.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-07",
+   "source_id": "difficult-conversations",
+   "name": "Have Your Feelings (Or They Will Have You)",
+   "takeaway": "Sort out your feelings, check the story behind them, then describe them plainly instead of letting them leak out as accusations.",
+   "skill_type": "technique",
+   "explanation": "Many hard conversations are at heart about feelings, such as feeling unappreciated or let down, so solving only the surface problem leaves the real issue to resurface next week. Leaving feelings out does not remove them: they leak into tone and body language, turn into judgments and blame, and make it hard to listen. The authors distinguish being emotional (letting feelings drive the conversation as accusations and ultimatums) from describing feelings. First find your feelings, which often come in bundles and can contradict each other. Then negotiate with them: feelings rest on your story, so re-examining your perceptions about intent or contribution can shift them. Then share them as feelings, not verdicts, and acknowledge the other person's feelings before evaluating them. The book applies this at work as well as at home.",
+   "when_to_use": "When you notice your arguments are carrying a lot of heat, when a business problem keeps recurring despite fixes, or when you are tempted to leave feelings out because the setting is professional. Choose what to share; awareness alone helps even if you do not express everything.",
+   "worked_example": "An account manager is furious that her boss keeps accepting rush requests from a client. The emotional version is: 'Why can you never say no to them?' The described version is: 'I am frustrated and honestly near the end of my rope. Three Fridays in a row we have learned we have to work all weekend, and I am worried the team is burning out. I also should have raised this sooner. I do not know what is happening on your end with the client, and I would like to understand it.' At home, a man tells his sister, 'I felt hurt and a bit left out when I heard about the trip after it was booked,' rather than 'You always do this.'",
+   "common_mistakes": [
+    "Believing feelings have no place in a work conversation and so letting them leak as sarcasm or coldness",
+    "Naming a judgment as a feeling ('I feel you are being selfish')",
+    "Sharing only the easiest feeling, such as anger, and hiding hurt or shame",
+    "Rushing to fix or argue with the other person's feelings before acknowledging them"
+   ],
+   "steps": [
+    "List your feelings about the situation, including mixed and uncomfortable ones",
+    "Translate any judgments or accusations back into the feelings under them",
+    "Check the story behind each feeling: are you assuming intent or ignoring your own contribution?",
+    "Decide which feelings are central to the problem and worth sharing",
+    "Describe them in plain feeling words tied to specific events",
+    "Ask about and acknowledge their feelings before moving to solutions"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "empathy"
+    }
+   ],
+   "situations": [
+    "Raising burnout with your manager",
+    "Telling a sibling you felt left out",
+    "A team conflict that keeps resurfacing"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapter 5 'Have Your Feelings (Or They Will Have You)'; Triad preparation worksheet ('My feelings', 'Their feelings'); Heen, Art of Manliness interview (2019), Knowledge Project episode 57, and Global Leadership Network episode 32",
+    "underlying_research": "Consistent with affect-labeling research: putting feelings into words reduced amygdala response to negative images (Lieberman et al., 2007, Psychological Science 18(5)). Not cited by the book; my mapping. The idea of re-examining the story behind a feeling resembles cognitive reappraisal research, also not cited.",
+    "urls": [
+     "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf",
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+     "https://fs.blog/knowledge-project-podcast/sheila-heen/",
+     "https://globalleadership.org/podcast/ep-032-sheila-heen-with-jeff-lockyer-part-2"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Confirmed in the chapter title, worksheet and multiple author interviews. Component ideas fit research on affect labeling and reappraisal, but the sequence as taught is untested.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-08",
+   "source_id": "difficult-conversations",
+   "name": "Ground Your Identity",
+   "takeaway": "Ask what a hard talk threatens about who you are, and accept you can be competent and good yet still make mistakes.",
+   "skill_type": "technique",
+   "explanation": "If a conversation keeps you up at night, it probably threatens your sense of self. The authors name three core identity questions: am I competent, am I a good person, am I worthy of love? All-or-nothing thinking makes these fragile, so one piece of criticism feels like proof you are a fraud or a bad person, and you either deny it or collapse. Grounding means learning which identity issues matter most to you and making your self-image more complex: admit you will make mistakes, that your intentions are sometimes mixed, and that you have contributed to problems. The authors argue that the more easily you can admit these, the steadier you feel. Heen also suggests completing the sentence 'If I know nothing else about myself, I know I am...' to find what is likely to be triggered. Remember that the other person's identity may be at stake too.",
+   "when_to_use": "Before giving or receiving criticism, delivering bad news, or any conversation where you feel out of proportion anxiety, and in the moment when you feel knocked off balance.",
+   "worked_example": "A new manager has to tell a long-time employee he is not getting a promotion. She notices she dreads being seen as unkind, because being a caring boss is central to how she sees herself. She reminds herself: 'I can care about him and still deliver news he will not like. If he is upset, that does not mean I am a bad person.' She also anticipates that he may hear 'not competent', so she is specific about what the next role needs. When he says she never supported him, she can listen without swinging into either defending herself or apologizing for everything.",
+   "common_mistakes": [
+    "Denying any fault to protect your self-image, which makes you rigid",
+    "Swinging the other way and accepting every criticism as proof you are bad",
+    "Trying to control the other person's reaction instead of preparing for it",
+    "Ignoring that what you say may threaten their identity too"
+   ],
+   "steps": [
+    "Ask what this conversation might say about you: competence, goodness, or worth",
+    "Complete the sentence 'If I know nothing else about myself, I know I am...' and note what might be challenged",
+    "Replace either/or with and: 'I am competent and I made this mistake'",
+    "Admit in advance your likely mistakes, mixed intentions and contribution",
+    "Prepare for their likely reaction rather than trying to control it",
+    "If you lose your balance mid-conversation, take a break and return"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "receiving-feedback"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "mindset"
+    }
+   ],
+   "situations": [
+    "Telling an employee they did not get a promotion",
+    "Hearing criticism of your parenting",
+    "A performance review you are nervous about"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapter 6 'Ground Your Identity: Ask Yourself What's at Stake' (p. 119 in the 1999 edition, per Beyond Intractability); Triad preparation worksheet ('complexify' your self-image); Heen, Global Leadership Network episode 32 (2018) and Art of Manliness interview (2019)",
+    "underlying_research": "Consistent with self-affirmation research: threats to self-integrity provoke defensiveness, and affirming broader values reduces it (Cohen and Sherman, 2014, Annual Review of Psychology 65, 333 to 371; abstract checked through a search summary). Not cited by the book; my mapping.",
+    "urls": [
+     "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf",
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://globalleadership.org/podcast/ep-032-sheila-heen-with-jeff-lockyer-part-2",
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Confirmed in the chapter title, worksheet and interviews. The underlying mechanism (self-threat drives defensiveness) is well supported by self-affirmation research, though the book's specific grounding steps are untested.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-09",
+   "source_id": "difficult-conversations",
+   "name": "Choose Your Purpose: Raise It or Let It Go",
+   "takeaway": "Decide whether to raise an issue by checking your purpose; aim to learn, express and problem-solve, never to change them.",
+   "skill_type": "technique",
+   "explanation": "Not every difficult issue should be raised. Working through the three conversations on your own first often shows that the conflict is partly inside you, or that a different action would fix it better than talking. If you do talk, choose purposes you can control. Changing the other person or getting them to admit fault is not one, because only they can decide that. The authors recommend three purposes that fit almost any hard conversation: learning (understand their story first), expression (share your views and feelings), and problem-solving (find a way forward that works for both). If you decide to let it go, they suggest four attitudes: it is not your job to fix everything, the other person has limits too, the issue is separate from your worth, and you can let go and still care.",
+   "when_to_use": "When you are unsure whether a conversation is worth having, before any planned hard conversation, and when you have decided not to raise something but keep replaying it.",
+   "worked_example": "Sam is annoyed that a peer interrupts him in meetings. Before raising it he asks what he wants. 'Get him to admit he is rude' is out of his control. 'Understand whether he knows he does it, tell him the effect, and agree a signal' is not. He opens: 'I would like to hear how meetings feel to you and share something I have noticed, then see if we can work out a fix.' By contrast, Ana decides not to raise her father's political comments at a once-a-year reunion. She reminds herself she cannot change his views, that the comments say nothing about her worth, and that she can still care deeply about the issue elsewhere.",
+   "common_mistakes": [
+    "Raising an issue when your hidden purpose is to vent or punish",
+    "Setting a goal you cannot control, such as making them apologize",
+    "Choosing to let go but continuing to drop hints or resentful remarks",
+    "Skipping the problem-solving purpose and ending with feelings aired but nothing agreed"
+   ],
+   "steps": [
+    "Work through the three conversations privately before deciding",
+    "Ask whether the real conflict is inside you or whether another action would fix it better",
+    "Drop purposes you cannot control, such as changing them",
+    "If you go ahead, adopt learning, expression and problem-solving as your purposes",
+    "If you let go, use the four attitudes and stop raising it indirectly"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "foundations",
+     "subcategory": "audience-goals"
+    }
+   ],
+   "situations": [
+    "Deciding whether to confront a coworker",
+    "Choosing not to argue politics with a relative",
+    "Preparing goals for a performance conversation"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapter 7 'What's Your Purpose? When to Raise It and When to Let Go'; Triad preparation worksheet ('Choosing my purposes'); Beyond Intractability summary",
+    "underlying_research": "Practitioner experience; no direct empirical test found.",
+    "urls": [
+     "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf",
+     "https://www.beyondintractability.org/bksum/stone-difficult"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Confirmed in the chapter title and the authors' worksheet, which spells out the three purposes. Credible expert guidance, untested as a method.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-10",
+   "source_id": "difficult-conversations",
+   "name": "Begin From the Third Story",
+   "takeaway": "Open by describing the difference between your views as a neutral observer would, then invite them to explore it with you.",
+   "skill_type": "technique",
+   "explanation": "Most hard conversations go wrong in the first sentence, because people open from inside their own story, where they are the good guy and the other person is the problem. The other person declines that role and gets defensive. Opening from inside their story fails too, because you lose your own. The authors suggest the third story: the version a neutral observer, such as a mediator, would tell. The key is to describe the gap between the two stories, since whatever else you disagree about, you can agree you see it differently. Then extend an invitation that casts the other person as a partner in figuring it out, stating your purposes and asking whether that works for them. If they open from their own story, you can shift it into a third story by acknowledging their view and adding yours. Heen notes it also prompts you to use whichever skill, listening or asserting, comes less naturally.",
+   "when_to_use": "At the start of any difficult conversation you initiate, in the opening line of an email or meeting request about a sensitive issue, and when a conversation has started badly and needs a reset.",
+   "worked_example": "Instead of 'Why do you leave the dishes overnight every time it is your turn?', a partner says: 'I think we have different ideas about when dishes should get done. I like the kitchen clear before bed, and I know you are often wiped out after dinner and would rather do them in the morning. Can we talk about what would work for both of us?' At work: 'You and I seem to see the client's request differently. I would like to hear how you see it and share my concerns, then figure out a plan together. Does that work?'",
+   "common_mistakes": [
+    "Calling your own story 'neutral' while it still casts them as the problem",
+    "Being so careful to be neutral that you never say what matters to you",
+    "Skipping the invitation and moving straight into your argument",
+    "Treating a no to the invitation as failure instead of asking what would make the conversation worth having for them"
+   ],
+   "steps": [
+    "Write your story and their story in one line each",
+    "Describe the difference between them in terms both would accept",
+    "State your purposes: to understand their view, share yours and solve it together",
+    "Invite them in and ask if that approach works for them",
+    "If they start from their story, acknowledge it and add yours as a difference"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "personal-life",
+     "subcategory": "partners"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "giving-feedback"
+    }
+   ],
+   "situations": [
+    "Opening a conversation about household chores",
+    "Raising a disagreement with a coworker",
+    "Writing the first line of an email about a sensitive issue"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapter 8 'Getting Started: Begin from the Third Story'; Harvard Program on Negotiation, 'Telling the Third Story'; Heen, Art of Manliness interview (2019); Triad preparation worksheet ('Prepare an opening line')",
+    "underlying_research": "Mediation practice; no direct empirical test found. Heen cites the reciprocity norm as the reason an invitation to joint inquiry tends to be accepted.",
+    "urls": [
+     "https://www.pon.harvard.edu/daily/conflict-resolution/telling-the-third-story/",
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Confirmed in the chapter title, a Harvard PON article and Heen's interview. Credible mediator practice, untested as a specific technique.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-11",
+   "source_id": "difficult-conversations",
+   "name": "Speak for Yourself With Clarity and Power",
+   "takeaway": "Say what matters most to you first and plainly, as your view and feelings, not as hints, leading questions or the truth.",
+   "skill_type": "technique",
+   "explanation": "Empathetic people often listen well and then forget to say what they need; others hint and hope. The authors start from the premise that your views and feelings are no more and no less legitimate than anyone else's, so you are entitled to express them. Begin with what matters most to you rather than easing in. Do not rely on hints or leading questions, which leave the other person guessing or feeling trapped. Speak for yourself: present your conclusions as your perception, share the information and reasoning behind them, and use 'and' to convey mixed views. Avoid exaggerations such as 'you always' and 'you never', which invite debate. Then help them understand you by asking how they see it differently or asking them to say back what they heard.",
+   "when_to_use": "After you have listened and understood their story, when you tend to swallow your own needs, or when you notice yourself asking questions you already know the answer to.",
+   "worked_example": "A volunteer coordinator has been hinting that she needs help ('It sure is a lot of work running the sign-ups'). She tries instead: 'The thing that matters most to me is that I cannot keep running sign-ups alone; I have been doing about ten hours a week and I am exhausted. I would like one other person to take the Saturday shift. How does that land for you?' With a roommate: 'I feel uneasy when guests stay over on weeknights because I sleep badly. I know you see it as no big deal, and I would like us to agree on a limit.'",
+   "common_mistakes": [
+    "Easing in so slowly that the main point never lands",
+    "Asking leading questions ('Don't you think it is late to start?') instead of stating your view",
+    "Presenting your interpretation as fact",
+    "Using 'always' and 'never', which turns the conversation into a debate about exceptions"
+   ],
+   "steps": [
+    "Remind yourself your view counts as much as theirs",
+    "Decide the one thing that matters most and say it first",
+    "Frame it as your perception and feelings, with the reasoning behind it",
+    "Use 'and' to include mixed views rather than hiding half",
+    "Ask them to say back what they heard or how they see it differently"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "boundaries"
+    }
+   ],
+   "situations": [
+    "Asking for help after hinting for weeks",
+    "Setting a house rule with a roommate",
+    "Stating your concerns in a tense meeting"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapter 10 'Expression: Speak for Yourself with Clarity and Power'; Beyond Intractability summary; Heen, Art of Manliness interview (2019) on people who listen well but forget to state their own needs; Triad preparation worksheet ('Expression')",
+    "underlying_research": "Practitioner experience; no direct empirical test found.",
+    "urls": [
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+     "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Confirmed in the chapter title, a detailed summary and the authors' worksheet. Credible expert practice consistent with other assertiveness guidance, but the method is untested.",
+   "flags": [],
+   "supporting_evidence": []
+  },
+  {
+   "id": "difficult-conversations-12",
+   "source_id": "difficult-conversations",
+   "name": "Take the Lead: Reframe, Listen, Name the Dynamic",
+   "takeaway": "When they keep blaming, translate their words into contributions and differences, listen more, and name what keeps derailing the talk.",
+   "skill_type": "technique",
+   "explanation": "Most people you talk to have not read the book, so they will keep arguing about who is right and who is to blame. The authors offer three moves you can make on your own to keep things constructive. Reframe: take the essence of what they say and translate it into the framework, so a blame statement becomes a question about contribution, an accusation about intent becomes a discussion of impact, and 'the truth' becomes their perception. Listen: their most important rule for managing the interaction is that you cannot move the conversation forward until the other person feels heard and understood, so when in doubt, listen more. Name the dynamic: if they keep interrupting, dismissing feelings or changing the subject, describe the pattern and make it a topic, which often defuses it. Then move to problem-solving together.",
+   "when_to_use": "When the other person stays in attack or blame mode despite your learning stance, when a conversation keeps going in circles, or when one pattern, such as interrupting, keeps derailing it.",
+   "worked_example": "A client says, 'Your team botched this rollout, plain and simple.' The account lead reframes: 'It sounds like the rollout really hurt your operations, and you see our team's choices as a big part of that. I want to understand what we contributed, and I also want to look at the whole chain, including the late data handoff, so it does not happen again.' When the client cuts him off for the third time, he names it: 'I notice we keep interrupting each other, and I am doing it too. Could we each finish a point before responding?' A parent uses the same move with a teenager: 'Every time we start on curfew, we end up talking about your brother. Can we stick with you and me for now?'",
+   "common_mistakes": [
+    "Reframing in a way that corrects them ('What you mean is...') rather than translating",
+    "Naming the dynamic as an accusation ('You always derail this')",
+    "Moving to solutions before the other person feels heard",
+    "Expecting one reframe to change a long pattern rather than repeating it patiently"
+   ],
+   "steps": [
+    "Expect the other person to argue from blame and certainty; do not take the bait",
+    "Translate blame into contribution, intent into impact, and 'the truth' into different views",
+    "When in doubt, listen and acknowledge until they feel heard",
+    "If a pattern keeps derailing you, name it neutrally and ask to change it",
+    "Then move to problem-solving: ask what would persuade them and say what would persuade you"
+   ],
+   "categories": [
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
+    },
+    {
+     "category": "relationships",
+     "subcategory": "listening"
+    }
+   ],
+   "situations": [
+    "An angry client blaming your team",
+    "A partner who keeps changing the subject",
+    "A meeting where two people keep interrupting"
+   ],
+   "source": {
+    "citation": "Stone, Patton and Heen, Difficult Conversations (2010), Chapters 9 to 11, especially Chapter 11 'Problem-Solving: Take the Lead' (pp. 202 and 206 in the 1999 edition on reframing and the listening rule, per Beyond Intractability); Global Leadership Network episode 31 (listening is the first skill to go)",
+    "underlying_research": "Practitioner experience. The listening rule is consistent with research that being listened to well reduces defensiveness and extreme attitudes (see kluger-listening-2024 in this library), which the book does not cite.",
+    "urls": [
+     "https://www.beyondintractability.org/bksum/stone-difficult",
+     "https://globalleadership.org/podcast/ep-031-sheila-heen-with-jeff-lockyer"
+    ]
+   },
+   "confidence": "Medium",
+   "confidence_rationale": "Confirmed through a detailed chapter summary with page references; the three moves are standard mediator practice and the listening rule fits later listening research. The specific moves are untested. Placement of the three moves within Chapters 9 to 11 is inferred from the summary's order, not checked in the book.",
+   "flags": [],
+   "supporting_evidence": []
   },
   {
    "id": "talk-like-ted-01",
