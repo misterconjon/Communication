@@ -8,8 +8,8 @@ Last updated: 2026-11-04
 | 0. Taxonomy co-design (Checkpoint 1) | Complete: taxonomy locked 2026-11-04 |
 | 1. Book deep-dives (Checkpoint 2) | Approved; verification pass (1b) complete: 137 insights (6 High, 113 Medium, 18 Low) |
 | 2. Cross-book synthesis | Complete: docs/stage2-synthesis.md, data/learning-path.json |
-| 3. Expansion research (Checkpoint 3) | Approved: 56 sources (score 7+). Extraction (3b) running |
-| 4. Interactive artifact (Checkpoint 4) | Not started |
+| 3. Expansion research (Checkpoint 3) | Complete: 56 sources extracted (109 new insights after 1 merge); integrated into learning path (docs/stage3c-integration-log.md) |
+| 4. Interactive artifact (Checkpoint 4) | Built, tested, published: https://claude.ai/artifact/FDcPSSEmH8d4tLwoTYf5MW. Awaiting user review |
 | 5. Word guide (Checkpoint 5) | Not started |
 | 6. Quality assurance | Not started |
 
@@ -55,6 +55,10 @@ Last updated: 2026-11-04
 - Remaining gaps: async (0), reciprocity (1), saying no (1), virtual presenting (1), introductions (2), proposals and memos (2).
 - Think Faster, Talk Smarter insight 16 (CLEAR conflict framework) comes from an updated edition announced Oct 2026.
 
+## Library status
+- 246 insights (137 core, 109 added) from 65 sources; 142 supporting-evidence links; learning path 129 insights in 7 stages.
+- Partly filled gaps: async (documentation culture), virtual presenting, introductions, family (no parenting source), humor (one correlational meta-analysis). Unfilled by decision: status updates, aging parents.
+
 ## Open questions / blockers
 - Fixed: docs/taxonomy.md was accidentally emptied at Stage 0 lock; restored from commit e8a68ad.
 - fivebooks.com blocked by network policy; user supplied the list directly.
@@ -62,4 +66,4 @@ Last updated: 2026-11-04
 - Network access opened by user 2026-11-04; Fivebooks list confirmed to match.
 
 ## Next steps
-- User selects Stage 3 candidates; then extract their insights in Stage 1 format; then Stage 4 artifact.
+- User reviews artifact at Checkpoint 4; then Stage 5 Word guide.

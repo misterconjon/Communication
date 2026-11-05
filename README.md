@@ -2,6 +2,10 @@
 
 A personal library of communication mental models, techniques and frameworks for professional and personal life, in person and in writing. Every insight is traced to a source and rated for confidence.
 
+## Live library
+
+https://claude.ai/artifact/FDcPSSEmH8d4tLwoTYf5MW (private to the owner until shared from the page's Share menu)
+
 ## What is here
 
 | Path | Contents |
