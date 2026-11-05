@@ -13,7 +13,9 @@ https://claude.ai/artifact/FDcPSSEmH8d4tLwoTYf5MW (sharing is managed from the p
 | `artifact/index.html` | Interactive, searchable library (single-file interface) |
 | `artifact/library.json` | Data layer the interface reads; generated, do not edit by hand |
 | `artifact/README.md` | How to view the library and how to add a book |
+| `docs/ADD-A-BOOK.md` | Standard procedure for adding a book (research, de-duplication, categorization, publishing) |
 | `docs/entry-template.json` | Template for adding a book or paper |
+| `scripts/smoke_test.js` | Headless browser smoke test for the artifact |
 | `data/stage1/` | Deep-dives on the nine core books (verified against primary sources) |
 | `data/stage3/candidates-*.json` | Expansion research: candidate sources per category with credibility assessments |
 | `data/stage3/extracted/` | Insights from the 56 added sources the user approved |

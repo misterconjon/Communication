@@ -23,6 +23,8 @@
 
 ## Add a book
 
+The full procedure, including research standards, de-duplication rules, the categorization guide and ready-made agent prompts, is in `docs/ADD-A-BOOK.md`. The short version:
+
 1. **Copy the template.** Copy `docs/entry-template.json` to `data/additions/<book-id>.json`. Use a short kebab-case id, such as `crucial-conversations`.
 2. **Fill in the book details.** Complete the `book` block. Set `"core": false` for anything outside the original nine books.
 3. **Write the insights.** Add one object per insight to `insights`. Give each a unique id (`<book-id>-01`, `<book-id>-02`, and so on).
