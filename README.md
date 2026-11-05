@@ -4,7 +4,7 @@ A personal library of communication mental models, techniques and frameworks for
 
 ## Live library
 
-https://claude.ai/artifact/FDcPSSEmH8d4tLwoTYf5MW (private to the owner until shared from the page's Share menu)
+https://claude.ai/artifact/FDcPSSEmH8d4tLwoTYf5MW (sharing is managed from the page's Share menu)
 
 ## What is here
 
