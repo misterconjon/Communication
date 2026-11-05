@@ -13,7 +13,7 @@ const url = process.argv[2] || 'http://localhost:8765/index.html';
     await p.fill('#home-q', 'difficult conversation'); await p.waitForTimeout(150);
     const homeHits = await p.$$eval('#home-main .row', x => x.length);
     await p.goto(url.split('#')[0] + '#library'); await p.waitForTimeout(250);
-    const rows = await p.$$eval('#lib-rows .row', x => x.length);
+    const rows = parseInt((await p.textContent('#lib-count')) || '0', 10);  // rows are paged; the count covers all entries
     await p.click('#lib-rows .row'); await p.waitForSelector('#reader:not([hidden])');
     await p.keyboard.press('Escape');
     await p.goto(url.split('#')[0] + '#sources'); await p.waitForTimeout(250);
