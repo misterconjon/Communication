@@ -5,44 +5,72 @@
       "title": "Delivering bad news to your manager",
       "category": "difficult",
       "setting": "professional",
-      "medium": ["in person", "video", "writing"],
+      "medium": [
+        "in person",
+        "video",
+        "writing"
+      ],
       "context": "A project is going to miss its date, a client is unhappy, or a mistake you made will cost time or money, and your manager does not know yet. The pull is to wait until you have fixed it or until the picture is clearer, but late news is what damages trust. Raising problems upward also feels risky, so people soften the message until the problem gets lost.",
       "goal": "Your manager hears the problem early and plainly, understands what it means for them, and leaves with options and a next step, trusting your reporting more than before.",
       "approach": [
         {
           "step": "Tell them early, before decisions lock in",
           "detail": "Raise the problem as soon as you know it is real, not once you have solved it. Bosses need bad news in time to act, and concerns raised before plans are locked in are received better than late ones.",
-          "insight_ids": ["gabarro-kotter-managing-your-boss-03", "morrison-2014-voice-03"]
+          "insight_ids": [
+            "gabarro-kotter-managing-your-boss-03",
+            "morrison-2014-voice-03"
+          ]
         },
         {
           "step": "Shape the message as What, So What, Now What",
           "detail": "Write one sentence on what happened, one on what it means for this manager (dates, money, the client), and one on what you propose. Saying what you would do next makes it more likely they will act on it, and less likely you will be seen as just complaining.",
-          "insight_ids": ["communicate-with-mastery-04", "think-faster-talk-smarter-07", "morrison-2014-voice-01"]
+          "insight_ids": [
+            "communicate-with-mastery-04",
+            "think-faster-talk-smarter-07",
+            "morrison-2014-voice-01"
+          ]
         },
         {
           "step": "Match the format to how your manager takes in information",
-          "detail": "If your manager likes to read first, send a short note and then talk. If they prefer to hear things, talk first and send the written version afterward. Either way, ask for a private slot with enough time rather than dropping it into a group meeting.",
-          "insight_ids": ["gabarro-kotter-managing-your-boss-02", "baile-spikes-2000-01"]
+          "detail": "If your manager likes to read first, send a short note and then talk. If they prefer to hear things, talk first and send the written version afterward. Either way, ask for a private slot with enough time rather than dropping it into a group meeting. Propose a specific time and length rather than 'Got a second?'.",
+          "insight_ids": [
+            "gabarro-kotter-managing-your-boss-02",
+            "baile-spikes-2000-01",
+            "the-next-conversation-16"
+          ]
         },
         {
           "step": "Signal the news, then say it plainly",
-          "detail": "Open with a short warning that you have a problem to share, then state it in plain words without padding or jokes. A joke attached to an admission makes listeners take it less seriously, and here you need them to.",
-          "insight_ids": ["baile-spikes-2000-01", "humor-seriously-06"]
+          "detail": "Open with a short warning that you have a problem to share, then state it in plain words without padding or jokes. A joke attached to an admission makes listeners take it less seriously, and here you need them to. Skip the small-talk cushion: 'This won't be easy to hear,' then the main point within your first two sentences.",
+          "insight_ids": [
+            "baile-spikes-2000-01",
+            "humor-seriously-06",
+            "the-next-conversation-16"
+          ]
         },
         {
           "step": "Let the reaction land before moving to the plan",
           "detail": "If your manager is frustrated or worried, acknowledge it briefly and give them a moment before you go into options. If the news is big, do not push for every decision in the same sitting; agree what has to be decided now and what can wait.",
-          "insight_ids": ["baile-spikes-2000-01", "baile-spikes-2000-02"]
+          "insight_ids": [
+            "baile-spikes-2000-01",
+            "baile-spikes-2000-02"
+          ]
         },
         {
           "step": "Offer options and ask what you are missing",
           "detail": "Lay out one or two realistic ways forward, including a small test if that fits, and then ask what they know that you do not. Your manager may have context from above that changes the best option.",
-          "insight_ids": ["morrison-2014-voice-03", "gabarro-kotter-managing-your-boss-03"]
+          "insight_ids": [
+            "morrison-2014-voice-03",
+            "gabarro-kotter-managing-your-boss-03"
+          ]
         },
         {
           "step": "Follow up in writing and set the next update",
           "detail": "Send the key facts, options and agreed next steps in a short note so nobody has to rely on memory, and say when they will hear from you next.",
-          "insight_ids": ["baile-spikes-2000-02", "gabarro-kotter-managing-your-boss-03"]
+          "insight_ids": [
+            "baile-spikes-2000-02",
+            "gabarro-kotter-managing-your-boss-03"
+          ]
         }
       ],
       "example_wording": [
@@ -67,7 +95,8 @@
         "think-faster-talk-smarter-07",
         "baile-spikes-2000-01",
         "baile-spikes-2000-02",
-        "humor-seriously-06"
+        "humor-seriously-06",
+        "the-next-conversation-16"
       ],
       "evidence_note": "The strongest support is the High-confidence research on why people stay silent with superiors (morrison-2014-voice-01); the other insights are Medium. SPIKES and its process critique come from medical bad-news research, so using them with a manager is an adaptation, and the no-surprises advice (gabarro-kotter-managing-your-boss-03) is expert guidance rather than tested experimentally."
     },
@@ -76,39 +105,60 @@
       "title": "Networking at an event",
       "category": "relationships",
       "setting": "professional",
-      "medium": ["in person"],
+      "medium": [
+        "in person"
+      ],
       "context": "You are at a conference reception or industry mixer where you know few people. Many people find networking uncomfortable because it feels transactional, there is no script, and afterward they replay every awkward moment and decide not to follow up. The real value usually comes from follow-up with acquaintances, which is exactly the step most people skip.",
       "goal": "A few genuine two-way conversations, at least one person you follow up with, and the sense that you offered something rather than only asked.",
       "approach": [
         {
           "step": "Decide what you can offer",
           "detail": "Before you go, list two or three things you could give: an introduction, a useful article, something you learned, sincere appreciation. Thinking about giving rather than getting makes networking feel less grubby, and social skill is something you can build with practice.",
-          "insight_ids": ["king-social-chemistry-02"]
+          "insight_ids": [
+            "king-social-chemistry-02"
+          ]
         },
         {
           "step": "Prepare a few topics, not lines",
           "detail": "Spend thirty seconds jotting about five topics: something about the event, a session you saw, a question you are curious about. Keep it as a safety net for lulls, not a script; your attention should be on the person in front of you.",
-          "insight_ids": ["talk-wood-brooks-02", "improv-wisdom-02"]
+          "insight_ids": [
+            "talk-wood-brooks-02",
+            "improv-wisdom-02"
+          ]
         },
         {
           "step": "Open with the setting, then be interested",
           "detail": "Start with a question about the shared situation rather than a stock line. When they answer, listen for a detail that genuinely interests you and ask about it.",
-          "insight_ids": ["think-faster-talk-smarter-13", "talk-wood-brooks-04"]
+          "insight_ids": [
+            "think-faster-talk-smarter-13",
+            "talk-wood-brooks-04"
+          ]
         },
         {
           "step": "Follow up on their answers instead of turning to yourself",
           "detail": "Ask a follow-up before you share your own version, and avoid asking a question just so you can answer it yourself. Once there is some warmth, a question about choices or motives (what drew you to this work?) tends to go further than another fact question.",
-          "insight_ids": ["talk-wood-brooks-04", "talk-wood-brooks-06", "supercommunicators-05"]
+          "insight_ids": [
+            "talk-wood-brooks-04",
+            "talk-wood-brooks-06",
+            "supercommunicators-05"
+          ]
         },
         {
           "step": "Leave while the energy is still good",
           "detail": "When turns get shorter or the topic repeats, signal you need to move on, ask one last question, and close warmly. Ending a little early is better than letting a good conversation run dry.",
-          "insight_ids": ["talk-wood-brooks-11", "think-faster-talk-smarter-13"]
+          "insight_ids": [
+            "talk-wood-brooks-11",
+            "think-faster-talk-smarter-13"
+          ]
         },
         {
           "step": "Follow up within a few days",
           "detail": "Send the thing you offered, with a short note. You were probably liked more than you think, so do not let a critical replay talk you out of it; acquaintances you are only loosely connected to are often the ones who lead to new opportunities.",
-          "insight_ids": ["boothby-2018-01", "king-social-chemistry-02", "rajkumar-weak-ties-2022-01"]
+          "insight_ids": [
+            "boothby-2018-01",
+            "king-social-chemistry-02",
+            "rajkumar-weak-ties-2022-01"
+          ]
         }
       ],
       "example_wording": [
@@ -143,44 +193,69 @@
       "title": "Apologizing in writing",
       "category": "written-digital",
       "setting": "professional",
-      "medium": ["writing"],
+      "medium": [
+        "writing"
+      ],
       "context": "You missed a commitment, sent something hurtful, or made an error that cost a colleague or client, and you need to apologize by email or message. Writing strips out your tone, so the reader fills the gaps, often with the worst reading. The urge to explain what happened can turn the apology into an excuse.",
       "goal": "The reader sees that you own what happened, understands the impact you caused, knows what you will do to fix it, and feels the relationship is on firmer ground.",
       "approach": [
         {
           "step": "Decide whether writing is the right channel",
           "detail": "For a serious or emotional rupture, a call or a conversation in person carries tone better than text. Write when the harm happened in writing, the person is remote, or a written record helps, and offer to talk as well.",
-          "insight_ids": ["kruger-epley-2005-01"]
+          "insight_ids": [
+            "kruger-epley-2005-01"
+          ]
         },
         {
           "step": "Lead with plain responsibility",
           "detail": "Open by naming the specific thing you did and saying it was your fault. Owning it clearly is the single most important part of an apology, ahead of everything else.",
-          "insight_ids": ["lewicki-apologies-2016-01", "think-faster-talk-smarter-12"]
+          "insight_ids": [
+            "lewicki-apologies-2016-01",
+            "think-faster-talk-smarter-12"
+          ]
         },
         {
           "step": "Name the impact on them",
           "detail": "Say what your action cost the other person in concrete terms, so they can see you understand it from their side.",
-          "insight_ids": ["think-faster-talk-smarter-12"]
+          "insight_ids": [
+            "think-faster-talk-smarter-12"
+          ]
         },
         {
           "step": "Offer a specific repair and a change",
           "detail": "Say what you are doing to fix the damage, or ask what would help, and what you will do differently next time. A repair offer is the second most valued part of an apology.",
-          "insight_ids": ["lewicki-apologies-2016-01", "think-faster-talk-smarter-12", "talk-wood-brooks-13"]
+          "insight_ids": [
+            "lewicki-apologies-2016-01",
+            "think-faster-talk-smarter-12",
+            "talk-wood-brooks-13"
+          ]
         },
         {
           "step": "Keep it short and warm, without excuses or jokes",
           "detail": "Brevity and warmth can pull against each other in writing; resolve it by cutting explanation and padding, not kindness. Any explanation should be one sentence that does not excuse, skip asking for forgiveness, and leave out humor, which makes an admission sound less serious.",
-          "insight_ids": ["lewicki-apologies-2016-01", "communicate-with-mastery-02", "supercommunicators-12", "humor-seriously-06"]
+          "insight_ids": [
+            "lewicki-apologies-2016-01",
+            "communicate-with-mastery-02",
+            "supercommunicators-12",
+            "humor-seriously-06"
+          ]
         },
         {
           "step": "Reread it as the hurt person before sending",
           "detail": "Pause and read each line in a sharper voice than you intended. If any phrase could sound defensive or sarcastic, rewrite it to say your meaning plainly.",
-          "insight_ids": ["kruger-epley-2005-01", "communicate-with-mastery-09"]
+          "insight_ids": [
+            "kruger-epley-2005-01",
+            "communicate-with-mastery-09"
+          ]
         },
         {
           "step": "Follow through, and let trust rebuild over time",
           "detail": "Do what you promised and, later, show that you did. After a bigger breach, expect the relationship to warm gradually rather than snap back after one message.",
-          "insight_ids": ["talk-wood-brooks-13", "lewicki-apologies-2016-01", "connect-14"]
+          "insight_ids": [
+            "talk-wood-brooks-13",
+            "lewicki-apologies-2016-01",
+            "connect-14"
+          ]
         }
       ],
       "example_wording": [
@@ -214,44 +289,66 @@
       "title": "Asking for a raise",
       "category": "professional",
       "setting": "professional",
-      "medium": ["in person", "video"],
+      "medium": [
+        "in person",
+        "video"
+      ],
       "context": "You believe your pay has fallen behind your contribution or the market. Asking feels like a confrontation with someone you depend on, so people go in with a number and no plan, argue from personal need, and back down at the first hesitation. Afterward they often feel they pushed too hard even when they did not.",
       "goal": "A fair conversation grounded in clear standards that ends in an increase, or in specific terms and a date for one.",
       "approach": [
         {
           "step": "Know your alternative before you ask",
           "detail": "Work out what you will do if the answer is no: stay and revisit later, pursue an outside offer, or seek a different role. Your best alternative, not a rigid bottom line, is what tells you whether an offer is good enough.",
-          "insight_ids": ["fisher-ury-getting-to-yes-05"]
+          "insight_ids": [
+            "fisher-ury-getting-to-yes-05"
+          ]
         },
         {
           "step": "Gather fair standards",
           "detail": "Collect market data for your role, internal pay bands if available, and concrete evidence of how your scope has grown. Standards that do not depend on either side's will give your manager a legitimate reason to say yes.",
-          "insight_ids": ["fisher-ury-getting-to-yes-04"]
+          "insight_ids": [
+            "fisher-ury-getting-to-yes-04"
+          ]
         },
         {
           "step": "Think about your manager's interests and limits",
           "detail": "You and your manager depend on each other, and they have budget cycles and their own boss to answer to. Consider what they need (keeping a reliable performer, staying within budget) so you can propose something that serves both.",
-          "insight_ids": ["gabarro-kotter-managing-your-boss-01", "fisher-ury-getting-to-yes-01"]
+          "insight_ids": [
+            "gabarro-kotter-managing-your-boss-01",
+            "fisher-ury-getting-to-yes-01"
+          ]
         },
         {
           "step": "Open with a specific, justified number",
           "detail": "If you have done your research, name an ambitious but defensible figure and the standard behind it. A first number anchors the conversation, but an extreme one with no reason can backfire.",
-          "insight_ids": ["thompson-mind-heart-negotiator-02", "fisher-ury-getting-to-yes-04"]
+          "insight_ids": [
+            "thompson-mind-heart-negotiator-02",
+            "fisher-ury-getting-to-yes-04"
+          ]
         },
         {
           "step": "If base pay is stuck, widen the package",
           "detail": "Ask what is constraining the answer, then explore other issues together: timing, title, bonus, scope, training. If you disagree about how you will perform, propose a raise tied to a measurable target and date.",
-          "insight_ids": ["fisher-ury-getting-to-yes-01", "thompson-mind-heart-negotiator-03", "thompson-mind-heart-negotiator-04"]
+          "insight_ids": [
+            "fisher-ury-getting-to-yes-01",
+            "thompson-mind-heart-negotiator-03",
+            "thompson-mind-heart-negotiator-04"
+          ]
         },
         {
           "step": "Do not take it back because it felt uncomfortable",
           "detail": "Afterward you may feel you came on too strong; most people who feel that way did not. Check your manager's later behavior before offering any concession to smooth things over.",
-          "insight_ids": ["ames-wazlawek-2014-01"]
+          "insight_ids": [
+            "ames-wazlawek-2014-01"
+          ]
         },
         {
           "step": "Confirm what was agreed in writing",
           "detail": "Send a short summary of the outcome, including any target, amount and review date, and ask your manager to confirm it.",
-          "insight_ids": ["gabarro-kotter-managing-your-boss-03", "thompson-mind-heart-negotiator-04"]
+          "insight_ids": [
+            "gabarro-kotter-managing-your-boss-03",
+            "thompson-mind-heart-negotiator-04"
+          ]
         }
       ],
       "example_wording": [
@@ -285,44 +382,67 @@
       "title": "Negotiating a job offer",
       "category": "professional",
       "setting": "professional",
-      "medium": ["phone", "video", "writing"],
+      "medium": [
+        "phone",
+        "video",
+        "writing"
+      ],
       "context": "You have an offer in hand and a short window to respond. Many people accept on the spot for fear the offer will be pulled, or treat salary as the only issue and assume every gain for them is a loss for the employer. Recruiters may also ask questions, such as your current pay, that are hard to answer well.",
       "goal": "An accepted offer whose whole package reflects your value, reached in a way that leaves your future manager glad to have hired you.",
       "approach": [
         {
           "step": "Set your target and walk-away from your alternatives",
           "detail": "Know what you will do if this falls through (stay, another offer, keep searching) and set an ambitious target and a walk-away point from that.",
-          "insight_ids": ["fisher-ury-getting-to-yes-05", "thompson-mind-heart-negotiator-02"]
+          "insight_ids": [
+            "fisher-ury-getting-to-yes-05",
+            "thompson-mind-heart-negotiator-02"
+          ]
         },
         {
           "step": "List every issue, not just salary",
           "detail": "Break the offer into its parts: base, signing bonus, start date, title, remote days, review timing, equity, training budget. Rank how much each matters to you.",
-          "insight_ids": ["thompson-mind-heart-negotiator-01", "thompson-mind-heart-negotiator-03"]
+          "insight_ids": [
+            "thompson-mind-heart-negotiator-01",
+            "thompson-mind-heart-negotiator-03"
+          ]
         },
         {
           "step": "Ask what matters most on their side",
           "detail": "Do not assume they want the opposite of you on everything. Ask where they have flexibility and what constraints they face; some issues, like an early start date, may be wins for both.",
-          "insight_ids": ["thompson-mind-heart-negotiator-01", "fisher-ury-getting-to-yes-01"]
+          "insight_ids": [
+            "thompson-mind-heart-negotiator-01",
+            "fisher-ury-getting-to-yes-01"
+          ]
         },
         {
           "step": "Meet a loaded question with a relevant question",
           "detail": "If you are asked something you have a legitimate reason not to answer fully, such as current pay, reply with a sincere, on-topic question instead of refusing or inventing a number. If they have a right to know, answer honestly.",
-          "insight_ids": ["bitterly-schweitzer-deflection-01"]
+          "insight_ids": [
+            "bitterly-schweitzer-deflection-01"
+          ]
         },
         {
           "step": "Counter with packages backed by standards",
           "detail": "Offer two or three packages that are equally good for you and ask which works best for them; their choice shows their priorities. Tie the numbers to market data so your request rests on a reason, not pressure.",
-          "insight_ids": ["thompson-mind-heart-negotiator-03", "fisher-ury-getting-to-yes-04", "thompson-mind-heart-negotiator-02"]
+          "insight_ids": [
+            "thompson-mind-heart-negotiator-03",
+            "fisher-ury-getting-to-yes-04",
+            "thompson-mind-heart-negotiator-02"
+          ]
         },
         {
           "step": "Bridge disagreements about the future with a contingency",
           "detail": "If they doubt you will ramp up as fast as you expect, propose a review at a set date with an increase tied to measurable results.",
-          "insight_ids": ["thompson-mind-heart-negotiator-04"]
+          "insight_ids": [
+            "thompson-mind-heart-negotiator-04"
+          ]
         },
         {
           "step": "Get the final terms in writing",
           "detail": "Ask for the updated offer in writing and check every agreed item is there before you accept.",
-          "insight_ids": ["thompson-mind-heart-negotiator-04"]
+          "insight_ids": [
+            "thompson-mind-heart-negotiator-04"
+          ]
         }
       ],
       "example_wording": [
@@ -355,44 +475,67 @@
       "title": "Pushing back on a deadline with your boss",
       "category": "professional",
       "setting": "professional",
-      "medium": ["in person", "video", "writing"],
+      "medium": [
+        "in person",
+        "video",
+        "writing"
+      ],
       "context": "Your boss has set a deadline you believe cannot be met at the quality needed, or has added work without moving the date. Challenging a superior is risky, since managers can read pushback as disloyalty, so people agree in the meeting and quietly miss the date, or push back in frustration. Neither gives your boss what they need to decide well.",
       "goal": "A realistic agreement on scope, date or resources that your boss chose with full information, with your reputation for commitment intact.",
       "approach": [
         {
           "step": "Check what really matters about the deadline",
           "detail": "Ask what is driving the date and which results matter most. Sometimes the date is fixed but the scope is flexible, or the reverse, and you cannot know without asking.",
-          "insight_ids": ["gabarro-kotter-managing-your-boss-03", "gabarro-kotter-managing-your-boss-01"]
+          "insight_ids": [
+            "gabarro-kotter-managing-your-boss-03",
+            "gabarro-kotter-managing-your-boss-01"
+          ]
         },
         {
           "step": "Raise it early, privately, with evidence",
           "detail": "Bring it up as soon as you see the risk, one to one, with the specific numbers behind your estimate rather than a general sense of overload.",
-          "insight_ids": ["morrison-2014-voice-03"]
+          "insight_ids": [
+            "morrison-2014-voice-03"
+          ]
         },
         {
           "step": "Start from the goal you share",
           "detail": "Open with what you are protecting, such as a launch that works or a client you keep. That makes the constraint you are about to name a service to the goal rather than a complaint.",
-          "insight_ids": ["ury-positive-no-01", "morrison-2014-voice-03"]
+          "insight_ids": [
+            "ury-positive-no-01",
+            "morrison-2014-voice-03"
+          ]
         },
         {
           "step": "State the constraint plainly",
           "detail": "Say in one sentence what cannot be done by the date, without an edge or a long apology.",
-          "insight_ids": ["ury-positive-no-01"]
+          "insight_ids": [
+            "ury-positive-no-01"
+          ]
         },
         {
           "step": "Offer a short menu of options",
           "detail": "Present two or three workable paths, such as reduced scope, a later date, or extra help, and let your boss choose. A choice among acceptable options gets less resistance than a single demand.",
-          "insight_ids": ["berger-catalyst-02", "fisher-ury-getting-to-yes-03", "ury-positive-no-01"]
+          "insight_ids": [
+            "berger-catalyst-02",
+            "fisher-ury-getting-to-yes-03",
+            "ury-positive-no-01"
+          ]
         },
         {
           "step": "If you disagree on the estimate, tie it to what happens",
           "detail": "When your boss believes it will take less time than you do, propose keeping the date with an agreed trigger: if a specific dependency slips by a set amount, the date moves.",
-          "insight_ids": ["thompson-mind-heart-negotiator-04"]
+          "insight_ids": [
+            "thompson-mind-heart-negotiator-04"
+          ]
         },
         {
           "step": "Confirm in writing and do not walk it back",
           "detail": "Send a two-line note confirming the chosen option. If you later feel you pushed too hard, remember that people usually overestimate this, and do not give back what you agreed.",
-          "insight_ids": ["gabarro-kotter-managing-your-boss-03", "ames-wazlawek-2014-01"]
+          "insight_ids": [
+            "gabarro-kotter-managing-your-boss-03",
+            "ames-wazlawek-2014-01"
+          ]
         }
       ],
       "example_wording": [
@@ -425,39 +568,59 @@
       "title": "Saying no to extra work",
       "category": "difficult",
       "setting": "professional",
-      "medium": ["in person", "writing"],
+      "medium": [
+        "in person",
+        "writing"
+      ],
       "context": "A colleague, another team or a senior person asks you to take on a project when you are already at capacity. Saying no feels like letting people down or looking like a poor team player, so many people say yes and resent it, or leave the request unanswered until it becomes a bigger problem.",
       "goal": "A clear, warm no that protects your priorities, offers something the other person can accept, and leaves the relationship intact.",
       "approach": [
         {
           "step": "Notice your default trap",
           "detail": "Ask yourself whether you usually give in, snap, or avoid answering, and whether that changes with who is asking. Knowing your pattern tells you what to guard against in this conversation.",
-          "insight_ids": ["ury-positive-no-02"]
+          "insight_ids": [
+            "ury-positive-no-02"
+          ]
         },
         {
           "step": "Remind yourself a no stings less than you fear",
           "detail": "People who decline consistently overestimate how upset the asker will be and how much the relationship will suffer. If fear of their reaction is the main reason you would say yes, that is worth questioning.",
-          "insight_ids": ["givi-kirk-2024-01"]
+          "insight_ids": [
+            "givi-kirk-2024-01"
+          ]
         },
         {
           "step": "Find the yes behind your no",
           "detail": "Name what you are protecting: a deadline you own, quality on current work, your team's capacity. This is the reason you will lead with.",
-          "insight_ids": ["ury-positive-no-01"]
+          "insight_ids": [
+            "ury-positive-no-01"
+          ]
         },
         {
           "step": "Take the request seriously before declining",
           "detail": "Acknowledge the request and why it matters to them. Accepting that the need is real is different from accepting the work; keep your honest no for the commitment itself.",
-          "insight_ids": ["improv-wisdom-01", "connect-13"]
+          "insight_ids": [
+            "improv-wisdom-01",
+            "connect-13"
+          ]
         },
         {
           "step": "Say the no plainly, then offer a realistic alternative",
-          "detail": "Thank them for thinking of you, state the no in one sentence framed around your limit rather than their request, and then offer something you can actually do: a smaller piece, a later date, or a referral.",
-          "insight_ids": ["ury-positive-no-01", "givi-kirk-2024-01", "connect-13"]
+          "detail": "Thank them for thinking of you, state the no in one sentence framed around your limit rather than their request, and then offer something you can actually do: a smaller piece, a later date, or a referral. For a request you have already decided against and nothing needs negotiating, a short no, a thank-you and a kind close is enough; if pressed, repeat the no rather than adding reasons. With your own manager, keep the alternative.",
+          "insight_ids": [
+            "ury-positive-no-01",
+            "givi-kirk-2024-01",
+            "connect-13",
+            "the-next-conversation-11"
+          ]
         },
         {
           "step": "Hold steady afterward",
           "detail": "If you feel you came across as harsh, check that against how they actually behave and, if useful, ask a trusted colleague how you came across. Do not reverse a sound decision to repair a rift that may not exist.",
-          "insight_ids": ["ames-wazlawek-2014-01", "ames-wazlawek-2014-02"]
+          "insight_ids": [
+            "ames-wazlawek-2014-01",
+            "ames-wazlawek-2014-02"
+          ]
         }
       ],
       "example_wording": [
@@ -480,48 +643,74 @@
         "improv-wisdom-01",
         "connect-13",
         "ames-wazlawek-2014-01",
-        "ames-wazlawek-2014-02"
+        "ames-wazlawek-2014-02",
+        "the-next-conversation-11"
       ],
-      "evidence_note": "All supporting insights are Medium. The strongest are the experiments showing declines hurt less than expected (givi-kirk-2024-01), though they studied social invitations rather than work requests, and the research on misjudging your own assertiveness (ames-wazlawek-2014-01 and -02). The Positive No structure (ury-positive-no-01) is practitioner guidance."
+      "evidence_note": "All supporting insights are Medium. The strongest are the experiments showing declines hurt less than expected (givi-kirk-2024-01), though they studied social invitations rather than work requests, and the research on misjudging your own assertiveness (ames-wazlawek-2014-01 and -02). The Positive No structure (ury-positive-no-01) is practitioner guidance. The Next Conversation (Medium, practitioner) argues for a bare no without reasons or alternatives, which pulls against the Positive No; the playbook keeps the alternative for work requests and uses the bare no only when nothing needs negotiating."
     },
     {
       "id": "giving-critical-feedback-to-a-peer",
       "title": "Giving critical feedback to a peer",
       "category": "difficult",
       "setting": "professional",
-      "medium": ["in person"],
+      "medium": [
+        "in person"
+      ],
       "context": "A colleague at your level keeps doing something that hurts your work: talking over you with clients, missing handoffs, taking credit. You have no authority over them and want to keep a good working relationship, so you say nothing, and the irritation grows into a story about who they are.",
       "goal": "Your peer understands the specific behavior and its effect, you understand their side, and you agree on a small change to try.",
       "approach": [
         {
           "step": "Raise it while it is still small",
           "detail": "Bring up a pattern soon after a recent example, before it builds into a blowup. Small issues raised early keep the stakes and emotions low.",
-          "insight_ids": ["connect-05"]
+          "insight_ids": [
+            "connect-05"
+          ]
         },
         {
           "step": "Separate what they did from your guesses about why",
-          "detail": "Write down the observable behavior, how it affected you, and, separately, what you are assuming about their motives. Plan to speak only about the first two, and turn any trait you dislike into a specific behavior.",
-          "insight_ids": ["connect-03", "connect-15"]
+          "detail": "Write down the observable behavior, how it affected you, and, separately, what you are assuming about their motives. Plan to speak only about the first two, and turn any trait you dislike into a specific behavior. If you feel strongly, trace the feeling back to the story you are telling yourself and check it against what you actually saw and heard.",
+          "insight_ids": [
+            "connect-03",
+            "connect-15",
+            "crucial-conversations-05"
+          ]
         },
         {
           "step": "Set up a private conversation with goodwill",
-          "detail": "Pick a private moment with enough time and open by saying why the working relationship matters to you, so they are less likely to feel ambushed.",
-          "insight_ids": ["how-to-know-a-person-12", "connect-05"]
+          "detail": "Pick a private moment with enough time and open by saying why the working relationship matters to you, so they are less likely to feel ambushed. Name the one topic and the outcome you hope for, and if they might hear blame, say what you do not mean before what you do.",
+          "insight_ids": [
+            "how-to-know-a-person-12",
+            "connect-05",
+            "the-next-conversation-13",
+            "crucial-conversations-04"
+          ]
         },
         {
           "step": "Name the behavior and your real feeling",
-          "detail": "Describe one recent, specific behavior in neutral terms, then the impact, using a real feeling word rather than 'I feel that you...'. Skip the praise sandwich; it blurs the message.",
-          "insight_ids": ["connect-04", "connect-06"]
+          "detail": "Describe one recent, specific behavior in neutral terms, then the impact, using a real feeling word rather than 'I feel that you...'. Skip the praise sandwich; it blurs the message. Describe it the way a camera would record it, with no 'always' or 'never'.",
+          "insight_ids": [
+            "connect-04",
+            "connect-06",
+            "nonviolent-communication-02"
+          ]
         },
         {
           "step": "Stop, ask for their side, and loop it back",
           "detail": "Ask how it looks from where they sit, then restate what you heard and check you got it right. You may be missing part of the picture, including your own part in the pattern.",
-          "insight_ids": ["connect-04", "connect-08", "supercommunicators-07"]
+          "insight_ids": [
+            "connect-04",
+            "connect-08",
+            "supercommunicators-07"
+          ]
         },
         {
           "step": "Agree on a small experiment",
-          "detail": "Settle on a concrete change for both of you and a time to check in. Treat it as an invitation the first time; if the issue keeps recurring, it is fair to be more direct about what happens if nothing changes.",
-          "insight_ids": ["connect-08", "think-faster-talk-smarter-10"]
+          "detail": "Settle on a concrete change for both of you and a time to check in. Treat it as an invitation the first time; if the issue keeps recurring, it is fair to be more direct about what happens if nothing changes. Before you finish, say who will do what by when, and when you will check in.",
+          "insight_ids": [
+            "connect-08",
+            "think-faster-talk-smarter-10",
+            "crucial-conversations-12"
+          ]
         }
       ],
       "example_wording": [
@@ -546,7 +735,12 @@
         "connect-06",
         "connect-08",
         "supercommunicators-07",
-        "think-faster-talk-smarter-10"
+        "think-faster-talk-smarter-10",
+        "crucial-conversations-05",
+        "the-next-conversation-13",
+        "crucial-conversations-04",
+        "nonviolent-communication-02",
+        "crucial-conversations-12"
       ],
       "evidence_note": "The core comes from Connect (Medium), which draws on decades of teaching interpersonal skills rather than controlled trials. The step on setting up the conversation uses one Low-confidence insight (how-to-know-a-person-12). The tension between offering feedback as data (connect-04) and naming consequences (think-faster-talk-smarter-10) is handled by escalating only when a pattern recurs."
     },
@@ -555,44 +749,68 @@
       "title": "Receiving harsh feedback",
       "category": "difficult",
       "setting": "professional",
-      "medium": ["in person", "video"],
+      "medium": [
+        "in person",
+        "video"
+      ],
       "context": "A manager or colleague tells you, perhaps bluntly, that your work fell short or that you come across badly. Your body reacts before your mind does, and the urge is to explain your intentions or point out what they got wrong. Even badly delivered feedback usually contains something you could not have seen on your own.",
       "goal": "You stay composed, understand the specifics, decide later what to do with it, and leave the other person willing to give you feedback again.",
       "approach": [
         {
           "step": "Steady your body before you respond",
-          "detail": "Take one or two slow breaths with a longer exhale than inhale. You do not need to answer right away.",
-          "insight_ids": ["think-faster-talk-smarter-02"]
+          "detail": "Take one or two slow breaths with a longer exhale than inhale. You do not need to answer right away. Let the words drop for a moment before you decide what to pick up, and remind yourself that you can be competent and still have gotten this wrong.",
+          "insight_ids": [
+            "think-faster-talk-smarter-02",
+            "the-next-conversation-14",
+            "difficult-conversations-08"
+          ]
         },
         {
           "step": "Listen for the bottom line",
-          "detail": "Slow down and take in the whole message, including what they seem worried about, before forming a reply. Ask yourself what they actually want from you.",
-          "insight_ids": ["think-faster-talk-smarter-06"]
+          "detail": "Slow down and take in the whole message, including what they seem worried about, before forming a reply. Ask yourself what they actually want from you. Instead of blaming yourself or them, guess what they needed or were counting on, and check the guess.",
+          "insight_ids": [
+            "think-faster-talk-smarter-06",
+            "nonviolent-communication-05"
+          ]
         },
         {
           "step": "Thank them and hold off on explaining",
           "detail": "Thank them for telling you. Explaining your intentions straight away tends to sound defensive and makes them less likely to be honest next time.",
-          "insight_ids": ["connect-07"]
+          "insight_ids": [
+            "connect-07"
+          ]
         },
         {
           "step": "Ask for examples and say back what you heard",
           "detail": "Ask for a specific instance, then restate the point in your own words and check you got it right. This makes sure you are reacting to what they meant.",
-          "insight_ids": ["connect-07", "how-to-know-a-person-07"]
+          "insight_ids": [
+            "connect-07",
+            "how-to-know-a-person-07"
+          ]
         },
         {
           "step": "Accept the impact as real, even if your intent was good",
-          "detail": "Their experience of your behavior is real data about how you land, even if you meant well. Find the part that is true and say so before adding any context.",
-          "insight_ids": ["connect-03", "gottman-seven-principles-01"]
+          "detail": "Their experience of your behavior is real data about how you land, even if you meant well. Find the part that is true and say so before adding any context. Acknowledge the impact first; share what you meant only after they feel heard.",
+          "insight_ids": [
+            "connect-03",
+            "gottman-seven-principles-01",
+            "difficult-conversations-05"
+          ]
         },
         {
           "step": "Decide later, with other views",
           "detail": "Separate the feedback (data) from what you will do about it (your decision). Ask one or two people who see your work whether they notice the same pattern.",
-          "insight_ids": ["connect-07", "ames-wazlawek-2014-02"]
+          "insight_ids": [
+            "connect-07",
+            "ames-wazlawek-2014-02"
+          ]
         },
         {
           "step": "Close the loop",
           "detail": "Once you have acted on it, tell the person what you changed and ask whether they have noticed a difference.",
-          "insight_ids": ["connect-07"]
+          "insight_ids": [
+            "connect-07"
+          ]
         }
       ],
       "example_wording": [
@@ -615,7 +833,11 @@
         "how-to-know-a-person-07",
         "connect-03",
         "gottman-seven-principles-01",
-        "ames-wazlawek-2014-02"
+        "ames-wazlawek-2014-02",
+        "the-next-conversation-14",
+        "difficult-conversations-08",
+        "nonviolent-communication-05",
+        "difficult-conversations-05"
       ],
       "evidence_note": "All supporting insights are Medium, and most come from practitioner books (Connect, Think Faster, Talk Smarter). The antidote to defensiveness (gottman-seven-principles-01) comes from couples research applied here to work, and the outside-eyes step rests on research on misjudging your own assertiveness (ames-wazlawek-2014-02)."
     },
@@ -624,44 +846,69 @@
       "title": "A tense conflict with your partner",
       "category": "personal-life",
       "setting": "personal",
-      "medium": ["in person"],
+      "medium": [
+        "in person"
+      ],
       "context": "A recurring disagreement about chores, money, time or family has flared again and voices are rising. Under stress people reach for criticism, sarcasm, defensiveness or shutting down, and once heart rates climb, nobody can listen. Many couples then either avoid the topic or relive the same fight.",
       "goal": "Each of you feels heard, the specific issue is named directly, and you leave with either a practical step or an arrangement you can both live with for now.",
       "approach": [
         {
           "step": "Work out what kind of problem this is",
           "detail": "Ask whether it is a fixable situation or a lasting difference in personality or needs, and how serious it is. Serious, changeable problems need a direct request; lasting differences need ongoing dialogue rather than a win.",
-          "insight_ids": ["gottman-seven-principles-05", "overall-mcnulty-2017-01"]
+          "insight_ids": [
+            "gottman-seven-principles-05",
+            "overall-mcnulty-2017-01"
+          ]
         },
         {
           "step": "Be direct about the problem, not about their character",
-          "detail": "Name the specific situation, how you feel, and what you need. Directness is what gets problems changed; attacking who they are, sulking, or guilt trips do not.",
-          "insight_ids": ["gottman-seven-principles-01", "overall-mcnulty-2017-01", "overall-mcnulty-2017-02"]
+          "detail": "Name the specific situation, how you feel, and what you need. Directness is what gets problems changed; attacking who they are, sulking, or guilt trips do not. One way to say it: what you observed, how you feel, what you need, and one specific request.",
+          "insight_ids": [
+            "gottman-seven-principles-01",
+            "overall-mcnulty-2017-01",
+            "overall-mcnulty-2017-02",
+            "nonviolent-communication-01"
+          ]
         },
         {
           "step": "Loop their view before you defend yours",
           "detail": "When your partner pushes back, restate what you heard, including the feeling under it, and ask if you got it right. Find the part of their complaint that is true and say so.",
-          "insight_ids": ["supercommunicators-07", "gottman-seven-principles-01"]
+          "insight_ids": [
+            "supercommunicators-07",
+            "gottman-seven-principles-01"
+          ]
         },
         {
           "step": "Offer repairs early, and accept clumsy ones",
           "detail": "A quick 'that came out wrong' or 'can we start over?' can turn the conversation before it escalates. When your partner tries one, take it even if it is awkward.",
-          "insight_ids": ["gottman-seven-principles-04"]
+          "insight_ids": [
+            "gottman-seven-principles-04"
+          ]
         },
         {
           "step": "Take a real break if either of you floods",
-          "detail": "If your pulse is racing or you want to flee or attack, say so and name a time to come back. Spend at least twenty minutes on something calming, not rehearsing the argument, and then return as promised.",
-          "insight_ids": ["gottman-seven-principles-03"]
+          "detail": "If your pulse is racing or you want to flee or attack, say so and name a time to come back. Spend at least twenty minutes on something calming, not rehearsing the argument, and then return as promised. Earlier, before it gets that far, a slow breath with a long exhale and naming your feeling in a word can stop the climb.",
+          "insight_ids": [
+            "gottman-seven-principles-03",
+            "the-next-conversation-04"
+          ]
         },
         {
           "step": "Agree a step and a time to revisit",
-          "detail": "For a fixable issue, settle a practical change. For a lasting difference, agree a temporary arrangement and check in over the following weeks on whether things are actually improving.",
-          "insight_ids": ["gottman-seven-principles-05", "overall-mcnulty-2017-01"]
+          "detail": "For a fixable issue, settle a practical change. For a lasting difference, agree a temporary arrangement and check in over the following weeks on whether things are actually improving. Name the need each of you is protecting, then look for a strategy that meets both.",
+          "insight_ids": [
+            "gottman-seven-principles-05",
+            "overall-mcnulty-2017-01",
+            "nonviolent-communication-04"
+          ]
         },
         {
           "step": "Build goodwill between arguments",
           "detail": "Respond warmly to small everyday bids for attention and say thanks often. Repairs land in a fight largely because of the goodwill built outside it.",
-          "insight_ids": ["gottman-seven-principles-02", "gottman-seven-principles-04"]
+          "insight_ids": [
+            "gottman-seven-principles-02",
+            "gottman-seven-principles-04"
+          ]
         }
       ],
       "example_wording": [
@@ -685,7 +932,10 @@
         "supercommunicators-07",
         "gottman-seven-principles-04",
         "gottman-seven-principles-03",
-        "gottman-seven-principles-02"
+        "gottman-seven-principles-02",
+        "nonviolent-communication-01",
+        "the-next-conversation-04",
+        "nonviolent-communication-04"
       ],
       "evidence_note": "The strongest support is the High-confidence review showing that direct requests drive change (overall-mcnulty-2017-01); Gottman's principles and looping are Medium. The tension between directness and Gottman's warnings about criticism is resolved by being direct about the specific problem while avoiding attacks on character."
     },
@@ -694,39 +944,61 @@
       "title": "Supporting a friend who is grieving",
       "category": "personal-life",
       "setting": "personal",
-      "medium": ["in person", "phone", "writing"],
+      "medium": [
+        "in person",
+        "phone",
+        "writing"
+      ],
       "context": "A friend has lost a parent, partner, pregnancy or someone else close. Fear of saying the wrong thing leads many people to say nothing, or to reach for silver linings and advice that make the grieving person feel unheard. Grief also lasts far longer than the first weeks, when most support fades.",
       "goal": "Your friend feels less alone, their feelings are acknowledged rather than managed, and they get the kind of help they actually want for as long as they need it.",
       "approach": [
         {
           "step": "Reach out, and keep reaching out",
           "detail": "Contact them even if you do not know what to say; showing up matters more than finding the right words. Keep sending small, low-pressure messages that need no reply, especially after the first weeks.",
-          "insight_ids": ["how-to-know-a-person-10"]
+          "insight_ids": [
+            "how-to-know-a-person-10"
+          ]
         },
         {
           "step": "Name the feeling and let it make sense",
-          "detail": "Say what you hear, such as exhaustion or anger, and that it makes sense given what happened. Avoid 'at least' and explanations, which quietly tell them how they should feel.",
-          "insight_ids": ["high-dillard-2012-01"]
+          "detail": "Say what you hear, such as exhaustion or anger, and that it makes sense given what happened. Avoid 'at least' and explanations, which quietly tell them how they should feel. Offer your read as a question ('Are you feeling worn out?') and accept corrections.",
+          "insight_ids": [
+            "high-dillard-2012-01",
+            "nonviolent-communication-07"
+          ]
         },
         {
           "step": "Ask open questions and listen rather than fix",
           "detail": "Use what and how questions to let them talk about what is hardest, and hold back advice unless they ask for it. If they do ask, find out what they want to know before offering it.",
-          "insight_ids": ["connect-09", "how-to-know-a-person-10", "miller-rollnick-mi-2023-02"]
+          "insight_ids": [
+            "connect-09",
+            "how-to-know-a-person-10",
+            "miller-rollnick-mi-2023-02"
+          ]
         },
         {
           "step": "Ask what kind of help they want",
           "detail": "Some people want company, some want practical help, some want space. Ask, offer specific things, and check whether now is a good time rather than imposing.",
-          "insight_ids": ["rafaeli-gleason-2009-01", "connect-09"]
+          "insight_ids": [
+            "rafaeli-gleason-2009-01",
+            "connect-09"
+          ]
         },
         {
           "step": "Match how visible your help is to their state",
           "detail": "When they are very distressed, offer explicit comfort and understanding. Practical help, such as a meal or a school pickup, often works best done quietly as ordinary friendship, without making a production of it.",
-          "insight_ids": ["rafaeli-gleason-2009-02", "high-dillard-2012-01"]
+          "insight_ids": [
+            "rafaeli-gleason-2009-02",
+            "high-dillard-2012-01"
+          ]
         },
         {
           "step": "Stay their ordinary friend",
           "detail": "Keep doing normal things together and let them give back when they want to, so the friendship does not become one-way care. If you notice signs of self-harm risk, encourage professional help and contact crisis resources.",
-          "insight_ids": ["how-to-know-a-person-10", "rafaeli-gleason-2009-01"]
+          "insight_ids": [
+            "how-to-know-a-person-10",
+            "rafaeli-gleason-2009-01"
+          ]
         }
       ],
       "example_wording": [
@@ -748,7 +1020,8 @@
         "connect-09",
         "miller-rollnick-mi-2023-02",
         "rafaeli-gleason-2009-01",
-        "rafaeli-gleason-2009-02"
+        "rafaeli-gleason-2009-02",
+        "nonviolent-communication-07"
       ],
       "evidence_note": "The comfort ladder (high-dillard-2012-01, High) rests on a meta-analysis of comforting messages and anchors the approach. The support-misfire research (rafaeli-gleason-2009-01 and -02) is Medium and comes from diary studies of couples; the presence-over-fixing insight (how-to-know-a-person-10, Medium) rests on one deeply considered personal case."
     },
@@ -757,39 +1030,58 @@
       "title": "Reconnecting with a friend you drifted from",
       "category": "personal-life",
       "setting": "personal",
-      "medium": ["writing", "phone"],
+      "medium": [
+        "writing",
+        "phone"
+      ],
       "context": "A friend from a previous job, city or life stage has slipped away, and months or years have passed. Reaching out feels awkward: you worry it will seem odd, that they have moved on, or that you need a good reason. Adult friendships also need repeated time together, which no longer happens by default.",
       "goal": "You send a warm message, and if they respond, you rebuild a regular rhythm of time together.",
       "approach": [
         {
           "step": "Send a short note just because",
           "detail": "Write a brief message that shows you were thinking of them: a shared memory, a congratulations, a simple hello. People who receive these appreciate them far more than senders expect, especially when the contact comes out of the blue.",
-          "insight_ids": ["liu-2023-01"]
+          "insight_ids": [
+            "liu-2023-01"
+          ]
         },
         {
           "step": "Name your shared history and leave out requests",
           "detail": "Mention something specific you shared and keep favors out of the first message so it reads as warmth. If you genuinely want their view on something, old contacts tend to keep their trust and often bring fresh ideas, so a specific question can be a natural second step.",
-          "insight_ids": ["liu-2023-01", "levin-dormant-ties-2011-01"]
+          "insight_ids": [
+            "liu-2023-01",
+            "levin-dormant-ties-2011-01"
+          ]
         },
         {
           "step": "Assume they will be glad to hear from you",
           "detail": "People reliably underestimate how much others like them and enjoy their contact. Treat a slow reply as normal, not as a verdict.",
-          "insight_ids": ["boothby-2018-01", "liu-2023-01"]
+          "insight_ids": [
+            "boothby-2018-01",
+            "liu-2023-01"
+          ]
         },
         {
           "step": "Suggest one concrete plan",
           "detail": "If they reply warmly, say plainly that you would like to see them and propose a specific time and activity. Do not wait for them to make the next move.",
-          "insight_ids": ["franco-platonic-01"]
+          "insight_ids": [
+            "franco-platonic-01"
+          ]
         },
         {
           "step": "Make it recurring and relaxed",
           "detail": "Closeness grows from many hours of leisure time, not one big catch-up. A standing walk, call or game night lets the hours build up.",
-          "insight_ids": ["hall-2019-01", "franco-platonic-01"]
+          "insight_ids": [
+            "hall-2019-01",
+            "franco-platonic-01"
+          ]
         },
         {
           "step": "Share good news, and celebrate theirs",
           "detail": "Tell them about good things in your life, not only troubles, and when they share theirs, respond with real interest and questions.",
-          "insight_ids": ["gable-2004-02", "gable-2004-01"]
+          "insight_ids": [
+            "gable-2004-02",
+            "gable-2004-01"
+          ]
         }
       ],
       "example_wording": [
@@ -820,39 +1112,57 @@
       "title": "Small talk with a stranger at a work dinner",
       "category": "conversations",
       "setting": "professional",
-      "medium": ["in person"],
+      "medium": [
+        "in person"
+      ],
       "context": "You are seated for two hours next to someone you do not know: a client's colleague, a coworker's partner, a visitor from another office. There is no easy exit, stock questions run dry fast, and you worry about being boring or saying something awkward. Humor feels risky with people whose position and sensitivities you do not know.",
       "goal": "A comfortable two-way conversation that finds at least one topic you both enjoy, so you both leave glad you sat together.",
       "approach": [
         {
           "step": "Prepare a few topics on the way",
           "detail": "Take thirty seconds to note about five possible topics, mixing light ones with a couple that invite real stories, such as something you are both connected to or a question you are curious about.",
-          "insight_ids": ["talk-wood-brooks-02"]
+          "insight_ids": [
+            "talk-wood-brooks-02"
+          ]
         },
         {
           "step": "Open with something you both can see",
           "detail": "Start with a question about the setting, the event or the food rather than 'what do you do?'. It gives both of you something easy to build on.",
-          "insight_ids": ["think-faster-talk-smarter-13"]
+          "insight_ids": [
+            "think-faster-talk-smarter-13"
+          ]
         },
         {
           "step": "Follow up on what they say, and do not boomerask",
           "detail": "Ask a follow-up about a detail in their answer before offering your own story, and do not ask a question just so you can answer it yourself.",
-          "insight_ids": ["talk-wood-brooks-04", "talk-wood-brooks-06"]
+          "insight_ids": [
+            "talk-wood-brooks-04",
+            "talk-wood-brooks-06"
+          ]
         },
         {
           "step": "Climb when something sparks",
           "detail": "Small talk is the starting point, not the problem. When a topic lights them up, move toward their choices, values and experiences; deeper questions feel less awkward than people expect. Go one step at a time and match how much they open up.",
-          "insight_ids": ["talk-wood-brooks-03", "how-to-know-a-person-04", "supercommunicators-05"]
+          "insight_ids": [
+            "talk-wood-brooks-03",
+            "how-to-know-a-person-04",
+            "supercommunicators-05"
+          ]
         },
         {
           "step": "Keep it light and inclusive",
           "detail": "Laugh at their humor, use callbacks to earlier topics, and keep jokes aimed at the situation or yourself. Avoid teasing anyone with less power or anyone who is not there.",
-          "insight_ids": ["talk-wood-brooks-08", "humor-seriously-04"]
+          "insight_ids": [
+            "talk-wood-brooks-08",
+            "humor-seriously-04"
+          ]
         },
         {
           "step": "Switch topics before they go stale",
           "detail": "When you notice longer pauses, repeated points or uneasy laughter, change topic confidently, or go back to something earlier that deserved more time.",
-          "insight_ids": ["talk-wood-brooks-03"]
+          "insight_ids": [
+            "talk-wood-brooks-03"
+          ]
         }
       ],
       "example_wording": [
@@ -886,39 +1196,62 @@
       "title": "Presenting to executives",
       "category": "public-speaking",
       "setting": "professional",
-      "medium": ["in person", "video"],
+      "medium": [
+        "in person",
+        "video"
+      ],
       "context": "You have fifteen minutes on a leadership agenda to get a decision or funding. Executives are short on time, interrupt, and skip ahead, while you know the material so well that you naturally start with background and detail. Nerves are highest in the first minute, exactly when you need to land the main point.",
       "goal": "The executives grasp your recommendation in the first minute, see why it matters to them, and make or schedule the decision.",
       "approach": [
         {
           "step": "Clarify audience and intent, then find the one-sentence core",
-          "detail": "Write who is in the room, what they care about, and the action you want from them. Then reduce your message to one sentence they could repeat, and cut points that compete with it.",
-          "insight_ids": ["communicate-with-mastery-01", "made-to-stick-03"]
+          "detail": "Write who is in the room, what they care about, and the action you want from them. Then reduce your message to one sentence they could repeat, and cut points that compete with it. A message map (one headline, about three supporting points, evidence under each) gives you the 15-second, two-minute and full versions from one plan.",
+          "insight_ids": [
+            "communicate-with-mastery-01",
+            "made-to-stick-03",
+            "talk-like-ted-07"
+          ]
         },
         {
           "step": "Open with the answer, framed briefly",
           "detail": "Skip the agenda and history. Give a sentence of situation, a sentence of what has changed, and then your recommendation.",
-          "insight_ids": ["minto-pyramid-principle-02", "communicate-with-mastery-05"]
+          "insight_ids": [
+            "minto-pyramid-principle-02",
+            "communicate-with-mastery-05"
+          ]
         },
         {
           "step": "Group your support under the main point",
           "detail": "Give two to four reasons that answer 'why?' or 'how?', each with its evidence. Make each slide title a full-sentence takeaway and keep the slide to one message.",
-          "insight_ids": ["minto-pyramid-principle-01", "communicate-with-mastery-11"]
+          "insight_ids": [
+            "minto-pyramid-principle-01",
+            "communicate-with-mastery-11"
+          ]
         },
         {
           "step": "Make the key number land in plain terms",
           "detail": "Translate the most important figure into a comparison the audience can picture, and strip out internal jargon you no longer notice.",
-          "insight_ids": ["made-to-stick-14", "made-to-stick-01"]
+          "insight_ids": [
+            "made-to-stick-14",
+            "made-to-stick-01"
+          ]
         },
         {
           "step": "Rehearse the first minute and do a dry run",
-          "detail": "Practice your opening sentences aloud until they are automatic, since that is when nerves spike. Do a full rehearsal with a colleague a few days before and ask for one or two specific changes.",
-          "insight_ids": ["bodie-2010-02", "communicate-with-mastery-15"]
+          "detail": "Practice your opening sentences aloud until they are automatic, since that is when nerves spike. Do a full rehearsal with a colleague a few days before and ask for one or two specific changes. For a high-stakes briefing, rehearse aloud on separate days, record one run, and keep going until it sounds conversational rather than recited.",
+          "insight_ids": [
+            "bodie-2010-02",
+            "communicate-with-mastery-15",
+            "talk-like-ted-04"
+          ]
         },
         {
           "step": "End on the decision you need",
           "detail": "Script your last sentence so it states the decision and the timing. Do not end on a 'Questions?' slide; restate the recommendation and move into discussion.",
-          "insight_ids": ["communicate-with-mastery-05", "communicate-with-mastery-11"]
+          "insight_ids": [
+            "communicate-with-mastery-05",
+            "communicate-with-mastery-11"
+          ]
         }
       ],
       "example_wording": [
@@ -944,7 +1277,9 @@
         "made-to-stick-14",
         "made-to-stick-01",
         "bodie-2010-02",
-        "communicate-with-mastery-15"
+        "communicate-with-mastery-15",
+        "talk-like-ted-07",
+        "talk-like-ted-04"
       ],
       "evidence_note": "All supporting insights are Medium, and most come from practitioner methods (Minto, Schramm, the Heaths) that are widely used but not tested as a package. The first-minute rehearsal step rests on research into how speaking anxiety peaks at the start (bodie-2010-02)."
     },
@@ -953,39 +1288,60 @@
       "title": "Handling a hostile question in Q&A",
       "category": "public-speaking",
       "setting": "professional",
-      "medium": ["in person", "video"],
+      "medium": [
+        "in person",
+        "video"
+      ],
       "context": "After your talk, someone asks a pointed or loaded question, perhaps implying your numbers cannot be trusted or that you are hiding something. Adrenaline pushes you to defend, ramble or dodge. The audience is judging how you handle it at least as much as what you say.",
       "goal": "You stay composed, answer the real question honestly and briefly, and keep the trust of the room.",
       "approach": [
         {
           "step": "Prepare answers to the questions you dread",
           "detail": "List the hardest questions you could get and practice short, direct answers aloud until they come out smoothly. A fluent answer is judged far more favorably than a halting one.",
-          "insight_ids": ["rogers-norton-artful-dodger-01"]
+          "insight_ids": [
+            "rogers-norton-artful-dodger-01"
+          ]
         },
         {
           "step": "Breathe and hear the whole question",
-          "detail": "Take a slow breath and let the person finish. Listen for the concern underneath the wording.",
-          "insight_ids": ["think-faster-talk-smarter-02", "think-faster-talk-smarter-06"]
+          "detail": "Take a slow breath and let the person finish. Listen for the concern underneath the wording. A pause of one to four seconds before you answer reads as deliberate, not stuck.",
+          "insight_ids": [
+            "think-faster-talk-smarter-02",
+            "think-faster-talk-smarter-06",
+            "the-next-conversation-05"
+          ]
         },
         {
           "step": "Restate the question in neutral words",
           "detail": "Paraphrase it without the loaded language. This confirms what is being asked, buys you a moment to think, and lets the room hear a fair version of the question.",
-          "insight_ids": ["think-faster-talk-smarter-11", "rogers-norton-artful-dodger-01"]
+          "insight_ids": [
+            "think-faster-talk-smarter-11",
+            "rogers-norton-artful-dodger-01"
+          ]
         },
         {
           "step": "Answer it directly, with one example and why it matters",
           "detail": "Give your answer in one clear sentence, add one concrete example or data point, and say why it matters to the person asking. Answer the question that was asked; listeners who keep the question in mind will notice a dodge.",
-          "insight_ids": ["think-faster-talk-smarter-11", "rogers-norton-artful-dodger-02"]
+          "insight_ids": [
+            "think-faster-talk-smarter-11",
+            "rogers-norton-artful-dodger-02"
+          ]
         },
         {
           "step": "Turn attacks toward the problem",
           "detail": "If the question is personal or angry, treat it as a chance to understand a concern rather than a threat. Recast the attack as the shared problem and ask what would address it.",
-          "insight_ids": ["fisher-ury-getting-to-yes-06", "think-faster-talk-smarter-05"]
+          "insight_ids": [
+            "fisher-ury-getting-to-yes-06",
+            "think-faster-talk-smarter-05"
+          ]
         },
         {
           "step": "Use a question back only when withholding is legitimate",
           "detail": "If the question asks for something you genuinely should not disclose, a sincere, relevant question of your own works better than refusing. If they have a right to know, answer honestly or say you do not know and will follow up.",
-          "insight_ids": ["bitterly-schweitzer-deflection-01", "rogers-norton-artful-dodger-01"]
+          "insight_ids": [
+            "bitterly-schweitzer-deflection-01",
+            "rogers-norton-artful-dodger-01"
+          ]
         }
       ],
       "example_wording": [
@@ -1009,7 +1365,8 @@
         "think-faster-talk-smarter-11",
         "think-faster-talk-smarter-05",
         "fisher-ury-getting-to-yes-06",
-        "bitterly-schweitzer-deflection-01"
+        "bitterly-schweitzer-deflection-01",
+        "the-next-conversation-05"
       ],
       "evidence_note": "All supporting insights are Medium. The research on how audiences judge answers (rogers-norton-artful-dodger-01 and -02) and the deflection experiments (bitterly-schweitzer-deflection-01) give the best evidence; the reframing of attacks (fisher-ury-getting-to-yes-06) comes from negotiation and is adapted here to Q&A."
     },
@@ -1018,44 +1375,64 @@
       "title": "Being put on the spot in a meeting",
       "category": "foundations",
       "setting": "professional",
-      "medium": ["in person", "video"],
+      "medium": [
+        "in person",
+        "video"
+      ],
       "context": "In the middle of a meeting, a senior person turns to you: what do you think, or where are we on this? You did not prepare, your mind goes blank or races, and you are tempted either to ramble through everything you know or to apologize. The moment feels like a test, which makes it harder.",
       "goal": "A short, clear and useful answer within a few seconds, or an honest holding answer with a specific follow-up.",
       "approach": [
         {
           "step": "Take one slow breath",
           "detail": "Breathe in briefly and out for longer. A one or two second pause is normal and reads as thoughtful.",
-          "insight_ids": ["think-faster-talk-smarter-01", "think-faster-talk-smarter-02"]
+          "insight_ids": [
+            "think-faster-talk-smarter-01",
+            "think-faster-talk-smarter-02"
+          ]
         },
         {
           "step": "Drop the goal of a perfect answer",
           "detail": "Aim to be clear and useful, not impressive, and treat the question as a chance to help rather than a test. Trying to be brilliant uses up the mental capacity you need to respond.",
-          "insight_ids": ["think-faster-talk-smarter-04", "think-faster-talk-smarter-05"]
+          "insight_ids": [
+            "think-faster-talk-smarter-04",
+            "think-faster-talk-smarter-05"
+          ]
         },
         {
           "step": "Check what is really being asked",
           "detail": "Listen for what the person actually needs from you. If it is unclear, paraphrase the question; that also buys a moment to think.",
-          "insight_ids": ["think-faster-talk-smarter-06"]
+          "insight_ids": [
+            "think-faster-talk-smarter-06"
+          ]
         },
         {
           "step": "Answer in What, So What, Now What",
           "detail": "Give the key point, why it matters to the people in the room, and the next step or recommendation.",
-          "insight_ids": ["think-faster-talk-smarter-07"]
+          "insight_ids": [
+            "think-faster-talk-smarter-07"
+          ]
         },
         {
           "step": "Cut it to what they need",
           "detail": "Lead with the answer, skip jargon and backstory, and offer more detail only if they want it.",
-          "insight_ids": ["think-faster-talk-smarter-09"]
+          "insight_ids": [
+            "think-faster-talk-smarter-09"
+          ]
         },
         {
           "step": "If you blank, reset without apologizing",
           "detail": "Restate your last point or the question to find your footing, and skip 'sorry, I am nervous'; others notice far less than you feel. If you do not have the answer, say when you will get it.",
-          "insight_ids": ["think-faster-talk-smarter-02", "savitsky-gilovich-2003-01"]
+          "insight_ids": [
+            "think-faster-talk-smarter-02",
+            "savitsky-gilovich-2003-01"
+          ]
         },
         {
           "step": "Review it briefly afterward, then let it go",
           "detail": "Look back using your own name or 'you', as if coaching a friend: what worked, and one thing to try next time. Then stop replaying it.",
-          "insight_ids": ["kross-2014-01"]
+          "insight_ids": [
+            "kross-2014-01"
+          ]
         }
       ],
       "example_wording": [
@@ -1088,39 +1465,58 @@
       "title": "Writing an email that needs a decision",
       "category": "written-digital",
       "setting": "professional",
-      "medium": ["writing"],
+      "medium": [
+        "writing"
+      ],
       "context": "You need a busy person, such as your manager, another team's lead or a client, to choose or approve something by a date. Busy readers skim, put things off, or never reply when a message looks like work. The instinct is to write a long, careful email with all the context, which makes the decision harder to find.",
       "goal": "The reader sees what you need in the first lines and replies with a decision quickly.",
       "approach": [
         {
           "step": "Name the one decision and who it is for",
           "detail": "Before writing, state who the reader is, what they care about, and the single response you need. If you have several asks, send the others later.",
-          "insight_ids": ["communicate-with-mastery-01", "rogers-busy-readers-03", "rogers-busy-readers-05"]
+          "insight_ids": [
+            "communicate-with-mastery-01",
+            "rogers-busy-readers-03",
+            "rogers-busy-readers-05"
+          ]
         },
         {
           "step": "Put the ask and the deadline on top",
           "detail": "Put the decision and the date in the subject line and first sentence, so someone reading only those knows what you need. Give a real deadline and why it matters, not vague urgency.",
-          "insight_ids": ["communicate-with-mastery-03", "rogers-busy-readers-03", "giurge-bohns-2021-01"]
+          "insight_ids": [
+            "communicate-with-mastery-03",
+            "rogers-busy-readers-03",
+            "giurge-bohns-2021-01"
+          ]
         },
         {
           "step": "Make answering take seconds",
           "detail": "Offer numbered options so they can reply with a number, mark your recommendation, and say what you will do by default if you do not hear back.",
-          "insight_ids": ["rogers-busy-readers-03"]
+          "insight_ids": [
+            "rogers-busy-readers-03"
+          ]
         },
         {
           "step": "Give only the reasons they need",
           "detail": "Support your recommendation with a few grouped points, and cut ideas that are merely nice to know. Move background to the end or an attachment.",
-          "insight_ids": ["minto-pyramid-principle-01", "rogers-busy-readers-02"]
+          "insight_ids": [
+            "minto-pyramid-principle-01",
+            "rogers-busy-readers-02"
+          ]
         },
         {
           "step": "Format lightly for skimmers",
           "detail": "Use short paragraphs and a list for the options. Emphasize only the one most important line; when everything is bold, nothing stands out.",
-          "insight_ids": ["rogers-busy-readers-04"]
+          "insight_ids": [
+            "rogers-busy-readers-04"
+          ]
         },
         {
           "step": "Edit for active, brief and clear, then reread on a phone",
           "detail": "Put the person doing the action first, delete filler, and read the email once as the recipient would on a small screen.",
-          "insight_ids": ["communicate-with-mastery-02"]
+          "insight_ids": [
+            "communicate-with-mastery-02"
+          ]
         }
       ],
       "example_wording": [
@@ -1154,44 +1550,68 @@
       "title": "Running a meeting that wanders",
       "category": "professional",
       "setting": "professional",
-      "medium": ["in person", "video"],
+      "medium": [
+        "in person",
+        "video"
+      ],
       "context": "You lead a recurring meeting that runs over time, drifts into tangents and complaints, and ends without clear decisions. As the person running it you probably rate it more highly than attendees do. Steering people back feels rude, so the drift continues.",
       "goal": "Meetings that answer specific questions, finish on time, and end with decisions, owners and deadlines.",
       "approach": [
         {
           "step": "Check whether the meeting needs to exist, and who needs to be there",
           "detail": "Ask what the meeting must produce and whether that needs live discussion. Invite only people needed to answer the questions, and give others a graceful way to send input instead of attending.",
-          "insight_ids": ["rogelberg-meetings-01", "mroz-allen-2018-meetings-01", "rogelberg-meetings-03"]
+          "insight_ids": [
+            "rogelberg-meetings-01",
+            "mroz-allen-2018-meetings-01",
+            "rogelberg-meetings-03"
+          ]
         },
         {
           "step": "Write the agenda as questions, with time for each",
-          "detail": "Turn each item into a question the group must answer, such as 'Which two vendors do we shortlist?', and estimate time per question. Book a little less time than the default.",
-          "insight_ids": ["rogelberg-meetings-02", "rogelberg-meetings-04"]
+          "detail": "Turn each item into a question the group must answer, such as 'Which two vendors do we shortlist?', and estimate time per question. Book a little less time than the default. For any question that ends in a decision, say up front how it will be made: command, consult, vote or consensus.",
+          "insight_ids": [
+            "rogelberg-meetings-02",
+            "rogelberg-meetings-04",
+            "crucial-conversations-11"
+          ]
         },
         {
           "step": "Open as a host",
           "detail": "Start on time, thank people for coming, and state the questions and the end time.",
-          "insight_ids": ["rogelberg-meetings-06", "rogelberg-meetings-04"]
+          "insight_ids": [
+            "rogelberg-meetings-06",
+            "rogelberg-meetings-04"
+          ]
         },
         {
           "step": "Bring tangents back to the purpose",
           "detail": "Acknowledge a tangent briefly, park it, and return to the question on the table. If the purpose itself turns out to be wrong, change it openly rather than drifting.",
-          "insight_ids": ["improv-wisdom-08"]
+          "insight_ids": [
+            "improv-wisdom-08"
+          ]
         },
         {
           "step": "Turn complaints into specific problems",
           "detail": "When someone says nothing ever works, acknowledge the frustration, then ask what the specific problem is and who could change it. Catch it early; complaining spreads.",
-          "insight_ids": ["mroz-allen-2018-meetings-02"]
+          "insight_ids": [
+            "mroz-allen-2018-meetings-02"
+          ]
         },
         {
           "step": "Gather ideas silently before discussing",
           "detail": "When you need ideas, give everyone a few minutes to write their own first, then pool and discuss. This gets more ideas and stops the group anchoring on the loudest or most senior voice.",
-          "insight_ids": ["rogelberg-meetings-05"]
+          "insight_ids": [
+            "rogelberg-meetings-05"
+          ]
         },
         {
           "step": "Close each question with an answer, an owner and a date",
-          "detail": "State the decision aloud before moving on, and send decisions and owners to everyone soon after the meeting.",
-          "insight_ids": ["rogelberg-meetings-02", "mroz-allen-2018-meetings-01"]
+          "detail": "State the decision aloud before moving on, and send decisions and owners to everyone soon after the meeting. Make each owner one named person and agree how progress will be checked.",
+          "insight_ids": [
+            "rogelberg-meetings-02",
+            "mroz-allen-2018-meetings-01",
+            "crucial-conversations-12"
+          ]
         }
       ],
       "example_wording": [
@@ -1216,7 +1636,9 @@
         "rogelberg-meetings-06",
         "mroz-allen-2018-meetings-01",
         "mroz-allen-2018-meetings-02",
-        "improv-wisdom-08"
+        "improv-wisdom-08",
+        "crucial-conversations-11",
+        "crucial-conversations-12"
       ],
       "evidence_note": "Two steps rest on High-confidence meeting science: the before, during and after checklist (mroz-allen-2018-meetings-01) and silent brainstorming (rogelberg-meetings-05). The other Rogelberg insights and the complaining-spiral finding are Medium, and steering back to purpose (improv-wisdom-08) is practitioner guidance."
     },
@@ -1225,39 +1647,57 @@
       "title": "Presenting on a video call",
       "category": "public-speaking",
       "setting": "professional",
-      "medium": ["video"],
+      "medium": [
+        "video"
+      ],
       "context": "You are presenting to a remote group with your slides shared, faces reduced to small tiles or turned off. You get little feedback, cannot read the room, and may find yourself watching your own face. Video is also tiring for everyone, which cuts how much people speak up.",
       "goal": "The audience follows your structure, engages and asks questions, and nobody leaves the call drained.",
       "approach": [
         {
           "step": "Set up your frame, then hide self-view",
           "detail": "Check lighting and framing at the start, then turn off self-view so you are not watching yourself. Sit far enough back that you can gesture naturally.",
-          "insight_ids": ["bailenson-zoom-fatigue-01"]
+          "insight_ids": [
+            "bailenson-zoom-fatigue-01"
+          ]
         },
         {
           "step": "Plan participation that does not depend on cameras",
           "detail": "Make cameras optional and plan other ways in: inviting people by name, chat, and pauses for questions. Replace the cues video loses with explicit verbal ones rather than demanding more nonverbal effort from everyone.",
-          "insight_ids": ["shockley-camera-fatigue-01", "communicate-with-mastery-12", "bailenson-zoom-fatigue-01"]
+          "insight_ids": [
+            "shockley-camera-fatigue-01",
+            "communicate-with-mastery-12",
+            "bailenson-zoom-fatigue-01"
+          ]
         },
         {
           "step": "Signal your structure out loud and on screen",
           "detail": "Say how many points you have and number them as you go, and give the key points one consistent visual cue on your slides.",
-          "insight_ids": ["schneider-2018-signaling-01"]
+          "insight_ids": [
+            "schneider-2018-signaling-01"
+          ]
         },
         {
           "step": "Deliver key thoughts to the lens",
           "detail": "For your most important sentences, look at the camera, delivering one complete thought before glancing back at notes or slides.",
-          "insight_ids": ["communicate-with-mastery-06"]
+          "insight_ids": [
+            "communicate-with-mastery-06"
+          ]
         },
         {
           "step": "Check understanding by asking, not by reading faces",
           "detail": "Small video cues are unreliable, and silence is not agreement. Ask for their version of the main point or next step, framed as checking your own explanation.",
-          "insight_ids": ["keysar-henly-2002-01", "bailenson-zoom-fatigue-01"]
+          "insight_ids": [
+            "keysar-henly-2002-01",
+            "bailenson-zoom-fatigue-01"
+          ]
         },
         {
           "step": "Follow up in writing and review the recording",
           "detail": "Send a short written summary of decisions and next steps after the call. If you recorded it, watch it once with sound only and once with picture only, and pick one or two changes.",
-          "insight_ids": ["communicate-with-mastery-12", "communicate-with-mastery-20"]
+          "insight_ids": [
+            "communicate-with-mastery-12",
+            "communicate-with-mastery-20"
+          ]
         }
       ],
       "example_wording": [
@@ -1289,39 +1729,57 @@
       "title": "Persuading a skeptical colleague",
       "category": "influence",
       "setting": "professional",
-      "medium": ["in person"],
+      "medium": [
+        "in person"
+      ],
       "context": "You want a peer or another team's lead to adopt a new process or tool, and they have resisted. You have no authority over them. The natural move is another meeting and more arguments, which tends to make people dig in.",
       "goal": "The colleague agrees to try a small version, or you understand the real obstacle; either way the relationship stays strong.",
       "approach": [
         {
           "step": "Ask why they have not changed already",
           "detail": "Before pushing, find out what is holding them back: feeling pushed, attachment to the current way, too big a leap, risk, or not enough proof. Ask them directly rather than guessing.",
-          "insight_ids": ["berger-catalyst-01", "how-to-know-a-person-06"]
+          "insight_ids": [
+            "berger-catalyst-01",
+            "how-to-know-a-person-06"
+          ]
         },
         {
           "step": "Listen fully and reflect their view",
           "detail": "Let them explain how they came to their position without interrupting or rebutting, then reflect it back, including their reluctance. Being heard well tends to loosen fixed views; arguing hardens them.",
-          "insight_ids": ["kluger-listening-2024-02", "miller-rollnick-mi-2023-03"]
+          "insight_ids": [
+            "kluger-listening-2024-02",
+            "miller-rollnick-mi-2023-03"
+          ]
         },
         {
           "step": "Draw out their own reasons for change",
           "detail": "Ask questions that invite their reasons, such as what would be better if approvals were faster, and reflect any statement that leans toward change. People are persuaded more by reasons they say themselves.",
-          "insight_ids": ["miller-rollnick-mi-2023-01"]
+          "insight_ids": [
+            "miller-rollnick-mi-2023-01"
+          ]
         },
         {
           "step": "Frame it in their values and currencies",
           "detail": "Connect your proposal to what they care about and how they are measured, such as audit safety, their team's time, or recognition, not to the reasons that convinced you.",
-          "insight_ids": ["feinberg-willer-2019-01", "cohen-bradford-influence-without-authority-02"]
+          "insight_ids": [
+            "feinberg-willer-2019-01",
+            "cohen-bradford-influence-without-authority-02"
+          ]
         },
         {
           "step": "Make the first step small, safe and reversible",
           "detail": "Propose a time-bound pilot with an easy way back and agreed criteria for judging it. Build from one accepted step to the next rather than asking for the whole change at once.",
-          "insight_ids": ["berger-catalyst-05", "berger-catalyst-04"]
+          "insight_ids": [
+            "berger-catalyst-05",
+            "berger-catalyst-04"
+          ]
         },
         {
           "step": "Turn a yes into specifics",
           "detail": "When they agree, settle who does what by when, confirm it in writing, and set a check-in. A yes in the room does not always become action; judge success by what gets done.",
-          "insight_ids": ["feeley-anker-aloe-2012-01"]
+          "insight_ids": [
+            "feeley-anker-aloe-2012-01"
+          ]
         }
       ],
       "example_wording": [
@@ -1356,44 +1814,67 @@
       "title": "Setting a boundary with a family member",
       "category": "difficult",
       "setting": "personal",
-      "medium": ["in person", "phone"],
+      "medium": [
+        "in person",
+        "phone"
+      ],
       "context": "A sibling, in-law or other relative keeps doing something that crosses a line for you: dropping by unannounced, overriding your parenting, calling during work. Long history and fear of a rift make it hard to say anything, so people hint, sulk or put up with it until they explode.",
       "goal": "The limit is stated clearly and kindly, the other person knows what you need and what you will do, and they hear that you value the relationship.",
       "approach": [
         {
           "step": "Name the expectation and your usual pattern",
           "detail": "Pin down exactly which expectation is being stretched. Notice whether you usually give in, snap or avoid, and whether a cycle of avoiding, then exploding, then feeling guilty has set in.",
-          "insight_ids": ["connect-13", "ury-positive-no-02"]
+          "insight_ids": [
+            "connect-13",
+            "ury-positive-no-02"
+          ]
         },
         {
           "step": "Find your yes and draft your no",
           "detail": "Identify what you are protecting, such as your family's routines or your workday, and write the request as one plain sentence about the behavior, not the person.",
-          "insight_ids": ["ury-positive-no-01"]
+          "insight_ids": [
+            "ury-positive-no-01"
+          ]
         },
         {
           "step": "Open by affirming the relationship",
           "detail": "Say what you value about them and the relationship before raising the limit, so they can hear it as a way to stay close.",
-          "insight_ids": ["connect-13"]
+          "insight_ids": [
+            "connect-13"
+          ]
         },
         {
           "step": "State the limit directly, as your need",
-          "detail": "Name the specific behavior, its effect on you, and the change you are asking for. Hints, sulking and guilt can win brief reassurance but leave the problem in place.",
-          "insight_ids": ["connect-13", "connect-15", "overall-mcnulty-2017-02"]
+          "detail": "Name the specific behavior, its effect on you, and the change you are asking for. Hints, sulking and guilt can win brief reassurance but leave the problem in place. Say it as an 'I' sentence about what you will do, and name a proportionate consequence if it continues.",
+          "insight_ids": [
+            "connect-13",
+            "connect-15",
+            "overall-mcnulty-2017-02",
+            "the-next-conversation-12"
+          ]
         },
         {
           "step": "Offer a yes they can accept",
           "detail": "Propose what you can welcome instead: a different time, a way to raise concerns, a role you would love them to play.",
-          "insight_ids": ["ury-positive-no-01"]
+          "insight_ids": [
+            "ury-positive-no-01"
+          ]
         },
         {
           "step": "Expect less fallout than you fear, and hold steady",
-          "detail": "People usually overestimate how hurt the other person will be. If you feel you went too far, look at how they actually behave before backing down.",
-          "insight_ids": ["givi-kirk-2024-01", "ames-wazlawek-2014-01"]
+          "detail": "People usually overestimate how hurt the other person will be. If you feel you went too far, look at how they actually behave before backing down. If the limit is crossed, carry out the consequence calmly each time; a consequence you do not enforce teaches people the boundary is optional.",
+          "insight_ids": [
+            "givi-kirk-2024-01",
+            "ames-wazlawek-2014-01",
+            "the-next-conversation-12"
+          ]
         },
         {
           "step": "Agree when to revisit",
           "detail": "Treat the boundary as something you can adjust as circumstances change, and name a time to check how it is going.",
-          "insight_ids": ["connect-13"]
+          "insight_ids": [
+            "connect-13"
+          ]
         }
       ],
       "example_wording": [
@@ -1416,48 +1897,68 @@
         "ury-positive-no-01",
         "overall-mcnulty-2017-02",
         "givi-kirk-2024-01",
-        "ames-wazlawek-2014-01"
+        "ames-wazlawek-2014-01",
+        "the-next-conversation-12"
       ],
-      "evidence_note": "All supporting insights are Medium. The research pieces (overall-mcnulty-2017-02 on guilt trips, givi-kirk-2024-01 on declines, ames-wazlawek-2014-01 on feeling you overstepped) come from couples, invitations and negotiations, so applying them to other family members is an extension; Connect and Ury supply the structure."
+      "evidence_note": "All supporting insights are Medium. The research pieces (overall-mcnulty-2017-02 on guilt trips, givi-kirk-2024-01 on declines, ames-wazlawek-2014-01 on feeling you overstepped) come from couples, invitations and negotiations, so applying them to other family members is an extension; Connect and Ury supply the structure. The consequence and follow-through steps come from The Next Conversation (Medium, practitioner advice without a direct test)."
     },
     {
       "id": "first-conversation-with-a-new-manager",
       "title": "A first conversation with a new manager",
       "category": "professional",
       "setting": "professional",
-      "medium": ["in person", "video"],
+      "medium": [
+        "in person",
+        "video"
+      ],
       "context": "You have a new manager, either because they joined or you did, and your first one-to-one sets the tone. You do not yet know their priorities, how they like to work, or how they want bad news. The temptation is to spend the time impressing them, or to wait passively for them to define everything.",
       "goal": "You leave knowing their top priorities, how they want updates and bad news, and what you can decide alone, and they know what you need to do your best work.",
       "approach": [
         {
           "step": "Prepare by thinking about their world",
           "detail": "Note what you know of their goals and the pressures they face from above, and list what each of you needs from the other. The relationship runs on mutual dependence.",
-          "insight_ids": ["gabarro-kotter-managing-your-boss-01", "gabarro-kotter-managing-your-boss-02"]
+          "insight_ids": [
+            "gabarro-kotter-managing-your-boss-01",
+            "gabarro-kotter-managing-your-boss-02"
+          ]
         },
         {
           "step": "Jot down your goals for the conversation",
           "detail": "Write a few things you want to learn and one or two you want them to know. State them early and ask what they want from the meeting too.",
-          "insight_ids": ["supercommunicators-04"]
+          "insight_ids": [
+            "supercommunicators-04"
+          ]
         },
         {
           "step": "Ask about priorities, updates, decisions and bad news",
           "detail": "Ask directly which results matter most, how often and in what format they want updates, which decisions you can make alone, and how they want to hear about problems.",
-          "insight_ids": ["gabarro-kotter-managing-your-boss-03", "gabarro-kotter-managing-your-boss-02"]
+          "insight_ids": [
+            "gabarro-kotter-managing-your-boss-03",
+            "gabarro-kotter-managing-your-boss-02"
+          ]
         },
         {
           "step": "Ask one bigger question and follow up",
           "detail": "Add an open question about what success looks like to them, and ask follow-ups about the most alive part of the answer rather than moving through a checklist.",
-          "insight_ids": ["how-to-know-a-person-05", "supercommunicators-06"]
+          "insight_ids": [
+            "how-to-know-a-person-05",
+            "supercommunicators-06"
+          ]
         },
         {
           "step": "Share a little about yourself and what you need",
           "detail": "Offer something slightly beyond small talk, such as what helps you do your best work or a concern about the role, and see whether they reciprocate. A modest step builds trust; a big disclosure in a first meeting can feel like too much.",
-          "insight_ids": ["connect-02", "supercommunicators-08"]
+          "insight_ids": [
+            "connect-02",
+            "supercommunicators-08"
+          ]
         },
         {
           "step": "Summarize in writing and confirm",
           "detail": "Send a short recap of what you heard about priorities and ways of working, and ask them to correct anything you missed.",
-          "insight_ids": ["gabarro-kotter-managing-your-boss-03"]
+          "insight_ids": [
+            "gabarro-kotter-managing-your-boss-03"
+          ]
         }
       ],
       "example_wording": [
@@ -1490,39 +1991,58 @@
       "title": "Responding when someone shares good news",
       "category": "relationships",
       "setting": "personal",
-      "medium": ["in person", "phone", "writing"],
+      "medium": [
+        "in person",
+        "phone",
+        "writing"
+      ],
       "context": "Your partner gets a promotion, a friend gets engaged, a sibling finally sells their house. It seems easy, but people often reply distractedly, jump to a downside, or turn the talk to their own news. When the news touches a sore spot for you, it is even harder to respond well.",
       "goal": "The person feels celebrated and gets to relive the moment, and the relationship grows stronger.",
       "approach": [
         {
           "step": "Stop and turn toward them",
           "detail": "Put the phone down and give them your attention. Sharing news is a bid for connection, and how you respond in that moment matters.",
-          "insight_ids": ["gable-2004-01", "gottman-seven-principles-02"]
+          "insight_ids": [
+            "gable-2004-01",
+            "gottman-seven-principles-02"
+          ]
         },
         {
           "step": "Show real pleasure",
           "detail": "Let your words and tone show you are glad. A quiet 'that's nice' lands as indifference.",
-          "insight_ids": ["gable-2004-01"]
+          "insight_ids": [
+            "gable-2004-01"
+          ]
         },
         {
           "step": "Ask questions that let them relive it",
           "detail": "Ask how it happened, what the moment was like, and what it means to them, and follow up on the details.",
-          "insight_ids": ["gable-2004-01", "talk-wood-brooks-04"]
+          "insight_ids": [
+            "gable-2004-01",
+            "talk-wood-brooks-04"
+          ]
         },
         {
           "step": "Name what it says about them",
           "detail": "Point to the effort or quality behind the success, specifically. Sincere compliments land better than people expect.",
-          "insight_ids": ["gable-2004-01", "talk-wood-brooks-10"]
+          "insight_ids": [
+            "gable-2004-01",
+            "talk-wood-brooks-10"
+          ]
         },
         {
           "step": "Hold concerns for another day",
           "detail": "If you have worries, such as longer hours or a move, save them for a later conversation unless they ask.",
-          "insight_ids": ["gable-2004-01"]
+          "insight_ids": [
+            "gable-2004-01"
+          ]
         },
         {
           "step": "If it touches a sore spot, be glad and honest",
           "detail": "If the news is hard for you, lead with real gladness, name your own difficulty briefly, and keep the focus on them. Come back later with full interest.",
-          "insight_ids": ["franco-platonic-03"]
+          "insight_ids": [
+            "franco-platonic-03"
+          ]
         }
       ],
       "example_wording": [
@@ -1551,39 +2071,60 @@
       "title": "Talking across a political disagreement",
       "category": "influence",
       "setting": "personal",
-      "medium": ["in person"],
+      "medium": [
+        "in person"
+      ],
       "context": "A relative or friend holds a view on a charged issue that you strongly disagree with, and it comes up at dinner. Views like these are tied to identity, so facts and arguments tend to harden them. These conversations usually escalate or get avoided, and both leave a residue.",
       "goal": "Both of you feel understood and the conversation stays respectful; any shift in views is a small bonus, not the aim.",
       "approach": [
         {
           "step": "Aim for understanding, not conversion",
-          "detail": "Decide beforehand that success is mutual understanding. Even good stories and conversations move views only modestly, so hoping to win sets you up to push too hard.",
-          "insight_ids": ["supercommunicators-11", "braddock-dillard-2016-01"]
+          "detail": "Decide beforehand that success is mutual understanding. Even good stories and conversations move views only modestly, so hoping to win sets you up to push too hard. First ask whether the two of you actually need to agree on this, and whether you need to agree now.",
+          "insight_ids": [
+            "supercommunicators-11",
+            "braddock-dillard-2016-01",
+            "the-next-conversation-10"
+          ]
         },
         {
           "step": "Ask how they came to their view, and listen",
           "detail": "Invite them to explain their view as a story of how they got there, and listen without rebutting. Being well listened to tends to make people's views more nuanced.",
-          "insight_ids": ["kluger-listening-2024-02", "kalla-broockman-2020-01"]
+          "insight_ids": [
+            "kluger-listening-2024-02",
+            "kalla-broockman-2020-01"
+          ]
         },
         {
           "step": "Loop and acknowledge what you share",
           "detail": "Restate their view and the feeling under it until they confirm, then name a specific point you agree with.",
-          "insight_ids": ["supercommunicators-11", "talk-wood-brooks-09"]
+          "insight_ids": [
+            "supercommunicators-11",
+            "talk-wood-brooks-09"
+          ]
         },
         {
           "step": "Notice what layer you differ on",
           "detail": "Ask yourself whether you disagree about facts, feelings, goals or identity. If the issue is tied to who they are, acknowledge that identity and look for one you share, such as fellow parents or neighbors.",
-          "insight_ids": ["talk-wood-brooks-14", "supercommunicators-10"]
+          "insight_ids": [
+            "talk-wood-brooks-14",
+            "supercommunicators-10"
+          ]
         },
         {
           "step": "Trade stories, not just arguments",
           "detail": "Ask about a relevant experience in their life, then share a short, concrete story of your own that explains your view.",
-          "insight_ids": ["kalla-broockman-2020-01"]
+          "insight_ids": [
+            "kalla-broockman-2020-01"
+          ]
         },
         {
           "step": "Speak with visible openness",
-          "detail": "Hedge your claims, avoid lecturing, say what you are for rather than only what you oppose, and if you add an argument, frame it in values they hold.",
-          "insight_ids": ["talk-wood-brooks-09", "feinberg-willer-2019-01"]
+          "detail": "Hedge your claims, avoid lecturing, say what you are for rather than only what you oppose, and if you add an argument, frame it in values they hold. Say 'I see it differently' rather than 'you're wrong'.",
+          "insight_ids": [
+            "talk-wood-brooks-09",
+            "feinberg-willer-2019-01",
+            "the-next-conversation-10"
+          ]
         }
       ],
       "example_wording": [
@@ -1607,7 +2148,8 @@
         "talk-wood-brooks-09",
         "talk-wood-brooks-14",
         "supercommunicators-10",
-        "feinberg-willer-2019-01"
+        "feinberg-willer-2019-01",
+        "the-next-conversation-10"
       ],
       "evidence_note": "Two High-confidence insights anchor this: field experiments on exchanging stories (kalla-broockman-2020-01) and the meta-analysis showing stories nudge rather than convert (braddock-dillard-2016-01), which sets realistic expectations. The listening, receptiveness and identity insights are Medium."
     },
@@ -1616,39 +2158,59 @@
       "title": "Recovering when a joke lands badly",
       "category": "conversations",
       "setting": "professional",
-      "medium": ["in person", "writing"],
+      "medium": [
+        "in person",
+        "writing"
+      ],
       "context": "In a meeting or a team chat, you made a joke that drew silence, or a colleague later tells you it stung. It is hard to tell a harmless flop from real hurt, and the reflex is to defend your intent. Your position matters: a joke from someone senior can land very differently than you think.",
       "goal": "You tell a flop from harm, repair any harm quickly and specifically, and use humor with better judgment from then on.",
       "approach": [
         {
           "step": "Tell a flop from harm",
           "detail": "A joke that simply falls flat costs little and is best left alone. A joke that hurt someone needs to be addressed, even if nobody objected in the moment.",
-          "insight_ids": ["humor-seriously-10", "humor-seriously-03"]
+          "insight_ids": [
+            "humor-seriously-10",
+            "humor-seriously-03"
+          ]
         },
         {
           "step": "If it was a flop, move on",
           "detail": "Do not explain the joke or apologize at length; return to the topic. A plain flop says little about your judgment.",
-          "insight_ids": ["humor-seriously-03"]
+          "insight_ids": [
+            "humor-seriously-03"
+          ]
         },
         {
           "step": "If it hurt, thank them and own it",
           "detail": "When someone tells you, thank them, accept that a line was crossed, and do not defend your intent or suggest they are too sensitive.",
-          "insight_ids": ["humor-seriously-10", "lewicki-apologies-2016-01"]
+          "insight_ids": [
+            "humor-seriously-10",
+            "lewicki-apologies-2016-01"
+          ]
         },
         {
           "step": "Apologize specifically and briefly",
           "detail": "Name what you said, its effect on them, and what you will do differently. If the joke was public, consider whether the correction should be public too.",
-          "insight_ids": ["think-faster-talk-smarter-12", "humor-seriously-10"]
+          "insight_ids": [
+            "think-faster-talk-smarter-12",
+            "humor-seriously-10"
+          ]
         },
         {
           "step": "Work out why it hurt",
           "detail": "Check the joke against truth, pain and distance: would the plain statement be acceptable, how raw is the topic, is it yours to joke about? Also ask whether the target had less power than you.",
-          "insight_ids": ["humor-seriously-09", "humor-seriously-04"]
+          "insight_ids": [
+            "humor-seriously-09",
+            "humor-seriously-04"
+          ]
         },
         {
           "step": "Be extra careful with humor in writing",
           "detail": "Sarcasm and teasing are misread in text far more often than writers expect. In chat, drop jokes that depend on tone, and take any apology or correction to a private message or a call.",
-          "insight_ids": ["kruger-epley-2005-01", "supercommunicators-12"]
+          "insight_ids": [
+            "kruger-epley-2005-01",
+            "supercommunicators-12"
+          ]
         }
       ],
       "example_wording": [
@@ -1680,44 +2242,64 @@
       "title": "Calming nerves before a high-stakes talk",
       "category": "foundations",
       "setting": "professional",
-      "medium": ["in person", "video"],
+      "medium": [
+        "in person",
+        "video"
+      ],
       "context": "You have a big presentation, interview or pitch coming up, and the dread starts days before. On the day your heart races just as you begin. Telling yourself to calm down rarely works, and the belief that everyone can see your nerves makes them worse.",
       "goal": "You walk in with your nerves working for you, a solid first minute, and a plan to grow steadily less afraid over time.",
       "approach": [
         {
           "step": "Work out where your nerves show up",
           "detail": "Notice whether it is mostly your body (racing heart, shaking), your thoughts (predicting disaster), or your skills (not knowing how to structure it). Each calls for a different fix.",
-          "insight_ids": ["bodie-2010-01"]
+          "insight_ids": [
+            "bodie-2010-01"
+          ]
         },
         {
           "step": "Prepare the substance and rehearse the first minute",
           "detail": "Turn your key points into questions you answer aloud in your own words rather than memorizing a script. Rehearse your first two or three sentences until they are automatic, since nerves peak at the start.",
-          "insight_ids": ["improv-wisdom-13", "bodie-2010-02"]
+          "insight_ids": [
+            "improv-wisdom-13",
+            "bodie-2010-02"
+          ]
         },
         {
           "step": "Coach yourself by name",
           "detail": "When worry spirals, talk to yourself using your name or 'you', as you would advise a friend, and pick one concrete action.",
-          "insight_ids": ["kross-2014-01"]
+          "insight_ids": [
+            "kross-2014-01"
+          ]
         },
         {
           "step": "Relabel the racing heart as fuel",
           "detail": "Tell yourself 'I am excited' rather than 'calm down', and remind yourself that the pounding heart is your body getting ready to perform. Channel the energy into your voice and attention.",
-          "insight_ids": ["jamieson-2018-01", "think-faster-talk-smarter-03"]
+          "insight_ids": [
+            "jamieson-2018-01",
+            "think-faster-talk-smarter-03"
+          ]
         },
         {
           "step": "Breathe out long just before you start",
           "detail": "Breathe in for about three counts and out for about six, two or three times, while you wait.",
-          "insight_ids": ["think-faster-talk-smarter-02"]
+          "insight_ids": [
+            "think-faster-talk-smarter-02"
+          ]
         },
         {
           "step": "Remember they see less than you feel",
           "detail": "Your nerves are much less visible than they seem from inside. Skip any opening apology and put your attention on the audience.",
-          "insight_ids": ["savitsky-gilovich-2003-01"]
+          "insight_ids": [
+            "savitsky-gilovich-2003-01"
+          ]
         },
         {
           "step": "Review briefly, and build a practice plan if fear persists",
           "detail": "Afterward, note two things that worked and one change, then stop replaying. If fear of speaking keeps getting in the way, a structured, step-by-step practice program has the strongest evidence of helping.",
-          "insight_ids": ["communicate-with-mastery-10", "ebrahimi-2019-01"]
+          "insight_ids": [
+            "communicate-with-mastery-10",
+            "ebrahimi-2019-01"
+          ]
         }
       ],
       "example_wording": [
@@ -1751,34 +2333,51 @@
       "title": "Giving a toast at a celebration",
       "category": "public-speaking",
       "setting": "personal",
-      "medium": ["in person"],
+      "medium": [
+        "in person"
+      ],
       "context": "You have been asked, sometimes with little notice, to toast a friend's wedding, a parent's anniversary or a colleague's retirement. Toasts go wrong by running long, turning into stories about the speaker, or relying on inside jokes that embarrass the honoree. Nerves are at their worst as you stand up.",
       "goal": "A short, warm toast that makes the honoree feel seen, includes the whole room, and ends cleanly.",
       "approach": [
         {
           "step": "Use a simple four-part shape",
           "detail": "Say why everyone is gathered, how you know the honoree, one short story or lesson, and then thank the honoree and guests. Keep the spotlight on them; watch how often you say 'I'.",
-          "insight_ids": ["think-faster-talk-smarter-14"]
+          "insight_ids": [
+            "think-faster-talk-smarter-14"
+          ]
         },
         {
           "step": "Choose one concrete story",
-          "detail": "Pick a specific moment with details people can picture that shows a quality you admire, instead of general praise like 'she is so generous'.",
-          "insight_ids": ["made-to-stick-07"]
+          "detail": "Pick a specific moment with details people can picture that shows a quality you admire, instead of general praise like 'she is so generous'. A story most guests can relate to works best.",
+          "insight_ids": [
+            "made-to-stick-07",
+            "talk-like-ted-03"
+          ]
         },
         {
           "step": "Check any humor for pain and distance",
           "detail": "Strip the joke away and ask whether the plain statement would be fine for everyone in the room, including grandparents and new in-laws. If you poke fun at anyone, make it yourself, lightly.",
-          "insight_ids": ["humor-seriously-09", "humor-seriously-05"]
+          "insight_ids": [
+            "humor-seriously-09",
+            "humor-seriously-05"
+          ]
         },
         {
           "step": "Attach any light moment to your main point",
           "detail": "If you use a funny line, connect it to the quality you are celebrating so it becomes what people remember, not a detour.",
-          "insight_ids": ["humor-seriously-16"]
+          "insight_ids": [
+            "humor-seriously-16"
+          ]
         },
         {
           "step": "Rehearse the opening and steady your nerves",
-          "detail": "Practice the first lines aloud until they are automatic, and as you stand, label the rush as excitement. Remember the room sees far less of your nerves than you feel.",
-          "insight_ids": ["bodie-2010-02", "think-faster-talk-smarter-03", "savitsky-gilovich-2003-01"]
+          "detail": "Practice the first lines aloud until they are automatic, and as you stand, label the rush as excitement. Remember the room sees far less of your nerves than you feel. Run the whole toast aloud several times, once on video if you can, so it sounds like talking, not reading.",
+          "insight_ids": [
+            "bodie-2010-02",
+            "think-faster-talk-smarter-03",
+            "savitsky-gilovich-2003-01",
+            "talk-like-ted-04"
+          ]
         }
       ],
       "example_wording": [
@@ -1801,9 +2400,119 @@
         "humor-seriously-16",
         "bodie-2010-02",
         "think-faster-talk-smarter-03",
-        "savitsky-gilovich-2003-01"
+        "savitsky-gilovich-2003-01",
+        "talk-like-ted-03",
+        "talk-like-ted-04"
       ],
       "evidence_note": "The strongest support is the High-confidence principle that concrete language is easier to understand and remember (made-to-stick-07). The toast structure and humor guidance are Medium practitioner advice, and the nerves steps draw on Medium research on anxiety timing and the illusion of transparency."
+    },
+    {
+      "id": "heated-disagreement-with-a-coworker",
+      "title": "A heated disagreement with a coworker",
+      "category": "difficult",
+      "setting": "professional",
+      "medium": [
+        "in person",
+        "video"
+      ],
+      "context": "A disagreement with a colleague about a decision, a handoff or who dropped the ball has turned sharp. Voices are rising or one of you has gone quiet, each of you is sure you are right, and you both have to keep working together tomorrow. The pull is to win the point or to retreat and stew.",
+      "goal": "Both of you cool down enough to hear each other, understand why you see it differently, and leave with a specific next step that each of you owns.",
+      "approach": [
+        {
+          "step": "Catch your own ignition first",
+          "detail": "Notice the signs: speeding up, heat in your face, rehearsing a rebuttal. Take one slow breath with a long exhale, name the feeling to yourself in a word, and know which trigger fired (feeling judged, a threat to your competence, fear of loss). If you are fully flooded, ask for a short break and name when you will come back.",
+          "insight_ids": [
+            "the-next-conversation-04",
+            "the-next-conversation-03",
+            "gottman-seven-principles-03"
+          ]
+        },
+        {
+          "step": "Check your story against the facts",
+          "detail": "Separate what you actually saw and heard from the conclusion you jumped to. If you are casting them as the villain, ask why a reasonable, decent person would have done this, and what you are not noticing about your own part.",
+          "insight_ids": [
+            "crucial-conversations-05",
+            "crucial-conversations-06"
+          ]
+        },
+        {
+          "step": "Decide what you really want",
+          "detail": "Ask what you want for yourself, for them and for the working relationship, and drop goals you cannot control, such as an instant apology or total agreement. Aim to understand, to say your piece and to solve the problem.",
+          "insight_ids": [
+            "crucial-conversations-01",
+            "difficult-conversations-09"
+          ]
+        },
+        {
+          "step": "Restore safety before returning to the topic",
+          "detail": "If they have gone quiet or are attacking, step out of the content. Show that you care about their goals and respect them, and if they have misread you, say what you do not mean and then what you do.",
+          "insight_ids": [
+            "crucial-conversations-03",
+            "crucial-conversations-04",
+            "crucial-conversations-02"
+          ]
+        },
+        {
+          "step": "Get curious about their story and say it back",
+          "detail": "Ask what they see, know or care about that makes their view make sense. Paraphrase it until they agree you have it, and if their tone does not match their words, say so gently. Understanding their story is not agreeing with it.",
+          "insight_ids": [
+            "difficult-conversations-03",
+            "crucial-conversations-08",
+            "supercommunicators-07"
+          ]
+        },
+        {
+          "step": "Share your view as your view",
+          "detail": "Start with the facts, then your conclusion stated tentatively ('I'm starting to think...'), and invite them to push back. Use 'I' rather than 'you', ask 'what' rather than 'why', and acknowledge something fair in their view before adding yours.",
+          "insight_ids": [
+            "crucial-conversations-07",
+            "the-next-conversation-15"
+          ]
+        },
+        {
+          "step": "Map the contributions and agree who does what by when",
+          "detail": "Instead of settling who is to blame, name what each of you did or did not do that led here, starting with your part. Then agree one owner, one deliverable and one date for each next step, and when you will check in.",
+          "insight_ids": [
+            "difficult-conversations-06",
+            "crucial-conversations-12"
+          ]
+        }
+      ],
+      "example_wording": [
+        "I can tell I'm getting frustrated, and I don't want to say something I'll regret. Can we take ten minutes and come back to this at three?",
+        "I'm not saying the delay was your fault. I want us to figure out how the handoff broke so it doesn't happen again.",
+        "Help me understand how it looked from your side. What did you know on Tuesday that I didn't?",
+        "So you thought the client had approved the change, and you were waiting on me for the files. Is that right?",
+        "Here's what I saw: the files went out Thursday without the review. I'm starting to think we each assumed the other was doing it. Do you see it differently?",
+        "My part is that I never said who owned the review. Can we agree that you send the files and I review them by noon the day before, and we check in Friday?"
+      ],
+      "pitfalls": [
+        "Arguing about who is right before either of you has cooled down",
+        "Assuming their motive and stating it as fact",
+        "Sliding into silence by hedging until the concern disappears",
+        "Saying their story back with a rebuttal attached",
+        "Ending with 'we'll sort it out' and no owner or date"
+      ],
+      "insight_ids": [
+        "the-next-conversation-04",
+        "the-next-conversation-03",
+        "gottman-seven-principles-03",
+        "crucial-conversations-05",
+        "crucial-conversations-06",
+        "crucial-conversations-01",
+        "difficult-conversations-09",
+        "crucial-conversations-03",
+        "crucial-conversations-04",
+        "crucial-conversations-02",
+        "difficult-conversations-03",
+        "crucial-conversations-08",
+        "supercommunicators-07",
+        "crucial-conversations-07",
+        "the-next-conversation-15",
+        "difficult-conversations-06",
+        "crucial-conversations-12"
+      ],
+      "evidence_note": "Built mainly from Crucial Conversations, Difficult Conversations and The Next Conversation, all Medium-confidence practitioner frameworks without direct controlled tests of the full methods; independent support exists for some underlying ideas (attribution bias, affect labeling, listening, physiological flooding from Gottman). The step order (regulate, then check your story, then restore safety, then listen before advocating) is shared across the three books."
     }
   ]
 }

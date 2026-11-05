@@ -3,7 +3,9 @@
     "book_id": "nonviolent-communication",
     "title": "Nonviolent Communication",
     "subtitle": "A Language of Life",
-    "authors": ["Marshall B. Rosenberg"],
+    "authors": [
+      "Marshall B. Rosenberg"
+    ],
     "year": 1999,
     "publisher": "PuddleDancer Press",
     "edition": "3rd edition, 2015 (xix, 244 pages)",
@@ -13,11 +15,31 @@
     "author_credibility": "Rosenberg (1934 to 2015) earned a PhD in clinical psychology from the University of Wisconsin in 1961 and was influenced by Carl Rogers's person-centered therapy. He developed the method through civil rights era school desegregation work and decades of mediation and training in more than 60 countries, and founded the Center for Nonviolent Communication (CNVC) in 1984. He was a practitioner and trainer, not an academic researcher. CNVC certifies paid trainers and PuddleDancer Press publishes a whole catalog of NVC books, so the organizations that promote the book have a commercial and mission interest in it.",
     "evidence_base": "The book argues from Rosenberg's clinical, teaching and mediation experience, illustrated with many dialogues and anecdotes; it cites almost no research (one correlational study by O.J. Harvey on judgment words and violence, which I could not verify). Research on NVC training came later: Juncadella's 2013 systematic review (a master's thesis) found 13 small, mostly non-randomized studies, 11 of them reporting empathy gains, with poorly matched measures; a 2025 integrative review of 15 adult studies (Pereira and Durgante) and a 2024 healthcare scoping review (Adriani and colleagues) report positive results but flag weak designs. The best trials are mixed: in a French medical school trial (Epinat-Duclos et al., 2021) only a self-report empathy scale rose, by about one point, while four other measures did not change; a 2026 Chinese randomized trial with an active control (Jiang et al.) reported large gains in self-reported empathy and observed communication but was single-site, short-term and not preregistered. A controlled field study with health workers (Wacker and Dziobek, 2018) found more emotion verbalization and less empathic distress. No study isolates the four components or tests the book's specific scripts. Critics argue the theory rests on humanistic-psychology assumptions, underrates the evolved functions of emotions such as anger, and that scripted use can sound inauthentic or manipulative.",
     "legal_access": [
-      {"type": "publisher preview", "url": "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf", "note": "PuddleDancer Press free sample: Chapter 2, Communication That Blocks Compassion (pages 15 to 24)."},
-      {"type": "publisher page", "url": "https://www.nonviolentcommunication.com/product/nonviolent-communication-a-language-of-life-3rd-edition/", "note": "Publisher description and endorsements for the 3rd edition."},
-      {"type": "author organization", "url": "https://www.cnvc.org/learn/what-is-nvc", "note": "Center for Nonviolent Communication introduction; free Feelings and Needs Inventory at https://www.cnvc.org/store/feelings-and-needs-inventory."},
-      {"type": "library catalog", "url": "https://openlibrary.org/books/OL27210498M", "note": "Open Library record with the full chapter list; borrowable through libraries."},
-      {"type": "interview", "url": "https://ttfuture.org/interviews/marshall-rosenberg", "note": "Touch the Future interview in which Rosenberg explains the four components and the language of choice."}
+      {
+        "type": "publisher preview",
+        "url": "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf",
+        "note": "PuddleDancer Press free sample: Chapter 2, Communication That Blocks Compassion (pages 15 to 24)."
+      },
+      {
+        "type": "publisher page",
+        "url": "https://www.nonviolentcommunication.com/product/nonviolent-communication-a-language-of-life-3rd-edition/",
+        "note": "Publisher description and endorsements for the 3rd edition."
+      },
+      {
+        "type": "author organization",
+        "url": "https://www.cnvc.org/learn/what-is-nvc",
+        "note": "Center for Nonviolent Communication introduction; free Feelings and Needs Inventory at https://www.cnvc.org/store/feelings-and-needs-inventory."
+      },
+      {
+        "type": "library catalog",
+        "url": "https://openlibrary.org/books/OL27210498M",
+        "note": "Open Library record with the full chapter list; borrowable through libraries."
+      },
+      {
+        "type": "interview",
+        "url": "https://ttfuture.org/interviews/marshall-rosenberg",
+        "note": "Touch the Future interview in which Rosenberg explains the four components and the language of choice."
+      }
     ]
   },
   "insights": [
@@ -43,11 +65,24 @@
         "Say it in your own natural words, then listen to the response with the same four lenses"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "personal-life", "subcategory": "partners"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
       ],
-      "situations": ["Raising a recurring problem with a teammate", "Telling a partner something is bothering you", "Asking a roommate to change a habit"],
+      "situations": [
+        "Raising a recurring problem with a teammate",
+        "Telling a partner something is bothering you",
+        "Asking a roommate to change a habit"
+      ],
       "source": {
         "citation": "Marshall B. Rosenberg, Nonviolent Communication: A Language of Life, 3rd ed. (2015), Chapter 1 (Giving From the Heart) and Chapters 3 to 6",
         "underlying_research": "Practitioner model derived from Rogers's person-centered therapy. Training studies: Juncadella (2013) systematic review of 13 small, mostly non-randomized studies, 11 reporting empathy gains; Epinat-Duclos et al. (2021, International Journal of Medical Education) allocated trial with 312 medical students, where only the Jefferson self-report empathy scale rose (about 1 point) and four other measures did not change; Jiang et al. (2026, BMC Medical Education) randomized trial with 198 students and an active control, reporting larger self-reported empathy and observed communication gains (single site, not preregistered); Wacker and Dziobek (2018, Journal of Occupational Health Psychology) controlled field study with health workers. None tests the four components separately.",
@@ -86,11 +121,24 @@
         "If you hold an evaluation, state it separately as your view or your value"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "personal-life", "subcategory": "family"}
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
       ],
-      "situations": ["Giving feedback on missed deadlines", "Raising a household chore problem", "Rewriting a heated email before sending"],
+      "situations": [
+        "Giving feedback on missed deadlines",
+        "Raising a household chore problem",
+        "Rewriting a heated email before sending"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 3 (Observing Without Evaluating); value versus moralistic judgments in Chapter 2, pages 15 to 17",
         "underlying_research": "Practitioner principle; the book cites no test of it. Related studies not cited by the book: Kubany et al. (1992, Adolescence) found accusatory 'you' statements rated more aversive and provoking more antagonism than assertive 'I' statements; Rogers, Howieson and Neame (2018, PeerJ) found I-language and acknowledging perspective reduced expected hostility in conflict openers. Both used hypothetical scenarios and ratings, not real conversations.",
@@ -127,11 +175,24 @@
         "Say the emotion and the need, and leave the accusation out"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "relationships", "subcategory": "empathy"},
-        {"category": "personal-life", "subcategory": "partners"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        }
       ],
-      "situations": ["Telling a manager you feel left out of decisions", "Raising hurt with a partner", "Responding when a friend cancels repeatedly"],
+      "situations": [
+        "Telling a manager you feel left out of decisions",
+        "Raising hurt with a partner",
+        "Responding when a friend cancels repeatedly"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 4 (Identifying and Expressing Feelings); CNVC Feelings and Needs Inventory",
         "underlying_research": "Practitioner distinction with no direct test. Consistent with research on precise emotion labeling summarized under connect-06 and with scenario studies on accusatory 'you' language (Kubany et al., 1992; Rogers et al., 2018); none of these is cited by the book.",
@@ -162,11 +223,24 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "professional", "subcategory": "negotiation"},
-        {"category": "personal-life", "subcategory": "partners"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "professional",
+          "subcategory": "negotiation"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
       ],
-      "situations": ["Deadlocked decision between two colleagues", "Couple arguing about holiday plans", "Turning a complaint about a coworker into a request"],
+      "situations": [
+        "Deadlocked decision between two colleagues",
+        "Couple arguing about holiday plans",
+        "Turning a complaint about a coworker into a request"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 2, page 16 (analyses as expressions of needs), Chapter 5 (Taking Responsibility for Our Feelings) and Chapter 11 (Conflict Resolution and Mediation)",
         "underlying_research": "Practitioner model. Wikipedia reports Rosenberg drew on Manfred Max-Neef's classification of needs. No empirical test of the claim that needs are universal or never conflict. Critique: Vermeren (2022, Wonder en is gheen Wonder, Skepp) argues the model ignores inherited personality and the evolved functions of emotions, and overstates how well people can identify their own needs.",
@@ -179,7 +253,9 @@
       },
       "confidence": "Medium",
       "confidence_rationale": "The needs-versus-strategies separation parallels the well-supported interests-versus-positions principle, but the stronger claims (needs are universal and never conflict) are untested and disputed.",
-      "flags": ["contested"]
+      "flags": [
+        "contested"
+      ]
     },
     {
       "id": "nonviolent-communication-05",
@@ -202,11 +278,24 @@
         "Once they feel heard, respond to the substance, including anything you got wrong"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "receiving-feedback"},
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "personal-life", "subcategory": "family"}
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
       ],
-      "situations": ["Receiving an angry client email", "Being called selfish by a family member", "A teenager's outburst"],
+      "situations": [
+        "Receiving an angry client email",
+        "Being called selfish by a family member",
+        "A teenager's outburst"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 5 (Taking Responsibility for Our Feelings), section on four options for hearing a negative message; Chapter 2, page 16",
         "underlying_research": "Practitioner typology; no direct empirical test found.",
@@ -242,11 +331,24 @@
         "If they say no, ask or guess what need is behind the no before you respond"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "personal-life", "subcategory": "family"},
-        {"category": "influence", "subcategory": "overcoming-resistance"}
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "influence",
+          "subcategory": "overcoming-resistance"
+        }
       ],
-      "situations": ["Delegating a task", "Asking a partner for help at home", "Setting expectations with a teenager"],
+      "situations": [
+        "Delegating a task",
+        "Asking a partner for help at home",
+        "Setting expectations with a teenager"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 6 (Requesting That Which Would Enrich Life); demands in Chapter 2, pages 22 to 23; hearing a no in Chapter 8 (The Power of Empathy)",
         "underlying_research": "Practitioner principle with no direct test. Consistent with Overall and McNulty's review (see overall-mcnulty-2017-02) that direct requests solve relationship problems better than guilt induction, and with Keysar and Henly (2002) on speakers overestimating how well they were understood. Not cited by the book.",
@@ -282,11 +384,24 @@
         "Wait for a sign of release, then ask whether they want ideas or anything else"
       ],
       "categories": [
-        {"category": "relationships", "subcategory": "listening"},
-        {"category": "personal-life", "subcategory": "supporting-distress"},
-        {"category": "difficult", "subcategory": "conflict"}
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "supporting-distress"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
       ],
-      "situations": ["A colleague passed over for promotion", "A friend venting about a breakup", "An angry customer on the phone"],
+      "situations": [
+        "A colleague passed over for promotion",
+        "A friend venting about a breakup",
+        "An angry customer on the phone"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 7 (Receiving Empathically) and Chapter 8 (The Power of Empathy)",
         "underlying_research": "NVC training studies report gains in self-reported empathy (see nonviolent-communication-01). The advice to name feelings rather than minimize or advise matches High and Dillard's (2012) meta-analysis of person-centered comforting messages (see high-dillard-2012-01), which the book does not cite.",
@@ -323,10 +438,20 @@
         "Take any repair action owed to others"
       ],
       "categories": [
-        {"category": "foundations", "subcategory": "mindset"},
-        {"category": "difficult", "subcategory": "apologies"}
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "apologies"
+        }
       ],
-      "situations": ["After missing a commitment at work", "After snapping at your child", "Before apologizing to a friend"],
+      "situations": [
+        "After missing a commitment at work",
+        "After snapping at your child",
+        "Before apologizing to a friend"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 9 (Connecting Compassionately With Ourselves)",
         "underlying_research": "Practitioner method. Related research not cited by the book: Breines and Chen (2012, Personality and Social Psychology Bulletin), four experiments in which self-compassion, compared with self-esteem boosting or control conditions, increased motivation to improve weaknesses, make amends and study after failure.",
@@ -362,10 +487,20 @@
         "For the ones to change, make a request or a new plan"
       ],
       "categories": [
-        {"category": "foundations", "subcategory": "mindset"},
-        {"category": "difficult", "subcategory": "saying-no"}
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "saying-no"
+        }
       ],
-      "situations": ["Feeling resentful about recurring obligations", "Deciding whether to keep hosting family events", "Reviewing commitments at work"],
+      "situations": [
+        "Feeling resentful about recurring obligations",
+        "Deciding whether to keep hosting family events",
+        "Reviewing commitments at work"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 2, pages 19 to 21 (denial of responsibility, the cooking and grading examples); Chapter 9 (translating have to into choose to)",
         "underlying_research": "Practitioner exercise illustrated with anecdotes; no direct test found. Consistent in spirit with motivation research that distinguishes chosen from pressured reasons for acting, which the book does not cite.",
@@ -376,7 +511,9 @@
       },
       "confidence": "Low",
       "confidence_rationale": "A plausible reflective exercise supported only by the author's anecdotes; whether rewording obligations changes motivation or well-being has not been studied.",
-      "flags": ["single-anecdote"]
+      "flags": [
+        "single-anecdote"
+      ]
     },
     {
       "id": "nonviolent-communication-10",
@@ -400,11 +537,24 @@
         "Say your feeling and need, and make a request"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "personal-life", "subcategory": "partners"},
-        {"category": "personal-life", "subcategory": "family"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
       ],
-      "situations": ["A colleague takes credit for your work", "A teenager breaks curfew", "A partner breaks an agreement"],
+      "situations": [
+        "A colleague takes credit for your work",
+        "A teenager breaks curfew",
+        "A partner breaks an agreement"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 10 (Expressing Anger Fully)",
         "underlying_research": "Practitioner model. Related evidence not cited by the book: Bushman (2002, Personality and Social Psychology Bulletin) found that venting while ruminating increased anger and aggression, supporting the advice not to vent. Kim and Kim (2022, Archives of Psychiatric Nursing), a quasi-experiment with 44 psychiatric inpatients, found an NVC-based anger program reduced anger expression and anger suppression. Critique: Vermeren (2022, Skepp) argues anger is an evolved recalibration emotion and that cognitive behavioral anger treatment (reviewed by Toohey, 2021) is better supported.",
@@ -417,7 +567,9 @@
       },
       "confidence": "Medium",
       "confidence_rationale": "Pausing and reappraising instead of venting fits experimental anger research, and one small quasi-experiment supports an NVC anger program, but Rosenberg's account of what causes anger is disputed and the full method is untested.",
-      "flags": ["contested"]
+      "flags": [
+        "contested"
+      ]
     },
     {
       "id": "nonviolent-communication-11",
@@ -441,10 +593,20 @@
         "Revisit any limits once things are calm"
       ],
       "categories": [
-        {"category": "personal-life", "subcategory": "family"},
-        {"category": "difficult", "subcategory": "boundaries"}
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        }
       ],
-      "situations": ["A child hits a sibling", "Deciding whether to formally discipline an employee", "Stepping in to stop a dangerous act"],
+      "situations": [
+        "A child hits a sibling",
+        "Deciding whether to formally discipline an employee",
+        "Stepping in to stop a dangerous act"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 12 (The Protective Use of Force); demands and 'deserve' thinking in Chapter 2, pages 22 to 23",
         "underlying_research": "Practitioner reasoning. Related evidence not cited by the book: Gershoff and Grogan-Kaylor (2016, Journal of Family Psychology) meta-analyses of 111 effect sizes from 160,927 children found spanking linked to higher risk on 13 of 17 detrimental outcomes (largely correlational data). The two-question test itself is untested.",
@@ -480,11 +642,24 @@
         "Stop there; do not attach a request"
       ],
       "categories": [
-        {"category": "relationships", "subcategory": "rapport"},
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "personal-life", "subcategory": "partners"}
+        {
+          "category": "relationships",
+          "subcategory": "rapport"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
       ],
-      "situations": ["Thanking a colleague who covered for you", "Recognizing a team member's work", "Appreciating a partner"],
+      "situations": [
+        "Thanking a colleague who covered for you",
+        "Recognizing a team member's work",
+        "Appreciating a partner"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 14 (Expressing Appreciation in Nonviolent Communication)",
         "underlying_research": "Practitioner model. Qualifying evidence not cited by the book: Algoe, Kurtz and Hilaire (2016, Social Psychological and Personality Science) video-recorded couples (n = 370 across an original study and replication) and found the expresser's other-praising behavior was robustly linked to the benefactor perceiving responsiveness, feeling good and feeling loved.",
@@ -495,7 +670,9 @@
       },
       "confidence": "Medium",
       "confidence_rationale": "Specific, sincere appreciation is well supported, but Rosenberg's rejection of praise is partly at odds with research showing that crediting the giver is a key ingredient of effective thanks.",
-      "flags": ["contested"]
+      "flags": [
+        "contested"
+      ]
     },
     {
       "id": "nonviolent-communication-13",
@@ -519,11 +696,24 @@
         "Invite proposals in concrete, positive, doable terms and test them against both sides' needs"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "professional", "subcategory": "meetings"},
-        {"category": "personal-life", "subcategory": "family"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
       ],
-      "situations": ["Manager mediating between two team members", "Parent settling a sibling dispute", "Facilitating a tense team meeting"],
+      "situations": [
+        "Manager mediating between two team members",
+        "Parent settling a sibling dispute",
+        "Facilitating a tense team meeting"
+      ],
       "source": {
         "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 11 (Conflict Resolution and Mediation); mediation steps as summarized from the Dutch translation, page 14, by Vermeren (2022)",
         "underlying_research": "Practitioner experience; no direct empirical test of NVC mediation found. Museux et al. (2016, Social Work in Health Care), a mixed-methods study of two health teams (n = 9), found NVC training improved observed interprofessional collaboration, including developing a shared plan.",
@@ -539,17 +729,61 @@
     }
   ],
   "supports_existing": [
-    {"insight_id": "connect-06", "relation": "supports", "note": "Rosenberg's Chapter 4 is a likely source of this distinction and extends it: besides thoughts after 'I feel that', he flags one-word pseudo-feelings (ignored, abandoned, manipulated, unappreciated) that pass Connect's quick test but still accuse the listener. See nonviolent-communication-03."},
-    {"insight_id": "connect-04", "relation": "supports", "note": "NVC's observation discipline sharpens the behavior step: describe what a camera would record, tied to time and context, and drop always, never and labels. NVC also goes past impact to name the need behind the feeling and a concrete request. See nonviolent-communication-01 and -02."},
-    {"insight_id": "connect-15", "relation": "supports", "note": "Adds a test for whether an ask is a request or a demand: how you respond to a no. Also recommends positive action language (what you want done, not what you want stopped). See nonviolent-communication-06."},
-    {"insight_id": "fisher-ury-getting-to-yes-01", "relation": "qualifies", "note": "NVC applies the same move to personal conflicts but digs below interests to needs it treats as universal (rest, respect, safety), arguing shared needs make the other side easier to see as human. The universality claim is untested and disputed. See nonviolent-communication-04."},
-    {"insight_id": "supercommunicators-07", "relation": "qualifies", "note": "NVC aims the reflection at the feeling and need rather than the content, phrases it as a tentative guess, and advises reflecting mainly when a message is emotionally charged or unclear, not after every sentence, since mechanical paraphrase can feel like being handled. See nonviolent-communication-07."},
-    {"insight_id": "high-dillard-2012-01", "relation": "supports", "note": "Rosenberg's list of empathy blockers (advising, consoling, one-upping, educating, correcting) maps onto the low end of the comfort ladder, and his practice of guessing feelings and needs is a concrete way to reach the high end."},
-    {"insight_id": "keysar-henly-2002-01", "relation": "supports", "note": "NVC recommends the same check as a 'connection request': ask the listener to say back what they heard, thank them for doing it, and if it differs, re-explain without blaming them for not listening."},
-    {"insight_id": "gottman-seven-principles-01", "relation": "supports", "note": "Gottman's gentle start-up (situation, feeling, need) is close to NVC's observation, feeling and need; NVC adds a concrete request and the habit of guessing the partner's needs when they criticize. See nonviolent-communication-01 and -05."},
-    {"insight_id": "overall-mcnulty-2017-02", "relation": "supports", "note": "Rosenberg makes the same case from practice: compliance obtained through guilt, shame or fear costs goodwill later, so say your need and make a direct request instead."},
-    {"insight_id": "ury-positive-no-01", "relation": "supports", "note": "NVC offers the listening side of the Positive No: when you hear a no, listen for the need the other person is saying yes to, and keep looking for a strategy that meets both."},
-    {"insight_id": "talk-wood-brooks-10", "relation": "qualifies", "note": "Rosenberg agrees thanks should be specific, but advises against praising traits, recommending action plus need met plus feeling instead. Research on gratitude (Algoe et al., 2016) suggests also crediting the giver's effort and care. See nonviolent-communication-12."}
+    {
+      "insight_id": "connect-06",
+      "relation": "supports",
+      "note": "Rosenberg's Chapter 4 is a likely source of this distinction and extends it: besides thoughts after 'I feel that', he flags one-word pseudo-feelings (ignored, abandoned, manipulated, unappreciated) that pass Connect's quick test but still accuse the listener. See nonviolent-communication-03."
+    },
+    {
+      "insight_id": "connect-04",
+      "relation": "supports",
+      "note": "NVC's observation discipline sharpens the behavior step: describe what a camera would record, tied to time and context, and drop always, never and labels. NVC also goes past impact to name the need behind the feeling and a concrete request. See nonviolent-communication-01 and -02."
+    },
+    {
+      "insight_id": "connect-15",
+      "relation": "supports",
+      "note": "Adds a test for whether an ask is a request or a demand: how you respond to a no. Also recommends positive action language (what you want done, not what you want stopped). See nonviolent-communication-06."
+    },
+    {
+      "insight_id": "fisher-ury-getting-to-yes-01",
+      "relation": "qualifies",
+      "note": "NVC applies the same move to personal conflicts but digs below interests to needs it treats as universal (rest, respect, safety), arguing shared needs make the other side easier to see as human. The universality claim is untested and disputed. See nonviolent-communication-04."
+    },
+    {
+      "insight_id": "supercommunicators-07",
+      "relation": "qualifies",
+      "note": "NVC aims the reflection at the feeling and need rather than the content, phrases it as a tentative guess, and advises reflecting mainly when a message is emotionally charged or unclear, not after every sentence, since mechanical paraphrase can feel like being handled. See nonviolent-communication-07."
+    },
+    {
+      "insight_id": "high-dillard-2012-01",
+      "relation": "supports",
+      "note": "Rosenberg's list of empathy blockers (advising, consoling, one-upping, educating, correcting) maps onto the low end of the comfort ladder, and his practice of guessing feelings and needs is a concrete way to reach the high end."
+    },
+    {
+      "insight_id": "keysar-henly-2002-01",
+      "relation": "supports",
+      "note": "NVC recommends the same check as a 'connection request': ask the listener to say back what they heard, thank them for doing it, and if it differs, re-explain without blaming them for not listening."
+    },
+    {
+      "insight_id": "gottman-seven-principles-01",
+      "relation": "supports",
+      "note": "Gottman's gentle start-up (situation, feeling, need) is close to NVC's observation, feeling and need; NVC adds a concrete request and the habit of guessing the partner's needs when they criticize. See nonviolent-communication-01 and -05."
+    },
+    {
+      "insight_id": "overall-mcnulty-2017-02",
+      "relation": "supports",
+      "note": "Rosenberg makes the same case from practice: compliance obtained through guilt, shame or fear costs goodwill later, so say your need and make a direct request instead."
+    },
+    {
+      "insight_id": "ury-positive-no-01",
+      "relation": "supports",
+      "note": "NVC offers the listening side of the Positive No: when you hear a no, listen for the need the other person is saying yes to, and keep looking for a strategy that meets both."
+    },
+    {
+      "insight_id": "talk-wood-brooks-10",
+      "relation": "qualifies",
+      "note": "Rosenberg agrees thanks should be specific, but advises against praising traits, recommending action plus need met plus feeling instead. Research on gratitude (Algoe et al., 2016) suggests also crediting the giver's effort and care. See nonviolent-communication-12."
+    }
   ],
   "verification": {
     "date": "2026-11-05",

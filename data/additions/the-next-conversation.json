@@ -3,7 +3,9 @@
     "book_id": "the-next-conversation",
     "title": "The Next Conversation",
     "subtitle": "Argue Less, Talk More",
-    "authors": ["Jefferson Fisher"],
+    "authors": [
+      "Jefferson Fisher"
+    ],
     "year": 2025,
     "publisher": "TarcherPerigee (Tarcher imprint, Penguin Random House); UK edition Penguin Life",
     "edition": "First edition, hardcover, March 18, 2025 (304 pages per publisher; library catalogs record 292 numbered pages)",
@@ -13,10 +15,26 @@
     "author_credibility": "Jefferson Fisher is a Texas trial lawyer, board certified in personal injury law, who left a large defense firm to found Fisher Firm and began posting short communication videos in 2022; he reports more than ten million followers across platforms. His authority is courtroom and deposition practice (preparing witnesses for cross-examination, handling hostile witnesses and opposing counsel), not research: the book says plainly that he is not a therapist or psychologist. He has a substantial commercial ecosystem built on the book: a podcast with sponsors, a paid School of Communication membership, masterclasses, coaching, a companion workbook, a paid AI product and a speaking business.",
     "evidence_base": "Almost entirely practitioner experience and courtroom anecdotes, each technique illustrated with a story from depositions, trials or family life. A few claims cite research: a 2023 Stanford trial of exhale-focused breathing (Balban et al.), Navy SEAL tactical breathing, general neuroscience on the fight-or-flight response, cognitive dissonance and the fundamental attribution error. Most of the specific scripts (questions of intent, making someone repeat an insult, bad-apology comebacks, interruption scripts, frames) have no direct empirical test. Several are consistent with independent research the book does not necessarily cite, which is noted per insight.",
     "legal_access": [
-      {"type": "publisher preview", "url": "https://www.penguinrandomhouse.com/books/750014/the-next-conversation-by-jefferson-fisher/", "note": "Read Sample on the publisher page contains most of Chapter 1, 'Never Win an Argument'."},
-      {"type": "publisher page (UK)", "url": "https://www.penguin.co.uk/books/465489/the-next-conversation-by-fisher-jefferson/9780241719886", "note": "Penguin Life UK edition, ISBN 9780241719886."},
-      {"type": "author site", "url": "https://jeffersonfisher.com/book", "note": "Book page; free bonus chapter and workbook sample require an email sign-up."},
-      {"type": "library", "url": "https://www.kfpl.ca/c/catalogue/record/1.638368", "note": "Example public library record; widely held in libraries in print, ebook and audiobook (read by the author)."}
+      {
+        "type": "publisher preview",
+        "url": "https://www.penguinrandomhouse.com/books/750014/the-next-conversation-by-jefferson-fisher/",
+        "note": "Read Sample on the publisher page contains most of Chapter 1, 'Never Win an Argument'."
+      },
+      {
+        "type": "publisher page (UK)",
+        "url": "https://www.penguin.co.uk/books/465489/the-next-conversation-by-fisher-jefferson/9780241719886",
+        "note": "Penguin Life UK edition, ISBN 9780241719886."
+      },
+      {
+        "type": "author site",
+        "url": "https://jeffersonfisher.com/book",
+        "note": "Book page; free bonus chapter and workbook sample require an email sign-up."
+      },
+      {
+        "type": "library",
+        "url": "https://www.kfpl.ca/c/catalogue/record/1.638368",
+        "note": "Example public library record; widely held in libraries in print, ebook and audiobook (read by the author)."
+      }
     ]
   },
   "insights": [
@@ -43,8 +61,14 @@
         "Listen without fixing, then return to the original issue once the pressure is out"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "relationships", "subcategory": "empathy"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        }
       ],
       "situations": [
         "A coworker snaps over a small request",
@@ -86,8 +110,14 @@
         "Glance at the goal and values right before the conversation, and again if it gets heated"
       ],
       "categories": [
-        {"category": "foundations", "subcategory": "audience-goals"},
-        {"category": "difficult", "subcategory": "conflict"}
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
       ],
       "situations": [
         "Preparing to talk with a sibling about a parent's care",
@@ -129,8 +159,14 @@
         "When the other person ignites, ask yourself which threat they might be feeling and address that first"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
       ],
       "situations": [
         "Snapping at criticism in a meeting",
@@ -155,7 +191,7 @@
       "name": "Control the Moment: Breath, Quick Scan, Small Talk",
       "takeaway": "Before you answer something charged, take a long-exhale breath, scan your body and name the feeling, then repeat a short mantra.",
       "skill_type": "framework",
-      "explanation": "Fisher's tools for the charged second before an argument starts. First, make your breath your first word: before replying, take a conversational breath, inhaling through the nose, topping up with a second short inhale, then letting out a long slow exhale. He grounds this in research on exhale-focused breathing and in military tactical breathing. Second, make your first thought a quick scan: at the top of the breath, check your body for tension (jaw, shoulders, hands) and, as you exhale, label the emotion in a word. If useful, say it out loud ('I can tell I'm getting frustrated'), which shows control rather than weakness. Third, make your first conversation a small talk: a short, verb-first phrase you say to yourself, tied to your goal, such as 'Stand firm' or 'Find the heart of it'. Labeling emotions has independent support (affect-labeling research); the full sequence is the author's.",
+      "explanation": "Fisher gives three tools for the charged second before an argument starts. First, make your breath your first word: before replying, take a conversational breath, inhaling through the nose, topping up with a second short inhale, then letting out a long slow exhale. He grounds this in research on exhale-focused breathing and in military tactical breathing. Second, make your first thought a quick scan: at the top of the breath, check your body for tension (jaw, shoulders, hands) and, as you exhale, label the emotion in a word. If useful, say it out loud ('I can tell I'm getting frustrated'), which shows control rather than weakness. Third, make your first conversation a small talk: a short, verb-first phrase you say to yourself, tied to your goal, such as 'Stand firm' or 'Find the heart of it'. Labeling emotions has independent support (affect-labeling research); the full sequence is the author's.",
       "when_to_use": "The instant before you respond to a provocation, criticism or surprise; before walking into a meeting you are dreading; when you notice ignition signs. It takes a few seconds, so it works mid-conversation. Not a substitute for a real time-out when you are fully flooded.",
       "worked_example": "A client says on a video call, 'Frankly, this is amateur work.' Instead of answering immediately, Marcus breathes in through his nose, adds a short second sniff, and exhales slowly while noticing his clenched jaw. He labels it 'embarrassed', repeats his mantra 'Ask before answering', and says, 'I can tell this missed the mark for you. Which part concerns you most?' At home, a mother uses the same breath and the mantra 'Calm voice, short words' before responding to a teenager's eye roll.",
       "common_mistakes": [
@@ -172,8 +208,14 @@
         "Repeat a short, verb-first phrase tied to your goal, then speak"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "anxiety"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        }
       ],
       "situations": [
         "Responding to a harsh comment from a client",
@@ -217,9 +259,18 @@
         "If you need more than about ten seconds, call an explicit break instead"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "spontaneous-speaking"},
-        {"category": "public-speaking", "subcategory": "delivery"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "spontaneous-speaking"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        }
       ],
       "situations": [
         "Answering a skeptical question from an executive",
@@ -263,9 +314,18 @@
         "Follow through on what you said you would do, and notice the confidence that builds"
       ],
       "categories": [
-        {"category": "influence", "subcategory": "credibility"},
-        {"category": "written-digital", "subcategory": "email"},
-        {"category": "public-speaking", "subcategory": "delivery"}
+        {
+          "category": "influence",
+          "subcategory": "credibility"
+        },
+        {
+          "category": "written-digital",
+          "subcategory": "email"
+        },
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        }
       ],
       "situations": [
         "Following up on an unanswered request",
@@ -292,7 +352,7 @@
       "name": "Deflect an Insult: Silence, Make Them Repeat It, Ask About Intent",
       "takeaway": "When someone belittles you, go silent, ask them to repeat it, then ask calmly whether they meant it to hurt.",
       "skill_type": "technique",
-      "explanation": "Fisher's view is that insults and put-downs are bids for a reaction; the person wants to see you flinch. His sequence denies them that and hands the remark back. First, a long silence, uncomfortable enough that the words hang in the air. Second, ask them to say it again ('I need you to repeat that'); most people will not, because repeating it in cold blood exposes it. Third, ask a question of intent or outcome, calmly: 'Did you mean for that to sound rude?' or 'Did you want that to embarrass me?' Few people will say yes, so they usually backpedal and rephrase. If they do say yes, you have clear information and can respond with a boundary. For a milder rude or dismissive comment, he suggests a short pause to decide whether it deserves any reply at all. His explanation for why it works (denying a dopamine hit) is speculative; the more plausible mechanism is that it makes people face a gap between their behavior and how they see themselves.",
+      "explanation": "Fisher's view is that insults and put-downs are bids for a reaction; the person wants to see you flinch. His sequence denies them that and hands the remark back. First, a long silence, uncomfortable enough that the words hang in the air. Second, ask them to say it again ('I need you to repeat that'); most people will not, because repeating it in cold blood exposes it. Third, ask a question of intent or outcome, calmly: 'Did you mean for that to sound rude?' or 'Did you want that to embarrass me?' Few people will say yes, so they usually backpedal and rephrase. If they do say yes, you have clear information and can respond with a boundary. His explanation for why it works (denying a dopamine hit) is speculative; the more plausible mechanism is that it makes people face a gap between their behavior and how they see themselves.",
       "when_to_use": "Belittling jokes, patronizing remarks and cutting comments from relatives, coworkers or acquaintances, especially recurring ones. Not for situations with any risk of physical danger, and use with care with your boss in public, where a private follow-up may be wiser.",
       "worked_example": "At a family barbecue an uncle says, 'Still renting at thirty-five? Must be nice to have no responsibilities.' Sam says nothing for several seconds, then, evenly: 'Say that again?' The uncle laughs it off: 'I'm just saying.' Sam asks, 'Did you mean that to sound as dismissive as it did?' The uncle retreats: 'No, no, I just meant the market's crazy.' At work, when a colleague says in a meeting, 'Cute idea, but let the grown-ups handle the pricing,' a pause and 'Did you mean for that to sound condescending?' resets the room.",
       "common_mistakes": [
@@ -310,9 +370,18 @@
         "If they confirm the intent, state a boundary or end the conversation"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "difficult", "subcategory": "boundaries"},
-        {"category": "personal-life", "subcategory": "family"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
       ],
       "situations": [
         "A relative makes a cutting remark at a family gathering",
@@ -331,7 +400,9 @@
       },
       "confidence": "Low",
       "confidence_rationale": "Plausible and widely shared by the author's audience, but it rests on anecdote, its stated mechanism is pop neuroscience, and it can escalate if delivered with any edge.",
-      "flags": ["pop-psychology"]
+      "flags": [
+        "pop-psychology"
+      ]
     },
     {
       "id": "the-next-conversation-08",
@@ -355,9 +426,18 @@
         "When a real apology comes, accept it plainly"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "apologies"},
-        {"category": "personal-life", "subcategory": "repair"},
-        {"category": "difficult", "subcategory": "boundaries"}
+        {
+          "category": "difficult",
+          "subcategory": "apologies"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        }
       ],
       "situations": [
         "A partner says 'sorry you feel that way'",
@@ -400,8 +480,14 @@
         "Explicitly hand them the floor and listen"
       ],
       "categories": [
-        {"category": "professional", "subcategory": "meetings"},
-        {"category": "difficult", "subcategory": "boundaries"}
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        }
       ],
       "situations": [
         "A colleague keeps talking over you in a meeting",
@@ -443,8 +529,14 @@
         "Give your one main reason, then ask what leads them to their view"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "personal-life", "subcategory": "family"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        }
       ],
       "situations": [
         "Disagreeing with a peer in a planning meeting",
@@ -487,8 +579,14 @@
         "If pressed, repeat the no without adding reasons"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "saying-no"},
-        {"category": "difficult", "subcategory": "boundaries"}
+        {
+          "category": "difficult",
+          "subcategory": "saying-no"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        }
       ],
       "situations": [
         "Declining to volunteer again",
@@ -513,7 +611,7 @@
       "name": "A Boundary Is a Perimeter: Statement, Consequence, Follow-Through",
       "takeaway": "Know your non-negotiables, state the boundary as an 'I' sentence, name the consequence, and act on it every time.",
       "skill_type": "framework",
-      "explanation": "Fisher pictures a boundary as a closed perimeter around something you value, such as your family time, health or self-respect, rather than a single line you draw when angry. Where a boundary sits tells people what you value. He suggests writing your own operator's manual: a short list of non-negotiables and automatic nos (for example, not responding to disrespect). Setting one has three parts: state the limit as an 'I' sentence about your own behavior ('I don't work on weekends', 'I don't accept being spoken to like that'); add the consequence if it continues ('If you keep raising your voice, I'm going to end this call'); and follow through every time, since an unenforced consequence teaches people your words are optional. In conversation he also uses boundaries of presence (restating why you are there) and purpose (restating what you are there to discuss) when someone drags in old grievances. Discomfort in the other person often means the boundary is working. He cautions against having so many boundaries that they become control.",
+      "explanation": "Fisher pictures a boundary as a closed perimeter around something you value, such as your family time, health or self-respect, rather than a single line you draw when angry. He suggests writing your own operator's manual: a short list of non-negotiables and automatic nos (for example, not responding to disrespect). Setting one has three parts: state the limit as an 'I' sentence about your own behavior ('I don't work on weekends', 'I don't accept being spoken to like that'); add the consequence if it continues ('If you keep raising your voice, I'm going to end this call'); and follow through every time, since an unenforced consequence teaches people your words are optional. When someone drags in old grievances, he restates why he is there (presence) or what he came to discuss (purpose). Discomfort in the other person often means the boundary is working. He cautions against having so many boundaries that they become control.",
       "when_to_use": "Repeated behavior you will not accept: being yelled at, work creeping into your evenings, a relative who criticizes your parenting, a colleague who dumps tasks on you. Not for one-off irritations, and not as a way to control what other people do in their own lives.",
       "worked_example": "Elena's manager regularly calls her at 9 p.m. She says, 'I don't take work calls after seven unless it's an outage. If it can wait, send me a note and I'll handle it first thing.' The next late call, she lets it go to voicemail and replies at 8 a.m. In a heated call with her mother, who starts on Elena's divorce, she says, 'I called to plan Dad's birthday. If we go back to my marriage, I'm going to hang up and call tomorrow.' When her mother continues, she does exactly that, kindly.",
       "common_mistakes": [
@@ -531,9 +629,18 @@
         "In a derailing conversation, restate why you are there or what you came to discuss"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "boundaries"},
-        {"category": "personal-life", "subcategory": "family"},
-        {"category": "professional", "subcategory": "managing-up"}
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "family"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        }
       ],
       "situations": [
         "A manager who calls late at night",
@@ -559,7 +666,7 @@
       "name": "Frame the Conversation: Set a Direction, Call Your Shot, Get Their Commitment",
       "takeaway": "Open important talks by naming the one topic, saying how you want it to end, and asking if that works for them.",
       "skill_type": "framework",
-      "explanation": "Fisher's signature tool for Rule 3, Say it to Connect. An unframed conversation wanders, runs long, revives old fights and leaves both people unsure what was decided; a vague opener ('Got a minute? We need to talk') also creates anxiety. A frame works like a picture frame, putting borders around what is being discussed. Build it in the first sentences: set a direction (exactly what you want to talk about), call your shot (how you want things to end or feel afterward), and get their commitment ('Does that sound good?'). Keep one frame per conversation, one issue per frame; if there are three issues, have three conversations. When the talk drifts, nudge it back. If you derailed it, own that briefly and return. If they derail it, often defensively, acknowledge their point and steer back, offering to address the new topic later.",
+      "explanation": "Framing is Fisher's signature tool for Rule 3, Say it to Connect. An unframed conversation wanders, runs long, revives old fights and leaves both people unsure what was decided; a vague opener ('Got a minute? We need to talk') also creates anxiety. A frame works like a picture frame, putting borders around what is being discussed. Build it in the first sentences: set a direction (exactly what you want to talk about), call your shot (how you want things to end or feel afterward), and get their commitment ('Does that sound good?'). Keep one frame per conversation, one issue per frame; if there are three issues, have three conversations. When the talk drifts, nudge it back. If you derailed it, own that briefly and return. If they derail it, often defensively, acknowledge their point and steer back, offering to address the new topic later.",
       "when_to_use": "Feedback conversations, raising a concern with a partner or relative, one-on-ones, and meetings that tend to sprawl. Less necessary for casual chats, and it can feel stiff if used for every small exchange.",
       "worked_example": "Raj wants to address a coworker's comment in yesterday's client meeting. He opens: 'I want to talk about the comment about my timeline in front of the client. I'd like us to leave this with a plan for how we raise concerns with each other before client calls. Does that work?' When the coworker brings up an old dispute about credit on a project, Raj says, 'I hear that, and I'm willing to come back to it. Right now I need to finish this one.' With his partner, the same shape works: 'Can we talk about how we split Saturdays? I want us both to end up with a free morning. OK?'",
       "common_mistakes": [
@@ -577,9 +684,18 @@
         "If they drift, acknowledge their point, offer to come back to it, and steer back"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "professional", "subcategory": "meetings"},
-        {"category": "difficult", "subcategory": "giving-feedback"}
+        {
+          "category": "foundations",
+          "subcategory": "message-structures"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
       ],
       "situations": [
         "Addressing a colleague's comment from a meeting",
@@ -622,8 +738,14 @@
         "Then pick up only what is useful and respond to that"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "receiving-feedback"},
-        {"category": "difficult", "subcategory": "conflict"}
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
       ],
       "situations": [
         "Hearing criticism in a performance review",
@@ -649,7 +771,7 @@
       "name": "Lower Their Defenses: 'I' Not 'You', 'What' Not 'Why', Acknowledge First",
       "takeaway": "To avoid triggering defensiveness, start with 'I', ask 'what' or 'how' instead of 'why', and acknowledge before adding your view.",
       "skill_type": "technique",
-      "explanation": "Three wording habits from Fisher's chapter on preventing defensiveness in others. Begin sentences with 'I' rather than 'you', so you describe your experience instead of passing judgment ('I felt blindsided' rather than 'You blindsided me'); when criticizing work, talk about the thing, not the person ('the proposal needs' rather than 'your proposal'). Avoid starting questions with 'why', which tends to sound like a challenge to someone's judgment and autonomy; ask 'what', 'when' or 'how' ('What was going through your mind?' rather than 'Why would you say that?'). In interviews he adds a related move when accused: ask 'What did you hear?' rather than defending what you meant. Finally, acknowledge first: before your view, validate something real in theirs ('That's helpful to know', 'I agree this is worth discussing'), which keeps them from bracing for a 'yeah, but'.",
+      "explanation": "Fisher's chapter on preventing defensiveness in others offers three wording habits. Begin sentences with 'I' rather than 'you', so you describe your experience instead of passing judgment ('I felt blindsided' rather than 'You blindsided me'); when criticizing work, talk about the thing, not the person ('the proposal needs' rather than 'your proposal'). Avoid starting questions with 'why', which tends to sound like a challenge to someone's judgment and autonomy; ask 'what', 'when' or 'how' ('What was going through your mind?' rather than 'Why would you say that?'). In interviews he adds a related move when accused: ask 'What did you hear?' rather than defending what you meant. Finally, acknowledge first: before your view, validate something real in theirs ('That's helpful to know', 'I agree this is worth discussing'), which keeps them from bracing for a 'yeah, but'.",
       "when_to_use": "Raising a problem with someone's work or behavior, asking about a decision you disagree with, and any exchange with a person who is already on edge. In writing, these swaps matter even more because tone is missing.",
       "worked_example": "A nurse manager wants to understand why a shift handoff was skipped. Instead of 'Why didn't you do the handoff?' she asks, 'What got in the way of the handoff last night?' The nurse explains the unit was short two people. She acknowledges, 'That sounds like a brutal shift,' then adds, 'I was worried when the morning team had no notes. How can we make sure that happens even on short nights?' At home, 'Why are you always on your phone?' becomes 'I miss talking at dinner. What would make phone-free dinners work for you?'",
       "common_mistakes": [
@@ -666,9 +788,18 @@
         "If they react defensively anyway, ask what they heard you say"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "relationships", "subcategory": "question-design"},
-        {"category": "difficult", "subcategory": "giving-feedback"}
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "question-design"
+        }
       ],
       "situations": [
         "Asking about a mistake without blaming",
@@ -712,9 +843,14 @@
         "Then explain, listen, and agree on next steps"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "bad-news"},
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "professional", "subcategory": "meetings"}
+        {
+          "category": "difficult",
+          "subcategory": "bad-news"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        }
       ],
       "situations": [
         "Telling a vendor their contract ends",
@@ -737,22 +873,86 @@
     }
   ],
   "supports_existing": [
-    {"insight_id": "think-faster-talk-smarter-02", "relation": "supports", "note": "Fisher teaches the same exhale-weighted breathing for anger and conflict, not just speaking nerves: a 'conversational breath' (nasal inhale, short second inhale, long exhale) used as the first word of any charged reply, and cites the same Stanford breathing trial (Balban et al., 2023)."},
-    {"insight_id": "gottman-seven-principles-03", "relation": "supports", "note": "Fisher's ignition and cooling phases describe the same flooding physiology. In interviews he adds a couple's shorthand for calling a time-out ('my battery's in the red') and treats how often a couple takes time-outs as a sign of healthy communication."},
-    {"insight_id": "gottman-seven-principles-04", "relation": "supports", "note": "In the Diary of a CEO interview (December 2025) Fisher argues relationships fail through many small missed chances to repair, recommends validating feelings first and frustration second, and offers 'Can I try that again?' as a reset; he says the book itself does not cover repair in depth."},
-    {"insight_id": "guyer-vocal-confidence-01", "relation": "supports", "note": "Fisher's assertive-voice chapter gives the same advice in everyday terms: avoid uptalk, end statements with a downward or neutral inflection, and keep a measured cadence, with eye contact at the end of the sentence."},
-    {"insight_id": "ury-positive-no-01", "relation": "qualifies", "note": "Fisher's no differs: lead with the no itself, add thanks and a kind close, and give no reasons or alternatives, repeating the no if pressed. Ury grounds the no in a prior yes and ends with a proposal; Fisher's version suits simple invitations and favors, Ury's suits negotiations and ongoing relationships."},
-    {"insight_id": "givi-kirk-2024-01", "relation": "supports", "note": "Fisher argues people are more resilient to disappointment than we assume and that disappointing someone often means you are protecting something that matters, which matches the finding that declines sting less than decliners fear."},
-    {"insight_id": "connect-13", "relation": "qualifies", "note": "Fisher adds an enforcement step that Connect does not stress: state the limit as an 'I' sentence, name a consequence, and follow through every time. He also recommends a written list of non-negotiables and warns that too many boundaries become control."},
-    {"insight_id": "lewicki-apologies-2016-01", "relation": "supports", "note": "Fisher gives the receiver's side: short replies that push back on apologies missing ownership ('change the if to that', 'apologize for your words, not your stress'), consistent with the finding that acknowledging responsibility matters most."},
-    {"insight_id": "fisher-ury-getting-to-yes-02", "relation": "supports", "note": "In the Mel Robbins interview Fisher describes the same idea for families and roommates: put the problem on the table, invite the other person to sit beside you, and criticize the proposal or the room, not the person ('the room still isn't clean, what should we do?')."},
-    {"insight_id": "keysar-henly-2002-01", "relation": "supports", "note": "Fisher's distinction between transmission and communication, and his question 'What did you hear?' when someone reacts to your words, are a practical way to check how your message actually landed rather than assuming."},
-    {"insight_id": "talk-wood-brooks-12", "relation": "supports", "note": "Fisher splits conversational goals (where you want to end up, kept realistic: something to learn, not something to prove) from conversational values (how you will conduct yourself regardless of the other person), giving the compass a second, self-directed axis."},
-    {"insight_id": "talk-wood-brooks-09", "relation": "supports", "note": "Fisher's 'I see things differently' and 'acknowledge first' are everyday scripts for the same receptive stance in disagreement."},
-    {"insight_id": "miller-rollnick-mi-2023-02", "relation": "supports", "note": "When someone brings Fisher a hard conversation, he advises receiving it graciously, asking one open question, and asking permission before sharing what you have learned, which is the same ask before offering sequence applied to friends and colleagues."},
-    {"insight_id": "connect-09", "relation": "supports", "note": "Fisher's guidance for being a safe space (thank them for raising it, avoid one-upping with your own story, ask before sharing advice) parallels inquiry before advice."},
-    {"insight_id": "kross-2014-01", "relation": "supports", "note": "Fisher's self-coaching line 'Put it down, Jefferson', used in the Chapter 1 deposition story and recommended for letting provocative words fall, is a real-world example of distanced self-talk by name."},
-    {"insight_id": "bond-depaulo-2006-01", "relation": "contradicts", "note": "Fisher claims long pauses expose dishonest people because they cannot stand silence. Deception research finds people judge lies at little better than chance from behavior, so silence should be used to slow things down, not as a lie detector."}
+    {
+      "insight_id": "think-faster-talk-smarter-02",
+      "relation": "supports",
+      "note": "Fisher teaches the same exhale-weighted breathing for anger and conflict, not just speaking nerves: a 'conversational breath' (nasal inhale, short second inhale, long exhale) used as the first word of any charged reply, and cites the same Stanford breathing trial (Balban et al., 2023)."
+    },
+    {
+      "insight_id": "gottman-seven-principles-03",
+      "relation": "supports",
+      "note": "Fisher's ignition and cooling phases describe the same flooding physiology. In interviews he adds a couple's shorthand for calling a time-out ('my battery's in the red') and treats how often a couple takes time-outs as a sign of healthy communication."
+    },
+    {
+      "insight_id": "gottman-seven-principles-04",
+      "relation": "supports",
+      "note": "In the Diary of a CEO interview (December 2025) Fisher argues relationships fail through many small missed chances to repair, recommends validating feelings first and frustration second, and offers 'Can I try that again?' as a reset; he says the book itself does not cover repair in depth."
+    },
+    {
+      "insight_id": "guyer-vocal-confidence-01",
+      "relation": "supports",
+      "note": "Fisher's assertive-voice chapter gives the same advice in everyday terms: avoid uptalk, end statements with a downward or neutral inflection, and keep a measured cadence, with eye contact at the end of the sentence."
+    },
+    {
+      "insight_id": "ury-positive-no-01",
+      "relation": "qualifies",
+      "note": "Fisher's no differs: lead with the no itself, add thanks and a kind close, and give no reasons or alternatives, repeating the no if pressed. Ury grounds the no in a prior yes and ends with a proposal; Fisher's version suits simple invitations and favors, Ury's suits negotiations and ongoing relationships."
+    },
+    {
+      "insight_id": "givi-kirk-2024-01",
+      "relation": "supports",
+      "note": "Fisher argues people are more resilient to disappointment than we assume and that disappointing someone often means you are protecting something that matters, which matches the finding that declines sting less than decliners fear."
+    },
+    {
+      "insight_id": "connect-13",
+      "relation": "qualifies",
+      "note": "Fisher adds an enforcement step that Connect does not stress: state the limit as an 'I' sentence, name a consequence, and follow through every time. He also recommends a written list of non-negotiables and warns that too many boundaries become control."
+    },
+    {
+      "insight_id": "lewicki-apologies-2016-01",
+      "relation": "supports",
+      "note": "Fisher gives the receiver's side: short replies that push back on apologies missing ownership ('change the if to that', 'apologize for your words, not your stress'), consistent with the finding that acknowledging responsibility matters most."
+    },
+    {
+      "insight_id": "fisher-ury-getting-to-yes-02",
+      "relation": "supports",
+      "note": "In the Mel Robbins interview Fisher describes the same idea for families and roommates: put the problem on the table, invite the other person to sit beside you, and criticize the proposal or the room, not the person ('the room still isn't clean, what should we do?')."
+    },
+    {
+      "insight_id": "keysar-henly-2002-01",
+      "relation": "supports",
+      "note": "Fisher's distinction between transmission and communication, and his question 'What did you hear?' when someone reacts to your words, are a practical way to check how your message actually landed rather than assuming."
+    },
+    {
+      "insight_id": "talk-wood-brooks-12",
+      "relation": "supports",
+      "note": "Fisher splits conversational goals (where you want to end up, kept realistic: something to learn, not something to prove) from conversational values (how you will conduct yourself regardless of the other person), giving the compass a second, self-directed axis."
+    },
+    {
+      "insight_id": "talk-wood-brooks-09",
+      "relation": "supports",
+      "note": "Fisher's 'I see things differently' and 'acknowledge first' are everyday scripts for the same receptive stance in disagreement."
+    },
+    {
+      "insight_id": "miller-rollnick-mi-2023-02",
+      "relation": "supports",
+      "note": "When someone brings Fisher a hard conversation, he advises receiving it graciously, asking one open question, and asking permission before sharing what you have learned, which is the same ask before offering sequence applied to friends and colleagues."
+    },
+    {
+      "insight_id": "connect-09",
+      "relation": "supports",
+      "note": "Fisher's guidance for being a safe space (thank them for raising it, avoid one-upping with your own story, ask before sharing advice) parallels inquiry before advice."
+    },
+    {
+      "insight_id": "kross-2014-01",
+      "relation": "supports",
+      "note": "Fisher's self-coaching line 'Put it down, Jefferson', used in the Chapter 1 deposition story and recommended for letting provocative words fall, is a real-world example of distanced self-talk by name."
+    },
+    {
+      "insight_id": "bond-depaulo-2006-01",
+      "relation": "contradicts",
+      "note": "Fisher claims long pauses expose dishonest people because they cannot stand silence. Deception research finds people judge lies at little better than chance from behavior, so silence should be used to slow things down, not as a lie detector."
+    }
   ],
   "verification": {
     "date": "2026-11-05",

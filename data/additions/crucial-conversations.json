@@ -3,7 +3,13 @@
     "book_id": "crucial-conversations",
     "title": "Crucial Conversations",
     "subtitle": "Tools for Talking When Stakes Are High",
-    "authors": ["Joseph Grenny", "Kerry Patterson", "Ron McMillan", "Al Switzler", "Emily Gregory"],
+    "authors": [
+      "Joseph Grenny",
+      "Kerry Patterson",
+      "Ron McMillan",
+      "Al Switzler",
+      "Emily Gregory"
+    ],
     "year": 2021,
     "publisher": "McGraw Hill",
     "edition": "Third edition, McGraw Hill, published October 2021 (publisher press release gives October 26, 2021), 304 pages per the press release and Open Library (library catalogs record xii, 279 numbered pages). The first edition was published in 2002 by McGraw-Hill with four authors (Patterson, Grenny, McMillan, Switzler); Emily Gregory joined as coauthor for the third edition, which added a new chapter on responding rather than initiating (Retake Your Pen), new tips and scripts, and updated examples.",
@@ -13,10 +19,26 @@
     "author_credibility": "The authors are cofounders and leaders of Crucial Learning (formerly VitalSmarts), a Provo, Utah training company whose flagship course is Crucial Conversations; Grenny and Patterson have backgrounds in organizational behavior consulting, and Gregory is a longtime Crucial Learning executive and course developer. They are experienced practitioners and trainers rather than academic researchers. The book is the basis of a large commercial training business (the authors report several million readers and course participants), so the authors have a direct financial interest in the method, and most of the supporting data comes from their own company surveys rather than independent studies.",
     "evidence_base": "The authors say the skills came from observing opinion leaders (people colleagues named as unusually effective in high-stakes moments) inside mostly US companies, then teaching what those people did. Supporting numbers come mainly from the company's own surveys, for example the Silence Kills report with the American Association of Critical-Care Nurses (Maxfield, Grenny, McMillan, Patterson and Switzler, 2005), its sequel The Silent Treatment, and a 2021 survey of about 1,300 people on feeling unsafe to speak up; these are not peer-reviewed outcome studies. No randomized controlled trial of the training was found. Independent evaluations located are weak: an uncontrolled pre and post safety-culture survey after resident training at Oklahoma State University (Som, Beaman, Keener and Stroup, Oklahoma State Medical Proceedings, 2021; 60 percent then 21 percent response rates) and a 2014 nursing conference poster reporting a very small change in a quasi-experimental design. Several individual ideas are consistent with independent research (psychological safety, attribution bias, cognitive reappraisal, specific action plans), but the named frameworks themselves are untested as such.",
     "legal_access": [
-      {"type": "author site", "url": "https://cruciallearning.com/crucial-conversations-book/", "note": "Book resource page; the model handout, discussion questions and videos are emailed after a form, which was not completed."},
-      {"type": "author articles", "url": "https://cruciallearning.com/blog/crucial-conversations-skill-summary-start-with-heart/", "note": "Free official skill summaries (Start with Heart, Make It Safe, Master My Stories) and a weekly reader Q&A column written by the authors and master trainers."},
-      {"type": "publisher press release", "url": "https://cruciallearning.com/press/crucial-learning-releases-third-edition-of-acclaimed-bestselling-book-crucial-conversations/", "note": "Edition details and what changed in the third edition."},
-      {"type": "library", "url": "https://openlibrary.org/isbn/9781260474183", "note": "Widely held in public libraries in print, ebook and audio."}
+      {
+        "type": "author site",
+        "url": "https://cruciallearning.com/crucial-conversations-book/",
+        "note": "Book resource page; the model handout, discussion questions and videos are emailed after a form, which was not completed."
+      },
+      {
+        "type": "author articles",
+        "url": "https://cruciallearning.com/blog/crucial-conversations-skill-summary-start-with-heart/",
+        "note": "Free official skill summaries (Start with Heart, Make It Safe, Master My Stories) and a weekly reader Q&A column written by the authors and master trainers."
+      },
+      {
+        "type": "publisher press release",
+        "url": "https://cruciallearning.com/press/crucial-learning-releases-third-edition-of-acclaimed-bestselling-book-crucial-conversations/",
+        "note": "Edition details and what changed in the third edition."
+      },
+      {
+        "type": "library",
+        "url": "https://openlibrary.org/isbn/9781260474183",
+        "note": "Widely held in public libraries in print, ebook and audio."
+      }
     ]
   },
   "insights": [
@@ -42,8 +64,14 @@
         "If you feel stuck between candor and peace, frame an 'and' question that seeks both, then act on it."
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        }
       ],
       "situations": [
         "Catching yourself arguing to win in a meeting",
@@ -65,7 +93,7 @@
     {
       "id": "crucial-conversations-02",
       "name": "Learn to Look: Silence and Violence",
-      "takeaway": "Notice when a talk turns crucial, and spot silence (masking, avoiding, withdrawing) or violence (controlling, labeling, attacking) in others and yourself.",
+      "takeaway": "Watch yourself and others for silence (masking, avoiding, withdrawing) or violence (controlling, labeling, attacking); either signals lost safety.",
       "skill_type": "framework",
       "explanation": "The authors say most people are so absorbed in the content of a hard conversation that they miss its conditions. Learn to Look means splitting attention between what is being said and how safe people feel saying it. When people stop feeling safe they move toward one of two poles. Silence is any deliberate withholding of meaning: masking (sarcasm, sugarcoating, understating), avoiding (steering away from the real issue) and withdrawing (leaving the conversation). Violence is any attempt to convince, control or compel: controlling (forcing views, dominating), labeling (sticking a stereotype on a person or idea) and attacking (belittling, threatening). Either one signals that safety is at risk and that pushing the content harder will fail. The book includes a Style Under Stress self-assessment so readers can see their own default. Grenny has said the word violence is deliberately strong, and that silence is not the morally better choice.",
       "when_to_use": "During any conversation where stakes, emotions or disagreement are rising, and afterward as a debrief on your own habits. Especially useful in groups, where one person's quiet withdrawal is easy to miss.",
@@ -84,8 +112,14 @@
         "Treat any sign as a cue to step out of the content and rebuild safety before continuing."
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "conversations", "subcategory": "group-dynamics"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        }
       ],
       "situations": [
         "A colleague goes quiet after their idea is rejected",
@@ -127,9 +161,18 @@
         "Return to the original topic once the other person re-engages."
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "relationships", "subcategory": "trust-vulnerability"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "trust-vulnerability"
+        }
       ],
       "situations": [
         "A direct report hears criticism where none was meant",
@@ -171,8 +214,14 @@
         "Pause to check that the explanation landed, then return to the topic and say the hard thing clearly."
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "difficult", "subcategory": "giving-feedback"}
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
       ],
       "situations": [
         "Raising a mistake with a respected senior colleague",
@@ -213,8 +262,14 @@
         "Ask whether the facts support other stories, and hold your story tentatively until you have talked."
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
       ],
       "situations": [
         "Feeling sidelined by a colleague's decision",
@@ -236,7 +291,7 @@
     {
       "id": "crucial-conversations-06",
       "name": "Victim, Villain, Helpless Stories (Tell the Rest of the Story)",
-      "takeaway": "Challenge self-justifying stories: ask your role, why a reasonable person would act this way, and what to do now.",
+      "takeaway": "Challenge victim, villain and helpless stories: ask your own role, why a reasonable person would act this way, and what now.",
       "skill_type": "technique",
       "explanation": "The authors identify three clever stories people tell themselves to justify bad behavior in conflict. Victim stories say it is not my fault and leave out our own contribution. Villain stories exaggerate the other person's bad motives or incompetence and often come with labels, which makes insulting them feel justified. Helpless stories say there is nothing I can do, which excuses silence or blowing up. Each has a matching question that tells the rest of the story. For victim stories: what am I pretending not to notice about my role? For villain stories: why would a reasonable, rational, decent person do this? For helpless stories: what do I really want, and what should I do right now to move toward it? The questions do not excuse the other person; they restore the missing facts so you can act deliberately.",
       "when_to_use": "When you catch yourself blaming, labeling, or feeling stuck, especially when venting to a friend about someone. Also before a confrontation, to check you are not walking in with a villain story.",
@@ -255,8 +310,14 @@
         "Choose one concrete action, often opening a conversation with facts and a tentative story."
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "relationships", "subcategory": "empathy"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        }
       ],
       "situations": [
         "Venting about a boss's unreasonable requests",
@@ -279,7 +340,7 @@
     {
       "id": "crucial-conversations-07",
       "name": "STATE My Path",
-      "takeaway": "Share your facts, tell your story as a story, ask for their view, speak tentatively, and invite them to challenge you.",
+      "takeaway": "To raise a risky concern, share facts first, then your tentative conclusion, ask their view, and invite them to challenge it.",
       "skill_type": "framework",
       "explanation": "STATE is the book's structure for saying something risky. It has three what-to-say skills and two how-to-say-it skills. Share your facts: start with observable, least controversial details. Tell your story: say what you are starting to conclude, because facts alone leave the listener guessing at the point. Ask for others' paths: invite their facts and story. Talk tentatively: present your story as your interpretation ('I'm starting to wonder whether...'), not as truth. Encourage testing: make it genuinely safe for them to disagree, sometimes by inviting the opposing view outright. The idea is to blend confidence (saying the conclusion clearly) with humility (being open to being wrong). The authors warn that tentative does not mean timid: a wishy-washy story that never states the concern is a form of silence. The order mirrors their Path to Action, letting the listener see how a reasonable person could reach your view.",
       "when_to_use": "When you need to raise a concern, give unwelcome feedback, or share a view you expect to provoke defensiveness, at work or at home. Less needed when you are simply passing on uncontested information.",
@@ -299,9 +360,18 @@
         "Invite disagreement, and update your story if their facts change the picture."
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "professional", "subcategory": "managing-up"}
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        }
       ],
       "situations": [
         "Raising suspected missed deadlines with a vendor",
@@ -344,9 +414,18 @@
         "Respond with Agree, Build, or Compare instead of disagreeing outright."
       ],
       "categories": [
-        {"category": "relationships", "subcategory": "listening"},
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "difficult", "subcategory": "receiving-feedback"}
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        }
       ],
       "situations": [
         "An employee gives one-word answers after a schedule change",
@@ -389,9 +468,18 @@
         "Only then plan how you will raise it safely."
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "personal-life", "subcategory": "repair"}
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        }
       ],
       "situations": [
         "Repeated missed deadlines from a coworker",
@@ -409,43 +497,6 @@
       },
       "confidence": "Low",
       "confidence_rationale": "A useful and intuitive sorting heuristic, but it is an untested three-part typology supported only by the authors' teaching experience and examples.",
-      "flags": []
-    },
-    {
-      "id": "crucial-conversations-10",
-      "name": "Retake Your Pen",
-      "takeaway": "When feedback stings, remember that you, not the critic, define your worth, then look for the truth in it.",
-      "skill_type": "mental model",
-      "explanation": "Retake Your Pen is the third edition's new chapter on receiving hard messages, especially badly delivered ones. Your pen is the power to define your own worth. If you hand it to whoever is criticizing you, their feedback feels like a verdict on whether you are acceptable, and you either melt down or fight back. People who handle tough feedback well, the authors say, secure their own sense of safety and worth first, which frees them to look calmly for what is true in the message. Grenny frames it bluntly: you are responsible for your own psychological safety, and the belief that you must make others feel respected leads to sugarcoating and avoidance. The authors present this as long-term personal work as well as an in-the-moment reminder; it is a mindset more than a script.",
-      "when_to_use": "When you are blindsided by criticism, in a performance review, or receiving feedback from someone whose delivery is harsh. It is not a reason to tolerate genuine abuse or physical danger; those are different safety problems that call for leaving or getting protection.",
-      "worked_example": "In a project retrospective a peer says, 'Honestly, your documentation made this harder for everyone.' Mark feels his face heat up and the urge to list everyone else's mistakes. He reminds himself that his value does not hinge on this comment, and that he can decide what to do with it. He asks, 'What part was hardest to use?' and learns the setup steps were out of date, which is true and fixable. When his father criticizes his career choice at dinner, the same reminder lets him listen without needing his father's approval to feel secure.",
-      "common_mistakes": [
-        "Using 'I define my worth' as a reason to dismiss all criticism.",
-        "Expecting the other person to deliver feedback perfectly before you will engage with it.",
-        "Confusing this with tolerating mistreatment; physical or ongoing threats call for different action.",
-        "Treating it as a one-time trick rather than ongoing work on self-worth."
-      ],
-      "steps": [],
-      "categories": [
-        {"category": "difficult", "subcategory": "receiving-feedback"},
-        {"category": "foundations", "subcategory": "mindset"}
-      ],
-      "situations": [
-        "Harsh comments in a project retrospective",
-        "A parent criticizes your life choices",
-        "A tough performance review"
-      ],
-      "source": {
-        "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter 10, Retake Your Pen (new in the third edition).",
-        "underlying_research": "Practitioner experience; no direct empirical test. The authors do not name supporting studies in the sources read.",
-        "urls": [
-          "https://cruciallearning.com/blog/retaking-your-pen-learning-to-author-your-worth/",
-          "https://cruciallearning.com/blog/whos-responsible-for-psychological-safety-in-a-crucial-conversation/",
-          "https://cruciallearning.com/blog/caught-off-guard-and-trying-to-recover/"
-        ]
-      },
-      "confidence": "Low",
-      "confidence_rationale": "A plausible mindset that echoes broader ideas about self-worth and threat, but the chapter is new and its specific claims are supported only by the authors' reasoning and anecdotes.",
       "flags": []
     },
     {
@@ -470,9 +521,18 @@
         "Announce the decision and the reasoning to everyone who gave input."
       ],
       "categories": [
-        {"category": "professional", "subcategory": "meetings"},
-        {"category": "conversations", "subcategory": "group-dynamics"},
-        {"category": "professional", "subcategory": "managing-up"}
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        }
       ],
       "situations": [
         "Opening a meeting that must end in a choice",
@@ -514,9 +574,18 @@
         "Write the agreement down and share it if the stakes or the history call for it."
       ],
       "categories": [
-        {"category": "professional", "subcategory": "meetings"},
-        {"category": "professional", "subcategory": "status-updates"},
-        {"category": "difficult", "subcategory": "conflict"}
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        },
+        {
+          "category": "professional",
+          "subcategory": "status-updates"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
       ],
       "situations": [
         "Closing a meeting that resolved a dispute",
@@ -551,9 +620,18 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "foundations", "subcategory": "mindset"},
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "conversations", "subcategory": "group-dynamics"}
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "group-dynamics"
+        }
       ],
       "situations": [
         "A team agrees too quickly on a big change",
@@ -576,21 +654,78 @@
     }
   ],
   "supports_existing": [
-    {"insight_id": "think-faster-talk-smarter-16", "relation": "supports", "note": "CLEAR's step of questioning the villain story is borrowed from Joseph Grenny and Crucial Conversations. The original adds the victim and helpless stories and a specific question for each (my role, why would a reasonable person do this, what should I do now); see crucial-conversations-06."},
-    {"insight_id": "how-to-know-a-person-12", "relation": "supports", "note": "Crucial Conversations is a main source for the safety-before-substance idea. It adds a diagnosis (is mutual purpose or mutual respect at risk?) and concrete repair tools: apology, contrasting, and CRIB; see crucial-conversations-03 and -04."},
-    {"insight_id": "supercommunicators-11", "relation": "supports", "note": "Both aim for understanding over conversion in heated disagreement. Crucial Conversations adds a way to spot lost safety (silence and violence) and the step-out, restore, step-back-in sequence."},
-    {"insight_id": "connect-03", "relation": "supports", "note": "Separating observable behavior from guesses about intent matches the Path to Action, which adds that the story we tell drives our own emotions, so changing the story changes the feeling (crucial-conversations-05)."},
-    {"insight_id": "connect-04", "relation": "supports", "note": "STATE My Path also starts with observable facts but adds stating your tentative story explicitly, asking for theirs, and inviting them to test it (crucial-conversations-07)."},
-    {"insight_id": "talk-wood-brooks-09", "relation": "qualifies", "note": "Crucial Conversations endorses tentative, hedged language but warns that hedging can slide into silence: the concern itself must still be stated clearly, blending confidence with humility."},
-    {"insight_id": "supercommunicators-07", "relation": "supports", "note": "Paraphrase in AMPP is the same move as looping. The book adds Mirror (naming a mismatch between words and tone) and Prime (offering a guess when someone is stuck), and the Agree, Build, Compare response (crucial-conversations-08)."},
-    {"insight_id": "fisher-ury-getting-to-yes-01", "relation": "supports", "note": "CRIB's 'Recognize the purpose behind the strategy' applies interests-over-positions thinking to everyday conflicts and pairs it with inventing a broader shared purpose before brainstorming."},
-    {"insight_id": "ury-positive-no-02", "relation": "supports", "note": "Silence and violence map onto avoid or accommodate versus attack. Crucial Conversations adds finer categories (masking, avoiding, withdrawing; controlling, labeling, attacking) and a self-assessment of your default style under stress."},
-    {"insight_id": "connect-05", "relation": "supports", "note": "The third edition's claim that relationship and team health is measured by the lag between seeing a problem and raising it supports raising pinches early; the authors also warn that what is not talked out gets acted out."},
-    {"insight_id": "morrison-2014-voice-02", "relation": "supports", "note": "The authors' Silence Kills survey with the American Association of Critical-Care Nurses (2005) reported that few health care workers felt able to raise concerns about colleagues; it is a vendor survey rather than peer-reviewed research, but it illustrates habitual silence in a high-stakes field."},
-    {"insight_id": "mroz-allen-2018-meetings-01", "relation": "supports", "note": "Meeting science's advice to be honest about decision rights and to send clear follow-ups is operationalized in the book's four decision methods and the WWWF close (crucial-conversations-11 and -12)."},
-    {"insight_id": "connect-07", "relation": "supports", "note": "Retake Your Pen adds the receiver's internal precondition: secure your own sense of worth so you can look for the data in feedback even when it is badly delivered (crucial-conversations-10)."}
+    {
+      "insight_id": "think-faster-talk-smarter-16",
+      "relation": "supports",
+      "note": "CLEAR's step of questioning the villain story is borrowed from Joseph Grenny and Crucial Conversations. The original adds the victim and helpless stories and a specific question for each (my role, why would a reasonable person do this, what should I do now); see crucial-conversations-06."
+    },
+    {
+      "insight_id": "how-to-know-a-person-12",
+      "relation": "supports",
+      "note": "Crucial Conversations is a main source for the safety-before-substance idea. It adds a diagnosis (is mutual purpose or mutual respect at risk?) and concrete repair tools: apology, contrasting, and CRIB; see crucial-conversations-03 and -04."
+    },
+    {
+      "insight_id": "supercommunicators-11",
+      "relation": "supports",
+      "note": "Both aim for understanding over conversion in heated disagreement. Crucial Conversations adds a way to spot lost safety (silence and violence) and the step-out, restore, step-back-in sequence."
+    },
+    {
+      "insight_id": "connect-03",
+      "relation": "supports",
+      "note": "Separating observable behavior from guesses about intent matches the Path to Action, which adds that the story we tell drives our own emotions, so changing the story changes the feeling (crucial-conversations-05)."
+    },
+    {
+      "insight_id": "connect-04",
+      "relation": "supports",
+      "note": "STATE My Path also starts with observable facts but adds stating your tentative story explicitly, asking for theirs, and inviting them to test it (crucial-conversations-07)."
+    },
+    {
+      "insight_id": "talk-wood-brooks-09",
+      "relation": "qualifies",
+      "note": "Crucial Conversations endorses tentative, hedged language but warns that hedging can slide into silence: the concern itself must still be stated clearly, blending confidence with humility."
+    },
+    {
+      "insight_id": "supercommunicators-07",
+      "relation": "supports",
+      "note": "Paraphrase in AMPP is the same move as looping. The book adds Mirror (naming a mismatch between words and tone) and Prime (offering a guess when someone is stuck), and the Agree, Build, Compare response (crucial-conversations-08)."
+    },
+    {
+      "insight_id": "fisher-ury-getting-to-yes-01",
+      "relation": "supports",
+      "note": "CRIB's 'Recognize the purpose behind the strategy' applies interests-over-positions thinking to everyday conflicts and pairs it with inventing a broader shared purpose before brainstorming."
+    },
+    {
+      "insight_id": "ury-positive-no-02",
+      "relation": "supports",
+      "note": "Silence and violence map onto avoid or accommodate versus attack. Crucial Conversations adds finer categories (masking, avoiding, withdrawing; controlling, labeling, attacking) and a self-assessment of your default style under stress."
+    },
+    {
+      "insight_id": "connect-05",
+      "relation": "supports",
+      "note": "The third edition's claim that relationship and team health is measured by the lag between seeing a problem and raising it supports raising pinches early; the authors also warn that what is not talked out gets acted out."
+    },
+    {
+      "insight_id": "morrison-2014-voice-02",
+      "relation": "supports",
+      "note": "The authors' Silence Kills survey with the American Association of Critical-Care Nurses (2005) reported that few health care workers felt able to raise concerns about colleagues; it is a vendor survey rather than peer-reviewed research, but it illustrates habitual silence in a high-stakes field."
+    },
+    {
+      "insight_id": "mroz-allen-2018-meetings-01",
+      "relation": "supports",
+      "note": "Meeting science's advice to be honest about decision rights and to send clear follow-ups is operationalized in the book's four decision methods and the WWWF close (crucial-conversations-11 and -12)."
+    },
+    {
+      "insight_id": "connect-07",
+      "relation": "supports",
+      "note": "Retake Your Pen adds the receiver's internal precondition: secure your own sense of worth so you can look for the data in feedback even when it is badly delivered."
+    },
+    {
+      "insight_id": "difficult-conversations-08",
+      "relation": "supports",
+      "note": "Retake Your Pen (3rd ed., ch. 10, new in this edition) gives the same advice as Ground Your Identity: when criticism feels like a verdict on your worth, secure your own sense of worth first so you can look calmly for what is true in it. It adds Grenny's framing that you are responsible for your own psychological safety in a hard conversation, and a caveat that the idea is not a reason to tolerate abuse or physical danger, which call for leaving or getting protection. Practitioner reasoning only; no direct empirical test (merged from the former crucial-conversations-10 during batch integration, 2026-11-05)."
+    }
   ],
-  "research_notes": "Coverage checklist (third edition structure: Preface; ch. 1 What's a Crucial Conversation; ch. 2 Mastering Crucial Conversations: The Power of Dialogue; Part I What to Do Before You Open Your Mouth; Part II How to Open Your Mouth; Part III How to Finish; ch. 13 Putting It All Together). Outcomes: Pool of Shared Meaning and the lag-time health measure -> crucial-conversations-13 plus supports connect-05. Choose Your Topic / Unbundle with CPR -> -09. Start with Heart (including the Fool's Choice and 'what do I really want') -> -01; the Fool's Choice was folded into -01 rather than given its own entry because its practical advice is the 'and' question that ends Start with Heart. Learn to Look and Silence versus Violence, with the Style Under Stress test -> -02 plus supports ury-positive-no-02. Make It Safe (mutual purpose, mutual respect, apologize, CRIB) -> -03 plus supports how-to-know-a-person-12, supercommunicators-11 and fisher-ury-getting-to-yes-01. Contrasting -> -04 (separate because it is the book's most-used single technique). Master My Stories and the Path to Action -> -05 plus supports connect-03. Victim, villain and helpless clever stories -> -06 plus supports think-faster-talk-smarter-16. STATE My Path -> -07 plus supports connect-04 and qualifies talk-wood-brooks-09. Explore Others' Paths with AMPP and Agree, Build, Compare -> -08 plus supports supercommunicators-07. Retake Your Pen (new third-edition chapter on responding) -> -10 plus supports connect-07. Move to Action: four decision methods -> -11; WWWF -> -12; both support mroz-allen-2018-meetings-01. Silence Kills survey -> supports morrison-2014-voice-02 (evidence note only). Skipped: (a) 'Strategic withdrawal' for being ambushed (Ron McMillan blog, 2014) because it was not confirmed to be in the book and largely duplicates gottman-seven-principles-03; (b) the 'Yeah, But' chapter of tough cases, because its contents could not be verified from legal sources; (c) 'Putting It All Together' and the coaching model, as a summary of skills already covered; (d) the reptilian-brain or fight-or-flight framing of why we fail, as a minor and oversimplified explanatory point; (e) 'Talk tentatively' and 'Encourage testing' as separate entries, since they are parts of STATE. Prior assessment in data/stage3/candidates-difficult.json (no independent peer-reviewed test; support mainly from the publisher's own surveys; Low to Medium) was confirmed: the only independent evaluations found are an uncontrolled pre and post survey (Som et al., Oklahoma State Medical Proceedings, 2021) and a 2014 nursing conference poster with a negligible effect, plus several unpublished DNP projects. Individual techniques were therefore rated Medium only where independent research supports the underlying idea (safety, reappraisal, attribution bias, implementation intentions, participative decisions, listening) and Low where they are untested typologies (CPR) or new conceptual material (Retake Your Pen). Research links not cited by the book are labeled as such. Sources: official Crucial Learning skill summaries and author or master-trainer Q&A columns were read in full through the site's public WordPress API; Shortform summaries were used only to cross-check STATE, AMPP and the decision methods. Unauthorized PDF copies surfaced by searches were deliberately not used.",
+  "research_notes": "Coverage checklist (third edition structure: Preface; ch. 1 What's a Crucial Conversation; ch. 2 Mastering Crucial Conversations: The Power of Dialogue; Part I What to Do Before You Open Your Mouth; Part II How to Open Your Mouth; Part III How to Finish; ch. 13 Putting It All Together). Outcomes: Pool of Shared Meaning and the lag-time health measure -> crucial-conversations-13 plus supports connect-05. Choose Your Topic / Unbundle with CPR -> -09. Start with Heart (including the Fool's Choice and 'what do I really want') -> -01; the Fool's Choice was folded into -01 rather than given its own entry because its practical advice is the 'and' question that ends Start with Heart. Learn to Look and Silence versus Violence, with the Style Under Stress test -> -02 plus supports ury-positive-no-02. Make It Safe (mutual purpose, mutual respect, apologize, CRIB) -> -03 plus supports how-to-know-a-person-12, supercommunicators-11 and fisher-ury-getting-to-yes-01. Contrasting -> -04 (separate because it is the book's most-used single technique). Master My Stories and the Path to Action -> -05 plus supports connect-03. Victim, villain and helpless clever stories -> -06 plus supports think-faster-talk-smarter-16. STATE My Path -> -07 plus supports connect-04 and qualifies talk-wood-brooks-09. Explore Others' Paths with AMPP and Agree, Build, Compare -> -08 plus supports supercommunicators-07. Retake Your Pen (new third-edition chapter on responding) -> originally -10; merged during batch integration (2026-11-05) into difficult-conversations-08 (Ground Your Identity), the earlier and fuller version of the same advice, as a supports link; it also supports connect-07. The id crucial-conversations-10 is retired and not reused. Move to Action: four decision methods -> -11; WWWF -> -12; both support mroz-allen-2018-meetings-01. Silence Kills survey -> supports morrison-2014-voice-02 (evidence note only). Skipped: (a) 'Strategic withdrawal' for being ambushed (Ron McMillan blog, 2014) because it was not confirmed to be in the book and largely duplicates gottman-seven-principles-03; (b) the 'Yeah, But' chapter of tough cases, because its contents could not be verified from legal sources; (c) 'Putting It All Together' and the coaching model, as a summary of skills already covered; (d) the reptilian-brain or fight-or-flight framing of why we fail, as a minor and oversimplified explanatory point; (e) 'Talk tentatively' and 'Encourage testing' as separate entries, since they are parts of STATE. Prior assessment in data/stage3/candidates-difficult.json (no independent peer-reviewed test; support mainly from the publisher's own surveys; Low to Medium) was confirmed: the only independent evaluations found are an uncontrolled pre and post survey (Som et al., Oklahoma State Medical Proceedings, 2021) and a 2014 nursing conference poster with a negligible effect, plus several unpublished DNP projects. Individual techniques were therefore rated Medium only where independent research supports the underlying idea (safety, reappraisal, attribution bias, implementation intentions, participative decisions, listening) and Low where they are untested typologies (CPR) or new conceptual material (Retake Your Pen). Research links not cited by the book are labeled as such. Sources: official Crucial Learning skill summaries and author or master-trainer Q&A columns were read in full through the site's public WordPress API; Shortform summaries were used only to cross-check STATE, AMPP and the decision methods. Unauthorized PDF copies surfaced by searches were deliberately not used.",
   "verification": {
     "date": "2026-11-05",
     "sources_read": [

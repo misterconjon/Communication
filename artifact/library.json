@@ -4799,7 +4799,7 @@
     {
      "source_id": "crucial-conversations",
      "relation": "supports",
-     "note": "Retake Your Pen adds the receiver's internal precondition: secure your own sense of worth so you can look for the data in feedback even when it is badly delivered (crucial-conversations-10)."
+     "note": "Retake Your Pen adds the receiver's internal precondition: secure your own sense of worth so you can look for the data in feedback even when it is badly delivered."
     }
    ]
   },
@@ -18190,7 +18190,7 @@
     },
     {
      "category": "foundations",
-     "subcategory": "mindset"
+     "subcategory": "audience-goals"
     }
    ],
    "situations": [
@@ -18215,7 +18215,7 @@
    "id": "crucial-conversations-02",
    "source_id": "crucial-conversations",
    "name": "Learn to Look: Silence and Violence",
-   "takeaway": "Notice when a talk turns crucial, and spot silence (masking, avoiding, withdrawing) or violence (controlling, labeling, attacking) in others and yourself.",
+   "takeaway": "Watch yourself and others for silence (masking, avoiding, withdrawing) or violence (controlling, labeling, attacking); either signals lost safety.",
    "skill_type": "framework",
    "explanation": "The authors say most people are so absorbed in the content of a hard conversation that they miss its conditions. Learn to Look means splitting attention between what is being said and how safe people feel saying it. When people stop feeling safe they move toward one of two poles. Silence is any deliberate withholding of meaning: masking (sarcasm, sugarcoating, understating), avoiding (steering away from the real issue) and withdrawing (leaving the conversation). Violence is any attempt to convince, control or compel: controlling (forcing views, dominating), labeling (sticking a stereotype on a person or idea) and attacking (belittling, threatening). Either one signals that safety is at risk and that pushing the content harder will fail. The book includes a Style Under Stress self-assessment so readers can see their own default. Grenny has said the word violence is deliberately strong, and that silence is not the morally better choice.",
    "when_to_use": "During any conversation where stakes, emotions or disagreement are rising, and afterward as a debrief on your own habits. Especially useful in groups, where one person's quiet withdrawal is easy to miss.",
@@ -18342,11 +18342,11 @@
    "categories": [
     {
      "category": "difficult",
-     "subcategory": "conflict"
+     "subcategory": "giving-feedback"
     },
     {
      "category": "difficult",
-     "subcategory": "giving-feedback"
+     "subcategory": "conflict"
     }
    ],
    "situations": [
@@ -18421,7 +18421,7 @@
    "id": "crucial-conversations-06",
    "source_id": "crucial-conversations",
    "name": "Victim, Villain, Helpless Stories (Tell the Rest of the Story)",
-   "takeaway": "Challenge self-justifying stories: ask your role, why a reasonable person would act this way, and what to do now.",
+   "takeaway": "Challenge victim, villain and helpless stories: ask your own role, why a reasonable person would act this way, and what now.",
    "skill_type": "technique",
    "explanation": "The authors identify three clever stories people tell themselves to justify bad behavior in conflict. Victim stories say it is not my fault and leave out our own contribution. Villain stories exaggerate the other person's bad motives or incompetence and often come with labels, which makes insulting them feel justified. Helpless stories say there is nothing I can do, which excuses silence or blowing up. Each has a matching question that tells the rest of the story. For victim stories: what am I pretending not to notice about my role? For villain stories: why would a reasonable, rational, decent person do this? For helpless stories: what do I really want, and what should I do right now to move toward it? The questions do not excuse the other person; they restore the missing facts so you can act deliberately.",
    "when_to_use": "When you catch yourself blaming, labeling, or feeling stuck, especially when venting to a friend about someone. Also before a confrontation, to check you are not walking in with a villain story.",
@@ -18472,7 +18472,7 @@
    "id": "crucial-conversations-07",
    "source_id": "crucial-conversations",
    "name": "STATE My Path",
-   "takeaway": "Share your facts, tell your story as a story, ask for their view, speak tentatively, and invite them to challenge you.",
+   "takeaway": "To raise a risky concern, share facts first, then your tentative conclusion, ask their view, and invite them to challenge it.",
    "skill_type": "framework",
    "explanation": "STATE is the book's structure for saying something risky. It has three what-to-say skills and two how-to-say-it skills. Share your facts: start with observable, least controversial details. Tell your story: say what you are starting to conclude, because facts alone leave the listener guessing at the point. Ask for others' paths: invite their facts and story. Talk tentatively: present your story as your interpretation ('I'm starting to wonder whether...'), not as truth. Encourage testing: make it genuinely safe for them to disagree, sometimes by inviting the opposing view outright. The idea is to blend confidence (saying the conclusion clearly) with humility (being open to being wrong). The authors warn that tentative does not mean timid: a wishy-washy story that never states the concern is a form of silence. The order mirrors their Path to Action, letting the listener see how a reasonable person could reach your view.",
    "when_to_use": "When you need to raise a concern, give unwelcome feedback, or share a view you expect to provoke defensiveness, at work or at home. Less needed when you are simply passing on uncontested information.",
@@ -18606,11 +18606,11 @@
    "categories": [
     {
      "category": "difficult",
-     "subcategory": "conflict"
+     "subcategory": "giving-feedback"
     },
     {
      "category": "difficult",
-     "subcategory": "giving-feedback"
+     "subcategory": "conflict"
     },
     {
      "category": "personal-life",
@@ -18633,51 +18633,6 @@
    },
    "confidence": "Low",
    "confidence_rationale": "A useful and intuitive sorting heuristic, but it is an untested three-part typology supported only by the authors' teaching experience and examples.",
-   "flags": [],
-   "supporting_evidence": []
-  },
-  {
-   "id": "crucial-conversations-10",
-   "source_id": "crucial-conversations",
-   "name": "Retake Your Pen",
-   "takeaway": "When feedback stings, remember that you, not the critic, define your worth, then look for the truth in it.",
-   "skill_type": "mental model",
-   "explanation": "Retake Your Pen is the third edition's new chapter on receiving hard messages, especially badly delivered ones. Your pen is the power to define your own worth. If you hand it to whoever is criticizing you, their feedback feels like a verdict on whether you are acceptable, and you either melt down or fight back. People who handle tough feedback well, the authors say, secure their own sense of safety and worth first, which frees them to look calmly for what is true in the message. Grenny frames it bluntly: you are responsible for your own psychological safety, and the belief that you must make others feel respected leads to sugarcoating and avoidance. The authors present this as long-term personal work as well as an in-the-moment reminder; it is a mindset more than a script.",
-   "when_to_use": "When you are blindsided by criticism, in a performance review, or receiving feedback from someone whose delivery is harsh. It is not a reason to tolerate genuine abuse or physical danger; those are different safety problems that call for leaving or getting protection.",
-   "worked_example": "In a project retrospective a peer says, 'Honestly, your documentation made this harder for everyone.' Mark feels his face heat up and the urge to list everyone else's mistakes. He reminds himself that his value does not hinge on this comment, and that he can decide what to do with it. He asks, 'What part was hardest to use?' and learns the setup steps were out of date, which is true and fixable. When his father criticizes his career choice at dinner, the same reminder lets him listen without needing his father's approval to feel secure.",
-   "common_mistakes": [
-    "Using 'I define my worth' as a reason to dismiss all criticism.",
-    "Expecting the other person to deliver feedback perfectly before you will engage with it.",
-    "Confusing this with tolerating mistreatment; physical or ongoing threats call for different action.",
-    "Treating it as a one-time trick rather than ongoing work on self-worth."
-   ],
-   "steps": [],
-   "categories": [
-    {
-     "category": "difficult",
-     "subcategory": "receiving-feedback"
-    },
-    {
-     "category": "foundations",
-     "subcategory": "mindset"
-    }
-   ],
-   "situations": [
-    "Harsh comments in a project retrospective",
-    "A parent criticizes your life choices",
-    "A tough performance review"
-   ],
-   "source": {
-    "citation": "Grenny, Patterson, McMillan, Switzler and Gregory, Crucial Conversations, 3rd ed. (2021), chapter 10, Retake Your Pen (new in the third edition).",
-    "underlying_research": "Practitioner experience; no direct empirical test. The authors do not name supporting studies in the sources read.",
-    "urls": [
-     "https://cruciallearning.com/blog/retaking-your-pen-learning-to-author-your-worth/",
-     "https://cruciallearning.com/blog/whos-responsible-for-psychological-safety-in-a-crucial-conversation/",
-     "https://cruciallearning.com/blog/caught-off-guard-and-trying-to-recover/"
-    ]
-   },
-   "confidence": "Low",
-   "confidence_rationale": "A plausible mindset that echoes broader ideas about self-worth and threat, but the chapter is new and its specific claims are supported only by the authors' reasoning and anecdotes.",
    "flags": [],
    "supporting_evidence": []
   },
@@ -19009,16 +18964,12 @@
    "steps": [],
    "categories": [
     {
-     "category": "difficult",
-     "subcategory": "conflict"
-    },
-    {
      "category": "foundations",
      "subcategory": "mindset"
     },
     {
-     "category": "personal-life",
-     "subcategory": "family"
+     "category": "difficult",
+     "subcategory": "conflict"
     }
    ],
    "situations": [
@@ -19065,15 +19016,15 @@
    "categories": [
     {
      "category": "difficult",
+     "subcategory": "giving-feedback"
+    },
+    {
+     "category": "difficult",
      "subcategory": "conflict"
     },
     {
      "category": "difficult",
-     "subcategory": "giving-feedback"
-    },
-    {
-     "category": "relationships",
-     "subcategory": "empathy"
+     "subcategory": "receiving-feedback"
     }
    ],
    "situations": [
@@ -19183,6 +19134,10 @@
      "subcategory": "conflict"
     },
     {
+     "category": "difficult",
+     "subcategory": "giving-feedback"
+    },
+    {
      "category": "relationships",
      "subcategory": "empathy"
     }
@@ -19263,13 +19218,19 @@
    "confidence": "Medium",
    "confidence_rationale": "Confirmed in the chapter title, worksheet and interviews. The underlying mechanism (self-threat drives defensiveness) is well supported by self-affirmation research, though the book's specific grounding steps are untested.",
    "flags": [],
-   "supporting_evidence": []
+   "supporting_evidence": [
+    {
+     "source_id": "crucial-conversations",
+     "relation": "supports",
+     "note": "Retake Your Pen (3rd ed., ch. 10, new in this edition) gives the same advice as Ground Your Identity: when criticism feels like a verdict on your worth, secure your own sense of worth first so you can look calmly for what is true in it. It adds Grenny's framing that you are responsible for your own psychological safety in a hard conversation, and a caveat that the idea is not a reason to tolerate abuse or physical danger, which call for leaving or getting protection. Practitioner reasoning only; no direct empirical test (merged from the former crucial-conversations-10 during batch integration, 2026-11-05)."
+    }
+   ]
   },
   {
    "id": "difficult-conversations-09",
    "source_id": "difficult-conversations",
    "name": "Choose Your Purpose: Raise It or Let It Go",
-   "takeaway": "Decide whether to raise an issue by checking your purpose; aim to learn, express and problem-solve, never to change them.",
+   "takeaway": "Decide whether to raise an issue by checking your purpose; aim to learn, express and problem-solve, not to change them.",
    "skill_type": "technique",
    "explanation": "Not every difficult issue should be raised. Working through the three conversations on your own first often shows that the conflict is partly inside you, or that a different action would fix it better than talking. If you do talk, choose purposes you can control. Changing the other person or getting them to admit fault is not one, because only they can decide that. The authors recommend three purposes that fit almost any hard conversation: learning (understand their story first), expression (share your views and feelings), and problem-solving (find a way forward that works for both). If you decide to let it go, they suggest four attitudes: it is not your job to fix everything, the other person has limits too, the issue is separate from your worth, and you can let go and still care.",
    "when_to_use": "When you are unsure whether a conversation is worth having, before any planned hard conversation, and when you have decided not to raise something but keep replaying it.",
@@ -19289,12 +19250,12 @@
    ],
    "categories": [
     {
-     "category": "difficult",
-     "subcategory": "conflict"
-    },
-    {
      "category": "foundations",
      "subcategory": "audience-goals"
+    },
+    {
+     "category": "difficult",
+     "subcategory": "conflict"
     }
    ],
    "situations": [
@@ -19343,12 +19304,12 @@
      "subcategory": "conflict"
     },
     {
-     "category": "personal-life",
-     "subcategory": "partners"
-    },
-    {
      "category": "difficult",
      "subcategory": "giving-feedback"
+    },
+    {
+     "category": "personal-life",
+     "subcategory": "partners"
     }
    ],
    "situations": [
@@ -19614,12 +19575,12 @@
      "subcategory": "conflict"
     },
     {
-     "category": "relationships",
-     "subcategory": "empathy"
+     "category": "difficult",
+     "subcategory": "giving-feedback"
     },
     {
-     "category": "personal-life",
-     "subcategory": "partners"
+     "category": "relationships",
+     "subcategory": "empathy"
     }
    ],
    "situations": [
@@ -20155,8 +20116,8 @@
      "subcategory": "conflict"
     },
     {
-     "category": "professional",
-     "subcategory": "meetings"
+     "category": "conversations",
+     "subcategory": "group-dynamics"
     },
     {
      "category": "personal-life",
@@ -20186,7 +20147,7 @@
    "id": "talk-like-ted-01",
    "source_id": "talk-like-ted",
    "name": "Emotional, Novel, Memorable",
-   "takeaway": "Check every talk for three things: does it touch the heart, teach something new, and deliver it unforgettably?",
+   "takeaway": "Make every talk emotional, novel and memorable: touch the heart, teach something new, and present it unforgettably.",
    "skill_type": "framework",
    "explanation": "Gallo's signature framework sorts the nine secrets of popular TED talks into three groups. Emotional talks touch the heart: the speaker shows a genuine connection to the topic, tells stories, and sounds conversational. Novel talks teach the audience something new, include one jaw-dropping moment, and lighten up with humor. Memorable talks stay short, organize content into a few chunks, appeal to more than one sense, and come across as authentic. It works as a review checklist: most dull business presentations fail on emotion and novelty because they are built as information dumps. The framework comes from Gallo's review of hundreds of popular talks and interviews with speakers, not from a test of the package, and it overlaps heavily with Made to Stick's SUCCESs checklist (emotional, unexpected, concrete, story), which reached similar conclusions from a different route.",
    "when_to_use": "When drafting or reviewing any prepared presentation, keynote, pitch, or all-hands talk. Less useful for a short status update where the audience wants the facts fast.",
@@ -20709,7 +20670,7 @@
    "name": "Control the Moment: Breath, Quick Scan, Small Talk",
    "takeaway": "Before you answer something charged, take a long-exhale breath, scan your body and name the feeling, then repeat a short mantra.",
    "skill_type": "framework",
-   "explanation": "Fisher's tools for the charged second before an argument starts. First, make your breath your first word: before replying, take a conversational breath, inhaling through the nose, topping up with a second short inhale, then letting out a long slow exhale. He grounds this in research on exhale-focused breathing and in military tactical breathing. Second, make your first thought a quick scan: at the top of the breath, check your body for tension (jaw, shoulders, hands) and, as you exhale, label the emotion in a word. If useful, say it out loud ('I can tell I'm getting frustrated'), which shows control rather than weakness. Third, make your first conversation a small talk: a short, verb-first phrase you say to yourself, tied to your goal, such as 'Stand firm' or 'Find the heart of it'. Labeling emotions has independent support (affect-labeling research); the full sequence is the author's.",
+   "explanation": "Fisher gives three tools for the charged second before an argument starts. First, make your breath your first word: before replying, take a conversational breath, inhaling through the nose, topping up with a second short inhale, then letting out a long slow exhale. He grounds this in research on exhale-focused breathing and in military tactical breathing. Second, make your first thought a quick scan: at the top of the breath, check your body for tension (jaw, shoulders, hands) and, as you exhale, label the emotion in a word. If useful, say it out loud ('I can tell I'm getting frustrated'), which shows control rather than weakness. Third, make your first conversation a small talk: a short, verb-first phrase you say to yourself, tied to your goal, such as 'Stand firm' or 'Find the heart of it'. Labeling emotions has independent support (affect-labeling research); the full sequence is the author's.",
    "when_to_use": "The instant before you respond to a provocation, criticism or surprise; before walking into a meeting you are dreading; when you notice ignition signs. It takes a few seconds, so it works mid-conversation. Not a substitute for a real time-out when you are fully flooded.",
    "worked_example": "A client says on a video call, 'Frankly, this is amateur work.' Instead of answering immediately, Marcus breathes in through his nose, adds a short second sniff, and exhales slowly while noticing his clenched jaw. He labels it 'embarrassed', repeats his mantra 'Ask before answering', and says, 'I can tell this missed the mark for you. Which part concerns you most?' At home, a mother uses the same breath and the mantra 'Calm voice, short words' before responding to a teenager's eye roll.",
    "common_mistakes": [
@@ -20876,7 +20837,7 @@
    "name": "Deflect an Insult: Silence, Make Them Repeat It, Ask About Intent",
    "takeaway": "When someone belittles you, go silent, ask them to repeat it, then ask calmly whether they meant it to hurt.",
    "skill_type": "technique",
-   "explanation": "Fisher's view is that insults and put-downs are bids for a reaction; the person wants to see you flinch. His sequence denies them that and hands the remark back. First, a long silence, uncomfortable enough that the words hang in the air. Second, ask them to say it again ('I need you to repeat that'); most people will not, because repeating it in cold blood exposes it. Third, ask a question of intent or outcome, calmly: 'Did you mean for that to sound rude?' or 'Did you want that to embarrass me?' Few people will say yes, so they usually backpedal and rephrase. If they do say yes, you have clear information and can respond with a boundary. For a milder rude or dismissive comment, he suggests a short pause to decide whether it deserves any reply at all. His explanation for why it works (denying a dopamine hit) is speculative; the more plausible mechanism is that it makes people face a gap between their behavior and how they see themselves.",
+   "explanation": "Fisher's view is that insults and put-downs are bids for a reaction; the person wants to see you flinch. His sequence denies them that and hands the remark back. First, a long silence, uncomfortable enough that the words hang in the air. Second, ask them to say it again ('I need you to repeat that'); most people will not, because repeating it in cold blood exposes it. Third, ask a question of intent or outcome, calmly: 'Did you mean for that to sound rude?' or 'Did you want that to embarrass me?' Few people will say yes, so they usually backpedal and rephrase. If they do say yes, you have clear information and can respond with a boundary. His explanation for why it works (denying a dopamine hit) is speculative; the more plausible mechanism is that it makes people face a gap between their behavior and how they see themselves.",
    "when_to_use": "Belittling jokes, patronizing remarks and cutting comments from relatives, coworkers or acquaintances, especially recurring ones. Not for situations with any risk of physical danger, and use with care with your boss in public, where a private follow-up may be wiser.",
    "worked_example": "At a family barbecue an uncle says, 'Still renting at thirty-five? Must be nice to have no responsibilities.' Sam says nothing for several seconds, then, evenly: 'Say that again?' The uncle laughs it off: 'I'm just saying.' Sam asks, 'Did you mean that to sound as dismissive as it did?' The uncle retreats: 'No, no, I just meant the market's crazy.' At work, when a colleague says in a meeting, 'Cute idea, but let the grown-ups handle the pricing,' a pause and 'Did you mean for that to sound condescending?' resets the room.",
    "common_mistakes": [
@@ -21145,7 +21106,7 @@
    "name": "A Boundary Is a Perimeter: Statement, Consequence, Follow-Through",
    "takeaway": "Know your non-negotiables, state the boundary as an 'I' sentence, name the consequence, and act on it every time.",
    "skill_type": "framework",
-   "explanation": "Fisher pictures a boundary as a closed perimeter around something you value, such as your family time, health or self-respect, rather than a single line you draw when angry. Where a boundary sits tells people what you value. He suggests writing your own operator's manual: a short list of non-negotiables and automatic nos (for example, not responding to disrespect). Setting one has three parts: state the limit as an 'I' sentence about your own behavior ('I don't work on weekends', 'I don't accept being spoken to like that'); add the consequence if it continues ('If you keep raising your voice, I'm going to end this call'); and follow through every time, since an unenforced consequence teaches people your words are optional. In conversation he also uses boundaries of presence (restating why you are there) and purpose (restating what you are there to discuss) when someone drags in old grievances. Discomfort in the other person often means the boundary is working. He cautions against having so many boundaries that they become control.",
+   "explanation": "Fisher pictures a boundary as a closed perimeter around something you value, such as your family time, health or self-respect, rather than a single line you draw when angry. He suggests writing your own operator's manual: a short list of non-negotiables and automatic nos (for example, not responding to disrespect). Setting one has three parts: state the limit as an 'I' sentence about your own behavior ('I don't work on weekends', 'I don't accept being spoken to like that'); add the consequence if it continues ('If you keep raising your voice, I'm going to end this call'); and follow through every time, since an unenforced consequence teaches people your words are optional. When someone drags in old grievances, he restates why he is there (presence) or what he came to discuss (purpose). Discomfort in the other person often means the boundary is working. He cautions against having so many boundaries that they become control.",
    "when_to_use": "Repeated behavior you will not accept: being yelled at, work creeping into your evenings, a relative who criticizes your parenting, a colleague who dumps tasks on you. Not for one-off irritations, and not as a way to control what other people do in their own lives.",
    "worked_example": "Elena's manager regularly calls her at 9 p.m. She says, 'I don't take work calls after seven unless it's an outage. If it can wait, send me a note and I'll handle it first thing.' The next late call, she lets it go to voicemail and replies at 8 a.m. In a heated call with her mother, who starts on Elena's divorce, she says, 'I called to plan Dad's birthday. If we go back to my marriage, I'm going to hang up and call tomorrow.' When her mother continues, she does exactly that, kindly.",
    "common_mistakes": [
@@ -21202,7 +21163,7 @@
    "name": "Frame the Conversation: Set a Direction, Call Your Shot, Get Their Commitment",
    "takeaway": "Open important talks by naming the one topic, saying how you want it to end, and asking if that works for them.",
    "skill_type": "framework",
-   "explanation": "Fisher's signature tool for Rule 3, Say it to Connect. An unframed conversation wanders, runs long, revives old fights and leaves both people unsure what was decided; a vague opener ('Got a minute? We need to talk') also creates anxiety. A frame works like a picture frame, putting borders around what is being discussed. Build it in the first sentences: set a direction (exactly what you want to talk about), call your shot (how you want things to end or feel afterward), and get their commitment ('Does that sound good?'). Keep one frame per conversation, one issue per frame; if there are three issues, have three conversations. When the talk drifts, nudge it back. If you derailed it, own that briefly and return. If they derail it, often defensively, acknowledge their point and steer back, offering to address the new topic later.",
+   "explanation": "Framing is Fisher's signature tool for Rule 3, Say it to Connect. An unframed conversation wanders, runs long, revives old fights and leaves both people unsure what was decided; a vague opener ('Got a minute? We need to talk') also creates anxiety. A frame works like a picture frame, putting borders around what is being discussed. Build it in the first sentences: set a direction (exactly what you want to talk about), call your shot (how you want things to end or feel afterward), and get their commitment ('Does that sound good?'). Keep one frame per conversation, one issue per frame; if there are three issues, have three conversations. When the talk drifts, nudge it back. If you derailed it, own that briefly and return. If they derail it, often defensively, acknowledge their point and steer back, offering to address the new topic later.",
    "when_to_use": "Feedback conversations, raising a concern with a partner or relative, one-on-ones, and meetings that tend to sprawl. Less necessary for casual chats, and it can feel stiff if used for every small exchange.",
    "worked_example": "Raj wants to address a coworker's comment in yesterday's client meeting. He opens: 'I want to talk about the comment about my timeline in front of the client. I'd like us to leave this with a plan for how we raise concerns with each other before client calls. Does that work?' When the coworker brings up an old dispute about credit on a project, Raj says, 'I hear that, and I'm willing to come back to it. Right now I need to finish this one.' With his partner, the same shape works: 'Can we talk about how we split Saturdays? I want us both to end up with a free morning. OK?'",
    "common_mistakes": [
@@ -21221,16 +21182,16 @@
    ],
    "categories": [
     {
-     "category": "difficult",
-     "subcategory": "conflict"
-    },
-    {
-     "category": "professional",
-     "subcategory": "meetings"
+     "category": "foundations",
+     "subcategory": "message-structures"
     },
     {
      "category": "difficult",
      "subcategory": "giving-feedback"
+    },
+    {
+     "category": "professional",
+     "subcategory": "meetings"
     }
    ],
    "situations": [
@@ -21311,7 +21272,7 @@
    "name": "Lower Their Defenses: 'I' Not 'You', 'What' Not 'Why', Acknowledge First",
    "takeaway": "To avoid triggering defensiveness, start with 'I', ask 'what' or 'how' instead of 'why', and acknowledge before adding your view.",
    "skill_type": "technique",
-   "explanation": "Three wording habits from Fisher's chapter on preventing defensiveness in others. Begin sentences with 'I' rather than 'you', so you describe your experience instead of passing judgment ('I felt blindsided' rather than 'You blindsided me'); when criticizing work, talk about the thing, not the person ('the proposal needs' rather than 'your proposal'). Avoid starting questions with 'why', which tends to sound like a challenge to someone's judgment and autonomy; ask 'what', 'when' or 'how' ('What was going through your mind?' rather than 'Why would you say that?'). In interviews he adds a related move when accused: ask 'What did you hear?' rather than defending what you meant. Finally, acknowledge first: before your view, validate something real in theirs ('That's helpful to know', 'I agree this is worth discussing'), which keeps them from bracing for a 'yeah, but'.",
+   "explanation": "Fisher's chapter on preventing defensiveness in others offers three wording habits. Begin sentences with 'I' rather than 'you', so you describe your experience instead of passing judgment ('I felt blindsided' rather than 'You blindsided me'); when criticizing work, talk about the thing, not the person ('the proposal needs' rather than 'your proposal'). Avoid starting questions with 'why', which tends to sound like a challenge to someone's judgment and autonomy; ask 'what', 'when' or 'how' ('What was going through your mind?' rather than 'Why would you say that?'). In interviews he adds a related move when accused: ask 'What did you hear?' rather than defending what you meant. Finally, acknowledge first: before your view, validate something real in theirs ('That's helpful to know', 'I agree this is worth discussing'), which keeps them from bracing for a 'yeah, but'.",
    "when_to_use": "Raising a problem with someone's work or behavior, asking about a decision you disagree with, and any exchange with a person who is already on edge. In writing, these swaps matter even more because tone is missing.",
    "worked_example": "A nurse manager wants to understand why a shift handoff was skipped. Instead of 'Why didn't you do the handoff?' she asks, 'What got in the way of the handoff last night?' The nurse explains the unit was short two people. She acknowledges, 'That sounds like a brutal shift,' then adds, 'I was worried when the morning team had no notes. How can we make sure that happens even on short nights?' At home, 'Why are you always on your phone?' becomes 'I miss talking at dinner. What would make phone-free dinners work for you?'",
    "common_mistakes": [
@@ -21330,15 +21291,15 @@
    "categories": [
     {
      "category": "difficult",
+     "subcategory": "giving-feedback"
+    },
+    {
+     "category": "difficult",
      "subcategory": "conflict"
     },
     {
      "category": "relationships",
      "subcategory": "question-design"
-    },
-    {
-     "category": "difficult",
-     "subcategory": "giving-feedback"
     }
    ],
    "situations": [
@@ -21392,10 +21353,6 @@
     {
      "category": "difficult",
      "subcategory": "giving-feedback"
-    },
-    {
-     "category": "professional",
-     "subcategory": "meetings"
     }
    ],
    "situations": [
@@ -21452,18 +21409,20 @@
     },
     {
      "step": "Match the format to how your manager takes in information",
-     "detail": "If your manager likes to read first, send a short note and then talk. If they prefer to hear things, talk first and send the written version afterward. Either way, ask for a private slot with enough time rather than dropping it into a group meeting.",
+     "detail": "If your manager likes to read first, send a short note and then talk. If they prefer to hear things, talk first and send the written version afterward. Either way, ask for a private slot with enough time rather than dropping it into a group meeting. Propose a specific time and length rather than 'Got a second?'.",
      "insight_ids": [
       "gabarro-kotter-managing-your-boss-02",
-      "baile-spikes-2000-01"
+      "baile-spikes-2000-01",
+      "the-next-conversation-16"
      ]
     },
     {
      "step": "Signal the news, then say it plainly",
-     "detail": "Open with a short warning that you have a problem to share, then state it in plain words without padding or jokes. A joke attached to an admission makes listeners take it less seriously, and here you need them to.",
+     "detail": "Open with a short warning that you have a problem to share, then state it in plain words without padding or jokes. A joke attached to an admission makes listeners take it less seriously, and here you need them to. Skip the small-talk cushion: 'This won't be easy to hear,' then the main point within your first two sentences.",
      "insight_ids": [
       "baile-spikes-2000-01",
-      "humor-seriously-06"
+      "humor-seriously-06",
+      "the-next-conversation-16"
      ]
     },
     {
@@ -21513,7 +21472,8 @@
     "think-faster-talk-smarter-07",
     "baile-spikes-2000-01",
     "baile-spikes-2000-02",
-    "humor-seriously-06"
+    "humor-seriously-06",
+    "the-next-conversation-16"
    ],
    "evidence_note": "The strongest support is the High-confidence research on why people stay silent with superiors (morrison-2014-voice-01); the other insights are Medium. SPIKES and its process critique come from medical bad-news research, so using them with a manager is an adaptation, and the no-surprises advice (gabarro-kotter-managing-your-boss-03) is expert guidance rather than tested experimentally."
   },
@@ -22023,11 +21983,12 @@
     },
     {
      "step": "Say the no plainly, then offer a realistic alternative",
-     "detail": "Thank them for thinking of you, state the no in one sentence framed around your limit rather than their request, and then offer something you can actually do: a smaller piece, a later date, or a referral.",
+     "detail": "Thank them for thinking of you, state the no in one sentence framed around your limit rather than their request, and then offer something you can actually do: a smaller piece, a later date, or a referral. For a request you have already decided against and nothing needs negotiating, a short no, a thank-you and a kind close is enough; if pressed, repeat the no rather than adding reasons. With your own manager, keep the alternative.",
      "insight_ids": [
       "ury-positive-no-01",
       "givi-kirk-2024-01",
-      "connect-13"
+      "connect-13",
+      "the-next-conversation-11"
      ]
     },
     {
@@ -22059,9 +22020,10 @@
     "improv-wisdom-01",
     "connect-13",
     "ames-wazlawek-2014-01",
-    "ames-wazlawek-2014-02"
+    "ames-wazlawek-2014-02",
+    "the-next-conversation-11"
    ],
-   "evidence_note": "All supporting insights are Medium. The strongest are the experiments showing declines hurt less than expected (givi-kirk-2024-01), though they studied social invitations rather than work requests, and the research on misjudging your own assertiveness (ames-wazlawek-2014-01 and -02). The Positive No structure (ury-positive-no-01) is practitioner guidance."
+   "evidence_note": "All supporting insights are Medium. The strongest are the experiments showing declines hurt less than expected (givi-kirk-2024-01), though they studied social invitations rather than work requests, and the research on misjudging your own assertiveness (ames-wazlawek-2014-01 and -02). The Positive No structure (ury-positive-no-01) is practitioner guidance. The Next Conversation (Medium, practitioner) argues for a bare no without reasons or alternatives, which pulls against the Positive No; the playbook keeps the alternative for work requests and uses the bare no only when nothing needs negotiating."
   },
   {
    "id": "giving-critical-feedback-to-a-peer",
@@ -22083,26 +22045,30 @@
     },
     {
      "step": "Separate what they did from your guesses about why",
-     "detail": "Write down the observable behavior, how it affected you, and, separately, what you are assuming about their motives. Plan to speak only about the first two, and turn any trait you dislike into a specific behavior.",
+     "detail": "Write down the observable behavior, how it affected you, and, separately, what you are assuming about their motives. Plan to speak only about the first two, and turn any trait you dislike into a specific behavior. If you feel strongly, trace the feeling back to the story you are telling yourself and check it against what you actually saw and heard.",
      "insight_ids": [
       "connect-03",
-      "connect-15"
+      "connect-15",
+      "crucial-conversations-05"
      ]
     },
     {
      "step": "Set up a private conversation with goodwill",
-     "detail": "Pick a private moment with enough time and open by saying why the working relationship matters to you, so they are less likely to feel ambushed.",
+     "detail": "Pick a private moment with enough time and open by saying why the working relationship matters to you, so they are less likely to feel ambushed. Name the one topic and the outcome you hope for, and if they might hear blame, say what you do not mean before what you do.",
      "insight_ids": [
       "how-to-know-a-person-12",
-      "connect-05"
+      "connect-05",
+      "the-next-conversation-13",
+      "crucial-conversations-04"
      ]
     },
     {
      "step": "Name the behavior and your real feeling",
-     "detail": "Describe one recent, specific behavior in neutral terms, then the impact, using a real feeling word rather than 'I feel that you...'. Skip the praise sandwich; it blurs the message.",
+     "detail": "Describe one recent, specific behavior in neutral terms, then the impact, using a real feeling word rather than 'I feel that you...'. Skip the praise sandwich; it blurs the message. Describe it the way a camera would record it, with no 'always' or 'never'.",
      "insight_ids": [
       "connect-04",
-      "connect-06"
+      "connect-06",
+      "nonviolent-communication-02"
      ]
     },
     {
@@ -22116,10 +22082,11 @@
     },
     {
      "step": "Agree on a small experiment",
-     "detail": "Settle on a concrete change for both of you and a time to check in. Treat it as an invitation the first time; if the issue keeps recurring, it is fair to be more direct about what happens if nothing changes.",
+     "detail": "Settle on a concrete change for both of you and a time to check in. Treat it as an invitation the first time; if the issue keeps recurring, it is fair to be more direct about what happens if nothing changes. Before you finish, say who will do what by when, and when you will check in.",
      "insight_ids": [
       "connect-08",
-      "think-faster-talk-smarter-10"
+      "think-faster-talk-smarter-10",
+      "crucial-conversations-12"
      ]
     }
    ],
@@ -22145,7 +22112,12 @@
     "connect-06",
     "connect-08",
     "supercommunicators-07",
-    "think-faster-talk-smarter-10"
+    "think-faster-talk-smarter-10",
+    "crucial-conversations-05",
+    "the-next-conversation-13",
+    "crucial-conversations-04",
+    "nonviolent-communication-02",
+    "crucial-conversations-12"
    ],
    "evidence_note": "The core comes from Connect (Medium), which draws on decades of teaching interpersonal skills rather than controlled trials. The step on setting up the conversation uses one Low-confidence insight (how-to-know-a-person-12). The tension between offering feedback as data (connect-04) and naming consequences (think-faster-talk-smarter-10) is handled by escalating only when a pattern recurs."
   },
@@ -22163,16 +22135,19 @@
    "approach": [
     {
      "step": "Steady your body before you respond",
-     "detail": "Take one or two slow breaths with a longer exhale than inhale. You do not need to answer right away.",
+     "detail": "Take one or two slow breaths with a longer exhale than inhale. You do not need to answer right away. Let the words drop for a moment before you decide what to pick up, and remind yourself that you can be competent and still have gotten this wrong.",
      "insight_ids": [
-      "think-faster-talk-smarter-02"
+      "think-faster-talk-smarter-02",
+      "the-next-conversation-14",
+      "difficult-conversations-08"
      ]
     },
     {
      "step": "Listen for the bottom line",
-     "detail": "Slow down and take in the whole message, including what they seem worried about, before forming a reply. Ask yourself what they actually want from you.",
+     "detail": "Slow down and take in the whole message, including what they seem worried about, before forming a reply. Ask yourself what they actually want from you. Instead of blaming yourself or them, guess what they needed or were counting on, and check the guess.",
      "insight_ids": [
-      "think-faster-talk-smarter-06"
+      "think-faster-talk-smarter-06",
+      "nonviolent-communication-05"
      ]
     },
     {
@@ -22192,10 +22167,11 @@
     },
     {
      "step": "Accept the impact as real, even if your intent was good",
-     "detail": "Their experience of your behavior is real data about how you land, even if you meant well. Find the part that is true and say so before adding any context.",
+     "detail": "Their experience of your behavior is real data about how you land, even if you meant well. Find the part that is true and say so before adding any context. Acknowledge the impact first; share what you meant only after they feel heard.",
      "insight_ids": [
       "connect-03",
-      "gottman-seven-principles-01"
+      "gottman-seven-principles-01",
+      "difficult-conversations-05"
      ]
     },
     {
@@ -22234,7 +22210,11 @@
     "how-to-know-a-person-07",
     "connect-03",
     "gottman-seven-principles-01",
-    "ames-wazlawek-2014-02"
+    "ames-wazlawek-2014-02",
+    "the-next-conversation-14",
+    "difficult-conversations-08",
+    "nonviolent-communication-05",
+    "difficult-conversations-05"
    ],
    "evidence_note": "All supporting insights are Medium, and most come from practitioner books (Connect, Think Faster, Talk Smarter). The antidote to defensiveness (gottman-seven-principles-01) comes from couples research applied here to work, and the outside-eyes step rests on research on misjudging your own assertiveness (ames-wazlawek-2014-02)."
   },
@@ -22259,11 +22239,12 @@
     },
     {
      "step": "Be direct about the problem, not about their character",
-     "detail": "Name the specific situation, how you feel, and what you need. Directness is what gets problems changed; attacking who they are, sulking, or guilt trips do not.",
+     "detail": "Name the specific situation, how you feel, and what you need. Directness is what gets problems changed; attacking who they are, sulking, or guilt trips do not. One way to say it: what you observed, how you feel, what you need, and one specific request.",
      "insight_ids": [
       "gottman-seven-principles-01",
       "overall-mcnulty-2017-01",
-      "overall-mcnulty-2017-02"
+      "overall-mcnulty-2017-02",
+      "nonviolent-communication-01"
      ]
     },
     {
@@ -22283,17 +22264,19 @@
     },
     {
      "step": "Take a real break if either of you floods",
-     "detail": "If your pulse is racing or you want to flee or attack, say so and name a time to come back. Spend at least twenty minutes on something calming, not rehearsing the argument, and then return as promised.",
+     "detail": "If your pulse is racing or you want to flee or attack, say so and name a time to come back. Spend at least twenty minutes on something calming, not rehearsing the argument, and then return as promised. Earlier, before it gets that far, a slow breath with a long exhale and naming your feeling in a word can stop the climb.",
      "insight_ids": [
-      "gottman-seven-principles-03"
+      "gottman-seven-principles-03",
+      "the-next-conversation-04"
      ]
     },
     {
      "step": "Agree a step and a time to revisit",
-     "detail": "For a fixable issue, settle a practical change. For a lasting difference, agree a temporary arrangement and check in over the following weeks on whether things are actually improving.",
+     "detail": "For a fixable issue, settle a practical change. For a lasting difference, agree a temporary arrangement and check in over the following weeks on whether things are actually improving. Name the need each of you is protecting, then look for a strategy that meets both.",
      "insight_ids": [
       "gottman-seven-principles-05",
-      "overall-mcnulty-2017-01"
+      "overall-mcnulty-2017-01",
+      "nonviolent-communication-04"
      ]
     },
     {
@@ -22326,7 +22309,10 @@
     "supercommunicators-07",
     "gottman-seven-principles-04",
     "gottman-seven-principles-03",
-    "gottman-seven-principles-02"
+    "gottman-seven-principles-02",
+    "nonviolent-communication-01",
+    "the-next-conversation-04",
+    "nonviolent-communication-04"
    ],
    "evidence_note": "The strongest support is the High-confidence review showing that direct requests drive change (overall-mcnulty-2017-01); Gottman's principles and looping are Medium. The tension between directness and Gottman's warnings about criticism is resolved by being direct about the specific problem while avoiding attacks on character."
   },
@@ -22352,9 +22338,10 @@
     },
     {
      "step": "Name the feeling and let it make sense",
-     "detail": "Say what you hear, such as exhaustion or anger, and that it makes sense given what happened. Avoid 'at least' and explanations, which quietly tell them how they should feel.",
+     "detail": "Say what you hear, such as exhaustion or anger, and that it makes sense given what happened. Avoid 'at least' and explanations, which quietly tell them how they should feel. Offer your read as a question ('Are you feeling worn out?') and accept corrections.",
      "insight_ids": [
-      "high-dillard-2012-01"
+      "high-dillard-2012-01",
+      "nonviolent-communication-07"
      ]
     },
     {
@@ -22410,7 +22397,8 @@
     "connect-09",
     "miller-rollnick-mi-2023-02",
     "rafaeli-gleason-2009-01",
-    "rafaeli-gleason-2009-02"
+    "rafaeli-gleason-2009-02",
+    "nonviolent-communication-07"
    ],
    "evidence_note": "The comfort ladder (high-dillard-2012-01, High) rests on a meta-analysis of comforting messages and anchors the approach. The support-misfire research (rafaeli-gleason-2009-01 and -02) is Medium and comes from diary studies of couples; the presence-over-fixing insight (how-to-know-a-person-10, Medium) rests on one deeply considered personal case."
   },
@@ -22594,10 +22582,11 @@
    "approach": [
     {
      "step": "Clarify audience and intent, then find the one-sentence core",
-     "detail": "Write who is in the room, what they care about, and the action you want from them. Then reduce your message to one sentence they could repeat, and cut points that compete with it.",
+     "detail": "Write who is in the room, what they care about, and the action you want from them. Then reduce your message to one sentence they could repeat, and cut points that compete with it. A message map (one headline, about three supporting points, evidence under each) gives you the 15-second, two-minute and full versions from one plan.",
      "insight_ids": [
       "communicate-with-mastery-01",
-      "made-to-stick-03"
+      "made-to-stick-03",
+      "talk-like-ted-07"
      ]
     },
     {
@@ -22626,10 +22615,11 @@
     },
     {
      "step": "Rehearse the first minute and do a dry run",
-     "detail": "Practice your opening sentences aloud until they are automatic, since that is when nerves spike. Do a full rehearsal with a colleague a few days before and ask for one or two specific changes.",
+     "detail": "Practice your opening sentences aloud until they are automatic, since that is when nerves spike. Do a full rehearsal with a colleague a few days before and ask for one or two specific changes. For a high-stakes briefing, rehearse aloud on separate days, record one run, and keep going until it sounds conversational rather than recited.",
      "insight_ids": [
       "bodie-2010-02",
-      "communicate-with-mastery-15"
+      "communicate-with-mastery-15",
+      "talk-like-ted-04"
      ]
     },
     {
@@ -22664,7 +22654,9 @@
     "made-to-stick-14",
     "made-to-stick-01",
     "bodie-2010-02",
-    "communicate-with-mastery-15"
+    "communicate-with-mastery-15",
+    "talk-like-ted-07",
+    "talk-like-ted-04"
    ],
    "evidence_note": "All supporting insights are Medium, and most come from practitioner methods (Minto, Schramm, the Heaths) that are widely used but not tested as a package. The first-minute rehearsal step rests on research into how speaking anxiety peaks at the start (bodie-2010-02)."
   },
@@ -22689,10 +22681,11 @@
     },
     {
      "step": "Breathe and hear the whole question",
-     "detail": "Take a slow breath and let the person finish. Listen for the concern underneath the wording.",
+     "detail": "Take a slow breath and let the person finish. Listen for the concern underneath the wording. A pause of one to four seconds before you answer reads as deliberate, not stuck.",
      "insight_ids": [
       "think-faster-talk-smarter-02",
-      "think-faster-talk-smarter-06"
+      "think-faster-talk-smarter-06",
+      "the-next-conversation-05"
      ]
     },
     {
@@ -22749,7 +22742,8 @@
     "think-faster-talk-smarter-11",
     "think-faster-talk-smarter-05",
     "fisher-ury-getting-to-yes-06",
-    "bitterly-schweitzer-deflection-01"
+    "bitterly-schweitzer-deflection-01",
+    "the-next-conversation-05"
    ],
    "evidence_note": "All supporting insights are Medium. The research on how audiences judge answers (rogers-norton-artful-dodger-01 and -02) and the deflection experiments (bitterly-schweitzer-deflection-01) give the best evidence; the reframing of attacks (fisher-ury-getting-to-yes-06) comes from negotiation and is adapted here to Q&A."
   },
@@ -22951,10 +22945,11 @@
     },
     {
      "step": "Write the agenda as questions, with time for each",
-     "detail": "Turn each item into a question the group must answer, such as 'Which two vendors do we shortlist?', and estimate time per question. Book a little less time than the default.",
+     "detail": "Turn each item into a question the group must answer, such as 'Which two vendors do we shortlist?', and estimate time per question. Book a little less time than the default. For any question that ends in a decision, say up front how it will be made: command, consult, vote or consensus.",
      "insight_ids": [
       "rogelberg-meetings-02",
-      "rogelberg-meetings-04"
+      "rogelberg-meetings-04",
+      "crucial-conversations-11"
      ]
     },
     {
@@ -22988,10 +22983,11 @@
     },
     {
      "step": "Close each question with an answer, an owner and a date",
-     "detail": "State the decision aloud before moving on, and send decisions and owners to everyone soon after the meeting.",
+     "detail": "State the decision aloud before moving on, and send decisions and owners to everyone soon after the meeting. Make each owner one named person and agree how progress will be checked.",
      "insight_ids": [
       "rogelberg-meetings-02",
-      "mroz-allen-2018-meetings-01"
+      "mroz-allen-2018-meetings-01",
+      "crucial-conversations-12"
      ]
     }
    ],
@@ -23017,7 +23013,9 @@
     "rogelberg-meetings-06",
     "mroz-allen-2018-meetings-01",
     "mroz-allen-2018-meetings-02",
-    "improv-wisdom-08"
+    "improv-wisdom-08",
+    "crucial-conversations-11",
+    "crucial-conversations-12"
    ],
    "evidence_note": "Two steps rest on High-confidence meeting science: the before, during and after checklist (mroz-allen-2018-meetings-01) and silent brainstorming (rogelberg-meetings-05). The other Rogelberg insights and the complaining-spiral finding are Medium, and steering back to purpose (improv-wisdom-08) is practitioner guidance."
   },
@@ -23224,11 +23222,12 @@
     },
     {
      "step": "State the limit directly, as your need",
-     "detail": "Name the specific behavior, its effect on you, and the change you are asking for. Hints, sulking and guilt can win brief reassurance but leave the problem in place.",
+     "detail": "Name the specific behavior, its effect on you, and the change you are asking for. Hints, sulking and guilt can win brief reassurance but leave the problem in place. Say it as an 'I' sentence about what you will do, and name a proportionate consequence if it continues.",
      "insight_ids": [
       "connect-13",
       "connect-15",
-      "overall-mcnulty-2017-02"
+      "overall-mcnulty-2017-02",
+      "the-next-conversation-12"
      ]
     },
     {
@@ -23240,10 +23239,11 @@
     },
     {
      "step": "Expect less fallout than you fear, and hold steady",
-     "detail": "People usually overestimate how hurt the other person will be. If you feel you went too far, look at how they actually behave before backing down.",
+     "detail": "People usually overestimate how hurt the other person will be. If you feel you went too far, look at how they actually behave before backing down. If the limit is crossed, carry out the consequence calmly each time; a consequence you do not enforce teaches people the boundary is optional.",
      "insight_ids": [
       "givi-kirk-2024-01",
-      "ames-wazlawek-2014-01"
+      "ames-wazlawek-2014-01",
+      "the-next-conversation-12"
      ]
     },
     {
@@ -23274,9 +23274,10 @@
     "ury-positive-no-01",
     "overall-mcnulty-2017-02",
     "givi-kirk-2024-01",
-    "ames-wazlawek-2014-01"
+    "ames-wazlawek-2014-01",
+    "the-next-conversation-12"
    ],
-   "evidence_note": "All supporting insights are Medium. The research pieces (overall-mcnulty-2017-02 on guilt trips, givi-kirk-2024-01 on declines, ames-wazlawek-2014-01 on feeling you overstepped) come from couples, invitations and negotiations, so applying them to other family members is an extension; Connect and Ury supply the structure."
+   "evidence_note": "All supporting insights are Medium. The research pieces (overall-mcnulty-2017-02 on guilt trips, givi-kirk-2024-01 on declines, ames-wazlawek-2014-01 on feeling you overstepped) come from couples, invitations and negotiations, so applying them to other family members is an extension; Connect and Ury supply the structure. The consequence and follow-through steps come from The Next Conversation (Medium, practitioner advice without a direct test)."
   },
   {
    "id": "first-conversation-with-a-new-manager",
@@ -23455,10 +23456,11 @@
    "approach": [
     {
      "step": "Aim for understanding, not conversion",
-     "detail": "Decide beforehand that success is mutual understanding. Even good stories and conversations move views only modestly, so hoping to win sets you up to push too hard.",
+     "detail": "Decide beforehand that success is mutual understanding. Even good stories and conversations move views only modestly, so hoping to win sets you up to push too hard. First ask whether the two of you actually need to agree on this, and whether you need to agree now.",
      "insight_ids": [
       "supercommunicators-11",
-      "braddock-dillard-2016-01"
+      "braddock-dillard-2016-01",
+      "the-next-conversation-10"
      ]
     },
     {
@@ -23494,10 +23496,11 @@
     },
     {
      "step": "Speak with visible openness",
-     "detail": "Hedge your claims, avoid lecturing, say what you are for rather than only what you oppose, and if you add an argument, frame it in values they hold.",
+     "detail": "Hedge your claims, avoid lecturing, say what you are for rather than only what you oppose, and if you add an argument, frame it in values they hold. Say 'I see it differently' rather than 'you're wrong'.",
      "insight_ids": [
       "talk-wood-brooks-09",
-      "feinberg-willer-2019-01"
+      "feinberg-willer-2019-01",
+      "the-next-conversation-10"
      ]
     }
    ],
@@ -23522,7 +23525,8 @@
     "talk-wood-brooks-09",
     "talk-wood-brooks-14",
     "supercommunicators-10",
-    "feinberg-willer-2019-01"
+    "feinberg-willer-2019-01",
+    "the-next-conversation-10"
    ],
    "evidence_note": "Two High-confidence insights anchor this: field experiments on exchanging stories (kalla-broockman-2020-01) and the meta-analysis showing stories nudge rather than convert (braddock-dillard-2016-01), which sets realistic expectations. The listening, receptiveness and identity insights are Medium."
   },
@@ -23721,9 +23725,10 @@
     },
     {
      "step": "Choose one concrete story",
-     "detail": "Pick a specific moment with details people can picture that shows a quality you admire, instead of general praise like 'she is so generous'.",
+     "detail": "Pick a specific moment with details people can picture that shows a quality you admire, instead of general praise like 'she is so generous'. A story most guests can relate to works best.",
      "insight_ids": [
-      "made-to-stick-07"
+      "made-to-stick-07",
+      "talk-like-ted-03"
      ]
     },
     {
@@ -23743,11 +23748,12 @@
     },
     {
      "step": "Rehearse the opening and steady your nerves",
-     "detail": "Practice the first lines aloud until they are automatic, and as you stand, label the rush as excitement. Remember the room sees far less of your nerves than you feel.",
+     "detail": "Practice the first lines aloud until they are automatic, and as you stand, label the rush as excitement. Remember the room sees far less of your nerves than you feel. Run the whole toast aloud several times, once on video if you can, so it sounds like talking, not reading.",
      "insight_ids": [
       "bodie-2010-02",
       "think-faster-talk-smarter-03",
-      "savitsky-gilovich-2003-01"
+      "savitsky-gilovich-2003-01",
+      "talk-like-ted-04"
      ]
     }
    ],
@@ -23771,9 +23777,119 @@
     "humor-seriously-16",
     "bodie-2010-02",
     "think-faster-talk-smarter-03",
-    "savitsky-gilovich-2003-01"
+    "savitsky-gilovich-2003-01",
+    "talk-like-ted-03",
+    "talk-like-ted-04"
    ],
    "evidence_note": "The strongest support is the High-confidence principle that concrete language is easier to understand and remember (made-to-stick-07). The toast structure and humor guidance are Medium practitioner advice, and the nerves steps draw on Medium research on anxiety timing and the illusion of transparency."
+  },
+  {
+   "id": "heated-disagreement-with-a-coworker",
+   "title": "A heated disagreement with a coworker",
+   "category": "difficult",
+   "setting": "professional",
+   "medium": [
+    "in person",
+    "video"
+   ],
+   "context": "A disagreement with a colleague about a decision, a handoff or who dropped the ball has turned sharp. Voices are rising or one of you has gone quiet, each of you is sure you are right, and you both have to keep working together tomorrow. The pull is to win the point or to retreat and stew.",
+   "goal": "Both of you cool down enough to hear each other, understand why you see it differently, and leave with a specific next step that each of you owns.",
+   "approach": [
+    {
+     "step": "Catch your own ignition first",
+     "detail": "Notice the signs: speeding up, heat in your face, rehearsing a rebuttal. Take one slow breath with a long exhale, name the feeling to yourself in a word, and know which trigger fired (feeling judged, a threat to your competence, fear of loss). If you are fully flooded, ask for a short break and name when you will come back.",
+     "insight_ids": [
+      "the-next-conversation-04",
+      "the-next-conversation-03",
+      "gottman-seven-principles-03"
+     ]
+    },
+    {
+     "step": "Check your story against the facts",
+     "detail": "Separate what you actually saw and heard from the conclusion you jumped to. If you are casting them as the villain, ask why a reasonable, decent person would have done this, and what you are not noticing about your own part.",
+     "insight_ids": [
+      "crucial-conversations-05",
+      "crucial-conversations-06"
+     ]
+    },
+    {
+     "step": "Decide what you really want",
+     "detail": "Ask what you want for yourself, for them and for the working relationship, and drop goals you cannot control, such as an instant apology or total agreement. Aim to understand, to say your piece and to solve the problem.",
+     "insight_ids": [
+      "crucial-conversations-01",
+      "difficult-conversations-09"
+     ]
+    },
+    {
+     "step": "Restore safety before returning to the topic",
+     "detail": "If they have gone quiet or are attacking, step out of the content. Show that you care about their goals and respect them, and if they have misread you, say what you do not mean and then what you do.",
+     "insight_ids": [
+      "crucial-conversations-03",
+      "crucial-conversations-04",
+      "crucial-conversations-02"
+     ]
+    },
+    {
+     "step": "Get curious about their story and say it back",
+     "detail": "Ask what they see, know or care about that makes their view make sense. Paraphrase it until they agree you have it, and if their tone does not match their words, say so gently. Understanding their story is not agreeing with it.",
+     "insight_ids": [
+      "difficult-conversations-03",
+      "crucial-conversations-08",
+      "supercommunicators-07"
+     ]
+    },
+    {
+     "step": "Share your view as your view",
+     "detail": "Start with the facts, then your conclusion stated tentatively ('I'm starting to think...'), and invite them to push back. Use 'I' rather than 'you', ask 'what' rather than 'why', and acknowledge something fair in their view before adding yours.",
+     "insight_ids": [
+      "crucial-conversations-07",
+      "the-next-conversation-15"
+     ]
+    },
+    {
+     "step": "Map the contributions and agree who does what by when",
+     "detail": "Instead of settling who is to blame, name what each of you did or did not do that led here, starting with your part. Then agree one owner, one deliverable and one date for each next step, and when you will check in.",
+     "insight_ids": [
+      "difficult-conversations-06",
+      "crucial-conversations-12"
+     ]
+    }
+   ],
+   "example_wording": [
+    "I can tell I'm getting frustrated, and I don't want to say something I'll regret. Can we take ten minutes and come back to this at three?",
+    "I'm not saying the delay was your fault. I want us to figure out how the handoff broke so it doesn't happen again.",
+    "Help me understand how it looked from your side. What did you know on Tuesday that I didn't?",
+    "So you thought the client had approved the change, and you were waiting on me for the files. Is that right?",
+    "Here's what I saw: the files went out Thursday without the review. I'm starting to think we each assumed the other was doing it. Do you see it differently?",
+    "My part is that I never said who owned the review. Can we agree that you send the files and I review them by noon the day before, and we check in Friday?"
+   ],
+   "pitfalls": [
+    "Arguing about who is right before either of you has cooled down",
+    "Assuming their motive and stating it as fact",
+    "Sliding into silence by hedging until the concern disappears",
+    "Saying their story back with a rebuttal attached",
+    "Ending with 'we'll sort it out' and no owner or date"
+   ],
+   "insight_ids": [
+    "the-next-conversation-04",
+    "the-next-conversation-03",
+    "gottman-seven-principles-03",
+    "crucial-conversations-05",
+    "crucial-conversations-06",
+    "crucial-conversations-01",
+    "difficult-conversations-09",
+    "crucial-conversations-03",
+    "crucial-conversations-04",
+    "crucial-conversations-02",
+    "difficult-conversations-03",
+    "crucial-conversations-08",
+    "supercommunicators-07",
+    "crucial-conversations-07",
+    "the-next-conversation-15",
+    "difficult-conversations-06",
+    "crucial-conversations-12"
+   ],
+   "evidence_note": "Built mainly from Crucial Conversations, Difficult Conversations and The Next Conversation, all Medium-confidence practitioner frameworks without direct controlled tests of the full methods; independent support exists for some underlying ideas (attribution bias, affect labeling, listening, physiological flooding from Gottman). The step order (regulate, then check your story, then restore safety, then listen before advocating) is shared across the three books."
   }
  ],
  "learning_path": {
@@ -23820,12 +23936,13 @@
      "how-to-know-a-person-06",
      "how-to-know-a-person-07",
      "connect-09",
+     "nonviolent-communication-07",
      "how-to-know-a-person-11",
      "connect-03",
      "supercommunicators-01",
      "supercommunicators-02"
     ],
-    "rationale": "Attention is the High-confidence base, and the listening meta-analysis shows why it pays: feeling heard goes with trust and liking more than almost anything else. Attention is then made visible and aimed at the bottom line. Humility about reading people (including the research that lies and inner states cannot be read from body language) motivates perspective getting and looping as verification, and inquiry before advice. Empathy's three skills and the three realities give a model of intent versus impact that feedback needs later. The three kinds of conversations and matching turn listening into choosing a response, which Stage 3 requires."
+    "rationale": "Attention is the High-confidence base, and the listening meta-analysis shows why it pays: feeling heard goes with trust and liking more than almost anything else. Attention is then made visible and aimed at the bottom line. Humility about reading people (including the research that lies and inner states cannot be read from body language) motivates perspective getting and looping as verification, and inquiry before advice, with Nonviolent Communication's empathy guesses aiming reflection at feelings and needs. Empathy's three skills and the three realities give a model of intent versus impact that feedback needs later. The three kinds of conversations and matching turn listening into choosing a response, which Stage 3 requires."
    },
    {
     "id": "stage-3",
@@ -23877,6 +23994,7 @@
      "made-to-stick-03",
      "communicate-with-mastery-05",
      "minto-pyramid-principle-01",
+     "talk-like-ted-07",
      "think-faster-talk-smarter-07",
      "made-to-stick-07",
      "made-to-stick-04",
@@ -23889,7 +24007,7 @@
      "giurge-bohns-2021-01",
      "supercommunicators-12"
     ],
-    "rationale": "The curse of knowledge explains why clarity is hard and extends AIM from Stage 1; asking listeners for their version catches the misunderstandings speakers miss. Focus and the core decide what to say, parachuting in where to start, the pyramid how to order support, and What So What Now What the shape. Concreteness, analogies and human-scale numbers make it land. The written block applies this to text: ABC editing, cutting whole ideas and limiting each message to one easy ask for busy readers, the tone check because senders overestimate how well tone comes across, pause-verify-iterate, stating your response clock for async work, and extra warmth online. Clarity must precede persuasion."
+    "rationale": "The curse of knowledge explains why clarity is hard and extends AIM from Stage 1; asking listeners for their version catches the misunderstandings speakers miss. Focus and the core decide what to say, parachuting in where to start, the pyramid how to order support (and the message map adapts it for talks of any length), and What So What Now What the shape. Concreteness, analogies and human-scale numbers make it land. The written block applies this to text: ABC editing, cutting whole ideas and limiting each message to one easy ask for busy readers, the tone check because senders overestimate how well tone comes across, pause-verify-iterate, stating your response clock for async work, and extra warmth online. Clarity must precede persuasion."
    },
    {
     "id": "stage-5",
@@ -23932,10 +24050,17 @@
     ],
     "insight_ids": [
      "connect-07",
+     "the-next-conversation-14",
      "connect-05",
      "morrison-2014-voice-01",
+     "difficult-conversations-02",
+     "difficult-conversations-01",
+     "crucial-conversations-05",
      "connect-06",
+     "the-next-conversation-13",
      "connect-04",
+     "crucial-conversations-07",
+     "nonviolent-communication-01",
      "connect-15",
      "think-faster-talk-smarter-10",
      "connect-08",
@@ -23944,6 +24069,7 @@
      "overall-mcnulty-2017-01",
      "think-faster-talk-smarter-16",
      "talk-wood-brooks-09",
+     "crucial-conversations-03",
      "supercommunicators-11",
      "supercommunicators-14",
      "baile-spikes-2000-01",
@@ -23954,10 +24080,11 @@
      "ury-positive-no-01",
      "givi-kirk-2024-01",
      "connect-13",
+     "the-next-conversation-12",
      "high-dillard-2012-01",
      "how-to-know-a-person-10"
     ],
-    "rationale": "Receiving feedback comes first because it is the reader's own side and shows why others' data matters. Raising pinches early sets timing, and the voice research (will it matter, is it safe) explains why people stay silent with those above them. Real feelings, behavior plus impact and behavior-not-personality build the message; the 4 I's packages it; problem solving sets the stance. Conflict moves from diagnosis (find the layer) to the couples research on what predicts escalation (the four horsemen) and when directness helps, then regulation, receptiveness and group norms. Delivering bad news (SPIKES) follows preparation for the hardest conversations. Apologies, with research on which parts matter most, lead into repair. Saying no (the positive no, and evidence that declines sting less than feared) and boundaries follow, and supporting distress closes the stage with the comfort ladder and presence over fixing, drawing on all earlier skills, including looping from Stage 2."
+    "rationale": "Receiving feedback comes first because it is the reader's own side and shows why others' data matters; catch, drop, get curious handles the defensive reflex. Raising pinches early sets timing, and the voice research (will it matter, is it safe) explains why people stay silent with those above them. The learning conversation and the three conversations (What Happened, Feelings, Identity) set the stance and the map, and mastering your stories separates facts from conclusions before you speak. Real feelings, a clear frame for the opening, behavior plus impact, STATE (facts, then a tentative story, then their view), the four NVC components and behavior-not-personality build the message; the 4 I's packages it; problem solving sets the stance. Conflict moves from diagnosis (find the layer) to the couples research on what predicts escalation (the four horsemen) and when directness helps, then regulation, receptiveness, restoring safety (mutual purpose and respect) and group norms. Delivering bad news (SPIKES) follows preparation for the hardest conversations. Apologies, with research on which parts matter most, lead into repair. Saying no (the positive no, and evidence that declines sting less than feared) and boundaries (including stating a consequence and following through) follow, and supporting distress closes the stage with the comfort ladder and presence over fixing, drawing on all earlier skills, including looping from Stage 2."
    },
    {
     "id": "stage-7",
@@ -23978,6 +24105,7 @@
      "communicate-with-mastery-06",
      "communicate-with-mastery-17",
      "guyer-vocal-confidence-01",
+     "talk-like-ted-04",
      "communicate-with-mastery-11",
      "supercommunicators-06",
      "improv-wisdom-11",
@@ -23992,7 +24120,7 @@
      "communicate-with-mastery-20",
      "communicate-with-mastery-15"
     ],
-    "rationale": "The six-step method recaps Stages 1, 2 and 4 as one sequence for on-the-spot speaking; ADD, restating the question so relevance is visible, prompts instead of scripts and the toast apply it. Delivery follows once content is in place (contested elements flagged; vocal confidence amplifies but does not replace a strong case). Group leadership extends Stage 3 to teams, and meeting science turns it into design: before, during and after, silent idea generation, and reducing video fatigue. Negotiation integrates listening, structure and influence under high stakes: interests over positions, testing the fixed-pie assumption, and knowing your BATNA (which also backs a firm no). The canvas is the high-stakes integration of AIM, and the guide ends with video review and coaching so learning continues."
+    "rationale": "The six-step method recaps Stages 1, 2 and 4 as one sequence for on-the-spot speaking; ADD, restating the question so relevance is visible, prompts instead of scripts and the toast apply it. Delivery follows once content is in place (contested elements flagged; vocal confidence amplifies but does not replace a strong case; heavy rehearsal makes a prepared talk sound conversational). Group leadership extends Stage 3 to teams, and meeting science turns it into design: before, during and after, silent idea generation, and reducing video fatigue. Negotiation integrates listening, structure and influence under high stakes: interests over positions, testing the fixed-pie assumption, and knowing your BATNA (which also backs a firm no). The canvas is the high-stakes integration of AIM, and the guide ends with video review and coaching so learning continues."
    }
   ]
  },
@@ -24097,7 +24225,10 @@
     "think-faster-talk-smarter-16",
     "supercommunicators-11",
     "communicate-with-mastery-09",
-    "keysar-henly-2002-01"
+    "keysar-henly-2002-01",
+    "crucial-conversations-08",
+    "nonviolent-communication-07",
+    "difficult-conversations-12"
    ],
    "agreement": "Restate what you heard in your own words and check; it catches misunderstanding and lowers defensiveness. Keysar and Henly add the speaker side: ask the listener for their version rather than trusting a nod.",
    "disagreement": "Duhigg and David Brooks describe the full loop; Brooks allows a lighter paraphrase; Abrahams also uses paraphrase to buy time and reframe hostile questions; Schramm applies verification to writing. Some research finds paraphrase adds little over acknowledgment.",
@@ -24151,7 +24282,9 @@
     "communicate-with-mastery-16",
     "talk-wood-brooks-01",
     "supercommunicators-03",
-    "minto-pyramid-principle-02"
+    "minto-pyramid-principle-02",
+    "talk-like-ted-07",
+    "the-next-conversation-13"
    ],
    "agreement": "A short reusable shape eases delivery under pressure and helps listeners follow; good structures end with relevance and a next step.",
    "disagreement": "Abrahams uses What So What Now What for spontaneous speech, Schramm for written synthesis; Madson prefers questions-to-self over scripts; Wood Brooks and Duhigg offer conversation structures rather than message structures. None is tested as a named framework.",
@@ -24169,7 +24302,9 @@
     "improv-wisdom-04",
     "minto-pyramid-principle-01",
     "rogers-busy-readers-02",
-    "rogers-busy-readers-05"
+    "rogers-busy-readers-05",
+    "talk-like-ted-07",
+    "the-next-conversation-16"
    ],
    "agreement": "Find the single most important point, say it first, and drop background the audience does not need. Minto's pyramid puts the governing point first, and field experiments from Rogers and Lasky-Fink show that cutting whole ideas, not only words, raises response rates.",
    "disagreement": "Made to Stick stresses ruthless prioritization; Schramm stresses opening at the most engaging moment; Abrahams stresses relevance and concision; Madson's start with the obvious is about not waiting for brilliance.",
@@ -24217,7 +24352,8 @@
     "talk-wood-brooks-14",
     "how-to-know-a-person-12",
     "connect-09",
-    "how-to-know-a-person-10"
+    "how-to-know-a-person-10",
+    "difficult-conversations-01"
    ],
    "agreement": "Misfires often come from people being in different conversations; diagnose what the other person needs and meet them there.",
    "disagreement": "Duhigg uses three kinds plus mood and energy; Wood Brooks uses a goals compass and five layers; David Brooks distinguishes official and actual conversations; Connect and David Brooks apply it to support. All typologies are untested syntheses.",
@@ -24232,10 +24368,15 @@
     "connect-15",
     "think-faster-talk-smarter-10",
     "made-to-stick-07",
-    "communicate-with-mastery-15"
+    "communicate-with-mastery-15",
+    "nonviolent-communication-01",
+    "nonviolent-communication-02",
+    "crucial-conversations-07",
+    "difficult-conversations-05",
+    "the-next-conversation-15"
    ],
    "agreement": "Name specific observable behavior and its effect, avoid labels and intent guesses, and ask for behavior change rather than character change.",
-   "disagreement": "Connect treats feedback as data, not a verdict, and rejects the sandwich; Abrahams adds explicit Implications; Schramm adds coaching and Radical Candor.",
+   "disagreement": "Connect treats feedback as data, not a verdict, and rejects the sandwich; Abrahams adds explicit Implications; Schramm adds coaching and Radical Candor. Crucial Conversations (STATE) says to go on and state your tentative conclusion after the facts, while Nonviolent Communication says to replace evaluations with your feeling, need and a request.",
    "evidence": "Medium"
   },
   {
@@ -24248,7 +24389,13 @@
     "connect-08",
     "how-to-know-a-person-08",
     "how-to-know-a-person-12",
-    "talk-wood-brooks-14"
+    "talk-wood-brooks-14",
+    "difficult-conversations-02",
+    "difficult-conversations-03",
+    "difficult-conversations-04",
+    "crucial-conversations-13",
+    "the-next-conversation-01",
+    "the-next-conversation-10"
    ],
    "agreement": "Aim to understand rather than win: acknowledge the other view, find the real layer of difference and points of agreement, and treat the exchange as joint problem solving.",
    "disagreement": "Wood Brooks gives a linguistic receptiveness recipe; Abrahams's CLEAR starts with self-regulation; Duhigg measures success by feeling heard; David Brooks stresses safety before content. Key receptiveness papers are Gino-coauthored, with independent support from Ren and Schaumberg.",
@@ -24286,7 +24433,8 @@
     "how-to-know-a-person-09",
     "van-laer-2014-01",
     "braddock-dillard-2016-01",
-    "kalla-broockman-2020-01"
+    "kalla-broockman-2020-01",
+    "talk-like-ted-03"
    ],
    "agreement": "Concrete details, examples, analogies, human-scale numbers and short stories improve understanding and memory. Meta-analyses confirm that stories persuade, mainly by absorbing the listener (transportation), and field experiments show that exchanging personal stories shifts entrenched views where arguments alone do not.",
    "disagreement": "Made to Stick is the theoretical anchor; Schramm offers a story template (Low); Abrahams embeds a concrete example in each structure; David Brooks applies it to listening by asking for others' stories. Stories-versus-statistics figures are informal. Braddock and Dillard put the size in perspective: narrative effects are small (correlations around .2), so stories nudge rather than convert.",
@@ -24328,7 +24476,8 @@
     "talk-wood-brooks-13",
     "humor-seriously-10",
     "connect-14",
-    "lewicki-apologies-2016-01"
+    "lewicki-apologies-2016-01",
+    "the-next-conversation-08"
    ],
    "agreement": "Name the specific act and its effect, avoid 'but' and conditional apologies, commit to change; ruptures can be repaired. Lewicki and colleagues rank the parts: plainly accepting responsibility matters most and offering repair second, while asking for forgiveness adds least.",
    "disagreement": "Abrahams gives a three-part form; Wood Brooks adds superfluous apologies for others' bad luck; Aaker and Bagdonas apply it to jokes that cross a line; Connect describes the long arc of repair.",
@@ -24343,7 +24492,8 @@
     "supercommunicators-12",
     "liu-2023-01",
     "gable-2004-01",
-    "gottman-seven-principles-04"
+    "gottman-seven-principles-04",
+    "nonviolent-communication-12"
    ],
    "agreement": "Specific thanks and sincere compliments are undergiven and land better than expected. Relationship research adds that responding with enthusiasm to good news and a steady supply of small positives keep relationships resilient, and that unprompted check-ins are appreciated more than senders expect.",
    "disagreement": "Wood Brooks frames it as a miscalibration; Madson as a Naikan reflection habit; Abrahams builds thanks into toasts; Duhigg prescribes extra gratitude online.",
@@ -24359,7 +24509,10 @@
     "supercommunicators-14",
     "gabarro-kotter-managing-your-boss-03",
     "franco-platonic-02",
-    "overall-mcnulty-2017-01"
+    "overall-mcnulty-2017-01",
+    "crucial-conversations-09",
+    "crucial-conversations-11",
+    "crucial-conversations-12"
    ],
    "agreement": "Unspoken irritations and mismatched expectations accumulate; raise them early in non-accusatory language and set norms explicitly. Managing-up and friendship sources apply the same rule upward and to friends, and couples research finds direct requests for change work better than hinting when the problem is serious.",
    "disagreement": "Connect supplies the core models; Abrahams stresses in-the-moment timing; Duhigg applies norm-setting to groups. Mostly one book.",
@@ -24391,7 +24544,8 @@
     "high-dillard-2012-01",
     "rafaeli-gleason-2009-01",
     "rafaeli-gleason-2009-02",
-    "miller-rollnick-mi-2023-02"
+    "miller-rollnick-mi-2023-02",
+    "nonviolent-communication-07"
    ],
    "agreement": "Resist fixing; ask open questions, acknowledge how hard it is, and stay present. Research on person-centered comforting (23 studies) and on support that misfires supports acknowledging and legitimizing feelings before offering advice, and offering advice with permission when it is wanted.",
    "disagreement": "David Brooks addresses clinical depression and pairs presence with professional care; Connect addresses everyday problems; Duhigg frames it as matching an emotional conversation. Key cases are single anecdotes. Rafaeli and Gleason add that support the person notices can backfire, so less visible support sometimes helps more, which sits in tension with naming feelings explicitly.",
@@ -24409,7 +24563,8 @@
     "talk-wood-brooks-07",
     "connect-07",
     "ebrahimi-2019-01",
-    "bodie-2010-01"
+    "bodie-2010-01",
+    "talk-like-ted-04"
    ],
    "agreement": "Skills improve through feedback-driven practice: debriefs, recordings, rehearsal with a partner, frequent small feedback. Randomized trials of structured speaking practice programs give this the strongest evidence in the library.",
    "disagreement": "Schramm gives the most developed routines; Abrahams prescribes drills; Wood Brooks uses TALK as a checklist; Connect frames feedback as data you cannot get yourself.",
@@ -24436,7 +24591,8 @@
     "berger-catalyst-01",
     "berger-catalyst-02",
     "fisher-ury-getting-to-yes-06",
-    "talk-wood-brooks-09"
+    "talk-wood-brooks-09",
+    "nonviolent-communication-06"
    ],
    "agreement": "When someone is dug in, more arguments tend to strengthen their defense of the status quo. Asking for their own reasons, listening without judging, offering choices and exchanging stories lower defensiveness and leave room for them to move themselves.",
    "disagreement": "Motivational interviewing is a clinical method tested in trials; Kalla and Broockman tested door-to-door conversations; the listening experiments come mostly from one lab; Berger and Fisher and Ury are practitioner syntheses. Effects per conversation are small, so the realistic goal is a modest shift, not a conversion.",
@@ -24451,7 +24607,8 @@
     "thompson-mind-heart-negotiator-03",
     "cohen-bradford-influence-without-authority-01",
     "supercommunicators-04",
-    "talk-wood-brooks-14"
+    "talk-wood-brooks-14",
+    "nonviolent-communication-04"
    ],
    "agreement": "Look beneath stated positions to the needs that drive them, assume there may be issues where both sides want the same thing or value things differently, and invent and trade across options before bargaining.",
    "disagreement": "Fisher and Ury give a practitioner method; Thompson grounds it in experiments on fixed-pie and lose-lose errors; Cohen and Bradford apply exchange to colleagues you cannot direct. Duhigg and Wood Brooks extend the idea to everyday conversation.",
@@ -24517,6 +24674,35 @@
    ],
    "agreement": "Name a specific behavior and the change you need instead of attacking character, hinting or inducing guilt; raise it while it is small.",
    "disagreement": "Gottman stresses a gentle start-up; Overall and McNulty find that direct opposition, even with visible frustration, produces change when the problem is serious and the partner can change, and harms when it is minor.",
+   "evidence": "Medium"
+  },
+  {
+   "concept": "Separate what happened from the story you tell about it",
+   "insight_ids": [
+    "connect-03",
+    "crucial-conversations-05",
+    "crucial-conversations-06",
+    "difficult-conversations-05",
+    "difficult-conversations-07",
+    "nonviolent-communication-02",
+    "nonviolent-communication-10",
+    "the-next-conversation-01"
+   ],
+   "agreement": "Strong reactions in conflict come from a fast interpretation of what someone did, especially a guess about their intent, not from the act itself. Pulling apart the observable behavior, its impact and your interpretation lowers your own heat and gives the other person something they cannot dispute.",
+   "disagreement": "Crucial Conversations works on the story (check it against the facts and ask why a reasonable person would act so); Difficult Conversations and Connect focus on intent versus impact; Nonviolent Communication traces the feeling to an unmet need rather than to a story; Fisher treats disproportion as a cue to get curious about the other person's hidden struggle.",
+   "evidence": "Medium"
+  },
+  {
+   "concept": "Steady your sense of self before taking in criticism",
+   "insight_ids": [
+    "difficult-conversations-08",
+    "the-next-conversation-14",
+    "nonviolent-communication-05",
+    "connect-07",
+    "think-faster-talk-smarter-05"
+   ],
+   "agreement": "Defensiveness under criticism mostly comes from a threat to identity. Pausing, separating the message from your worth and treating it as information about the other person and about how you land make it possible to hear what is true in it.",
+   "disagreement": "Difficult Conversations (and Crucial Conversations, merged into it) work on a more complex self-image; Fisher uses a breath and letting the words drop before deciding what to pick up; Nonviolent Communication turns attention to your own and the critic's needs; Connect stresses that feedback is data whether or not you act on it.",
    "evidence": "Medium"
   }
  ],
@@ -25138,6 +25324,388 @@
    "ids": [
     "morrison-2014-voice-03",
     "gabarro-kotter-managing-your-boss-03"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-05",
+    "difficult-conversations-07",
+    "nonviolent-communication-10"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-06",
+    "difficult-conversations-03",
+    "the-next-conversation-01",
+    "how-to-know-a-person-06"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-06",
+    "think-faster-talk-smarter-16"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-06",
+    "difficult-conversations-06"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "difficult-conversations-05",
+    "connect-03"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "difficult-conversations-05",
+    "crucial-conversations-04"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "difficult-conversations-07",
+    "nonviolent-communication-03",
+    "connect-06"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "nonviolent-communication-01",
+    "crucial-conversations-07",
+    "connect-04",
+    "gottman-seven-principles-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "the-next-conversation-15",
+    "nonviolent-communication-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "nonviolent-communication-02",
+    "connect-04"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-07",
+    "nonviolent-communication-02"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "the-next-conversation-13",
+    "difficult-conversations-10",
+    "crucial-conversations-04"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "the-next-conversation-16",
+    "difficult-conversations-10"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "the-next-conversation-16",
+    "baile-spikes-2000-01"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "the-next-conversation-16",
+    "connect-04"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-03",
+    "how-to-know-a-person-12",
+    "supercommunicators-11"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "the-next-conversation-14",
+    "difficult-conversations-08",
+    "nonviolent-communication-05",
+    "connect-07"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-01",
+    "difficult-conversations-09",
+    "the-next-conversation-02",
+    "talk-wood-brooks-12"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "difficult-conversations-04",
+    "think-faster-talk-smarter-16"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "difficult-conversations-04",
+    "crucial-conversations-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "difficult-conversations-02",
+    "supercommunicators-03"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "difficult-conversations-01",
+    "supercommunicators-01",
+    "talk-wood-brooks-14"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "difficult-conversations-06",
+    "connect-08"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-08",
+    "nonviolent-communication-07",
+    "supercommunicators-07"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "nonviolent-communication-07",
+    "high-dillard-2012-01",
+    "connect-09"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "difficult-conversations-12",
+    "kluger-listening-2024-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-02",
+    "ury-positive-no-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "nonviolent-communication-04",
+    "fisher-ury-getting-to-yes-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "nonviolent-communication-06",
+    "connect-15"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "nonviolent-communication-06",
+    "overall-mcnulty-2017-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "nonviolent-communication-11",
+    "overall-mcnulty-2017-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "the-next-conversation-04",
+    "think-faster-talk-smarter-02",
+    "kross-2014-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "the-next-conversation-03",
+    "gottman-seven-principles-03"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "the-next-conversation-11",
+    "ury-positive-no-01"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "the-next-conversation-11",
+    "givi-kirk-2024-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "the-next-conversation-12",
+    "connect-13"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "the-next-conversation-08",
+    "lewicki-apologies-2016-01",
+    "think-faster-talk-smarter-12"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "nonviolent-communication-12",
+    "talk-wood-brooks-10"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "the-next-conversation-06",
+    "guyer-vocal-confidence-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "the-next-conversation-07",
+    "fisher-ury-getting-to-yes-06"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "the-next-conversation-10",
+    "talk-wood-brooks-09"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-11",
+    "rogelberg-meetings-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-12",
+    "mroz-allen-2018-meetings-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-13",
+    "rogelberg-meetings-05"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "crucial-conversations-09",
+    "connect-05"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "nonviolent-communication-13",
+    "supercommunicators-11"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "talk-like-ted-07",
+    "minto-pyramid-principle-01",
+    "made-to-stick-03"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "talk-like-ted-03",
+    "braddock-dillard-2016-01"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "talk-like-ted-04",
+    "improv-wisdom-02"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "talk-like-ted-04",
+    "communicate-with-mastery-20"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "talk-like-ted-05",
+    "made-to-stick-05"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "talk-like-ted-01",
+    "made-to-stick-02"
    ],
    "relation": "complementary"
   }

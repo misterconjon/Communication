@@ -3,7 +3,9 @@
     "book_id": "talk-like-ted",
     "title": "Talk Like TED",
     "subtitle": "The 9 Public-Speaking Secrets of the World's Top Minds",
-    "authors": ["Carmine Gallo"],
+    "authors": [
+      "Carmine Gallo"
+    ],
     "year": 2014,
     "publisher": "St. Martin's Press",
     "edition": "First edition, hardcover, published March 4, 2014; 288 pages per Publishers Weekly and Kirkus (a library catalog record gives x, 278 pages). Paperback: St. Martin's Griffin, 2015, ISBN 9781250061539 (302 to 304 pages). UK: Pan Macmillan, 2022 paperback with a new introduction, ISBN 9781529068658 (304 pages).",
@@ -13,17 +15,33 @@
     "author_credibility": "Carmine Gallo is a former CNN and CBS reporter and anchor who runs a communications coaching firm (Gallo Communications) and is described by his publisher as a Harvard University instructor; he wrote The Presentation Secrets of Steve Jobs. He is a practitioner and journalist, not a researcher. He has a commercial interest: the book feeds his keynote speaking and a Talk Like TED workshop he sells, and he states he is not affiliated with TED.",
     "evidence_base": "Gallo says he watched more than 500 popular TED talks (about 150 hours), interviewed many of the speakers, and then looked for research to explain what he saw. The method is an uncontrolled, single-coder review of already successful talks, so it cannot separate what made talks popular from what popular talks happen to share (survivorship bias). He supports each secret with studies and expert quotes, but several are overstated or poorly sourced: the 18-minute attention limit, a widely repeated 10 percent versus 65 percent picture-recall figure, the rule of three justified by Miller's seven-item finding, and his own 65 percent pathos coding of one talk, which he reports inconsistently across articles. Reviewers (Financial Times, Management Today) called the advice sensible but not new.",
     "legal_access": [
-      {"type": "publisher page", "url": "https://www.panmacmillan.com/authors/carmine-gallo/talk-like-ted/9781529068658", "note": "Pan Macmillan synopsis listing the nine secrets (2022 edition)."},
-      {"type": "author site", "url": "https://www.carminegallo.com/?p=4854", "note": "Gallo's HBR article 'What I Learned Watching 150 Hours of TED Talks', reposted on his site."},
-      {"type": "author interview", "url": "https://www.carminegallo.com/?p=5209", "note": "Bob Morris interview in which Gallo gives his takeaway for each of the nine chapters."},
-      {"type": "library", "url": "https://discover.library.unt.edu/catalog/b5505510", "note": "Library catalog record; widely held in public libraries and on OverDrive as ebook and audiobook."}
+      {
+        "type": "publisher page",
+        "url": "https://www.panmacmillan.com/authors/carmine-gallo/talk-like-ted/9781529068658",
+        "note": "Pan Macmillan synopsis listing the nine secrets (2022 edition)."
+      },
+      {
+        "type": "author site",
+        "url": "https://www.carminegallo.com/?p=4854",
+        "note": "Gallo's HBR article 'What I Learned Watching 150 Hours of TED Talks', reposted on his site."
+      },
+      {
+        "type": "author interview",
+        "url": "https://www.carminegallo.com/?p=5209",
+        "note": "Bob Morris interview in which Gallo gives his takeaway for each of the nine chapters."
+      },
+      {
+        "type": "library",
+        "url": "https://discover.library.unt.edu/catalog/b5505510",
+        "note": "Library catalog record; widely held in public libraries and on OverDrive as ebook and audiobook."
+      }
     ]
   },
   "insights": [
     {
       "id": "talk-like-ted-01",
       "name": "Emotional, Novel, Memorable",
-      "takeaway": "Check every talk for three things: does it touch the heart, teach something new, and deliver it unforgettably?",
+      "takeaway": "Make every talk emotional, novel and memorable: touch the heart, teach something new, and present it unforgettably.",
       "skill_type": "framework",
       "explanation": "Gallo's signature framework sorts the nine secrets of popular TED talks into three groups. Emotional talks touch the heart: the speaker shows a genuine connection to the topic, tells stories, and sounds conversational. Novel talks teach the audience something new, include one jaw-dropping moment, and lighten up with humor. Memorable talks stay short, organize content into a few chunks, appeal to more than one sense, and come across as authentic. It works as a review checklist: most dull business presentations fail on emotion and novelty because they are built as information dumps. The framework comes from Gallo's review of hundreds of popular talks and interviews with speakers, not from a test of the package, and it overlaps heavily with Made to Stick's SUCCESs checklist (emotional, unexpected, concrete, story), which reached similar conclusions from a different route.",
       "when_to_use": "When drafting or reviewing any prepared presentation, keynote, pitch, or all-hands talk. Less useful for a short status update where the audience wants the facts fast.",
@@ -41,10 +59,20 @@
         "Assuming that what popular TED talks share is what made them popular."
       ],
       "categories": [
-        {"category": "public-speaking", "subcategory": "structure"},
-        {"category": "influence", "subcategory": "memorable-messages"}
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        }
       ],
-      "situations": ["Preparing a keynote or conference talk", "Reviewing a team's all-hands presentation", "Turning a data-heavy deck into a talk"],
+      "situations": [
+        "Preparing a keynote or conference talk",
+        "Reviewing a team's all-hands presentation",
+        "Turning a data-heavy deck into a talk"
+      ],
       "source": {
         "citation": "Carmine Gallo, Talk Like TED (2014), Introduction and the organization of Parts I to III (Emotional, chapters 1 to 3; Novel, chapters 4 to 6; Memorable, chapters 7 to 9); Gallo, 'What I Learned Watching 150 Hours of TED Talks', Harvard Business Review (April 2014)",
         "underlying_research": "Gallo's own review of 500-plus popular TED talks and speaker interviews; no controlled comparison with less popular talks. Practitioner synthesis; no direct empirical test of the framework as a package.",
@@ -80,10 +108,20 @@
         "Talking about your passion at length instead of showing it through the problem you want solved."
       ],
       "categories": [
-        {"category": "public-speaking", "subcategory": "delivery"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
       ],
-      "situations": ["Presenting an assigned or dry topic", "Pitching a project to funders or leadership", "Giving a talk about your own work"],
+      "situations": [
+        "Presenting an assigned or dry topic",
+        "Pitching a project to funders or leadership",
+        "Giving a talk about your own work"
+      ],
       "source": {
         "citation": "Carmine Gallo, Talk Like TED (2014), Chapter 1, Unleash the Master Within; Gallo interviews with Matthew May (American Express Open Forum, 2014) and Bob Morris (2014)",
         "underlying_research": "The book cites research on angel investors and passion; the matching paper appears to be Mitteness, Sudek and Cardon (2012), Journal of Business Venturing 27(5), 592-606 (perceived passion raised funding-potential ratings, depending on angel characteristics), though I could not confirm the exact citation in the book. Counterevidence not cited in the book: Chen, Yao and Kotha (2009), Academy of Management Journal 52(1), 199-214 (lab experiment and field study: preparedness, not passion, predicted venture capitalists' funding decisions).",
@@ -97,7 +135,9 @@
       },
       "confidence": "Medium",
       "confidence_rationale": "Finding a genuine connection to your topic is sound expert practice, but the persuasive power of displayed passion is contested: one investor study supports it conditionally, another finds preparedness matters and passion does not.",
-      "flags": ["contested"]
+      "flags": [
+        "contested"
+      ]
     },
     {
       "id": "talk-like-ted-03",
@@ -120,11 +160,24 @@
         "Delaying the point so long with backstory that decision-makers lose patience."
       ],
       "categories": [
-        {"category": "public-speaking", "subcategory": "structure"},
-        {"category": "conversations", "subcategory": "storytelling"},
-        {"category": "influence", "subcategory": "persuasive-structure"}
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "conversations",
+          "subcategory": "storytelling"
+        },
+        {
+          "category": "influence",
+          "subcategory": "persuasive-structure"
+        }
       ],
-      "situations": ["Fundraising or budget pitch", "Announcing a change people may resist", "Presenting data to a nontechnical audience"],
+      "situations": [
+        "Fundraising or budget pitch",
+        "Announcing a change people may resist",
+        "Presenting data to a nontechnical audience"
+      ],
       "source": {
         "citation": "Carmine Gallo, Talk Like TED (2014), Chapter 2, Master the Art of Storytelling; Gallo, 'Public Speaking Payoff: The Presentation Worth $55,000 a Minute' (2014) and HBR (April 2014)",
         "underlying_research": "Gallo's coding of Bryan Stevenson's 4,057-word 2012 TED talk (10 percent ethos, 25 percent logos, 65 percent pathos), a single-coder, single-talk analysis; elsewhere he says stories made up 65 to 72 percent of many top talks. He cites Stephens, Silbert and Hasson (2010), PNAS 107(32), 14425-14430, on speaker and listener brain coupling, which shows coupling tracks comprehension of a told story but does not compare stories with data. Independent calibration: Braddock and Dillard (2016) meta-analysis finds small persuasive effects of narrative (r about .17 to .23); van Laer et al. (2014) show identifiable characters aid transportation. These meta-analyses are not cited in the book.",
@@ -137,7 +190,9 @@
       },
       "confidence": "Medium",
       "confidence_rationale": "Narrative persuasion is well supported but modest in size, and relatable characters help; the specific proportions come from one subjectively coded talk and are reported inconsistently.",
-      "flags": ["single-anecdote"]
+      "flags": [
+        "single-anecdote"
+      ]
     },
     {
       "id": "talk-like-ted-04",
@@ -160,10 +215,20 @@
         "Rehearsing silently or sitting down, which does not prepare your voice and body."
       ],
       "categories": [
-        {"category": "public-speaking", "subcategory": "delivery"},
-        {"category": "foundations", "subcategory": "anxiety"}
+        {
+          "category": "public-speaking",
+          "subcategory": "delivery"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "anxiety"
+        }
       ],
-      "situations": ["Preparing an investor or board pitch", "Rehearsing a keynote", "Giving a speech at a wedding or memorial"],
+      "situations": [
+        "Preparing an investor or board pitch",
+        "Rehearsing a keynote",
+        "Giving a speech at a wedding or memorial"
+      ],
       "source": {
         "citation": "Carmine Gallo, Talk Like TED (2014), Chapter 3, Have a Conversation; Investor's Business Daily interview (March 2014); Financial Times review by Sam Leith (February 2014)",
         "underlying_research": "Speaker interviews (Jill Bolte Taylor's 200 rehearsals, as reported by Gallo) and Gallo's word-rate measurements of TED talks; Management Today's review reports the book also describes great speakers ranging from about 90 to 240 words per minute. Related research not cited in the book: Ebrahimi et al. (2019) meta-analysis of 30 randomized trials showing structured, repeated practice programs reduce public-speaking anxiety. No study supports a single optimal speaking rate or a 'power sphere' for gestures that I could find.",
@@ -200,10 +265,20 @@
         "Using shock that embarrasses or frightens the audience, which damages trust."
       ],
       "categories": [
-        {"category": "public-speaking", "subcategory": "structure"},
-        {"category": "influence", "subcategory": "memorable-messages"}
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "influence",
+          "subcategory": "memorable-messages"
+        }
       ],
-      "situations": ["Pitching a budget request to leadership", "Launching a product or initiative", "Teaching a safety or compliance message"],
+      "situations": [
+        "Pitching a budget request to leadership",
+        "Launching a product or initiative",
+        "Teaching a safety or compliance message"
+      ],
       "source": {
         "citation": "Carmine Gallo, Talk Like TED (2014), Chapter 5, Deliver Jaw-Dropping Moments; Gallo, HBR (April 2014); Bob Morris interview (2014)",
         "underlying_research": "Examples from TED talks (Bill Gates, 2009). The emotionally charged event idea is consistent with McGaugh (2004), 'The amygdala modulates the consolidation of memories of emotionally arousing experiences', Annual Review of Neuroscience 27, 1-28; not confirmed as cited in the book. No study tests a planned 'jaw-dropping moment' in presentations.",
@@ -239,9 +314,16 @@
         "Adding soft breaks that are filler and unrelated to the message."
       ],
       "categories": [
-        {"category": "public-speaking", "subcategory": "structure"}
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        }
       ],
-      "situations": ["Getting a long conference or kickoff slot", "Presenting in a crowded meeting agenda", "Designing a training session"],
+      "situations": [
+        "Getting a long conference or kickoff slot",
+        "Presenting in a crowded meeting agenda",
+        "Designing a training session"
+      ],
       "source": {
         "citation": "Carmine Gallo, Talk Like TED (2014), Chapter 7, Stick to the 18-Minute Rule; Bob Morris interview (2014); Financial Times review (February 2014)",
         "underlying_research": "The book cites Paul King (Texas Christian University) on listening anxiety and cognitive backlog; I could not locate the primary paper. Critique not cited in the book: Bradbury (2016), 'Attention span during lectures: 8 seconds, 10 minutes, or more?', Advances in Physiology Education 40(4), 509-513, which found the 10 to 15 minute attention limit rests on scant and methodologically weak primary data.",
@@ -255,7 +337,10 @@
       },
       "confidence": "Low",
       "confidence_rationale": "Brevity and varied activity are sensible practice, but the attention research offered for the 18-minute and 10-minute figures is weak, and a published review finds no solid evidence for a fixed attention limit.",
-      "flags": ["contested", "pop-psychology"]
+      "flags": [
+        "contested",
+        "pop-psychology"
+      ]
     },
     {
       "id": "talk-like-ted-07",
@@ -278,10 +363,20 @@
         "Filling the support boxes with only data or only stories instead of a mix."
       ],
       "categories": [
-        {"category": "public-speaking", "subcategory": "structure"},
-        {"category": "foundations", "subcategory": "message-structures"}
+        {
+          "category": "public-speaking",
+          "subcategory": "structure"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "message-structures"
+        }
       ],
-      "situations": ["Preparing an elevator pitch", "Planning a talk with versions of different lengths", "Preparing for a media or job interview"],
+      "situations": [
+        "Preparing an elevator pitch",
+        "Planning a talk with versions of different lengths",
+        "Preparing for a media or job interview"
+      ],
       "source": {
         "citation": "Carmine Gallo, Talk Like TED (2014), Chapter 7, Stick to the 18-Minute Rule (rule of three, about p. 194, and the message map); Twitter-friendly headline also in Chapter 4; Inc.com review by Marla Tabaka (2014)",
         "underlying_research": "Practitioner tool from Gallo's coaching; no direct empirical test. The book cites Miller (1956) on short-term memory; Cowan (2001), 'The magical number 4 in short-term memory', Behavioral and Brain Sciences 24(1), 87-114, places the central limit near four chunks (not confirmed as cited in the book). Neither paper shows that three points beat four.",
@@ -298,21 +393,81 @@
     }
   ],
   "supports_existing": [
-    {"insight_id": "braddock-dillard-2016-01", "relation": "contradicts", "note": "Gallo claims you cannot persuade through data and facts alone and holds up a talk he coded as 65 percent emotional appeal as the model. The meta-analysis finds stories shift beliefs only modestly, so the library's calibrated view (story to make it felt, evidence and a clear ask to decide) should stand over Gallo's stronger claim."},
-    {"insight_id": "van-laer-2014-01", "relation": "supports", "note": "Adds a practical way to create an identifiable character: Bryan Stevenson chose stories about his grandmother and family because nearly everyone has one, building trust before the hard facts."},
-    {"insight_id": "made-to-stick-12", "relation": "supports", "note": "Gallo's three story types (personal, about others, about a brand's success or failure) give a parallel collecting scheme from presentation practice, with TED examples."},
-    {"insight_id": "communicate-with-mastery-17", "relation": "supports", "note": "Same verbal, vocal and visual focus; Gallo adds measured speaking rates from TED talks (about 190 words per minute on average, with great speakers from about 90 to 240) and an emphasis on recording yourself to strip out fidgets."},
-    {"insight_id": "communicate-with-mastery-20", "relation": "supports", "note": "Gallo also makes video self-review central to rehearsal, reporting that top TED speakers rehearsed many times (Jill Bolte Taylor about 200)."},
-    {"insight_id": "improv-wisdom-02", "relation": "qualifies", "note": "Gallo argues for heavy rehearsal of prepared talks, which seems to conflict with Madson's drop the script. They reconcile: Gallo's goal is to internalize content so you can be conversational, not to memorize lines; rehearse prepared talks heavily and keep live exchanges unscripted."},
-    {"insight_id": "bond-depaulo-2006-02", "relation": "contradicts", "note": "A book summary reports Gallo citing a study where people judging criminal suspects detected lies better from video than audio (65 versus 55 percent) to argue body language carries key information. Bond and DePaulo's meta-analysis finds silent video yields near-chance accuracy and audio does as well as audiovisual, so the library's listen-more-than-you-look advice should stand. The book passage itself was not seen directly."},
-    {"insight_id": "made-to-stick-05", "relation": "supports", "note": "Gallo's Teach Me Something New chapter makes the same case for novelty with TED examples, such as Robert Ballard comparing NASA's and NOAA's budgets and Susan Cain's claim that being a good talker does not predict good ideas; he frames the listener's question as whether you are teaching them something they did not know."},
-    {"insight_id": "made-to-stick-03", "relation": "supports", "note": "Gallo's Twitter-friendly headline (the core idea in one short sentence, written before anything else) is a practical version of finding the core."},
-    {"insight_id": "humor-seriously-16", "relation": "supports", "note": "Gallo's Lighten Up chapter likewise favors humor that serves the message, citing Ken Robinson's talk on creativity in schools, where humor lowered defenses on a serious topic."},
-    {"insight_id": "talk-wood-brooks-08", "relation": "supports", "note": "Gallo also advises against telling jokes; instead use anecdotes, observations, analogies and metaphors, quotes, or a relevant funny video or photo, which takes the pressure off the speaker to be funny."},
-    {"insight_id": "minto-pyramid-principle-01", "relation": "supports", "note": "Gallo's message map (headline, three supporting messages, evidence beneath each) applies the same single-governing-point structure to spoken presentations and adds rehearsal of 15-second, one-minute, and full versions."},
-    {"insight_id": "communicate-with-mastery-11", "relation": "qualifies", "note": "Gallo agrees on picture-led slides (he reports a talk where the speaker showed 25 slides before reaching 40 words in total) and adds props, video and multiple voices. But his headline statistic, that people remember 10 percent of spoken information versus 65 percent with a picture, traces to a secondary chain (Medina citing Najjar 1998) and should not be repeated as fact; Mayer's multimedia principle (words plus pictures beat words alone) is the defensible version."},
-    {"insight_id": "made-to-stick-07", "relation": "supports", "note": "Gallo's Paint a Mental Picture chapter asks for words that create images as well as visual slides, citing Al Gore's and Robert Ballard's picture-led talks; it supports concreteness from the delivery side."},
-    {"insight_id": "communicate-with-mastery-14", "relation": "supports", "note": "Gallo's Stay in Your Lane chapter makes the same point for style: do not imitate another speaker's persona; audiences detect phoniness. He reports a large company that has ranked executives' presentations for 10 years and found authenticity the top lesson (interview claim, unverified)."}
+    {
+      "insight_id": "braddock-dillard-2016-01",
+      "relation": "contradicts",
+      "note": "Gallo claims you cannot persuade through data and facts alone and holds up a talk he coded as 65 percent emotional appeal as the model. The meta-analysis finds stories shift beliefs only modestly, so the library's calibrated view (story to make it felt, evidence and a clear ask to decide) should stand over Gallo's stronger claim."
+    },
+    {
+      "insight_id": "van-laer-2014-01",
+      "relation": "supports",
+      "note": "Adds a practical way to create an identifiable character: Bryan Stevenson chose stories about his grandmother and family because nearly everyone has one, building trust before the hard facts."
+    },
+    {
+      "insight_id": "made-to-stick-12",
+      "relation": "supports",
+      "note": "Gallo's three story types (personal, about others, about a brand's success or failure) give a parallel collecting scheme from presentation practice, with TED examples."
+    },
+    {
+      "insight_id": "communicate-with-mastery-17",
+      "relation": "supports",
+      "note": "Same verbal, vocal and visual focus; Gallo adds measured speaking rates from TED talks (about 190 words per minute on average, with great speakers from about 90 to 240) and an emphasis on recording yourself to strip out fidgets."
+    },
+    {
+      "insight_id": "communicate-with-mastery-20",
+      "relation": "supports",
+      "note": "Gallo also makes video self-review central to rehearsal, reporting that top TED speakers rehearsed many times (Jill Bolte Taylor about 200)."
+    },
+    {
+      "insight_id": "improv-wisdom-02",
+      "relation": "qualifies",
+      "note": "Gallo argues for heavy rehearsal of prepared talks, which seems to conflict with Madson's drop the script. They reconcile: Gallo's goal is to internalize content so you can be conversational, not to memorize lines; rehearse prepared talks heavily and keep live exchanges unscripted."
+    },
+    {
+      "insight_id": "bond-depaulo-2006-02",
+      "relation": "contradicts",
+      "note": "A book summary reports Gallo citing a study where people judging criminal suspects detected lies better from video than audio (65 versus 55 percent) to argue body language carries key information. Bond and DePaulo's meta-analysis finds silent video yields near-chance accuracy and audio does as well as audiovisual, so the library's listen-more-than-you-look advice should stand. The book passage itself was not seen directly."
+    },
+    {
+      "insight_id": "made-to-stick-05",
+      "relation": "supports",
+      "note": "Gallo's Teach Me Something New chapter makes the same case for novelty with TED examples, such as Robert Ballard comparing NASA's and NOAA's budgets and Susan Cain's claim that being a good talker does not predict good ideas; he frames the listener's question as whether you are teaching them something they did not know."
+    },
+    {
+      "insight_id": "made-to-stick-03",
+      "relation": "supports",
+      "note": "Gallo's Twitter-friendly headline (the core idea in one short sentence, written before anything else) is a practical version of finding the core."
+    },
+    {
+      "insight_id": "humor-seriously-16",
+      "relation": "supports",
+      "note": "Gallo's Lighten Up chapter likewise favors humor that serves the message, citing Ken Robinson's talk on creativity in schools, where humor lowered defenses on a serious topic."
+    },
+    {
+      "insight_id": "talk-wood-brooks-08",
+      "relation": "supports",
+      "note": "Gallo also advises against telling jokes; instead use anecdotes, observations, analogies and metaphors, quotes, or a relevant funny video or photo, which takes the pressure off the speaker to be funny."
+    },
+    {
+      "insight_id": "minto-pyramid-principle-01",
+      "relation": "supports",
+      "note": "Gallo's message map (headline, three supporting messages, evidence beneath each) applies the same single-governing-point structure to spoken presentations and adds rehearsal of 15-second, one-minute, and full versions."
+    },
+    {
+      "insight_id": "communicate-with-mastery-11",
+      "relation": "qualifies",
+      "note": "Gallo agrees on picture-led slides (he reports a talk where the speaker showed 25 slides before reaching 40 words in total) and adds props, video and multiple voices. But his headline statistic, that people remember 10 percent of spoken information versus 65 percent with a picture, traces to a secondary chain (Medina citing Najjar 1998) and should not be repeated as fact; Mayer's multimedia principle (words plus pictures beat words alone) is the defensible version."
+    },
+    {
+      "insight_id": "made-to-stick-07",
+      "relation": "supports",
+      "note": "Gallo's Paint a Mental Picture chapter asks for words that create images as well as visual slides, citing Al Gore's and Robert Ballard's picture-led talks; it supports concreteness from the delivery side."
+    },
+    {
+      "insight_id": "communicate-with-mastery-14",
+      "relation": "supports",
+      "note": "Gallo's Stay in Your Lane chapter makes the same point for style: do not imitate another speaker's persona; audiences detect phoniness. He reports a large company that has ranked executives' presentations for 10 years and found authenticity the top lesson (interview claim, unverified)."
+    }
   ],
   "verification": {
     "date": "2026-11-05",

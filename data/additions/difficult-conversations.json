@@ -3,7 +3,11 @@
     "book_id": "difficult-conversations",
     "title": "Difficult Conversations",
     "subtitle": "How to Discuss What Matters Most",
-    "authors": ["Douglas Stone", "Bruce Patton", "Sheila Heen"],
+    "authors": [
+      "Douglas Stone",
+      "Bruce Patton",
+      "Sheila Heen"
+    ],
     "year": 1999,
     "publisher": "Viking (first edition, 1999); Penguin Books (10th anniversary edition, 2010; updated third edition, 2023)",
     "edition": "10th anniversary edition (Penguin Books, 2010), which adds 'Answers to Ten Questions People Ask'. First edition: Viking, 1999, 250 pages, ISBN 9780670883394. An updated third edition (Penguin Books, 2023, ISBN 9780143137597) adds material on race, culture, gender, power and technology and was not consulted.",
@@ -13,11 +17,31 @@
     "author_credibility": "Stone and Heen are lecturers on law at Harvard Law School and cofounders of Triad Consulting Group; Patton is a coauthor of Getting to Yes. All three wrote the book from the Harvard Negotiation Project, and Roger Fisher wrote the foreword. They teach negotiation and have worked as mediators and consultants for companies, governments and nonprofits. Triad sells training built on the book, so the authors have a commercial interest in the method.",
     "evidence_base": "Practitioner synthesis from mediation, negotiation teaching and consulting, illustrated with composite stories and scripted dialogues. Publishers Weekly noted it draws on law, organizational behavior, cognitive, family and social psychology and dialogue studies; Heen credits Chris Argyris's action science (the unspoken internal voice) as a key influence. Several component ideas match later or independent research (people credit their own intentions more than others', naive realism, affect labeling, self-affirmation, the value of being listened to), but the framework and its steps have not been tested as a package.",
     "legal_access": [
-      {"type": "publisher preview", "url": "https://www.penguinrandomhouse.com/books/331191/difficult-conversations-by-douglas-stone-bruce-patton-and-sheila-heen/", "note": "Penguin Random House book page with author bios and edition details."},
-      {"type": "author companion", "url": "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf", "note": "Triad Consulting Group's free preparation worksheet instructions (copy hosted by Wentworth Institute of Technology), which summarize the three conversations, the three purposes and an opening line."},
-      {"type": "summary", "url": "https://www.beyondintractability.org/bksum/stone-difficult", "note": "Chapter-by-chapter summary by the Conflict Research Consortium (University of Colorado), with page references to the 1999 edition."},
-      {"type": "summary", "url": "https://www.pon.harvard.edu/daily/conflict-resolution/telling-the-third-story/", "note": "Harvard Program on Negotiation article on the third story."},
-      {"type": "interview", "url": "https://www.artofmanliness.com/podcast/handle-difficult-conversations/", "note": "Sheila Heen interview (2019) with a full transcript covering all three conversations and the third story."}
+      {
+        "type": "publisher preview",
+        "url": "https://www.penguinrandomhouse.com/books/331191/difficult-conversations-by-douglas-stone-bruce-patton-and-sheila-heen/",
+        "note": "Penguin Random House book page with author bios and edition details."
+      },
+      {
+        "type": "author companion",
+        "url": "https://wit.edu/sites/default/files/2020-10/Instructions_Preparation_Worksheet.pdf",
+        "note": "Triad Consulting Group's free preparation worksheet instructions (copy hosted by Wentworth Institute of Technology), which summarize the three conversations, the three purposes and an opening line."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.beyondintractability.org/bksum/stone-difficult",
+        "note": "Chapter-by-chapter summary by the Conflict Research Consortium (University of Colorado), with page references to the 1999 edition."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.pon.harvard.edu/daily/conflict-resolution/telling-the-third-story/",
+        "note": "Harvard Program on Negotiation article on the third story."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.artofmanliness.com/podcast/handle-difficult-conversations/",
+        "note": "Sheila Heen interview (2019) with a full transcript covering all three conversations and the third story."
+      }
     ]
   },
   "insights": [
@@ -43,8 +67,14 @@
         "Decide your purpose and an opening based on what the three layers reveal"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
       ],
       "situations": [
         "Preparing to confront a colleague about a recurring problem",
@@ -83,8 +113,14 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
       ],
       "situations": [
         "Asking for a raise or promotion",
@@ -127,8 +163,14 @@
         "Name where the stories differ, which usually reveals the real issue"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "relationships", "subcategory": "empathy"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        }
       ],
       "situations": [
         "Disputing what an agreement means",
@@ -164,9 +206,14 @@
       ],
       "steps": [],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "mindset"},
-        {"category": "personal-life", "subcategory": "family"}
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
       ],
       "situations": [
         "Turning down a parent's request while staying close",
@@ -208,9 +255,18 @@
         "When you are the one accused, acknowledge the impact first, then share your intent and own any mixed motives"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "difficult", "subcategory": "giving-feedback"},
-        {"category": "relationships", "subcategory": "empathy"}
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        }
       ],
       "situations": [
         "Being left out of a meeting or email thread",
@@ -255,9 +311,18 @@
         "Use the map to agree what each of you will do differently"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "personal-life", "subcategory": "repair"},
-        {"category": "professional", "subcategory": "meetings"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "repair"
+        },
+        {
+          "category": "professional",
+          "subcategory": "meetings"
+        }
       ],
       "situations": [
         "A project post-mortem",
@@ -301,8 +366,18 @@
         "Ask about and acknowledge their feelings before moving to solutions"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "relationships", "subcategory": "empathy"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "empathy"
+        }
       ],
       "situations": [
         "Raising burnout with your manager",
@@ -347,9 +422,18 @@
         "If you lose your balance mid-conversation, take a break and return"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "receiving-feedback"},
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "difficult",
+          "subcategory": "receiving-feedback"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
       ],
       "situations": [
         "Telling an employee they did not get a promotion",
@@ -373,7 +457,7 @@
     {
       "id": "difficult-conversations-09",
       "name": "Choose Your Purpose: Raise It or Let It Go",
-      "takeaway": "Decide whether to raise an issue by checking your purpose; aim to learn, express and problem-solve, never to change them.",
+      "takeaway": "Decide whether to raise an issue by checking your purpose; aim to learn, express and problem-solve, not to change them.",
       "skill_type": "technique",
       "explanation": "Not every difficult issue should be raised. Working through the three conversations on your own first often shows that the conflict is partly inside you, or that a different action would fix it better than talking. If you do talk, choose purposes you can control. Changing the other person or getting them to admit fault is not one, because only they can decide that. The authors recommend three purposes that fit almost any hard conversation: learning (understand their story first), expression (share your views and feelings), and problem-solving (find a way forward that works for both). If you decide to let it go, they suggest four attitudes: it is not your job to fix everything, the other person has limits too, the issue is separate from your worth, and you can let go and still care.",
       "when_to_use": "When you are unsure whether a conversation is worth having, before any planned hard conversation, and when you have decided not to raise something but keep replaying it.",
@@ -392,8 +476,14 @@
         "If you let go, use the four attitudes and stop raising it indirectly"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "audience-goals"}
+        {
+          "category": "foundations",
+          "subcategory": "audience-goals"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        }
       ],
       "situations": [
         "Deciding whether to confront a coworker",
@@ -434,9 +524,18 @@
         "If they start from their story, acknowledge it and add yours as a difference"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "personal-life", "subcategory": "partners"},
-        {"category": "difficult", "subcategory": "giving-feedback"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "giving-feedback"
+        },
+        {
+          "category": "personal-life",
+          "subcategory": "partners"
+        }
       ],
       "situations": [
         "Opening a conversation about household chores",
@@ -479,8 +578,14 @@
         "Ask them to say back what they heard or how they see it differently"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "difficult", "subcategory": "boundaries"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        }
       ],
       "situations": [
         "Asking for help after hinting for weeks",
@@ -522,8 +627,14 @@
         "Then move to problem-solving: ask what would persuade them and say what would persuade you"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "relationships", "subcategory": "listening"}
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "relationships",
+          "subcategory": "listening"
+        }
       ],
       "situations": [
         "An angry client blaming your team",
@@ -544,26 +655,106 @@
     }
   ],
   "supports_existing": [
-    {"insight_id": "supercommunicators-01", "relation": "supports", "note": "Difficult Conversations (1999) is the earlier source of a three-layer model: What Happened, Feelings and Identity. It differs from Duhigg's typology in one useful way: the three are not kinds of conversation but layers running at once inside every hard one, in both people. Its first layer is about competing stories, blame and assumed intent rather than practical problem-solving. See difficult-conversations-01."},
-    {"insight_id": "supercommunicators-03", "relation": "supports", "note": "The learning conversation originates with Stone, Patton and Heen, who contrast it with a message-delivery stance and give it three purposes: learning, expression and problem-solving. Their version adds the hand-grenade point (no wording makes a hard message painless) and the reminder that curiosity does not mean abandoning your view. See difficult-conversations-02."},
-    {"insight_id": "talk-wood-brooks-14", "relation": "supports", "note": "Brooks's layers (content, emotions, beliefs, motives, identity) extend the three conversations of Difficult Conversations. The earlier book adds concrete fixes for each layer: explore stories, separate intent from impact, map contribution, describe feelings and ground your identity."},
-    {"insight_id": "how-to-know-a-person-12", "relation": "supports", "note": "Brooks's official versus actual conversation matches the Feelings and Identity layers in Difficult Conversations, and his splitting move (name the difference, then build on what you share) resembles the third story, which opens by describing the gap between two views in terms both accept."},
-    {"insight_id": "connect-03", "relation": "supports", "note": "Difficult Conversations is an earlier source of the intent and impact distinction. It adds the receiving side in more detail: when accused, listen for the feeling under the accusation, acknowledge the impact before explaining, and admit that your own intentions are often mixed. Heen also suggests 'assume you do not know' their intent rather than 'assume good faith', which fails in strained long-term relationships. See difficult-conversations-05."},
-    {"insight_id": "connect-08", "relation": "supports", "note": "Adds a fuller method for the 'look for your own contribution' step: map the whole contribution system (each person's actions and inactions, including avoidance), remember contributions are rarely equal and are not the same as blame, and name your part first because people reciprocate. See difficult-conversations-06."},
-    {"insight_id": "connect-06", "relation": "supports", "note": "Difficult Conversations makes the same distinction between describing a feeling and disguising a judgment as one, and adds two steps: negotiate with your feelings by checking the story behind them, and recognize that feelings come in mixed bundles that can be expressed together with 'and'. See difficult-conversations-07."},
-    {"insight_id": "connect-05", "relation": "qualifies", "note": "Connect urges raising small irritations early. Difficult Conversations agrees that avoidance often worsens problems but adds a decision step: some issues are better let go, especially when the conflict is mainly inside you or your only purpose is to change the other person. It offers four attitudes for letting go well. See difficult-conversations-09."},
-    {"insight_id": "talk-wood-brooks-12", "relation": "supports", "note": "Difficult Conversations gives a goal set for hard conversations specifically: drop purposes you cannot control (changing them) and adopt learning, expression and problem-solving."},
-    {"insight_id": "talk-wood-brooks-09", "relation": "supports", "note": "Difficult Conversations' learning stance and And Stance anticipate the receptiveness recipe: aim to understand rather than win, acknowledge their view, and hold both views without conceding yours."},
-    {"insight_id": "think-faster-talk-smarter-16", "relation": "supports", "note": "CLEAR's 'use and instead of but' step echoes the And Stance in Difficult Conversations, which applies 'and' to both views, to mixed feelings and to your own self-image, not only to how you phrase disagreement."},
-    {"insight_id": "how-to-know-a-person-07", "relation": "supports", "note": "Difficult Conversations' listening chapter ('Listen from the Inside Out') teaches the same paraphrase-and-check move and adds that your stance matters more than technique: genuine curiosity, managing your loud internal voice, and the rule that you cannot move a conversation forward until the other person feels heard. It also warns against questions that are disguised statements."},
-    {"insight_id": "supercommunicators-07", "relation": "supports", "note": "Difficult Conversations gives looping a conflict-specific rationale: acknowledgment is not agreement, and the other person will not listen to you until they feel understood. It suggests asking questions that explore all three conversations (their story, feelings and what is at stake for them)."},
-    {"insight_id": "how-to-know-a-person-06", "relation": "supports", "note": "Explore Each Other's Stories applies perspective getting to conflict: assume they have information you lack, ask what they see that you do not, and tell their story until a neutral friend would find it reasonable. See difficult-conversations-03."},
-    {"insight_id": "fisher-ury-getting-to-yes-02", "relation": "supports", "note": "Difficult Conversations, written by Patton and colleagues from the same Harvard Negotiation Project, develops the people side of this principle into a full method: the feelings and identity layers, intent versus impact, and contribution instead of blame."},
-    {"insight_id": "fisher-ury-getting-to-yes-03", "relation": "supports", "note": "The problem-solving chapter of Difficult Conversations applies option invention to personal and workplace disputes and adds two direct questions: ask what would persuade them, and tell them what would persuade you. If no option works, walk away while explaining your interests and feelings."},
-    {"insight_id": "fisher-ury-getting-to-yes-04", "relation": "supports", "note": "Difficult Conversations recommends the same move in everyday disputes: when you cannot agree, ask what principles or standards would make a solution fair to both."},
-    {"insight_id": "franco-platonic-03", "relation": "supports", "note": "The And Stance in Difficult Conversations gives the general principle behind honest mixed feelings: you can feel happy for someone and hurt, or love a person and be frustrated by them, and say both."},
-    {"insight_id": "franco-platonic-02", "relation": "supports", "note": "Franco's sequence (value the friendship, share feelings, ask their side, own your part) closely follows the Difficult Conversations method of opening from the third story, describing feelings, listening, and naming your contribution."},
-    {"insight_id": "kluger-listening-2024-02", "relation": "supports", "note": "Difficult Conversations states the same idea as its single most important rule for managing a hard interaction: you cannot move the conversation forward until the other person feels heard. The listening research gives that practitioner rule an evidence base."}
+    {
+      "insight_id": "supercommunicators-01",
+      "relation": "supports",
+      "note": "Difficult Conversations (1999) is the earlier source of a three-layer model: What Happened, Feelings and Identity. It differs from Duhigg's typology in one useful way: the three are not kinds of conversation but layers running at once inside every hard one, in both people. Its first layer is about competing stories, blame and assumed intent rather than practical problem-solving. See difficult-conversations-01."
+    },
+    {
+      "insight_id": "supercommunicators-03",
+      "relation": "supports",
+      "note": "The learning conversation originates with Stone, Patton and Heen, who contrast it with a message-delivery stance and give it three purposes: learning, expression and problem-solving. Their version adds the hand-grenade point (no wording makes a hard message painless) and the reminder that curiosity does not mean abandoning your view. See difficult-conversations-02."
+    },
+    {
+      "insight_id": "talk-wood-brooks-14",
+      "relation": "supports",
+      "note": "Brooks's layers (content, emotions, beliefs, motives, identity) extend the three conversations of Difficult Conversations. The earlier book adds concrete fixes for each layer: explore stories, separate intent from impact, map contribution, describe feelings and ground your identity."
+    },
+    {
+      "insight_id": "how-to-know-a-person-12",
+      "relation": "supports",
+      "note": "Brooks's official versus actual conversation matches the Feelings and Identity layers in Difficult Conversations, and his splitting move (name the difference, then build on what you share) resembles the third story, which opens by describing the gap between two views in terms both accept."
+    },
+    {
+      "insight_id": "connect-03",
+      "relation": "supports",
+      "note": "Difficult Conversations is an earlier source of the intent and impact distinction. It adds the receiving side in more detail: when accused, listen for the feeling under the accusation, acknowledge the impact before explaining, and admit that your own intentions are often mixed. Heen also suggests 'assume you do not know' their intent rather than 'assume good faith', which fails in strained long-term relationships. See difficult-conversations-05."
+    },
+    {
+      "insight_id": "connect-08",
+      "relation": "supports",
+      "note": "Adds a fuller method for the 'look for your own contribution' step: map the whole contribution system (each person's actions and inactions, including avoidance), remember contributions are rarely equal and are not the same as blame, and name your part first because people reciprocate. See difficult-conversations-06."
+    },
+    {
+      "insight_id": "connect-06",
+      "relation": "supports",
+      "note": "Difficult Conversations makes the same distinction between describing a feeling and disguising a judgment as one, and adds two steps: negotiate with your feelings by checking the story behind them, and recognize that feelings come in mixed bundles that can be expressed together with 'and'. See difficult-conversations-07."
+    },
+    {
+      "insight_id": "connect-05",
+      "relation": "qualifies",
+      "note": "Connect urges raising small irritations early. Difficult Conversations agrees that avoidance often worsens problems but adds a decision step: some issues are better let go, especially when the conflict is mainly inside you or your only purpose is to change the other person. It offers four attitudes for letting go well. See difficult-conversations-09."
+    },
+    {
+      "insight_id": "talk-wood-brooks-12",
+      "relation": "supports",
+      "note": "Difficult Conversations gives a goal set for hard conversations specifically: drop purposes you cannot control (changing them) and adopt learning, expression and problem-solving."
+    },
+    {
+      "insight_id": "talk-wood-brooks-09",
+      "relation": "supports",
+      "note": "Difficult Conversations' learning stance and And Stance anticipate the receptiveness recipe: aim to understand rather than win, acknowledge their view, and hold both views without conceding yours."
+    },
+    {
+      "insight_id": "think-faster-talk-smarter-16",
+      "relation": "supports",
+      "note": "CLEAR's 'use and instead of but' step echoes the And Stance in Difficult Conversations, which applies 'and' to both views, to mixed feelings and to your own self-image, not only to how you phrase disagreement."
+    },
+    {
+      "insight_id": "how-to-know-a-person-07",
+      "relation": "supports",
+      "note": "Difficult Conversations' listening chapter ('Listen from the Inside Out') teaches the same paraphrase-and-check move and adds that your stance matters more than technique: genuine curiosity, managing your loud internal voice, and the rule that you cannot move a conversation forward until the other person feels heard. It also warns against questions that are disguised statements."
+    },
+    {
+      "insight_id": "supercommunicators-07",
+      "relation": "supports",
+      "note": "Difficult Conversations gives looping a conflict-specific rationale: acknowledgment is not agreement, and the other person will not listen to you until they feel understood. It suggests asking questions that explore all three conversations (their story, feelings and what is at stake for them)."
+    },
+    {
+      "insight_id": "how-to-know-a-person-06",
+      "relation": "supports",
+      "note": "Explore Each Other's Stories applies perspective getting to conflict: assume they have information you lack, ask what they see that you do not, and tell their story until a neutral friend would find it reasonable. See difficult-conversations-03."
+    },
+    {
+      "insight_id": "fisher-ury-getting-to-yes-02",
+      "relation": "supports",
+      "note": "Difficult Conversations, written by Patton and colleagues from the same Harvard Negotiation Project, develops the people side of this principle into a full method: the feelings and identity layers, intent versus impact, and contribution instead of blame."
+    },
+    {
+      "insight_id": "fisher-ury-getting-to-yes-03",
+      "relation": "supports",
+      "note": "The problem-solving chapter of Difficult Conversations applies option invention to personal and workplace disputes and adds two direct questions: ask what would persuade them, and tell them what would persuade you. If no option works, walk away while explaining your interests and feelings."
+    },
+    {
+      "insight_id": "fisher-ury-getting-to-yes-04",
+      "relation": "supports",
+      "note": "Difficult Conversations recommends the same move in everyday disputes: when you cannot agree, ask what principles or standards would make a solution fair to both."
+    },
+    {
+      "insight_id": "franco-platonic-03",
+      "relation": "supports",
+      "note": "The And Stance in Difficult Conversations gives the general principle behind honest mixed feelings: you can feel happy for someone and hurt, or love a person and be frustrated by them, and say both."
+    },
+    {
+      "insight_id": "franco-platonic-02",
+      "relation": "supports",
+      "note": "Franco's sequence (value the friendship, share feelings, ask their side, own your part) closely follows the Difficult Conversations method of opening from the third story, describing feelings, listening, and naming your contribution."
+    },
+    {
+      "insight_id": "kluger-listening-2024-02",
+      "relation": "supports",
+      "note": "Difficult Conversations states the same idea as its single most important rule for managing a hard interaction: you cannot move the conversation forward until the other person feels heard. The listening research gives that practitioner rule an evidence base."
+    }
   ],
   "verification": {
     "date": "2026-11-05",

@@ -60,6 +60,11 @@ Last updated: 2026-11-04
 - 246 insights (137 core, 109 added) from 65 sources; 142 supporting-evidence links; learning path 129 insights in 7 stages.
 - Partly filled gaps: async (documentation culture), virtual presenting, introductions, family (no parenting source), humor (one correlational meta-analysis). Unfilled by decision: status updates, aging parents.
 
+## Books added 2026-11-05 (via docs/ADD-A-BOOK.md, batch mode)
+- The Next Conversation (Fisher), Crucial Conversations (3rd ed.), Difficult Conversations, Nonviolent Communication, Talk Like TED.
+- 61 insights researched, 1 merged (crucial-conversations-10 into difficult-conversations-08): 60 added. Library now 306 insights, 70 sources, 28 playbooks (new: heated disagreement with a coworker), learning path 141.
+- Log: docs/additions-log-2026-11-05.md.
+
 ## Open questions / blockers
 - Fixed: docs/taxonomy.md was accidentally emptied at Stage 0 lock; restored from commit e8a68ad.
 - fivebooks.com blocked by network policy; user supplied the list directly.

@@ -42,12 +42,13 @@
         "how-to-know-a-person-06",
         "how-to-know-a-person-07",
         "connect-09",
+        "nonviolent-communication-07",
         "how-to-know-a-person-11",
         "connect-03",
         "supercommunicators-01",
         "supercommunicators-02"
       ],
-      "rationale": "Attention is the High-confidence base, and the listening meta-analysis shows why it pays: feeling heard goes with trust and liking more than almost anything else. Attention is then made visible and aimed at the bottom line. Humility about reading people (including the research that lies and inner states cannot be read from body language) motivates perspective getting and looping as verification, and inquiry before advice. Empathy's three skills and the three realities give a model of intent versus impact that feedback needs later. The three kinds of conversations and matching turn listening into choosing a response, which Stage 3 requires."
+      "rationale": "Attention is the High-confidence base, and the listening meta-analysis shows why it pays: feeling heard goes with trust and liking more than almost anything else. Attention is then made visible and aimed at the bottom line. Humility about reading people (including the research that lies and inner states cannot be read from body language) motivates perspective getting and looping as verification, and inquiry before advice, with Nonviolent Communication's empathy guesses aiming reflection at feelings and needs. Empathy's three skills and the three realities give a model of intent versus impact that feedback needs later. The three kinds of conversations and matching turn listening into choosing a response, which Stage 3 requires."
     },
     {
       "id": "stage-3",
@@ -99,6 +100,7 @@
         "made-to-stick-03",
         "communicate-with-mastery-05",
         "minto-pyramid-principle-01",
+        "talk-like-ted-07",
         "think-faster-talk-smarter-07",
         "made-to-stick-07",
         "made-to-stick-04",
@@ -111,7 +113,7 @@
         "giurge-bohns-2021-01",
         "supercommunicators-12"
       ],
-      "rationale": "The curse of knowledge explains why clarity is hard and extends AIM from Stage 1; asking listeners for their version catches the misunderstandings speakers miss. Focus and the core decide what to say, parachuting in where to start, the pyramid how to order support, and What So What Now What the shape. Concreteness, analogies and human-scale numbers make it land. The written block applies this to text: ABC editing, cutting whole ideas and limiting each message to one easy ask for busy readers, the tone check because senders overestimate how well tone comes across, pause-verify-iterate, stating your response clock for async work, and extra warmth online. Clarity must precede persuasion."
+      "rationale": "The curse of knowledge explains why clarity is hard and extends AIM from Stage 1; asking listeners for their version catches the misunderstandings speakers miss. Focus and the core decide what to say, parachuting in where to start, the pyramid how to order support (and the message map adapts it for talks of any length), and What So What Now What the shape. Concreteness, analogies and human-scale numbers make it land. The written block applies this to text: ABC editing, cutting whole ideas and limiting each message to one easy ask for busy readers, the tone check because senders overestimate how well tone comes across, pause-verify-iterate, stating your response clock for async work, and extra warmth online. Clarity must precede persuasion."
     },
     {
       "id": "stage-5",
@@ -154,10 +156,17 @@
       ],
       "insight_ids": [
         "connect-07",
+        "the-next-conversation-14",
         "connect-05",
         "morrison-2014-voice-01",
+        "difficult-conversations-02",
+        "difficult-conversations-01",
+        "crucial-conversations-05",
         "connect-06",
+        "the-next-conversation-13",
         "connect-04",
+        "crucial-conversations-07",
+        "nonviolent-communication-01",
         "connect-15",
         "think-faster-talk-smarter-10",
         "connect-08",
@@ -166,6 +175,7 @@
         "overall-mcnulty-2017-01",
         "think-faster-talk-smarter-16",
         "talk-wood-brooks-09",
+        "crucial-conversations-03",
         "supercommunicators-11",
         "supercommunicators-14",
         "baile-spikes-2000-01",
@@ -176,10 +186,11 @@
         "ury-positive-no-01",
         "givi-kirk-2024-01",
         "connect-13",
+        "the-next-conversation-12",
         "high-dillard-2012-01",
         "how-to-know-a-person-10"
       ],
-      "rationale": "Receiving feedback comes first because it is the reader's own side and shows why others' data matters. Raising pinches early sets timing, and the voice research (will it matter, is it safe) explains why people stay silent with those above them. Real feelings, behavior plus impact and behavior-not-personality build the message; the 4 I's packages it; problem solving sets the stance. Conflict moves from diagnosis (find the layer) to the couples research on what predicts escalation (the four horsemen) and when directness helps, then regulation, receptiveness and group norms. Delivering bad news (SPIKES) follows preparation for the hardest conversations. Apologies, with research on which parts matter most, lead into repair. Saying no (the positive no, and evidence that declines sting less than feared) and boundaries follow, and supporting distress closes the stage with the comfort ladder and presence over fixing, drawing on all earlier skills, including looping from Stage 2."
+      "rationale": "Receiving feedback comes first because it is the reader's own side and shows why others' data matters; catch, drop, get curious handles the defensive reflex. Raising pinches early sets timing, and the voice research (will it matter, is it safe) explains why people stay silent with those above them. The learning conversation and the three conversations (What Happened, Feelings, Identity) set the stance and the map, and mastering your stories separates facts from conclusions before you speak. Real feelings, a clear frame for the opening, behavior plus impact, STATE (facts, then a tentative story, then their view), the four NVC components and behavior-not-personality build the message; the 4 I's packages it; problem solving sets the stance. Conflict moves from diagnosis (find the layer) to the couples research on what predicts escalation (the four horsemen) and when directness helps, then regulation, receptiveness, restoring safety (mutual purpose and respect) and group norms. Delivering bad news (SPIKES) follows preparation for the hardest conversations. Apologies, with research on which parts matter most, lead into repair. Saying no (the positive no, and evidence that declines sting less than feared) and boundaries (including stating a consequence and following through) follow, and supporting distress closes the stage with the comfort ladder and presence over fixing, drawing on all earlier skills, including looping from Stage 2."
     },
     {
       "id": "stage-7",
@@ -200,6 +211,7 @@
         "communicate-with-mastery-06",
         "communicate-with-mastery-17",
         "guyer-vocal-confidence-01",
+        "talk-like-ted-04",
         "communicate-with-mastery-11",
         "supercommunicators-06",
         "improv-wisdom-11",
@@ -214,7 +226,7 @@
         "communicate-with-mastery-20",
         "communicate-with-mastery-15"
       ],
-      "rationale": "The six-step method recaps Stages 1, 2 and 4 as one sequence for on-the-spot speaking; ADD, restating the question so relevance is visible, prompts instead of scripts and the toast apply it. Delivery follows once content is in place (contested elements flagged; vocal confidence amplifies but does not replace a strong case). Group leadership extends Stage 3 to teams, and meeting science turns it into design: before, during and after, silent idea generation, and reducing video fatigue. Negotiation integrates listening, structure and influence under high stakes: interests over positions, testing the fixed-pie assumption, and knowing your BATNA (which also backs a firm no). The canvas is the high-stakes integration of AIM, and the guide ends with video review and coaching so learning continues."
+      "rationale": "The six-step method recaps Stages 1, 2 and 4 as one sequence for on-the-spot speaking; ADD, restating the question so relevance is visible, prompts instead of scripts and the toast apply it. Delivery follows once content is in place (contested elements flagged; vocal confidence amplifies but does not replace a strong case; heavy rehearsal makes a prepared talk sound conversational). Group leadership extends Stage 3 to teams, and meeting science turns it into design: before, during and after, silent idea generation, and reducing video fatigue. Negotiation integrates listening, structure and influence under high stakes: interests over positions, testing the fixed-pie assumption, and knowing your BATNA (which also backs a firm no). The canvas is the high-stakes integration of AIM, and the guide ends with video review and coaching so learning continues."
     }
   ],
   "convergent_concepts": [
@@ -318,7 +330,10 @@
         "think-faster-talk-smarter-16",
         "supercommunicators-11",
         "communicate-with-mastery-09",
-        "keysar-henly-2002-01"
+        "keysar-henly-2002-01",
+        "crucial-conversations-08",
+        "nonviolent-communication-07",
+        "difficult-conversations-12"
       ],
       "agreement": "Restate what you heard in your own words and check; it catches misunderstanding and lowers defensiveness. Keysar and Henly add the speaker side: ask the listener for their version rather than trusting a nod.",
       "disagreement": "Duhigg and David Brooks describe the full loop; Brooks allows a lighter paraphrase; Abrahams also uses paraphrase to buy time and reframe hostile questions; Schramm applies verification to writing. Some research finds paraphrase adds little over acknowledgment.",
@@ -372,7 +387,9 @@
         "communicate-with-mastery-16",
         "talk-wood-brooks-01",
         "supercommunicators-03",
-        "minto-pyramid-principle-02"
+        "minto-pyramid-principle-02",
+        "talk-like-ted-07",
+        "the-next-conversation-13"
       ],
       "agreement": "A short reusable shape eases delivery under pressure and helps listeners follow; good structures end with relevance and a next step.",
       "disagreement": "Abrahams uses What So What Now What for spontaneous speech, Schramm for written synthesis; Madson prefers questions-to-self over scripts; Wood Brooks and Duhigg offer conversation structures rather than message structures. None is tested as a named framework.",
@@ -390,7 +407,9 @@
         "improv-wisdom-04",
         "minto-pyramid-principle-01",
         "rogers-busy-readers-02",
-        "rogers-busy-readers-05"
+        "rogers-busy-readers-05",
+        "talk-like-ted-07",
+        "the-next-conversation-16"
       ],
       "agreement": "Find the single most important point, say it first, and drop background the audience does not need. Minto's pyramid puts the governing point first, and field experiments from Rogers and Lasky-Fink show that cutting whole ideas, not only words, raises response rates.",
       "disagreement": "Made to Stick stresses ruthless prioritization; Schramm stresses opening at the most engaging moment; Abrahams stresses relevance and concision; Madson's start with the obvious is about not waiting for brilliance.",
@@ -438,7 +457,8 @@
         "talk-wood-brooks-14",
         "how-to-know-a-person-12",
         "connect-09",
-        "how-to-know-a-person-10"
+        "how-to-know-a-person-10",
+        "difficult-conversations-01"
       ],
       "agreement": "Misfires often come from people being in different conversations; diagnose what the other person needs and meet them there.",
       "disagreement": "Duhigg uses three kinds plus mood and energy; Wood Brooks uses a goals compass and five layers; David Brooks distinguishes official and actual conversations; Connect and David Brooks apply it to support. All typologies are untested syntheses.",
@@ -453,10 +473,15 @@
         "connect-15",
         "think-faster-talk-smarter-10",
         "made-to-stick-07",
-        "communicate-with-mastery-15"
+        "communicate-with-mastery-15",
+        "nonviolent-communication-01",
+        "nonviolent-communication-02",
+        "crucial-conversations-07",
+        "difficult-conversations-05",
+        "the-next-conversation-15"
       ],
       "agreement": "Name specific observable behavior and its effect, avoid labels and intent guesses, and ask for behavior change rather than character change.",
-      "disagreement": "Connect treats feedback as data, not a verdict, and rejects the sandwich; Abrahams adds explicit Implications; Schramm adds coaching and Radical Candor.",
+      "disagreement": "Connect treats feedback as data, not a verdict, and rejects the sandwich; Abrahams adds explicit Implications; Schramm adds coaching and Radical Candor. Crucial Conversations (STATE) says to go on and state your tentative conclusion after the facts, while Nonviolent Communication says to replace evaluations with your feeling, need and a request.",
       "evidence": "Medium"
     },
     {
@@ -469,7 +494,13 @@
         "connect-08",
         "how-to-know-a-person-08",
         "how-to-know-a-person-12",
-        "talk-wood-brooks-14"
+        "talk-wood-brooks-14",
+        "difficult-conversations-02",
+        "difficult-conversations-03",
+        "difficult-conversations-04",
+        "crucial-conversations-13",
+        "the-next-conversation-01",
+        "the-next-conversation-10"
       ],
       "agreement": "Aim to understand rather than win: acknowledge the other view, find the real layer of difference and points of agreement, and treat the exchange as joint problem solving.",
       "disagreement": "Wood Brooks gives a linguistic receptiveness recipe; Abrahams's CLEAR starts with self-regulation; Duhigg measures success by feeling heard; David Brooks stresses safety before content. Key receptiveness papers are Gino-coauthored, with independent support from Ren and Schaumberg.",
@@ -507,7 +538,8 @@
         "how-to-know-a-person-09",
         "van-laer-2014-01",
         "braddock-dillard-2016-01",
-        "kalla-broockman-2020-01"
+        "kalla-broockman-2020-01",
+        "talk-like-ted-03"
       ],
       "agreement": "Concrete details, examples, analogies, human-scale numbers and short stories improve understanding and memory. Meta-analyses confirm that stories persuade, mainly by absorbing the listener (transportation), and field experiments show that exchanging personal stories shifts entrenched views where arguments alone do not.",
       "disagreement": "Made to Stick is the theoretical anchor; Schramm offers a story template (Low); Abrahams embeds a concrete example in each structure; David Brooks applies it to listening by asking for others' stories. Stories-versus-statistics figures are informal. Braddock and Dillard put the size in perspective: narrative effects are small (correlations around .2), so stories nudge rather than convert.",
@@ -549,7 +581,8 @@
         "talk-wood-brooks-13",
         "humor-seriously-10",
         "connect-14",
-        "lewicki-apologies-2016-01"
+        "lewicki-apologies-2016-01",
+        "the-next-conversation-08"
       ],
       "agreement": "Name the specific act and its effect, avoid 'but' and conditional apologies, commit to change; ruptures can be repaired. Lewicki and colleagues rank the parts: plainly accepting responsibility matters most and offering repair second, while asking for forgiveness adds least.",
       "disagreement": "Abrahams gives a three-part form; Wood Brooks adds superfluous apologies for others' bad luck; Aaker and Bagdonas apply it to jokes that cross a line; Connect describes the long arc of repair.",
@@ -564,7 +597,8 @@
         "supercommunicators-12",
         "liu-2023-01",
         "gable-2004-01",
-        "gottman-seven-principles-04"
+        "gottman-seven-principles-04",
+        "nonviolent-communication-12"
       ],
       "agreement": "Specific thanks and sincere compliments are undergiven and land better than expected. Relationship research adds that responding with enthusiasm to good news and a steady supply of small positives keep relationships resilient, and that unprompted check-ins are appreciated more than senders expect.",
       "disagreement": "Wood Brooks frames it as a miscalibration; Madson as a Naikan reflection habit; Abrahams builds thanks into toasts; Duhigg prescribes extra gratitude online.",
@@ -580,7 +614,10 @@
         "supercommunicators-14",
         "gabarro-kotter-managing-your-boss-03",
         "franco-platonic-02",
-        "overall-mcnulty-2017-01"
+        "overall-mcnulty-2017-01",
+        "crucial-conversations-09",
+        "crucial-conversations-11",
+        "crucial-conversations-12"
       ],
       "agreement": "Unspoken irritations and mismatched expectations accumulate; raise them early in non-accusatory language and set norms explicitly. Managing-up and friendship sources apply the same rule upward and to friends, and couples research finds direct requests for change work better than hinting when the problem is serious.",
       "disagreement": "Connect supplies the core models; Abrahams stresses in-the-moment timing; Duhigg applies norm-setting to groups. Mostly one book.",
@@ -612,7 +649,8 @@
         "high-dillard-2012-01",
         "rafaeli-gleason-2009-01",
         "rafaeli-gleason-2009-02",
-        "miller-rollnick-mi-2023-02"
+        "miller-rollnick-mi-2023-02",
+        "nonviolent-communication-07"
       ],
       "agreement": "Resist fixing; ask open questions, acknowledge how hard it is, and stay present. Research on person-centered comforting (23 studies) and on support that misfires supports acknowledging and legitimizing feelings before offering advice, and offering advice with permission when it is wanted.",
       "disagreement": "David Brooks addresses clinical depression and pairs presence with professional care; Connect addresses everyday problems; Duhigg frames it as matching an emotional conversation. Key cases are single anecdotes. Rafaeli and Gleason add that support the person notices can backfire, so less visible support sometimes helps more, which sits in tension with naming feelings explicitly.",
@@ -630,7 +668,8 @@
         "talk-wood-brooks-07",
         "connect-07",
         "ebrahimi-2019-01",
-        "bodie-2010-01"
+        "bodie-2010-01",
+        "talk-like-ted-04"
       ],
       "agreement": "Skills improve through feedback-driven practice: debriefs, recordings, rehearsal with a partner, frequent small feedback. Randomized trials of structured speaking practice programs give this the strongest evidence in the library.",
       "disagreement": "Schramm gives the most developed routines; Abrahams prescribes drills; Wood Brooks uses TALK as a checklist; Connect frames feedback as data you cannot get yourself.",
@@ -657,7 +696,8 @@
         "berger-catalyst-01",
         "berger-catalyst-02",
         "fisher-ury-getting-to-yes-06",
-        "talk-wood-brooks-09"
+        "talk-wood-brooks-09",
+        "nonviolent-communication-06"
       ],
       "agreement": "When someone is dug in, more arguments tend to strengthen their defense of the status quo. Asking for their own reasons, listening without judging, offering choices and exchanging stories lower defensiveness and leave room for them to move themselves.",
       "disagreement": "Motivational interviewing is a clinical method tested in trials; Kalla and Broockman tested door-to-door conversations; the listening experiments come mostly from one lab; Berger and Fisher and Ury are practitioner syntheses. Effects per conversation are small, so the realistic goal is a modest shift, not a conversion.",
@@ -672,7 +712,8 @@
         "thompson-mind-heart-negotiator-03",
         "cohen-bradford-influence-without-authority-01",
         "supercommunicators-04",
-        "talk-wood-brooks-14"
+        "talk-wood-brooks-14",
+        "nonviolent-communication-04"
       ],
       "agreement": "Look beneath stated positions to the needs that drive them, assume there may be issues where both sides want the same thing or value things differently, and invent and trade across options before bargaining.",
       "disagreement": "Fisher and Ury give a practitioner method; Thompson grounds it in experiments on fixed-pie and lose-lose errors; Cohen and Bradford apply exchange to colleagues you cannot direct. Duhigg and Wood Brooks extend the idea to everyday conversation.",
@@ -738,6 +779,35 @@
       ],
       "agreement": "Name a specific behavior and the change you need instead of attacking character, hinting or inducing guilt; raise it while it is small.",
       "disagreement": "Gottman stresses a gentle start-up; Overall and McNulty find that direct opposition, even with visible frustration, produces change when the problem is serious and the partner can change, and harms when it is minor.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Separate what happened from the story you tell about it",
+      "insight_ids": [
+        "connect-03",
+        "crucial-conversations-05",
+        "crucial-conversations-06",
+        "difficult-conversations-05",
+        "difficult-conversations-07",
+        "nonviolent-communication-02",
+        "nonviolent-communication-10",
+        "the-next-conversation-01"
+      ],
+      "agreement": "Strong reactions in conflict come from a fast interpretation of what someone did, especially a guess about their intent, not from the act itself. Pulling apart the observable behavior, its impact and your interpretation lowers your own heat and gives the other person something they cannot dispute.",
+      "disagreement": "Crucial Conversations works on the story (check it against the facts and ask why a reasonable person would act so); Difficult Conversations and Connect focus on intent versus impact; Nonviolent Communication traces the feeling to an unmet need rather than to a story; Fisher treats disproportion as a cue to get curious about the other person's hidden struggle.",
+      "evidence": "Medium"
+    },
+    {
+      "concept": "Steady your sense of self before taking in criticism",
+      "insight_ids": [
+        "difficult-conversations-08",
+        "the-next-conversation-14",
+        "nonviolent-communication-05",
+        "connect-07",
+        "think-faster-talk-smarter-05"
+      ],
+      "agreement": "Defensiveness under criticism mostly comes from a threat to identity. Pausing, separating the message from your worth and treating it as information about the other person and about how you land make it possible to hear what is true in it.",
+      "disagreement": "Difficult Conversations (and Crucial Conversations, merged into it) work on a more complex self-image; Fisher uses a breath and letting the words drop before deciding what to pick up; Nonviolent Communication turns attention to your own and the critic's needs; Connect stresses that feedback is data whether or not you act on it.",
       "evidence": "Medium"
     }
   ],
@@ -1359,6 +1429,388 @@
       "ids": [
         "morrison-2014-voice-03",
         "gabarro-kotter-managing-your-boss-03"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-05",
+        "difficult-conversations-07",
+        "nonviolent-communication-10"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-06",
+        "difficult-conversations-03",
+        "the-next-conversation-01",
+        "how-to-know-a-person-06"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-06",
+        "think-faster-talk-smarter-16"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-06",
+        "difficult-conversations-06"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "difficult-conversations-05",
+        "connect-03"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "difficult-conversations-05",
+        "crucial-conversations-04"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "difficult-conversations-07",
+        "nonviolent-communication-03",
+        "connect-06"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "nonviolent-communication-01",
+        "crucial-conversations-07",
+        "connect-04",
+        "gottman-seven-principles-01"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "the-next-conversation-15",
+        "nonviolent-communication-01"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "nonviolent-communication-02",
+        "connect-04"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-07",
+        "nonviolent-communication-02"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "the-next-conversation-13",
+        "difficult-conversations-10",
+        "crucial-conversations-04"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "the-next-conversation-16",
+        "difficult-conversations-10"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "the-next-conversation-16",
+        "baile-spikes-2000-01"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "the-next-conversation-16",
+        "connect-04"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-03",
+        "how-to-know-a-person-12",
+        "supercommunicators-11"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "the-next-conversation-14",
+        "difficult-conversations-08",
+        "nonviolent-communication-05",
+        "connect-07"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-01",
+        "difficult-conversations-09",
+        "the-next-conversation-02",
+        "talk-wood-brooks-12"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "difficult-conversations-04",
+        "think-faster-talk-smarter-16"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "difficult-conversations-04",
+        "crucial-conversations-01"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "difficult-conversations-02",
+        "supercommunicators-03"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "difficult-conversations-01",
+        "supercommunicators-01",
+        "talk-wood-brooks-14"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "difficult-conversations-06",
+        "connect-08"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-08",
+        "nonviolent-communication-07",
+        "supercommunicators-07"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "nonviolent-communication-07",
+        "high-dillard-2012-01",
+        "connect-09"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "difficult-conversations-12",
+        "kluger-listening-2024-02"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-02",
+        "ury-positive-no-02"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "nonviolent-communication-04",
+        "fisher-ury-getting-to-yes-01"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "nonviolent-communication-06",
+        "connect-15"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "nonviolent-communication-06",
+        "overall-mcnulty-2017-02"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "nonviolent-communication-11",
+        "overall-mcnulty-2017-02"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "the-next-conversation-04",
+        "think-faster-talk-smarter-02",
+        "kross-2014-01"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "the-next-conversation-03",
+        "gottman-seven-principles-03"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "the-next-conversation-11",
+        "ury-positive-no-01"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "the-next-conversation-11",
+        "givi-kirk-2024-01"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "the-next-conversation-12",
+        "connect-13"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "the-next-conversation-08",
+        "lewicki-apologies-2016-01",
+        "think-faster-talk-smarter-12"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "nonviolent-communication-12",
+        "talk-wood-brooks-10"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "the-next-conversation-06",
+        "guyer-vocal-confidence-01"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "the-next-conversation-07",
+        "fisher-ury-getting-to-yes-06"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "the-next-conversation-10",
+        "talk-wood-brooks-09"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-11",
+        "rogelberg-meetings-02"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-12",
+        "mroz-allen-2018-meetings-01"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-13",
+        "rogelberg-meetings-05"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "crucial-conversations-09",
+        "connect-05"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "nonviolent-communication-13",
+        "supercommunicators-11"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "talk-like-ted-07",
+        "minto-pyramid-principle-01",
+        "made-to-stick-03"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "talk-like-ted-03",
+        "braddock-dillard-2016-01"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "talk-like-ted-04",
+        "improv-wisdom-02"
+      ],
+      "relation": "tension"
+    },
+    {
+      "ids": [
+        "talk-like-ted-04",
+        "communicate-with-mastery-20"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "talk-like-ted-05",
+        "made-to-stick-05"
+      ],
+      "relation": "complementary"
+    },
+    {
+      "ids": [
+        "talk-like-ted-01",
+        "made-to-stick-02"
       ],
       "relation": "complementary"
     }
