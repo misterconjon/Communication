@@ -9,11 +9,12 @@ Last updated: 2026-11-04
 | 1. Book deep-dives (Checkpoint 2) | Approved; verification pass (1b) complete: 137 insights (6 High, 113 Medium, 18 Low) |
 | 2. Cross-book synthesis | Complete: docs/stage2-synthesis.md, data/learning-path.json |
 | 3. Expansion research (Checkpoint 3) | Complete: 56 sources extracted (109 new insights after 1 merge); integrated into learning path (docs/stage3c-integration-log.md) |
-| 4. Interactive artifact (Checkpoint 4) | Built, tested, published: https://claude.ai/artifact/FDcPSSEmH8d4tLwoTYf5MW. Awaiting user review |
+| 4. Interactive artifact (Checkpoint 4) | Redesigned per user feedback (problem-first home, 27 situation playbooks, reader panel, saved and practiced, forest and clay palette, DM Sans). Republished; awaiting user review |
 | 5. Word guide (Checkpoint 5) | Not started |
 | 6. Quality assurance | Not started |
 
 ## Decisions made
+- Artifact redesign: about 25 situation playbooks (27 written); home screen leads with 'What are you facing?'; forest green and clay palette with DM Sans; favorites and practiced tracking stored per browser.
 - Stage 3: add all candidates scoring 7+ (option B, 56 sources).
 - Papers and books: extract every relevant high-quality insight, no fixed count; no redundant insights (use supports_existing instead).
 - No cross-cultural communication; US context only.

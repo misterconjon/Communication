@@ -131,7 +131,8 @@ input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; a
 .card p { color: var(--muted); font-size: 0.92rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .card .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 2px; }
 .card .star-mini { position: absolute; top: 14px; right: 14px; color: var(--clay); }
-.pill { font-size: 0.75rem; font-weight: 600; border-radius: 6px; padding: 2px 8px; background: var(--sunk); color: var(--muted); }
+.pill::first-letter { text-transform: uppercase; }
+.pill { display: inline-block; font-size: 0.75rem; font-weight: 600; border-radius: 6px; padding: 2px 8px; background: var(--sunk); color: var(--muted); }
 .pill.work { background: var(--forest-soft); color: var(--forest); }
 .pill.personal { background: var(--clay-soft); color: var(--clay); }
 
