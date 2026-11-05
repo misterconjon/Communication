@@ -13148,6 +13148,11 @@
      "source_id": "thompson-mind-heart-negotiator",
      "relation": "supports",
      "note": "Galinsky and Mussweiler (2001) found that focusing on alternatives and targets weakens the pull of the other side's first offer, supporting the advice to prepare and keep your BATNA in mind (sibling extraction from this batch)."
+    },
+    {
+     "source_id": "ury-positive-no",
+     "relation": "supports",
+     "note": "Ury applies the BATNA idea to refusals under the name Plan B: knowing what you will do if the other person does not accept your no lets you say it calmly. Before refusing, he suggests checking three things: whether you have a real interest at stake, the power to back the no, and the right to refuse. Keep Plan B in reserve rather than leading with it, and if the other side pushes, state the consequence you will act on as a respectful warning (information about what you will do), not a threat meant to punish. Not separately tested for refusals."
     }
    ]
   },
@@ -17230,60 +17235,6 @@
    "supporting_evidence": []
   },
   {
-   "id": "ury-positive-no-03",
-   "source_id": "ury-positive-no",
-   "name": "Back Your No With a Plan B",
-   "skill_type": "technique",
-   "explanation": "A no is much easier to say calmly when you already know what you will do if the other person does not accept it. Ury calls this your Plan B: your own best course of action that does not depend on their agreement (similar to the BATNA idea in Getting to Yes, applied to refusals). Once you have it, he suggests reassessing whether to say no at all by asking three questions: do I have a real interest at stake, do I have the power to back the no, and do I have the right to refuse here. If the other side pushes back, describe the consequences you will act on as a respectful warning about what you will do, not a threat meant to punish them.",
-   "when_to_use": "Before refusing someone who has power over you or who is likely to push back hard: a demanding client, a manager, a landlord, a family member who escalates.",
-   "worked_example": "A freelance designer wants to refuse a client's demand for unlimited free revisions. Before the call she works out her Plan B: if the client will not accept a revision limit, she will finish the current round, deliver the files, and end the engagement, which she can afford because another client wants her time. With that settled she can say, without heat, that the contract covers two rounds and additional rounds are billed hourly, and that if that does not work she will wrap up after this round. In a family, a woman deciding whether to refuse to host Thanksgiving again checks her interest (she is exhausted), her power (her siblings can host), and her right (no one is owed her labor) before saying no.",
-   "common_mistakes": [
-    "Refusing with no plan for what happens if the other person says no to your no",
-    "Treating Plan B as a compromise you will accept, rather than an independent action you can take",
-    "Turning a statement of consequences into a threat",
-    "Skipping the check on whether you actually have the power or right to refuse"
-   ],
-   "steps": [
-    "Ask what you will do if the other person does not accept your no",
-    "Develop and, if needed, strengthen that independent option before the conversation",
-    "Reassess: do you have the interest, the power, and the right to say no here",
-    "Deliver your Positive No; keep Plan B in reserve rather than leading with it",
-    "If they push, state the consequence you will act on calmly, as information rather than punishment"
-   ],
-   "categories": [
-    {
-     "category": "difficult",
-     "subcategory": "saying-no"
-    },
-    {
-     "category": "difficult",
-     "subcategory": "boundaries"
-    },
-    {
-     "category": "professional",
-     "subcategory": "negotiation"
-    }
-   ],
-   "situations": [
-    "Refusing a client's scope creep",
-    "Turning down a manager's request when you expect pushback",
-    "Declining to host a family event",
-    "Saying no to a landlord's or vendor's demand"
-   ],
-   "source": {
-    "citation": "William Ury, The Power of a Positive No (2007), Part I on preparing a Positive No (Plan B; chapter two's closing questions on interest, power and right); reader's guide questions 6, 7 and 11",
-    "underlying_research": "Builds on the BATNA concept in Fisher, Ury and Patton, Getting to Yes (1981); not separately tested for refusals.",
-    "urls": [
-     "https://www.penguinrandomhouse.com/books/182089/the-power-of-a-positive-no-by-william-ury/readers-guide",
-     "https://www.pon.harvard.edu/resources/book-reviews/the-power-of-a-positive-no/"
-    ]
-   },
-   "confidence": "Medium",
-   "confidence_rationale": "Plan B and the three questions are confirmed in the publisher's reader's guide; the underlying BATNA concept is a widely taught negotiation principle. The application to everyday refusals is expert practice rather than tested research.",
-   "flags": [],
-   "supporting_evidence": []
-  },
-  {
    "id": "van-laer-2014-01",
    "source_id": "van-laer-2014",
    "name": "Transport the Listener: Character, Picture, Plausibility",
@@ -17361,13 +17312,15 @@
      "improv-wisdom-05",
      "improv-wisdom-10",
      "think-faster-talk-smarter-02",
+     "savitsky-gilovich-2003-01",
      "think-faster-talk-smarter-03",
      "think-faster-talk-smarter-05",
      "improv-wisdom-03",
+     "ebrahimi-2019-01",
      "communicate-with-mastery-01",
      "improv-wisdom-08"
     ],
-    "rationale": "Perfectionism and unmanaged anxiety undermine every later skill, so they come first: the mastery frame and connection over perfection, then calming the body, relabeling arousal, reframing the moment, and acting before feeling ready. The stage ends by pointing attention outward to audience and purpose (AIM, stay on course), which the listening stage builds on."
+    "rationale": "Perfectionism and unmanaged anxiety undermine every later skill, so they come first: the mastery frame and connection over perfection, then calming the body, knowing that nerves are far less visible than they feel (illusion of transparency), relabeling arousal, reframing the moment, and acting before feeling ready. For persistent fear, structured practice programs have the strongest evidence (Ebrahimi, High). The stage ends by pointing attention outward to audience and purpose (AIM, stay on course), which the listening stage builds on."
    },
    {
     "id": "stage-2",
@@ -17379,9 +17332,12 @@
     ],
     "insight_ids": [
      "improv-wisdom-06",
+     "kluger-listening-2024-01",
      "how-to-know-a-person-03",
      "think-faster-talk-smarter-06",
      "how-to-know-a-person-14",
+     "bond-depaulo-2006-01",
+     "hall-nonverbal-2019-01",
      "how-to-know-a-person-06",
      "how-to-know-a-person-07",
      "connect-09",
@@ -17390,15 +17346,16 @@
      "supercommunicators-01",
      "supercommunicators-02"
     ],
-    "rationale": "Attention is the High-confidence base, then made visible and aimed at the bottom line. Humility about reading people motivates perspective getting and looping as verification, and inquiry before advice. Empathy's three skills and the three realities give a model of intent versus impact that feedback needs later. The three kinds of conversations and matching turn listening into choosing a response, which Stage 3 requires."
+    "rationale": "Attention is the High-confidence base, and the listening meta-analysis shows why it pays: feeling heard goes with trust and liking more than almost anything else. Attention is then made visible and aimed at the bottom line. Humility about reading people (including the research that lies and inner states cannot be read from body language) motivates perspective getting and looping as verification, and inquiry before advice. Empathy's three skills and the three realities give a model of intent versus impact that feedback needs later. The three kinds of conversations and matching turn listening into choosing a response, which Stage 3 requires."
    },
    {
     "id": "stage-3",
     "title": "Conversation and connection",
-    "purpose": "Move from small talk to real connection through questions, topic management, depth, reciprocal disclosure, levity, appreciation and good endings.",
+    "purpose": "Move from small talk to real connection through questions, topic management, depth, reciprocal disclosure, levity, appreciation, everyday responsiveness, staying in touch and good endings.",
     "categories": [
      "conversations",
-     "relationships"
+     "relationships",
+     "personal-life"
     ],
     "insight_ids": [
      "talk-wood-brooks-01",
@@ -17408,6 +17365,7 @@
      "talk-wood-brooks-02",
      "talk-wood-brooks-03",
      "how-to-know-a-person-04",
+     "boothby-2018-01",
      "supercommunicators-05",
      "how-to-know-a-person-09",
      "talk-wood-brooks-07",
@@ -17416,15 +17374,18 @@
      "connect-10",
      "talk-wood-brooks-08",
      "humor-seriously-09",
+     "gottman-seven-principles-02",
      "talk-wood-brooks-10",
+     "gable-2004-01",
+     "liu-2023-01",
      "talk-wood-brooks-11"
     ],
-    "rationale": "TALK provides the map. Curiosity and follow-ups are the easiest high-return change and boomerasking the most common failure. Topic preparation and the pyramid show how to climb; the depth evidence and deep questions justify climbing. Disclosure follows because depth is reciprocal (pace, vulnerability, dropping image management). Levity with a safety check, appreciation and knowing when to end complete the stage. Trust built here is what Stage 6 relies on."
+    "rationale": "TALK provides the map. Curiosity and follow-ups are the easiest high-return change and boomerasking the most common failure. Topic preparation and the pyramid show how to climb; the depth evidence, the liking gap and deep questions justify climbing. Disclosure follows because depth is reciprocal (pace, vulnerability, dropping image management). Levity with a safety check, turning toward everyday bids, appreciation, responding actively to good news and reaching out to lapsed ties extend connection into friendships, family and partners. Knowing when to end completes the stage. Trust built here is what Stage 6 relies on."
    },
    {
     "id": "stage-4",
     "title": "Clarity and structure in speech and writing",
-    "purpose": "Make messages easy to understand: beat the curse of knowledge, lead with the core, use a reusable structure, make it concrete, and adapt for text.",
+    "purpose": "Make messages easy to understand: beat the curse of knowledge, lead with the core, use a reusable structure, make it concrete, and adapt for busy readers, text and async work.",
     "categories": [
      "written-digital",
      "foundations",
@@ -17432,23 +17393,29 @@
     ],
     "insight_ids": [
      "made-to-stick-01",
+     "keysar-henly-2002-01",
      "think-faster-talk-smarter-09",
      "made-to-stick-03",
      "communicate-with-mastery-05",
+     "minto-pyramid-principle-01",
      "think-faster-talk-smarter-07",
      "made-to-stick-07",
      "made-to-stick-04",
      "made-to-stick-14",
      "communicate-with-mastery-02",
+     "rogers-busy-readers-02",
+     "rogers-busy-readers-03",
+     "kruger-epley-2005-01",
      "communicate-with-mastery-09",
+     "giurge-bohns-2021-01",
      "supercommunicators-12"
     ],
-    "rationale": "The curse of knowledge explains why clarity is hard and extends AIM from Stage 1. Focus and the core decide what to say, parachuting in where to start, and What So What Now What the shape. Concreteness, analogies and human-scale numbers make it land. The written block applies this to text: ABC editing, pause-verify-iterate because senders overestimate how well tone comes across, and extra warmth online. Clarity must precede persuasion."
+    "rationale": "The curse of knowledge explains why clarity is hard and extends AIM from Stage 1; asking listeners for their version catches the misunderstandings speakers miss. Focus and the core decide what to say, parachuting in where to start, the pyramid how to order support, and What So What Now What the shape. Concreteness, analogies and human-scale numbers make it land. The written block applies this to text: ABC editing, cutting whole ideas and limiting each message to one easy ask for busy readers, the tone check because senders overestimate how well tone comes across, pause-verify-iterate, stating your response clock for async work, and extra warmth online. Clarity must precede persuasion."
    },
    {
     "id": "stage-5",
     "title": "Influence and memorable messages",
-    "purpose": "Move people to act by leading with their benefit, using persuasive structures, making ideas stick, building credibility and working with identity.",
+    "purpose": "Move people to act by leading with their benefit, using persuasive structures, making ideas stick, building credibility and reciprocity, working with identity and values, and reducing resistance instead of pushing harder.",
     "categories": [
      "influence",
      "professional"
@@ -17462,18 +17429,24 @@
      "made-to-stick-05",
      "made-to-stick-06",
      "made-to-stick-12",
+     "van-laer-2014-01",
      "humor-seriously-16",
      "made-to-stick-08",
+     "cialdini-influence-2021-01",
+     "cohen-bradford-influence-without-authority-01",
      "made-to-stick-13",
      "supercommunicators-10",
-     "made-to-stick-11"
+     "made-to-stick-11",
+     "feinberg-willer-2019-01",
+     "miller-rollnick-mi-2023-01",
+     "kalla-broockman-2020-01"
     ],
-    "rationale": "Benefit-first persuasion extends audience thinking. Structures come before stickiness so the reader has a skeleton to strengthen. SUCCESs organizes the stickiness tools (unexpected, curiosity, stories, a light line). Credibility and emotional spread follow, and identity closes the stage because it explains why good arguments fail and bridges into difficult conversations."
+    "rationale": "Benefit-first persuasion extends audience thinking. Structures come before stickiness so the reader has a skeleton to strengthen. SUCCESs organizes the stickiness tools (unexpected, curiosity, stories with transportation research on what makes them work, a light line). Credibility, reciprocity and the exchange model for influence without authority follow, then emotional spread. Identity and moral reframing explain why good arguments fail, and the stage closes with the best-evidenced ways through resistance: drawing out the other person's own reasons (motivational interviewing) and exchanging stories rather than arguments. These bridge into difficult conversations."
    },
    {
     "id": "stage-6",
     "title": "Difficult situations",
-    "purpose": "Handle feedback, conflict, apologies, boundaries and distress without damaging the relationship.",
+    "purpose": "Handle feedback, speaking up, conflict, bad news, apologies, saying no, boundaries and distress without damaging the relationship.",
     "categories": [
      "difficult",
      "personal-life"
@@ -17481,28 +17454,36 @@
     "insight_ids": [
      "connect-07",
      "connect-05",
+     "morrison-2014-voice-01",
      "connect-06",
      "connect-04",
      "connect-15",
      "think-faster-talk-smarter-10",
      "connect-08",
      "talk-wood-brooks-14",
+     "gottman-seven-principles-01",
+     "overall-mcnulty-2017-01",
      "think-faster-talk-smarter-16",
      "talk-wood-brooks-09",
      "supercommunicators-11",
      "supercommunicators-14",
+     "baile-spikes-2000-01",
      "think-faster-talk-smarter-12",
+     "lewicki-apologies-2016-01",
      "talk-wood-brooks-13",
      "connect-14",
+     "ury-positive-no-01",
+     "givi-kirk-2024-01",
      "connect-13",
+     "high-dillard-2012-01",
      "how-to-know-a-person-10"
     ],
-    "rationale": "Receiving feedback comes first because it is the reader's own side and shows why others' data matters. Raising pinches early sets timing; real feelings, behavior plus impact and behavior-not-personality build the message; the 4 I's packages it; problem solving sets the stance. Conflict moves from diagnosis (find the layer) to regulation and receptiveness to group norms. Repair follows conflict. Boundaries and supporting distress close the stage because they draw on all earlier skills, including looping from Stage 2."
+    "rationale": "Receiving feedback comes first because it is the reader's own side and shows why others' data matters. Raising pinches early sets timing, and the voice research (will it matter, is it safe) explains why people stay silent with those above them. Real feelings, behavior plus impact and behavior-not-personality build the message; the 4 I's packages it; problem solving sets the stance. Conflict moves from diagnosis (find the layer) to the couples research on what predicts escalation (the four horsemen) and when directness helps, then regulation, receptiveness and group norms. Delivering bad news (SPIKES) follows preparation for the hardest conversations. Apologies, with research on which parts matter most, lead into repair. Saying no (the positive no, and evidence that declines sting less than feared) and boundaries follow, and supporting distress closes the stage with the comfort ladder and presence over fixing, drawing on all earlier skills, including looping from Stage 2."
    },
    {
     "id": "stage-7",
     "title": "Mastery: groups, high stakes, and deliberate practice",
-    "purpose": "Integrate skills under pressure and in front of groups, lead conversations that elevate others, and install a lasting practice loop.",
+    "purpose": "Integrate skills under pressure, in meetings, negotiations and in front of groups, lead conversations that elevate others, and install a lasting practice loop.",
     "categories": [
      "public-speaking",
      "conversations",
@@ -17512,19 +17493,27 @@
     "insight_ids": [
      "think-faster-talk-smarter-01",
      "think-faster-talk-smarter-11",
+     "rogers-norton-artful-dodger-01",
      "improv-wisdom-13",
      "think-faster-talk-smarter-14",
      "communicate-with-mastery-06",
      "communicate-with-mastery-17",
+     "guyer-vocal-confidence-01",
      "communicate-with-mastery-11",
      "supercommunicators-06",
      "improv-wisdom-11",
+     "mroz-allen-2018-meetings-01",
+     "rogelberg-meetings-05",
+     "bailenson-zoom-fatigue-01",
      "humor-seriously-14",
+     "fisher-ury-getting-to-yes-01",
+     "thompson-mind-heart-negotiator-01",
+     "fisher-ury-getting-to-yes-05",
      "communicate-with-mastery-16",
      "communicate-with-mastery-20",
      "communicate-with-mastery-15"
     ],
-    "rationale": "The six-step method recaps Stages 1, 2 and 4 as one sequence for on-the-spot speaking; ADD, prompts instead of scripts and the toast apply it. Delivery follows once content is in place (contested elements flagged). Group leadership extends Stage 3 to teams. The canvas is the high-stakes integration of AIM, and the guide ends with video review and coaching so learning continues."
+    "rationale": "The six-step method recaps Stages 1, 2 and 4 as one sequence for on-the-spot speaking; ADD, restating the question so relevance is visible, prompts instead of scripts and the toast apply it. Delivery follows once content is in place (contested elements flagged; vocal confidence amplifies but does not replace a strong case). Group leadership extends Stage 3 to teams, and meeting science turns it into design: before, during and after, silent idea generation, and reducing video fatigue. Negotiation integrates listening, structure and influence under high stakes: interests over positions, testing the fixed-pie assumption, and knowing your BATNA (which also backs a firm no). The canvas is the high-stakes integration of AIM, and the guide ends with video review and coaching so learning continues."
    }
   ]
  },
@@ -17586,10 +17575,18 @@
     "think-faster-talk-smarter-02",
     "communicate-with-mastery-09",
     "supercommunicators-12",
-    "talk-wood-brooks-11"
+    "talk-wood-brooks-11",
+    "boothby-2018-01",
+    "liu-2023-01",
+    "givi-kirk-2024-01",
+    "ames-wazlawek-2014-01",
+    "savitsky-gilovich-2003-01",
+    "kruger-epley-2005-01",
+    "keysar-henly-2002-01",
+    "giurge-bohns-2021-01"
    ],
-   "agreement": "People overestimate awkwardness and how much others notice their stumbles, underestimate the positive impact of depth, compliments and vulnerability, and overestimate how clearly their tone comes across.",
-   "disagreement": "Some books use the finding to encourage action (Wood Brooks, David Brooks, Madson, Abrahams); others to urge verification (Schramm, Duhigg on text). Several papers come from one lab and some links are mapped rather than cited.",
+   "agreement": "People overestimate awkwardness and how much others notice their stumbles, underestimate the positive impact of depth, compliments and vulnerability, and overestimate how clearly their tone comes across. Stage 3 sources add independent lab and field evidence: new acquaintances like us more than we think, lapsed contacts welcome a hello more than we expect, a declined invitation stings less than feared, assertive people rarely cross the line they fear crossing, nerves are less visible than they feel, speakers overestimate how often they were understood, and email readers infer more urgency than senders intend.",
+   "disagreement": "Some books use the finding to encourage action (Wood Brooks, David Brooks, Madson, Abrahams); others to urge verification (Schramm, Duhigg on text). Several papers come from one lab and some links are mapped rather than cited. The added papers come from several independent labs (Cornell, Chicago, Columbia, Virginia Tech), which strengthens the convergence, though most measure beliefs and forecasts rather than what happens when people act on corrected beliefs.",
    "evidence": "High"
   },
   {
@@ -17601,9 +17598,13 @@
     "connect-03",
     "connect-09",
     "supercommunicators-03",
-    "made-to-stick-01"
+    "made-to-stick-01",
+    "bond-depaulo-2006-01",
+    "bond-depaulo-2006-02",
+    "hall-nonverbal-2019-01",
+    "kruger-epley-2005-02"
    ],
-   "agreement": "You know less about others' thoughts, feelings and intentions than you believe; ask and check rather than assume.",
+   "agreement": "You know less about others' thoughts, feelings and intentions than you believe; ask and check rather than assume. Meta-analytic research adds that lie detection from behavior is barely above chance and that nonverbal cues are weak, probabilistic hints, so asking and listening beat watching.",
    "disagreement": "David Brooks's mentalizing model projects from your own experience and Wood Brooks's compass asks for a best guess at partner goals, which sit uneasily with perspective-getting research. how-to-know-a-person-06 is not confirmed in the book.",
    "evidence": "High"
   },
@@ -17616,9 +17617,10 @@
     "think-faster-talk-smarter-11",
     "think-faster-talk-smarter-16",
     "supercommunicators-11",
-    "communicate-with-mastery-09"
+    "communicate-with-mastery-09",
+    "keysar-henly-2002-01"
    ],
-   "agreement": "Restate what you heard in your own words and check; it catches misunderstanding and lowers defensiveness.",
+   "agreement": "Restate what you heard in your own words and check; it catches misunderstanding and lowers defensiveness. Keysar and Henly add the speaker side: ask the listener for their version rather than trusting a nod.",
    "disagreement": "Duhigg and David Brooks describe the full loop; Brooks allows a lighter paraphrase; Abrahams also uses paraphrase to buy time and reframe hostile questions; Schramm applies verification to writing. Some research finds paraphrase adds little over acknowledgment.",
    "evidence": "Medium"
   },
@@ -17644,10 +17646,14 @@
     "communicate-with-mastery-19",
     "think-faster-talk-smarter-02",
     "think-faster-talk-smarter-05",
-    "improv-wisdom-03"
+    "improv-wisdom-03",
+    "jamieson-2018-01",
+    "kross-2014-01",
+    "savitsky-gilovich-2003-01",
+    "bodie-2010-01"
    ],
-   "agreement": "Manage nerves to a workable level and redirect arousal rather than trying to eliminate it.",
-   "disagreement": "Abrahams calms the body first, then relabels and reframes; Schramm adds power posing, which failed to replicate; Madson says act while nervous rather than fixing feelings first. The excitement effect replicated on feelings more than on performance.",
+   "agreement": "Manage nerves to a workable level and redirect arousal rather than trying to eliminate it. Research sources add arousal reappraisal and stress mindsets (treat the racing heart as fuel), distanced self-talk, and knowing that nerves are less visible than they feel.",
+   "disagreement": "Abrahams calms the body first, then relabels and reframes; Schramm adds power posing, which failed to replicate; Madson says act while nervous rather than fixing feelings first. The excitement effect replicated on feelings more than on performance. Jamieson frames the goal as a challenge rather than threat response, not as excitement; Bodie adds that skills training is itself an anxiety treatment when the fear comes from feeling unprepared.",
    "evidence": "Medium"
   },
   {
@@ -17665,7 +17671,8 @@
     "communicate-with-mastery-07",
     "communicate-with-mastery-16",
     "talk-wood-brooks-01",
-    "supercommunicators-03"
+    "supercommunicators-03",
+    "minto-pyramid-principle-02"
    ],
    "agreement": "A short reusable shape eases delivery under pressure and helps listeners follow; good structures end with relevance and a next step.",
    "disagreement": "Abrahams uses What So What Now What for spontaneous speech, Schramm for written synthesis; Madson prefers questions-to-self over scripts; Wood Brooks and Duhigg offer conversation structures rather than message structures. None is tested as a named framework.",
@@ -17680,11 +17687,14 @@
     "communicate-with-mastery-02",
     "think-faster-talk-smarter-09",
     "think-faster-talk-smarter-11",
-    "improv-wisdom-04"
+    "improv-wisdom-04",
+    "minto-pyramid-principle-01",
+    "rogers-busy-readers-02",
+    "rogers-busy-readers-05"
    ],
-   "agreement": "Find the single most important point, say it first, and drop background the audience does not need.",
+   "agreement": "Find the single most important point, say it first, and drop background the audience does not need. Minto's pyramid puts the governing point first, and field experiments from Rogers and Lasky-Fink show that cutting whole ideas, not only words, raises response rates.",
    "disagreement": "Made to Stick stresses ruthless prioritization; Schramm stresses opening at the most engaging moment; Abrahams stresses relevance and concision; Madson's start with the obvious is about not waiting for brilliance.",
-   "evidence": "Medium"
+   "evidence": "High"
   },
   {
    "concept": "Curse of knowledge and audience-first planning",
@@ -17794,10 +17804,13 @@
     "humor-seriously-16",
     "think-faster-talk-smarter-11",
     "think-faster-talk-smarter-15",
-    "how-to-know-a-person-09"
+    "how-to-know-a-person-09",
+    "van-laer-2014-01",
+    "braddock-dillard-2016-01",
+    "kalla-broockman-2020-01"
    ],
-   "agreement": "Concrete details, examples, analogies, human-scale numbers and short stories improve understanding and memory.",
-   "disagreement": "Made to Stick is the theoretical anchor; Schramm offers a story template (Low); Abrahams embeds a concrete example in each structure; David Brooks applies it to listening by asking for others' stories. Stories-versus-statistics figures are informal.",
+   "agreement": "Concrete details, examples, analogies, human-scale numbers and short stories improve understanding and memory. Meta-analyses confirm that stories persuade, mainly by absorbing the listener (transportation), and field experiments show that exchanging personal stories shifts entrenched views where arguments alone do not.",
+   "disagreement": "Made to Stick is the theoretical anchor; Schramm offers a story template (Low); Abrahams embeds a concrete example in each structure; David Brooks applies it to listening by asking for others' stories. Stories-versus-statistics figures are informal. Braddock and Dillard put the size in perspective: narrative effects are small (correlations around .2), so stories nudge rather than convert.",
    "evidence": "High"
   },
   {
@@ -17822,9 +17835,10 @@
     "supercommunicators-01",
     "made-to-stick-11",
     "talk-wood-brooks-14",
-    "communicate-with-mastery-14"
+    "communicate-with-mastery-14",
+    "feinberg-willer-2019-01"
    ],
-   "agreement": "Messages are processed through identity; threats to identity harden resistance, while shared or valued identities open people up.",
+   "agreement": "Messages are processed through identity; threats to identity harden resistance, while shared or valued identities open people up. Moral reframing research shows that arguing from the listener's values, not your own, moves people across political lines.",
    "disagreement": "Made to Stick uses identity as a persuasion lever; Duhigg uses it to defuse resistance and set norms; Wood Brooks treats it as a layer of difference; Schramm applies it to the speaker's own identity (Low).",
    "evidence": "Medium"
   },
@@ -17834,9 +17848,10 @@
     "think-faster-talk-smarter-12",
     "talk-wood-brooks-13",
     "humor-seriously-10",
-    "connect-14"
+    "connect-14",
+    "lewicki-apologies-2016-01"
    ],
-   "agreement": "Name the specific act and its effect, avoid 'but' and conditional apologies, commit to change; ruptures can be repaired.",
+   "agreement": "Name the specific act and its effect, avoid 'but' and conditional apologies, commit to change; ruptures can be repaired. Lewicki and colleagues rank the parts: plainly accepting responsibility matters most and offering repair second, while asking for forgiveness adds least.",
    "disagreement": "Abrahams gives a three-part form; Wood Brooks adds superfluous apologies for others' bad luck; Aaker and Bagdonas apply it to jokes that cross a line; Connect describes the long arc of repair.",
    "evidence": "Medium"
   },
@@ -17846,9 +17861,12 @@
     "talk-wood-brooks-10",
     "improv-wisdom-09",
     "think-faster-talk-smarter-14",
-    "supercommunicators-12"
+    "supercommunicators-12",
+    "liu-2023-01",
+    "gable-2004-01",
+    "gottman-seven-principles-04"
    ],
-   "agreement": "Specific thanks and sincere compliments are undergiven and land better than expected.",
+   "agreement": "Specific thanks and sincere compliments are undergiven and land better than expected. Relationship research adds that responding with enthusiasm to good news and a steady supply of small positives keep relationships resilient, and that unprompted check-ins are appreciated more than senders expect.",
    "disagreement": "Wood Brooks frames it as a miscalibration; Madson as a Naikan reflection habit; Abrahams builds thanks into toasts; Duhigg prescribes extra gratitude online.",
    "evidence": "High"
   },
@@ -17859,9 +17877,12 @@
     "connect-13",
     "connect-12",
     "think-faster-talk-smarter-10",
-    "supercommunicators-14"
+    "supercommunicators-14",
+    "gabarro-kotter-managing-your-boss-03",
+    "franco-platonic-02",
+    "overall-mcnulty-2017-01"
    ],
-   "agreement": "Unspoken irritations and mismatched expectations accumulate; raise them early in non-accusatory language and set norms explicitly.",
+   "agreement": "Unspoken irritations and mismatched expectations accumulate; raise them early in non-accusatory language and set norms explicitly. Managing-up and friendship sources apply the same rule upward and to friends, and couples research finds direct requests for change work better than hinting when the problem is serious.",
    "disagreement": "Connect supplies the core models; Abrahams stresses in-the-moment timing; Duhigg applies norm-setting to groups. Mostly one book.",
    "evidence": "Medium"
   },
@@ -17887,11 +17908,15 @@
     "how-to-know-a-person-10",
     "how-to-know-a-person-02",
     "supercommunicators-02",
-    "supercommunicators-01"
+    "supercommunicators-01",
+    "high-dillard-2012-01",
+    "rafaeli-gleason-2009-01",
+    "rafaeli-gleason-2009-02",
+    "miller-rollnick-mi-2023-02"
    ],
-   "agreement": "Resist fixing; ask open questions, acknowledge how hard it is, and stay present.",
-   "disagreement": "David Brooks addresses clinical depression and pairs presence with professional care; Connect addresses everyday problems; Duhigg frames it as matching an emotional conversation. Key cases are single anecdotes.",
-   "evidence": "Medium"
+   "agreement": "Resist fixing; ask open questions, acknowledge how hard it is, and stay present. Research on person-centered comforting (23 studies) and on support that misfires supports acknowledging and legitimizing feelings before offering advice, and offering advice with permission when it is wanted.",
+   "disagreement": "David Brooks addresses clinical depression and pairs presence with professional care; Connect addresses everyday problems; Duhigg frames it as matching an emotional conversation. Key cases are single anecdotes. Rafaeli and Gleason add that support the person notices can backfire, so less visible support sometimes helps more, which sits in tension with naming feelings explicitly.",
+   "evidence": "High"
   },
   {
    "concept": "Practice, record and reflect",
@@ -17903,9 +17928,11 @@
     "think-faster-talk-smarter-07",
     "talk-wood-brooks-01",
     "talk-wood-brooks-07",
-    "connect-07"
+    "connect-07",
+    "ebrahimi-2019-01",
+    "bodie-2010-01"
    ],
-   "agreement": "Skills improve through feedback-driven practice: debriefs, recordings, rehearsal with a partner, frequent small feedback.",
+   "agreement": "Skills improve through feedback-driven practice: debriefs, recordings, rehearsal with a partner, frequent small feedback. Randomized trials of structured speaking practice programs give this the strongest evidence in the library.",
    "disagreement": "Schramm gives the most developed routines; Abrahams prescribes drills; Wood Brooks uses TALK as a checklist; Connect frames feedback as data you cannot get yourself.",
    "evidence": "Medium"
   },
@@ -17918,6 +17945,99 @@
    ],
    "agreement": "People stay too long on stale topics and in conversations; switch or close warmly and exit together.",
    "disagreement": "Wood Brooks supplies evidence and warning signs; Abrahams supplies an exit technique.",
+   "evidence": "Medium"
+  },
+  {
+   "concept": "Pushing hardens resistance: draw out their reasons and listen",
+   "insight_ids": [
+    "miller-rollnick-mi-2023-01",
+    "miller-rollnick-mi-2023-03",
+    "kluger-listening-2024-02",
+    "kalla-broockman-2020-01",
+    "berger-catalyst-01",
+    "berger-catalyst-02",
+    "fisher-ury-getting-to-yes-06",
+    "talk-wood-brooks-09"
+   ],
+   "agreement": "When someone is dug in, more arguments tend to strengthen their defense of the status quo. Asking for their own reasons, listening without judging, offering choices and exchanging stories lower defensiveness and leave room for them to move themselves.",
+   "disagreement": "Motivational interviewing is a clinical method tested in trials; Kalla and Broockman tested door-to-door conversations; the listening experiments come mostly from one lab; Berger and Fisher and Ury are practitioner syntheses. Effects per conversation are small, so the realistic goal is a modest shift, not a conversion.",
+   "evidence": "High"
+  },
+  {
+   "concept": "Interests over positions, and the pie is rarely fixed",
+   "insight_ids": [
+    "fisher-ury-getting-to-yes-01",
+    "fisher-ury-getting-to-yes-03",
+    "thompson-mind-heart-negotiator-01",
+    "thompson-mind-heart-negotiator-03",
+    "cohen-bradford-influence-without-authority-01",
+    "supercommunicators-04",
+    "talk-wood-brooks-14"
+   ],
+   "agreement": "Look beneath stated positions to the needs that drive them, assume there may be issues where both sides want the same thing or value things differently, and invent and trade across options before bargaining.",
+   "disagreement": "Fisher and Ury give a practitioner method; Thompson grounds it in experiments on fixed-pie and lose-lose errors; Cohen and Bradford apply exchange to colleagues you cannot direct. Duhigg and Wood Brooks extend the idea to everyday conversation.",
+   "evidence": "High"
+  },
+  {
+   "concept": "Reciprocity and exchange drive influence without authority",
+   "insight_ids": [
+    "cialdini-influence-2021-01",
+    "cohen-bradford-influence-without-authority-01",
+    "cohen-bradford-influence-without-authority-02",
+    "king-social-chemistry-02",
+    "feeley-anker-aloe-2012-01",
+    "gabarro-kotter-managing-your-boss-01",
+    "connect-12"
+   ],
+   "agreement": "People repay what they receive, so giving first, in a currency the other person values, builds the goodwill that later requests draw on, with peers, bosses and contacts alike.",
+   "disagreement": "Cialdini stresses personal, unexpected gifts; Cohen and Bradford a deliberate trade; King giving without keeping score. The door-in-the-face meta-analysis warns that a concession-driven yes often fails to become action.",
+   "evidence": "Medium"
+  },
+  {
+   "concept": "Busy readers: fewer ideas, one ask, visible structure",
+   "insight_ids": [
+    "rogers-busy-readers-01",
+    "rogers-busy-readers-02",
+    "rogers-busy-readers-03",
+    "rogers-busy-readers-04",
+    "minto-pyramid-principle-01",
+    "schneider-2018-signaling-01",
+    "communicate-with-mastery-02",
+    "communicate-with-mastery-03"
+   ],
+   "agreement": "Readers decide quickly whether and how deeply to engage, so cut whole ideas, make one easy request, and mark the few things that matter with consistent headings or emphasis.",
+   "disagreement": "Rogers and Lasky-Fink test messages in the field; the signaling meta-analysis comes from learning materials; Minto and Schramm are practitioner methods. Over-formatting backfires, so emphasis must stay scarce.",
+   "evidence": "High"
+  },
+  {
+   "concept": "Good meetings are designed, not just run",
+   "insight_ids": [
+    "mroz-allen-2018-meetings-01",
+    "rogelberg-meetings-01",
+    "rogelberg-meetings-02",
+    "rogelberg-meetings-03",
+    "rogelberg-meetings-04",
+    "rogelberg-meetings-05",
+    "riedl-2021-01",
+    "shockley-camera-fatigue-01"
+   ],
+   "agreement": "Most of a meeting's quality is decided by purpose, invitations, agenda, time and process, and leaders overrate their own meetings. How a group collaborates predicts performance more than who is in it.",
+   "disagreement": "The meeting-science sources share authors and a research community, so this is partly lineage; Riedl's collective intelligence evidence is independent. Camera norms are supported by one field experiment.",
+   "evidence": "Medium"
+  },
+  {
+   "concept": "In close relationships, be direct about problems but gentle with the person",
+   "insight_ids": [
+    "gottman-seven-principles-01",
+    "overall-mcnulty-2017-01",
+    "overall-mcnulty-2017-02",
+    "franco-platonic-02",
+    "connect-04",
+    "connect-15",
+    "connect-05"
+   ],
+   "agreement": "Name a specific behavior and the change you need instead of attacking character, hinting or inducing guilt; raise it while it is small.",
+   "disagreement": "Gottman stresses a gentle start-up; Overall and McNulty find that direct opposition, even with visible frustration, produces change when the problem is serious and the partner can change, and harms when it is minor.",
    "evidence": "Medium"
   }
  ],
@@ -18233,6 +18353,314 @@
     "made-to-stick-14"
    ],
    "relation": "tension"
+  },
+  {
+   "ids": [
+    "levin-dormant-ties-2011-01",
+    "liu-2023-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "levin-dormant-ties-2011-01",
+    "rajkumar-weak-ties-2022-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "boothby-2018-01",
+    "franco-platonic-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "boothby-2018-01",
+    "how-to-know-a-person-04"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "hall-2019-01",
+    "franco-platonic-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "berger-catalyst-01",
+    "miller-rollnick-mi-2023-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "berger-catalyst-04",
+    "feeley-anker-aloe-2012-01"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "berger-catalyst-04",
+    "cialdini-influence-2021-04"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "berger-catalyst-06",
+    "cialdini-influence-2021-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "cohen-bradford-influence-without-authority-01",
+    "connect-12"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "cohen-bradford-influence-without-authority-01",
+    "gabarro-kotter-managing-your-boss-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "cialdini-influence-2021-01",
+    "king-social-chemistry-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "kluger-listening-2024-02",
+    "kalla-broockman-2020-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "kluger-listening-2024-02",
+    "miller-rollnick-mi-2023-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "miller-rollnick-mi-2023-02",
+    "connect-09"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "miller-rollnick-mi-2023-03",
+    "fisher-ury-getting-to-yes-06"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "bailenson-zoom-fatigue-01",
+    "shockley-camera-fatigue-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "bailenson-zoom-fatigue-01",
+    "communicate-with-mastery-12"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "jamieson-2018-01",
+    "think-faster-talk-smarter-03"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "bodie-2010-01",
+    "think-faster-talk-smarter-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "savitsky-gilovich-2003-01",
+    "think-faster-talk-smarter-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "kruger-epley-2005-01",
+    "communicate-with-mastery-09"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "kruger-epley-2005-01",
+    "supercommunicators-12"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "keysar-henly-2002-01",
+    "made-to-stick-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "lewicki-apologies-2016-01",
+    "think-faster-talk-smarter-12"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "guyer-vocal-confidence-01",
+    "communicate-with-mastery-13"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "overall-mcnulty-2017-01",
+    "gottman-seven-principles-01"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "gottman-seven-principles-03",
+    "think-faster-talk-smarter-16"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "gottman-seven-principles-04",
+    "connect-14"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "franco-platonic-02",
+    "connect-05"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "gable-2004-01",
+    "franco-platonic-03"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "high-dillard-2012-01",
+    "how-to-know-a-person-10"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "high-dillard-2012-01",
+    "rafaeli-gleason-2009-02"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "mesmer-magnus-2012-01",
+    "humor-seriously-14"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "rogers-busy-readers-04",
+    "schneider-2018-signaling-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "rogers-norton-artful-dodger-01",
+    "think-faster-talk-smarter-11"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "thompson-mind-heart-negotiator-01",
+    "fisher-ury-getting-to-yes-03"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "minto-pyramid-principle-02",
+    "think-faster-talk-smarter-07"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "mroz-allen-2018-meetings-01",
+    "rogelberg-meetings-02"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "braddock-dillard-2016-01",
+    "van-laer-2014-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "braddock-dillard-2016-01",
+    "made-to-stick-12"
+   ],
+   "relation": "tension"
+  },
+  {
+   "ids": [
+    "feinberg-willer-2019-01",
+    "made-to-stick-11"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "givi-kirk-2024-01",
+    "ury-positive-no-01"
+   ],
+   "relation": "complementary"
+  },
+  {
+   "ids": [
+    "morrison-2014-voice-03",
+    "gabarro-kotter-managing-your-boss-03"
+   ],
+   "relation": "complementary"
   }
  ]
 }

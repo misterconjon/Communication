@@ -3,7 +3,9 @@
     "book_id": "ury-positive-no",
     "title": "The Power of a Positive No",
     "subtitle": "How to Say No and Still Get to Yes",
-    "authors": ["William Ury"],
+    "authors": [
+      "William Ury"
+    ],
     "year": 2007,
     "publisher": "Bantam (Penguin Random House)",
     "edition": "Paperback 2007",
@@ -13,10 +15,26 @@
     "author_credibility": "Ury cofounded Harvard's Program on Negotiation, coauthored Getting to Yes, and has worked as a mediator in labor and international conflicts. The book is based on a course he taught at Harvard for managers and professionals. As a practitioner and trainer he has an interest in the method's popularity.",
     "evidence_base": "Practitioner synthesis from negotiation and mediation experience, illustrated with stories (corporate, political, and family). Consistent with interest-based negotiation principles, but the three-step method itself has not been empirically tested.",
     "legal_access": [
-      {"type": "publisher preview", "url": "https://www.penguinrandomhouse.com/books/182089/the-power-of-a-positive-no-by-william-ury/readers-guide", "note": "Publisher reader's guide with chapter-linked discussion questions and Ury's Yes! No. Yes? rehearsal exercise."},
-      {"type": "summary", "url": "https://www.pon.harvard.edu/resources/book-reviews/the-power-of-a-positive-no/", "note": "Harvard PON book page and description."},
-      {"type": "interview", "url": "https://www.pon.harvard.edu/news/william-ury-the-power-of-a-positive-no-on-necns-new-england-business-day/", "note": "PON note on Ury's NECN interview describing the 3-A trap."},
-      {"type": "summary", "url": "https://www.goodreads.com/author_blog_posts/2514866-how-to-say-no-when-you-feel-pressured-to-say-yes", "note": "Michael Hyatt blog post summarizing the introduction, with a page reference (p. 16)."}
+      {
+        "type": "publisher preview",
+        "url": "https://www.penguinrandomhouse.com/books/182089/the-power-of-a-positive-no-by-william-ury/readers-guide",
+        "note": "Publisher reader's guide with chapter-linked discussion questions and Ury's Yes! No. Yes? rehearsal exercise."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.pon.harvard.edu/resources/book-reviews/the-power-of-a-positive-no/",
+        "note": "Harvard PON book page and description."
+      },
+      {
+        "type": "interview",
+        "url": "https://www.pon.harvard.edu/news/william-ury-the-power-of-a-positive-no-on-necns-new-england-business-day/",
+        "note": "PON note on Ury's NECN interview describing the 3-A trap."
+      },
+      {
+        "type": "summary",
+        "url": "https://www.goodreads.com/author_blog_posts/2514866-how-to-say-no-when-you-feel-pressured-to-say-yes",
+        "note": "Michael Hyatt blog post summarizing the introduction, with a page reference (p. 16)."
+      }
     ]
   },
   "insights": [
@@ -42,9 +60,18 @@
         "Rehearse with someone and ask whether it sounded accommodating, attacking, avoidant, or right"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "saying-no"},
-        {"category": "difficult", "subcategory": "boundaries"},
-        {"category": "professional", "subcategory": "managing-up"}
+        {
+          "category": "difficult",
+          "subcategory": "saying-no"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "boundaries"
+        },
+        {
+          "category": "professional",
+          "subcategory": "managing-up"
+        }
       ],
       "situations": [
         "Declining a new project from your manager",
@@ -63,7 +90,9 @@
       },
       "confidence": "Medium",
       "confidence_rationale": "Credible expert practice from a leading negotiation scholar and mediator, confirmed in the publisher's own reader's guide exercise. The method is untested as a package; research on refusals (for example Givi and Kirk, 2024) supports that a considerate no carries less cost than people fear, but does not test this specific structure.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     },
     {
       "id": "ury-positive-no-02",
@@ -85,9 +114,18 @@
         "Pick one relationship and practice a Positive No there first"
       ],
       "categories": [
-        {"category": "difficult", "subcategory": "saying-no"},
-        {"category": "difficult", "subcategory": "conflict"},
-        {"category": "foundations", "subcategory": "mindset"}
+        {
+          "category": "difficult",
+          "subcategory": "saying-no"
+        },
+        {
+          "category": "difficult",
+          "subcategory": "conflict"
+        },
+        {
+          "category": "foundations",
+          "subcategory": "mindset"
+        }
       ],
       "situations": [
         "A boss who sends last-minute requests",
@@ -106,55 +144,27 @@
       },
       "confidence": "Medium",
       "confidence_rationale": "Credible expert framework confirmed in the publisher's reader's guide and Ury's own interview. It is a descriptive typology, not empirically tested; it resembles established conflict-style models (for example the accommodating and avoiding styles in Thomas-Kilmann), but that link is our observation, not the book's.",
-      "flags": ["none"]
-    },
-    {
-      "id": "ury-positive-no-03",
-      "name": "Back Your No With a Plan B",
-      "skill_type": "technique",
-      "explanation": "A no is much easier to say calmly when you already know what you will do if the other person does not accept it. Ury calls this your Plan B: your own best course of action that does not depend on their agreement (similar to the BATNA idea in Getting to Yes, applied to refusals). Once you have it, he suggests reassessing whether to say no at all by asking three questions: do I have a real interest at stake, do I have the power to back the no, and do I have the right to refuse here. If the other side pushes back, describe the consequences you will act on as a respectful warning about what you will do, not a threat meant to punish them.",
-      "when_to_use": "Before refusing someone who has power over you or who is likely to push back hard: a demanding client, a manager, a landlord, a family member who escalates.",
-      "worked_example": "A freelance designer wants to refuse a client's demand for unlimited free revisions. Before the call she works out her Plan B: if the client will not accept a revision limit, she will finish the current round, deliver the files, and end the engagement, which she can afford because another client wants her time. With that settled she can say, without heat, that the contract covers two rounds and additional rounds are billed hourly, and that if that does not work she will wrap up after this round. In a family, a woman deciding whether to refuse to host Thanksgiving again checks her interest (she is exhausted), her power (her siblings can host), and her right (no one is owed her labor) before saying no.",
-      "common_mistakes": [
-        "Refusing with no plan for what happens if the other person says no to your no",
-        "Treating Plan B as a compromise you will accept, rather than an independent action you can take",
-        "Turning a statement of consequences into a threat",
-        "Skipping the check on whether you actually have the power or right to refuse"
-      ],
-      "steps": [
-        "Ask what you will do if the other person does not accept your no",
-        "Develop and, if needed, strengthen that independent option before the conversation",
-        "Reassess: do you have the interest, the power, and the right to say no here",
-        "Deliver your Positive No; keep Plan B in reserve rather than leading with it",
-        "If they push, state the consequence you will act on calmly, as information rather than punishment"
-      ],
-      "categories": [
-        {"category": "difficult", "subcategory": "saying-no"},
-        {"category": "difficult", "subcategory": "boundaries"},
-        {"category": "professional", "subcategory": "negotiation"}
-      ],
-      "situations": [
-        "Refusing a client's scope creep",
-        "Turning down a manager's request when you expect pushback",
-        "Declining to host a family event",
-        "Saying no to a landlord's or vendor's demand"
-      ],
-      "source": {
-        "citation": "William Ury, The Power of a Positive No (2007), Part I on preparing a Positive No (Plan B; chapter two's closing questions on interest, power and right); reader's guide questions 6, 7 and 11",
-        "underlying_research": "Builds on the BATNA concept in Fisher, Ury and Patton, Getting to Yes (1981); not separately tested for refusals.",
-        "urls": [
-          "https://www.penguinrandomhouse.com/books/182089/the-power-of-a-positive-no-by-william-ury/readers-guide",
-          "https://www.pon.harvard.edu/resources/book-reviews/the-power-of-a-positive-no/"
-        ]
-      },
-      "confidence": "Medium",
-      "confidence_rationale": "Plan B and the three questions are confirmed in the publisher's reader's guide; the underlying BATNA concept is a widely taught negotiation principle. The application to everyday refusals is expert practice rather than tested research.",
-      "flags": ["none"]
+      "flags": [
+        "none"
+      ]
     }
   ],
   "supports_existing": [
-    {"insight_id": "connect-13", "relation": "supports", "note": "Adds a concrete script for stating a limit while affirming the relationship: name what you are protecting, state the no plainly, then propose a specific alternative."},
-    {"insight_id": "improv-wisdom-01", "relation": "qualifies", "note": "Ury's accommodate trap marks the limit of saying yes to every offer: accepting a request you should refuse harms both your interests and, through later resentment, the relationship. Accept the reality of the request, then answer it with a Positive No when needed."}
+    {
+      "insight_id": "connect-13",
+      "relation": "supports",
+      "note": "Adds a concrete script for stating a limit while affirming the relationship: name what you are protecting, state the no plainly, then propose a specific alternative."
+    },
+    {
+      "insight_id": "improv-wisdom-01",
+      "relation": "qualifies",
+      "note": "Ury's accommodate trap marks the limit of saying yes to every offer: accepting a request you should refuse harms both your interests and, through later resentment, the relationship. Accept the reality of the request, then answer it with a Positive No when needed."
+    },
+    {
+      "insight_id": "fisher-ury-getting-to-yes-05",
+      "relation": "supports",
+      "note": "Ury applies the BATNA idea to refusals under the name Plan B: knowing what you will do if the other person does not accept your no lets you say it calmly. Before refusing, he suggests checking three things: whether you have a real interest at stake, the power to back the no, and the right to refuse. Keep Plan B in reserve rather than leading with it, and if the other side pushes, state the consequence you will act on as a respectful warning (information about what you will do), not a threat meant to punish. Not separately tested for refusals."
+    }
   ],
   "verification": {
     "date": "2026-11-04",
@@ -173,5 +183,5 @@
       "The chained pattern of the three traps (avoid, then attack, then accommodate) is from the Hyatt blog summary of the introduction, not confirmed in the book."
     ]
   },
-  "research_notes": "The publisher's reader's guide was the richest legal source: it confirms Yes! No. Yes?, the three-A trap, going to the balcony, Plan B, the interest, power and right questions, attack words, warnings versus threats, and positions versus interests. Going to the balcony and positions versus interests were not extracted because they come from Ury's earlier books and likely overlap with the professional agent's Getting to Yes extraction; Plan B overlaps with BATNA and the orchestrator may wish to cross-reference it. The Oprah magazine excerpt and HBS Working Knowledge returned 403."
+  "research_notes": "The publisher's reader's guide was the richest legal source: it confirms Yes! No. Yes?, the three-A trap, going to the balcony, Plan B, the interest, power and right questions, attack words, warnings versus threats, and positions versus interests. Going to the balcony and positions versus interests were not extracted because they come from Ury's earlier books and likely overlap with the professional agent's Getting to Yes extraction; Plan B overlaps with BATNA and the orchestrator may wish to cross-reference it. The Oprah magazine excerpt and HBS Working Knowledge returned 403. Stage 3c integration: the Plan B insight (formerly ury-positive-no-03) was merged into fisher-ury-getting-to-yes-05 (BATNA, the original source) as a supports_existing note, keeping the refusal-specific detail."
 }
