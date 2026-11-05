@@ -1,0 +1,608 @@
+{
+  "book": {
+    "book_id": "nonviolent-communication",
+    "title": "Nonviolent Communication",
+    "subtitle": "A Language of Life",
+    "authors": ["Marshall B. Rosenberg"],
+    "year": 1999,
+    "publisher": "PuddleDancer Press",
+    "edition": "3rd edition, 2015 (xix, 244 pages)",
+    "isbn": "9781892005281",
+    "source_type": "book",
+    "core": false,
+    "author_credibility": "Rosenberg (1934 to 2015) earned a PhD in clinical psychology from the University of Wisconsin in 1961 and was influenced by Carl Rogers's person-centered therapy. He developed the method through civil rights era school desegregation work and decades of mediation and training in more than 60 countries, and founded the Center for Nonviolent Communication (CNVC) in 1984. He was a practitioner and trainer, not an academic researcher. CNVC certifies paid trainers and PuddleDancer Press publishes a whole catalog of NVC books, so the organizations that promote the book have a commercial and mission interest in it.",
+    "evidence_base": "The book argues from Rosenberg's clinical, teaching and mediation experience, illustrated with many dialogues and anecdotes; it cites almost no research (one correlational study by O.J. Harvey on judgment words and violence, which I could not verify). Research on NVC training came later: Juncadella's 2013 systematic review (a master's thesis) found 13 small, mostly non-randomized studies, 11 of them reporting empathy gains, with poorly matched measures; a 2025 integrative review of 15 adult studies (Pereira and Durgante) and a 2024 healthcare scoping review (Adriani and colleagues) report positive results but flag weak designs. The best trials are mixed: in a French medical school trial (Epinat-Duclos et al., 2021) only a self-report empathy scale rose, by about one point, while four other measures did not change; a 2026 Chinese randomized trial with an active control (Jiang et al.) reported large gains in self-reported empathy and observed communication but was single-site, short-term and not preregistered. A controlled field study with health workers (Wacker and Dziobek, 2018) found more emotion verbalization and less empathic distress. No study isolates the four components or tests the book's specific scripts. Critics argue the theory rests on humanistic-psychology assumptions, underrates the evolved functions of emotions such as anger, and that scripted use can sound inauthentic or manipulative.",
+    "legal_access": [
+      {"type": "publisher preview", "url": "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf", "note": "PuddleDancer Press free sample: Chapter 2, Communication That Blocks Compassion (pages 15 to 24)."},
+      {"type": "publisher page", "url": "https://www.nonviolentcommunication.com/product/nonviolent-communication-a-language-of-life-3rd-edition/", "note": "Publisher description and endorsements for the 3rd edition."},
+      {"type": "author organization", "url": "https://www.cnvc.org/learn/what-is-nvc", "note": "Center for Nonviolent Communication introduction; free Feelings and Needs Inventory at https://www.cnvc.org/store/feelings-and-needs-inventory."},
+      {"type": "library catalog", "url": "https://openlibrary.org/books/OL27210498M", "note": "Open Library record with the full chapter list; borrowable through libraries."},
+      {"type": "interview", "url": "https://ttfuture.org/interviews/marshall-rosenberg", "note": "Touch the Future interview in which Rosenberg explains the four components and the language of choice."}
+    ]
+  },
+  "insights": [
+    {
+      "id": "nonviolent-communication-01",
+      "name": "The Four Components: Observation, Feeling, Need, Request",
+      "takeaway": "Say what you observed, how you feel, the need behind that feeling, and one clear request, without blame.",
+      "skill_type": "framework",
+      "explanation": "The process has two halves, expressing honestly and receiving empathically, and both use the same four components. Observation: the concrete thing that happened, free of judgment. Feeling: the emotion it stirs in you. Need: the universal need or value connected to that feeling. Request: a specific, doable action that would make life better right now, asked in a way that leaves room for no. A core premise is that another person's action is the stimulus for your feeling but not its cause; the cause is whether your needs are met, so you say 'because I need' rather than 'because you'. The familiar template ('When I see..., I feel..., because I need..., would you be willing...?') is a training scaffold. Rosenberg and later trainers stress that the intention to connect matters more than the formula, and that components can be dropped when they are already clear. It extends Gottman's gentle start-up and behavior-plus-impact feedback by adding the need and the request.",
+      "when_to_use": "When you need to raise something that bothers you without starting a fight: a recurring problem with a colleague, a partner, a roommate or a family member. Also useful as a private check before writing a tense email. Less useful in quick, low-stakes exchanges, where the full structure sounds stilted.",
+      "worked_example": "A project lead whose teammate keeps delivering handoff notes late: 'The last three handoffs reached me after 6 p.m. the night before the client call. I am anxious going into those calls, because I need time to check the numbers before I present them. Would you be willing to send the notes by 3 p.m. the day before, or tell me by noon if that will not work?' At home, to a partner: 'When we have been on our phones for most of dinner this week, I feel lonely, because I really want some time to catch up with you. Could we leave our phones in the kitchen for dinner tonight?'",
+      "common_mistakes": [
+        "Reciting the template word for word, so it sounds like a script rather than a person",
+        "Smuggling a judgment into the observation or the feeling ('I feel disrespected when you are lazy')",
+        "Naming the feeling but skipping the need, which leaves the listener feeling blamed for your emotion",
+        "Calling something a request but punishing or sulking when the answer is no"
+      ],
+      "steps": [
+        "Write down the specific thing you saw or heard, as a camera would record it",
+        "Name the feeling it stirs in you in one or two words",
+        "Ask what you need or value that this feeling is pointing to",
+        "Form one concrete, positive, doable request for right now",
+        "Say it in your own natural words, then listen to the response with the same four lenses"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "difficult", "subcategory": "giving-feedback"},
+        {"category": "personal-life", "subcategory": "partners"}
+      ],
+      "situations": ["Raising a recurring problem with a teammate", "Telling a partner something is bothering you", "Asking a roommate to change a habit"],
+      "source": {
+        "citation": "Marshall B. Rosenberg, Nonviolent Communication: A Language of Life, 3rd ed. (2015), Chapter 1 (Giving From the Heart) and Chapters 3 to 6",
+        "underlying_research": "Practitioner model derived from Rogers's person-centered therapy. Training studies: Juncadella (2013) systematic review of 13 small, mostly non-randomized studies, 11 reporting empathy gains; Epinat-Duclos et al. (2021, International Journal of Medical Education) allocated trial with 312 medical students, where only the Jefferson self-report empathy scale rose (about 1 point) and four other measures did not change; Jiang et al. (2026, BMC Medical Education) randomized trial with 198 students and an active control, reporting larger self-reported empathy and observed communication gains (single site, not preregistered); Wacker and Dziobek (2018, Journal of Occupational Health Psychology) controlled field study with health workers. None tests the four components separately.",
+        "urls": [
+          "https://ttfuture.org/interviews/marshall-rosenberg",
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/",
+          "https://en.wikipedia.org/wiki/Nonviolent_Communication",
+          "https://sites.google.com/site/empathytraininglitreview/training-papers/juncadella-2013",
+          "https://pubmed.ncbi.nlm.nih.gov/34716989/",
+          "https://pubmed.ncbi.nlm.nih.gov/42231339/",
+          "https://pubmed.ncbi.nlm.nih.gov/27977228/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Widely taught expert practice with a growing but weak evidence base: training generally raises self-reported empathy, but most studies are small and non-randomized, the best-controlled trials disagree on effect size, and no study tests the four-part structure itself.",
+      "flags": []
+    },
+    {
+      "id": "nonviolent-communication-02",
+      "name": "Observe Without Evaluating",
+      "takeaway": "Describe what a camera would record, tied to a time and place, instead of labels like lazy, always, or never.",
+      "skill_type": "technique",
+      "explanation": "Rosenberg argues that when we mix an observation with an evaluation, the other person hears criticism and resists, so the first discipline of NVC is to separate them. An observation is specific to time and context ('you have missed the last three Monday standups'); an evaluation folds in a judgment, a generalization or a guess about motives ('you never take this seriously'). Watch especially for static labels about who someone is (lazy, selfish, rude), words like always and never, mind-reading, and comparisons. NVC does not ban evaluations: Rosenberg distinguishes value judgments (what you prize, such as honesty) from moralistic judgments (verdicts that someone is bad), and suggests stating your values and needs directly instead of implying the other person's wrongness. A clean observation gives both people a shared fact to talk about, rather than a verdict to argue with.",
+      "when_to_use": "At the start of any complaint, feedback or difficult conversation, and when reviewing your own draft messages for loaded words. Also useful in self-talk, to notice when you are telling yourself a story rather than a fact.",
+      "worked_example": "A manager drafts: 'You are always late with your reports and it looks unprofessional.' She rewrites it: 'The March and April reports came in four and six days after the deadline. I am worried about how that lands with the finance team. Can we look at what got in the way?' At home, a parent replaces 'Your room is a disgusting mess' with 'There are three plates and a wet towel on your bedroom floor.'",
+      "common_mistakes": [
+        "Keeping the label but adding 'I observe that' in front of it",
+        "Using always, never or constantly, which invites a debate about the one exception",
+        "Treating 'objective' as 'harsh': piling up a long list of failures reads as a case against the person",
+        "Thinking NVC forbids all evaluation, rather than asking you to own it as yours and keep it separate"
+      ],
+      "steps": [
+        "Write what happened as a camera or recorder would capture it",
+        "Add when and where: dates, counts, the exact words said",
+        "Strike labels, always and never, and guesses about motive",
+        "If you hold an evaluation, state it separately as your view or your value"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "giving-feedback"},
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "situations": ["Giving feedback on missed deadlines", "Raising a household chore problem", "Rewriting a heated email before sending"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 3 (Observing Without Evaluating); value versus moralistic judgments in Chapter 2, pages 15 to 17",
+        "underlying_research": "Practitioner principle; the book cites no test of it. Related studies not cited by the book: Kubany et al. (1992, Adolescence) found accusatory 'you' statements rated more aversive and provoking more antagonism than assertive 'I' statements; Rogers, Howieson and Neame (2018, PeerJ) found I-language and acknowledging perspective reduced expected hostility in conflict openers. Both used hypothetical scenarios and ratings, not real conversations.",
+        "urls": [
+          "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf",
+          "https://en.wikipedia.org/wiki/Nonviolent_Communication",
+          "https://pubmed.ncbi.nlm.nih.gov/1414562/",
+          "https://pubmed.ncbi.nlm.nih.gov/29796350/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Strong practitioner consensus across feedback and conflict traditions, and consistent with scenario studies showing accusatory language provokes hostility, but the specific observation discipline has not been tested in real conversations.",
+      "flags": []
+    },
+    {
+      "id": "nonviolent-communication-03",
+      "name": "Pseudo-Feelings: When 'I Feel Ignored' Is an Accusation",
+      "takeaway": "Swap words like ignored, manipulated or unappreciated, which accuse, for the emotion you actually feel and the need behind it.",
+      "skill_type": "technique",
+      "explanation": "Rosenberg separates true feelings from several look-alikes. One is a thought after 'I feel' ('I feel that you do not care'), which Connect also covers. Another is a word describing what you think you are ('I feel inadequate'). The trickiest are words that describe what you think others are doing to you: abandoned, attacked, betrayed, ignored, manipulated, misunderstood, unappreciated. These pseudo-feelings pass a quick one-word test, yet each carries an accusation, so the listener hears blame and defends. The fix is to translate: 'ignored' might really be hurt or lonely, pointing to a need for connection or consideration; 'manipulated' might be angry or confused, pointing to a need for honesty or choice. CNVC publishes a free inventory of feelings words split into needs met and needs not met to build this vocabulary.",
+      "when_to_use": "Whenever you start a sentence with 'I feel' in a tense conversation, and especially when the word you reach for describes the other person's behavior rather than your inner state.",
+      "worked_example": "An engineer is about to message her lead: 'I feel completely ignored in planning meetings.' She rewrites: 'In the last two planning meetings, my estimate was skipped when we went around the table. I felt discouraged, because I want my input to count in how we scope the work. Could you call on me before we lock estimates on Thursday?' At home: 'I feel abandoned when you go out with your friends' becomes 'When you are out three nights in a row, I feel lonely; I am wanting more time together.'",
+      "common_mistakes": [
+        "Assuming any single word after 'I feel' is automatically a feeling",
+        "Replacing the pseudo-feeling with a vaguer one ('I feel bad') instead of a precise emotion",
+        "Correcting other people's pseudo-feelings mid-conversation instead of hearing the hurt in them",
+        "Using a clean feeling word while the tone still says 'you did this to me'"
+      ],
+      "steps": [
+        "Notice the word you reach for after 'I feel'",
+        "Ask whether it describes something someone did to you (ignored, rejected, used)",
+        "If so, ask what emotion sits under it: hurt, scared, sad, angry, lonely",
+        "Name the need that emotion points to",
+        "Say the emotion and the need, and leave the accusation out"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "relationships", "subcategory": "empathy"},
+        {"category": "personal-life", "subcategory": "partners"}
+      ],
+      "situations": ["Telling a manager you feel left out of decisions", "Raising hurt with a partner", "Responding when a friend cancels repeatedly"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 4 (Identifying and Expressing Feelings); CNVC Feelings and Needs Inventory",
+        "underlying_research": "Practitioner distinction with no direct test. Consistent with research on precise emotion labeling summarized under connect-06 and with scenario studies on accusatory 'you' language (Kubany et al., 1992; Rogers et al., 2018); none of these is cited by the book.",
+        "urls": [
+          "https://en.wikipedia.org/wiki/Nonviolent_Communication",
+          "https://www.psychologytoday.com/gb/blog/the-relatable-therapist/202309/when-a-feeling-is-not-really-a-feeling",
+          "https://www.cnvc.org/store/feelings-and-needs-inventory",
+          "https://pubmed.ncbi.nlm.nih.gov/29796350/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "A clear, widely taught distinction consistent with research on emotion labeling and accusatory language, but the claim that pseudo-feelings specifically trigger defensiveness has not been tested directly.",
+      "flags": []
+    },
+    {
+      "id": "nonviolent-communication-04",
+      "name": "Needs Never Conflict, Strategies Do",
+      "takeaway": "Separate shared human needs like rest, respect or safety from the specific strategies for meeting them; most conflict lives in strategies.",
+      "skill_type": "mental model",
+      "explanation": "Rosenberg treats needs as universal: everyone needs things like rest, safety, respect, autonomy, connection and meaning. A need never names a particular person doing a particular action; 'I need you to call me every night' is a strategy, while 'I need reassurance' is the need. His claim is that people fight over strategies, and that once each side's needs are named and heard, they recognize each other's humanity and the range of acceptable strategies widens. He extends this to criticism: in his words, analyses of other people are tragic expressions of our own unmet needs, tragic because they provoke the resistance that keeps those needs unmet. NVC trainers contrast this with interest-based mediation, arguing that interests are particular while needs are shared. Treat the universality claim with care: the needs lists are practitioner inventories, not validated taxonomies, and needs can still compete for the same scarce time or money.",
+      "when_to_use": "When two people are locked into opposing proposals (which vacation, which vendor, who does the school run), and when you catch yourself labeling someone as needy, controlling or lazy, which usually hides a need of your own.",
+      "worked_example": "Two cofounders deadlock: one wants to hire a sales lead now, the other wants to wait six months. Asked what each needs, one names security (the runway feels short without revenue) and the other names focus (fear of managing a hire before the product is stable). With needs on the table they agree to a three-month contract seller. At home, a couple arguing over whether to visit her parents for Thanksgiving find that his need is rest and hers is connection; they plan a shorter visit with a quiet day built in.",
+      "common_mistakes": [
+        "Stating a strategy and calling it a need ('I need you to stop texting him')",
+        "Using needs language to make your preference sound non-negotiable",
+        "Assuming that naming needs will dissolve every conflict, even real trade-offs over money or time",
+        "Guessing the other person's needs for them instead of asking"
+      ],
+      "steps": [],
+      "categories": [
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "professional", "subcategory": "negotiation"},
+        {"category": "personal-life", "subcategory": "partners"}
+      ],
+      "situations": ["Deadlocked decision between two colleagues", "Couple arguing about holiday plans", "Turning a complaint about a coworker into a request"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 2, page 16 (analyses as expressions of needs), Chapter 5 (Taking Responsibility for Our Feelings) and Chapter 11 (Conflict Resolution and Mediation)",
+        "underlying_research": "Practitioner model. Wikipedia reports Rosenberg drew on Manfred Max-Neef's classification of needs. No empirical test of the claim that needs are universal or never conflict. Critique: Vermeren (2022, Wonder en is gheen Wonder, Skepp) argues the model ignores inherited personality and the evolved functions of emotions, and overstates how well people can identify their own needs.",
+        "urls": [
+          "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf",
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-conflict-resolution/",
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-boundaries",
+          "https://skepp.be/sites/default/files/2024-06/WOWO2022%23lente%23WEB_0.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The needs-versus-strategies separation parallels the well-supported interests-versus-positions principle, but the stronger claims (needs are universal and never conflict) are untested and disputed.",
+      "flags": ["contested"]
+    },
+    {
+      "id": "nonviolent-communication-05",
+      "name": "Four Ways to Hear a Negative Message",
+      "takeaway": "When criticized, skip blaming yourself or them; first notice your own feelings and needs, then listen for theirs.",
+      "skill_type": "technique",
+      "explanation": "Rosenberg says that when someone hands us a judgment ('You are so selfish'), we can receive it four ways. We can take it in and blame ourselves, which leads to guilt, shame or depression. We can blame them back, which leads to anger. We can turn attention to our own feelings and needs ('I feel hurt; I want my effort to be seen'). Or we can turn attention to their feelings and needs ('Are you upset because you were counting on more help this week?'). The last two options treat the criticism as information about unmet needs rather than as a verdict, which lets you stay steady without either collapsing or counterattacking. It follows from his view that criticism is a tragic way of expressing a need. Often you need the third option first, briefly, before you have room for the fourth.",
+      "when_to_use": "When you receive a harsh comment, a sharp email, a bad review or a sweeping complaint from someone you need to keep working or living with. Not a reason to absorb abuse: if a pattern is harmful, protecting yourself comes first.",
+      "worked_example": "A client writes: 'Your team clearly does not care about our deadline.' The account manager notices her own reaction first (stung, wanting credit for the weekend work), then replies to the need she hears: 'It sounds like you are worried about the launch date and want to be sure it is our priority. Here is where each item stands and what will ship Friday.' At home, a teenager yells 'You never let me do anything.' His father, instead of 'Don't talk to me like that,' says: 'Sounds like you are really frustrated and want more say in your weekends?'",
+      "common_mistakes": [
+        "Jumping to empathize with the critic while your own anger is still running, which comes out sarcastic",
+        "Treating 'I hear your need' as agreement that you were wrong",
+        "Using needs-guessing to avoid owning a real mistake the criticism points to",
+        "Staying in self-blame and calling it humility"
+      ],
+      "steps": [
+        "Notice which reflex fired: blaming yourself or blaming them",
+        "Take a breath and name your own feeling and need, silently or aloud",
+        "Guess the feeling and need behind their words, and check the guess as a question",
+        "Once they feel heard, respond to the substance, including anything you got wrong"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "receiving-feedback"},
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "situations": ["Receiving an angry client email", "Being called selfish by a family member", "A teenager's outburst"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 5 (Taking Responsibility for Our Feelings), section on four options for hearing a negative message; Chapter 2, page 16",
+        "underlying_research": "Practitioner typology; no direct empirical test found.",
+        "urls": [
+          "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf",
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-anger/",
+          "https://ttfuture.org/interviews/marshall-rosenberg"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Credible clinical practice that fits mainstream advice about not personalizing criticism, but the four-option model itself is untested.",
+      "flags": []
+    },
+    {
+      "id": "nonviolent-communication-06",
+      "name": "Requests, Not Demands: The No Test",
+      "takeaway": "Ask for a specific, doable action in positive terms, and treat a no as information about their needs, not defiance.",
+      "skill_type": "technique",
+      "explanation": "Rosenberg's requests have three features. They use positive action language: say what you want done, not what you want stopped ('please don't interrupt' leaves the listener guessing). They are concrete: 'be more responsible' is not a request, 'call if you will be home after 10' is. And they are doable now. What separates a request from a demand is not the wording but what happens when the answer is no: if the asker then blames, punishes or lays on guilt, it was a demand. People who hear demands tend either to submit or rebel, and compliance driven by fear, guilt or shame costs goodwill later. When you hear a no, NVC suggests you listen for what the person is saying yes to (their need) and keep looking for a strategy that works for both. He also recommends connection requests, such as asking someone to say back what they heard when the message matters.",
+      "when_to_use": "Any time you want someone to do something: delegating, asking a partner for help, setting expectations with a child or a contractor. Especially when you notice you are hinting, complaining or hoping they will guess.",
+      "worked_example": "A team lead stops saying 'We need people to be more responsive' and asks: 'Would you be willing to reply to client tickets within four hours during business days? If that is not workable with your current load, tell me and we will look at it together.' When an engineer says no, she asks what is in the way, hears that he is on two projects, and moves one task. At home: 'Stop leaving your stuff everywhere' becomes 'Would you put your backpack and shoes in the closet when you get home?'",
+      "common_mistakes": [
+        "Phrasing a demand politely and then punishing the no",
+        "Asking for what you do not want instead of what you do",
+        "Making requests so vague (respect me, be supportive) that no one can act on them",
+        "Asking 'Do you understand?' instead of inviting them to say back what they heard"
+      ],
+      "steps": [
+        "Decide the specific action you want, and by when",
+        "Phrase it as something to do, not something to stop",
+        "Ask it as a question that a no can answer",
+        "If it matters, ask them to say back what they heard, and thank them",
+        "If they say no, ask or guess what need is behind the no before you respond"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "giving-feedback"},
+        {"category": "personal-life", "subcategory": "family"},
+        {"category": "influence", "subcategory": "overcoming-resistance"}
+      ],
+      "situations": ["Delegating a task", "Asking a partner for help at home", "Setting expectations with a teenager"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 6 (Requesting That Which Would Enrich Life); demands in Chapter 2, pages 22 to 23; hearing a no in Chapter 8 (The Power of Empathy)",
+        "underlying_research": "Practitioner principle with no direct test. Consistent with Overall and McNulty's review (see overall-mcnulty-2017-02) that direct requests solve relationship problems better than guilt induction, and with Keysar and Henly (2002) on speakers overestimating how well they were understood. Not cited by the book.",
+        "urls": [
+          "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf",
+          "https://en.wikipedia.org/wiki/Nonviolent_Communication",
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-boundaries"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Concrete, direct requests are supported by relationship research, but the request-versus-demand framework and the advice on hearing a no rest on practitioner experience.",
+      "flags": []
+    },
+    {
+      "id": "nonviolent-communication-07",
+      "name": "Empathy Before Education: Listen for Feelings and Needs",
+      "takeaway": "When someone is upset, hold off advice and reassurance; guess their feeling and need as a question until they feel understood.",
+      "skill_type": "technique",
+      "explanation": "Rosenberg describes empathy as full presence: setting aside the urge to advise, reassure or explain, and listening for what the other person is feeling and needing, however they phrase it, even as insults. Common substitutes he warns against include advising, one-upping, educating, consoling, telling your own story, sympathizing, interrogating, explaining yourself and correcting. When you reflect, frame it as a tentative guess ('Are you feeling discouraged because you hoped this would be recognized?') rather than a pronouncement, and reflect mainly when the message is emotionally charged or you are unsure you understood, not after every sentence. Stay with it until you see a sign of release, such as the person relaxing or going quiet, before moving to solutions. If your own pain blocks you, he suggests giving yourself empathy first, asking for some, or taking a time-out. It refines looping by aiming the paraphrase at feelings and needs rather than content.",
+      "when_to_use": "When a friend, colleague, child or customer is upset, venting or angry with you. Less needed when someone wants information or a quick decision; ask if unsure.",
+      "worked_example": "A colleague says, 'I cannot believe they gave the promotion to Dana. Ten years here for nothing.' Instead of 'You will get the next one' or 'Here is what you should do,' her manager says: 'You sound really hurt. Were you hoping your years here would count for more?' The colleague talks for ten minutes, then asks for advice. With a child crying over a broken model: 'Are you sad because you worked so hard on it?' rather than 'We can buy another one.'",
+      "common_mistakes": [
+        "Reflecting every sentence mechanically, which feels like being handled",
+        "Stating their feeling as fact ('You are angry') instead of a guess",
+        "Moving to fixes the moment they pause, before they feel heard",
+        "Faking empathy while privately judging, which people usually detect"
+      ],
+      "steps": [
+        "Put aside your own response, advice and story for now",
+        "Listen for the feeling and the need under the words",
+        "Offer a guess as a question: are you feeling X because you need Y?",
+        "Accept corrections and guess again",
+        "Wait for a sign of release, then ask whether they want ideas or anything else"
+      ],
+      "categories": [
+        {"category": "relationships", "subcategory": "listening"},
+        {"category": "personal-life", "subcategory": "supporting-distress"},
+        {"category": "difficult", "subcategory": "conflict"}
+      ],
+      "situations": ["A colleague passed over for promotion", "A friend venting about a breakup", "An angry customer on the phone"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 7 (Receiving Empathically) and Chapter 8 (The Power of Empathy)",
+        "underlying_research": "NVC training studies report gains in self-reported empathy (see nonviolent-communication-01). The advice to name feelings rather than minimize or advise matches High and Dillard's (2012) meta-analysis of person-centered comforting messages (see high-dillard-2012-01), which the book does not cite.",
+        "urls": [
+          "https://www.cnvc.org/learn/what-is-nvc",
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-empathy/",
+          "https://en.wikipedia.org/wiki/Nonviolent_Communication",
+          "https://ojs.unifor.br/RBPS/article/view/16464"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The direction (acknowledge feelings before advising) is well supported by comforting research, but NVC's specific needs-guessing method has only small, uncontrolled or self-report evaluations.",
+      "flags": []
+    },
+    {
+      "id": "nonviolent-communication-08",
+      "name": "Self-Empathy: Mourn, Then Learn",
+      "takeaway": "After a mistake, replace self-blame with the need you failed to meet, then the need your choice was trying to serve.",
+      "skill_type": "technique",
+      "explanation": "Rosenberg argues that inner judgments ('I am such an idiot', 'I should have known') try to teach through shame and guilt, and that change driven by those feelings is grudging and short-lived. His alternative has two parts. Mourning: connect with the feelings and unmet needs your own action left you with ('I am disappointed, because I value being reliable'). Self-forgiveness: then turn to the part of you that made the choice and ask what need it was trying to meet ('I said yes to everything because I wanted to be seen as helpful'). Holding both lets you learn without self-hatred and choose a better strategy next time. He applies the same translation to internal 'shoulds'. The approach fits research on self-compassion: in Breines and Chen's experiments, self-compassion after a failure or moral lapse increased motivation to make amends and improve.",
+      "when_to_use": "After a mistake, a broken promise or a conversation you handled badly, especially when you notice harsh self-talk. Also before apologizing, so the apology comes from care rather than shame.",
+      "worked_example": "A consultant forgets to send a promised proposal and finds herself thinking, 'I am hopeless.' She tries: 'I feel embarrassed and worried, because I value being someone clients can count on. I agreed to Friday because I wanted to look responsive, and I did not check my calendar.' Then she emails the client, owns the miss, and starts blocking time before agreeing to deadlines. A father who snapped at his son notices his self-blame, names his regret and his need for patience, sees he was exhausted, and goes back to apologize.",
+      "common_mistakes": [
+        "Using self-empathy to excuse the behavior instead of learning from it",
+        "Skipping the mourning and jumping straight to a self-improvement plan",
+        "Replacing 'I am an idiot' with an equally harsh 'I should be more compassionate'",
+        "Never moving from reflection to the repair the situation needs"
+      ],
+      "steps": [
+        "Catch the self-judgment and write it down word for word",
+        "Name the feeling and the unmet need behind the regret",
+        "Ask what need the choice you regret was trying to meet",
+        "Choose a strategy that would meet both needs next time",
+        "Take any repair action owed to others"
+      ],
+      "categories": [
+        {"category": "foundations", "subcategory": "mindset"},
+        {"category": "difficult", "subcategory": "apologies"}
+      ],
+      "situations": ["After missing a commitment at work", "After snapping at your child", "Before apologizing to a friend"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 9 (Connecting Compassionately With Ourselves)",
+        "underlying_research": "Practitioner method. Related research not cited by the book: Breines and Chen (2012, Personality and Social Psychology Bulletin), four experiments in which self-compassion, compared with self-esteem boosting or control conditions, increased motivation to improve weaknesses, make amends and study after failure.",
+        "urls": [
+          "https://en.wikipedia.org/wiki/Nonviolent_Communication",
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-anger/",
+          "https://pubmed.ncbi.nlm.nih.gov/22645164/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Consistent with experimental research on self-compassion and motivation, but NVC's specific mourning and self-forgiveness steps have not been tested.",
+      "flags": []
+    },
+    {
+      "id": "nonviolent-communication-09",
+      "name": "Choose To, Not Have To",
+      "takeaway": "Rewrite each 'I have to' as 'I choose to, because I want...' to find the need behind it, or drop it.",
+      "skill_type": "technique",
+      "explanation": "Rosenberg counts language that denies choice as a form of life-alienating communication: 'I have to', 'I should', 'company policy', 'you make me feel'. Such phrases hide our responsibility for our actions and feelings; he points to Eichmann's term for bureaucratic office talk as an extreme case. The exercise is to list things you do that feel compulsory, rewrite each as 'I choose to... because I want...', and notice the real motive. Some motives are needs you endorse (a teacher who hates grading realizes she chooses it to keep her job), and some reveal that you act out of fear, guilt, duty or a wish for approval. You then either continue with a clearer sense of why, or look for another strategy. His anecdote is a woman who realized she had cooked daily for twenty years out of obligation, stopped, and her family was relieved.",
+      "when_to_use": "When you feel resentful or drained by obligations at work or at home, and before saying yes to a new commitment. Not a license to drop real responsibilities: the point is to see your reasons, not to escape consequences.",
+      "worked_example": "A director lists 'I have to attend the Monday leadership sync.' Rewritten: 'I choose to attend because I want a say in budget decisions.' That one stays. 'I have to answer email at night' becomes 'I choose to because I worry my boss will think I am uncommitted'; she tests a change by telling her boss she replies after 8 a.m. At home, 'I have to host every holiday' becomes 'I choose to because I want my mother's approval,' which opens a conversation with her siblings about rotating.",
+      "common_mistakes": [
+        "Doing the rewrite as a word game without asking what you actually want",
+        "Concluding that any task you dislike should be dropped regardless of consequences",
+        "Using 'it is your choice' to dismiss other people's real constraints",
+        "Feeling guilty about motives like money or approval instead of simply noting them"
+      ],
+      "steps": [
+        "List the things you do that feel like you have no choice",
+        "Rewrite each as 'I choose to... because I want...'",
+        "Name the real motive for each: a need, or fear, guilt, duty, approval or money",
+        "Decide which to keep with clearer purpose and which to change",
+        "For the ones to change, make a request or a new plan"
+      ],
+      "categories": [
+        {"category": "foundations", "subcategory": "mindset"},
+        {"category": "difficult", "subcategory": "saying-no"}
+      ],
+      "situations": ["Feeling resentful about recurring obligations", "Deciding whether to keep hosting family events", "Reviewing commitments at work"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 2, pages 19 to 21 (denial of responsibility, the cooking and grading examples); Chapter 9 (translating have to into choose to)",
+        "underlying_research": "Practitioner exercise illustrated with anecdotes; no direct test found. Consistent in spirit with motivation research that distinguishes chosen from pressured reasons for acting, which the book does not cite.",
+        "urls": [
+          "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf",
+          "https://ttfuture.org/interviews/marshall-rosenberg"
+        ]
+      },
+      "confidence": "Low",
+      "confidence_rationale": "A plausible reflective exercise supported only by the author's anecdotes; whether rewording obligations changes motivation or well-being has not been studied.",
+      "flags": ["single-anecdote"]
+    },
+    {
+      "id": "nonviolent-communication-10",
+      "name": "Expressing Anger Fully: Stop, Find the Judgment, Find the Need, Speak",
+      "takeaway": "When angry, pause, notice the blaming thoughts, find the unmet need beneath them, then say the need instead of the blame.",
+      "skill_type": "framework",
+      "explanation": "Rosenberg separates the stimulus of anger (what the other person did) from its cause, which he locates in our judging thoughts about what they should have done. He treats anger as an alarm that we are disconnected from a need, and 'expressing anger fully' means voicing the need underneath, not venting or suppressing. His steps: stop and breathe; identify the judgmental thoughts ('he is so inconsiderate'); connect with the needs behind them, at which point the anger often shifts into fear, hurt or sadness; then express those feelings and needs. Often the other person must be heard first before they can hear you, so empathizing with them may come before step four. Critics note that anger also has useful functions, such as signaling unfair treatment, and that telling people to simply stop is a high bar; clinical anger programs add relaxation training, trigger management and relapse planning.",
+      "when_to_use": "When you notice you are angry and about to say something you may regret: a colleague takes credit for your work, a partner breaks an agreement, a driver cuts you off. Not a replacement for professional help with chronic anger or aggression.",
+      "worked_example": "In a meeting, a peer presents an analysis you built as his own. Instead of 'You stole my work,' you wait until afterward, notice the thought ('he is a credit-grabber'), find the need (recognition and fairness), and say: 'When you presented the churn analysis today without mentioning that I built it, I felt really upset, because I need my contribution to be visible. Would you be willing to correct that in the follow-up email?' At home, a parent furious that a teenager missed curfew breathes, notices the fear beneath the anger, and leads with 'I was scared something had happened to you.'",
+      "common_mistakes": [
+        "Speaking in the first hot minute, before finding the need",
+        "Swallowing the anger and calling it nonviolence",
+        "Using the steps to deliver a judgment in polite form ('I feel angry because you are selfish')",
+        "Expecting to feel no anger at all, and blaming yourself when you do"
+      ],
+      "steps": [
+        "Stop: say nothing yet and breathe",
+        "Notice the judgments you are thinking (should, deserves, how dare)",
+        "Translate each judgment into the need it points to",
+        "If the other person is upset too, hear them first",
+        "Say your feeling and need, and make a request"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "personal-life", "subcategory": "partners"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "situations": ["A colleague takes credit for your work", "A teenager breaks curfew", "A partner breaks an agreement"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 10 (Expressing Anger Fully)",
+        "underlying_research": "Practitioner model. Related evidence not cited by the book: Bushman (2002, Personality and Social Psychology Bulletin) found that venting while ruminating increased anger and aggression, supporting the advice not to vent. Kim and Kim (2022, Archives of Psychiatric Nursing), a quasi-experiment with 44 psychiatric inpatients, found an NVC-based anger program reduced anger expression and anger suppression. Critique: Vermeren (2022, Skepp) argues anger is an evolved recalibration emotion and that cognitive behavioral anger treatment (reviewed by Toohey, 2021) is better supported.",
+        "urls": [
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-anger/",
+          "https://doi.org/10.1177/0146167202289002",
+          "https://pubmed.ncbi.nlm.nih.gov/36428080/",
+          "https://skepp.be/sites/default/files/2024-06/WOWO2022%23lente%23WEB_0.pdf"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Pausing and reappraising instead of venting fits experimental anger research, and one small quasi-experiment supports an NVC anger program, but Rosenberg's account of what causes anger is disputed and the full method is untested.",
+      "flags": ["contested"]
+    },
+    {
+      "id": "nonviolent-communication-11",
+      "name": "Protective, Not Punitive: Two Questions Before You Punish",
+      "takeaway": "Before punishing, ask what you want them to do and why you want them to do it; use force only to protect.",
+      "skill_type": "technique",
+      "explanation": "NVC does not forbid force. Rosenberg distinguishes protective force, used to prevent harm when there is no time or chance for dialogue (pulling a child back from the street), from punitive force, meant to make someone suffer so they change. He argues punishment can produce compliance but teaches the wrong reasons: people act to avoid pain rather than because they see the value, and resentment builds. As his excerpt puts it, parents cannot make children do anything, only make them wish they had, and children find ways to return the favor. His test is two questions: what do I want this person to do, and what do I want their reasons for doing it to be? Punishment rarely produces good answers to the second. The book does not cite research, but large meta-analyses of spanking point the same way.",
+      "when_to_use": "When you are tempted to punish, threaten or shame a child, a direct report or anyone you have authority over. Also when deciding whether to step in physically or unilaterally to stop harm.",
+      "worked_example": "A parent is about to ban screen time for a month after her 9-year-old hit his sister. She asks herself the two questions: she wants him to stop hitting, and she wants him to stop because he cares about his sister's safety, not because he fears losing his tablet. She separates them now (protective), then later talks with him about what he was feeling and what he could do next time. A manager considering a formal warning for a missed deadline asks the same questions and opens with a conversation about what got in the way.",
+      "common_mistakes": [
+        "Calling a punishment 'protective' because it feels justified",
+        "Refusing to act at all when someone's safety is at risk",
+        "Replacing punishment with rewards, which Rosenberg also sees as coercive",
+        "Asking the two questions only after the punishment has been handed out"
+      ],
+      "steps": [
+        "If someone is in danger, act to protect first, with no intent to hurt",
+        "Ask: what do I want this person to do?",
+        "Ask: what do I want their reasons for doing it to be?",
+        "Choose a response that serves both answers, usually a conversation about needs",
+        "Revisit any limits once things are calm"
+      ],
+      "categories": [
+        {"category": "personal-life", "subcategory": "family"},
+        {"category": "difficult", "subcategory": "boundaries"}
+      ],
+      "situations": ["A child hits a sibling", "Deciding whether to formally discipline an employee", "Stepping in to stop a dangerous act"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 12 (The Protective Use of Force); demands and 'deserve' thinking in Chapter 2, pages 22 to 23",
+        "underlying_research": "Practitioner reasoning. Related evidence not cited by the book: Gershoff and Grogan-Kaylor (2016, Journal of Family Psychology) meta-analyses of 111 effect sizes from 160,927 children found spanking linked to higher risk on 13 of 17 detrimental outcomes (largely correlational data). The two-question test itself is untested.",
+        "urls": [
+          "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf",
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-boundaries",
+          "https://pubmed.ncbi.nlm.nih.gov/27055181/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "The case against physical punishment of children is supported by large meta-analyses, but those are mostly correlational, and Rosenberg's broader claim that all punishment backfires, plus his two-question test, are untested.",
+      "flags": []
+    },
+    {
+      "id": "nonviolent-communication-12",
+      "name": "Appreciation as Celebration: Action, Need, Feeling",
+      "takeaway": "Thank people by naming the specific action, the need of yours it met, and how you feel, not by grading them.",
+      "skill_type": "technique",
+      "explanation": "Rosenberg argues that compliments such as 'great job' or 'you are a wonderful daughter' are still judgments, only positive ones, and that praise used to get more of a behavior is a form of manipulation that people learn to distrust. His alternative has three parts: the specific action that contributed to your well-being, the need of yours it met, and the pleasant feeling that resulted ('When you covered my calls Friday, I got to my son's game, and I am really grateful'). The purpose is celebration and useful feedback, not reward. He also suggests receiving appreciation without false modesty or a sense of superiority. A qualification from research: in couples studies, expressions of gratitude that credit the giver, their effort and care, were the part most linked to the giver feeling loved and understood. So keep the focus on what they did, and do not strip out acknowledgment of them.",
+      "when_to_use": "When thanking a colleague, recognizing a team member, or appreciating a partner, friend or child, especially when you want the thanks to land as sincere rather than routine.",
+      "worked_example": "Instead of 'Great presentation, you are a natural,' a manager writes: 'Your slide comparing the three vendors on cost per seat let the CFO decide in ten minutes. I had been dreading another round of debate, so I am relieved and grateful.' To a partner: 'You handled bedtime all week while I was on deadline. I got the report done without staying up past midnight, and I feel really cared for.'",
+      "common_mistakes": [
+        "Praising the person's traits instead of naming what they did",
+        "Using appreciation to soften someone up before a request or criticism",
+        "Making it all about your benefit and never acknowledging their effort or care",
+        "Deflecting appreciation you receive ('it was nothing')"
+      ],
+      "steps": [
+        "Name the specific action, with enough detail that they know exactly what you mean",
+        "Say which need of yours it met or what it made possible",
+        "Say how you feel now",
+        "Where true, acknowledge the effort or care it took them",
+        "Stop there; do not attach a request"
+      ],
+      "categories": [
+        {"category": "relationships", "subcategory": "rapport"},
+        {"category": "difficult", "subcategory": "giving-feedback"},
+        {"category": "personal-life", "subcategory": "partners"}
+      ],
+      "situations": ["Thanking a colleague who covered for you", "Recognizing a team member's work", "Appreciating a partner"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 14 (Expressing Appreciation in Nonviolent Communication)",
+        "underlying_research": "Practitioner model. Qualifying evidence not cited by the book: Algoe, Kurtz and Hilaire (2016, Social Psychological and Personality Science) video-recorded couples (n = 370 across an original study and replication) and found the expresser's other-praising behavior was robustly linked to the benefactor perceiving responsiveness, feeling good and feeling loved.",
+        "urls": [
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-gratitude/",
+          "https://doi.org/10.1177/1948550616651681"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Specific, sincere appreciation is well supported, but Rosenberg's rejection of praise is partly at odds with research showing that crediting the giver is a key ingredient of effective thanks.",
+      "flags": ["contested"]
+    },
+    {
+      "id": "nonviolent-communication-13",
+      "name": "Mediate by Translating Needs Back and Forth",
+      "takeaway": "When mediating, help each side name their needs and reflect the other's back before anyone proposes a solution.",
+      "skill_type": "technique",
+      "explanation": "In the conflict chapter added to the 3rd edition, Rosenberg's mediation process slows people down so they connect before they solve. The steps, as reported from the book: express your own needs; sense the other person's needs however they express them; check that each side's needs were accurately received, often by asking one person to reflect back the other's need; offer empathy to whoever is too upset to hear; and only then translate proposed solutions into present, positive, concrete action language. The mediator's job is to translate judgments into needs ('He is a micromanager' becomes 'you want trust and room to decide') and to keep turn-taking strict. NVC trainers call jumping to solutions the most common mistake, and their slogan is go slow to go fast. Rosenberg reports using the approach in family, workplace and armed conflicts, but these are his own accounts.",
+      "when_to_use": "When you sit between two people in conflict: a manager with two reports, a parent with siblings, a friend between roommates, a facilitator in a tense team meeting. Bring in a trained mediator when trust is very low or there is a safety or legal issue.",
+      "worked_example": "Two designers are fighting over a style guide. The lead asks Ana what she needs (consistency, so the product feels coherent) and asks Raj to say it back. Raj says, 'You want things to look like one product.' Then Raj names his need (freedom to experiment on new features) and Ana reflects it. Only then do they propose strategies, and they agree that new features may break the guide during a two-week trial, after which the guide is updated. With siblings arguing over the car, a parent has each say back what the other needs before anyone suggests a schedule.",
+      "common_mistakes": [
+        "Asking for solutions before both sides feel their needs were heard",
+        "Letting people restate positions ('I need the car Saturday') as if they were needs",
+        "Taking sides by reflecting one person warmly and the other briefly",
+        "Accepting vague agreements ('we will communicate better') instead of concrete actions"
+      ],
+      "steps": [
+        "Agree on turn-taking: one speaks, the other reflects, the first confirms",
+        "Help each person translate complaints into feelings and needs",
+        "Have each reflect the other's need until the speaker confirms",
+        "Offer empathy to whoever is too upset to listen",
+        "Invite proposals in concrete, positive, doable terms and test them against both sides' needs"
+      ],
+      "categories": [
+        {"category": "difficult", "subcategory": "conflict"},
+        {"category": "professional", "subcategory": "meetings"},
+        {"category": "personal-life", "subcategory": "family"}
+      ],
+      "situations": ["Manager mediating between two team members", "Parent settling a sibling dispute", "Facilitating a tense team meeting"],
+      "source": {
+        "citation": "Rosenberg, Nonviolent Communication, 3rd ed., Chapter 11 (Conflict Resolution and Mediation); mediation steps as summarized from the Dutch translation, page 14, by Vermeren (2022)",
+        "underlying_research": "Practitioner experience; no direct empirical test of NVC mediation found. Museux et al. (2016, Social Work in Health Care), a mixed-methods study of two health teams (n = 9), found NVC training improved observed interprofessional collaboration, including developing a shared plan.",
+        "urls": [
+          "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-conflict-resolution/",
+          "https://skepp.be/sites/default/files/2024-06/WOWO2022%23lente%23WEB_0.pdf",
+          "https://pubmed.ncbi.nlm.nih.gov/27116417/"
+        ]
+      },
+      "confidence": "Medium",
+      "confidence_rationale": "Consistent with mainstream facilitative mediation practice (reflect, then solve), but evidence for NVC's version is limited to the author's accounts and one tiny team study.",
+      "flags": []
+    }
+  ],
+  "supports_existing": [
+    {"insight_id": "connect-06", "relation": "supports", "note": "Rosenberg's Chapter 4 is a likely source of this distinction and extends it: besides thoughts after 'I feel that', he flags one-word pseudo-feelings (ignored, abandoned, manipulated, unappreciated) that pass Connect's quick test but still accuse the listener. See nonviolent-communication-03."},
+    {"insight_id": "connect-04", "relation": "supports", "note": "NVC's observation discipline sharpens the behavior step: describe what a camera would record, tied to time and context, and drop always, never and labels. NVC also goes past impact to name the need behind the feeling and a concrete request. See nonviolent-communication-01 and -02."},
+    {"insight_id": "connect-15", "relation": "supports", "note": "Adds a test for whether an ask is a request or a demand: how you respond to a no. Also recommends positive action language (what you want done, not what you want stopped). See nonviolent-communication-06."},
+    {"insight_id": "fisher-ury-getting-to-yes-01", "relation": "qualifies", "note": "NVC applies the same move to personal conflicts but digs below interests to needs it treats as universal (rest, respect, safety), arguing shared needs make the other side easier to see as human. The universality claim is untested and disputed. See nonviolent-communication-04."},
+    {"insight_id": "supercommunicators-07", "relation": "qualifies", "note": "NVC aims the reflection at the feeling and need rather than the content, phrases it as a tentative guess, and advises reflecting mainly when a message is emotionally charged or unclear, not after every sentence, since mechanical paraphrase can feel like being handled. See nonviolent-communication-07."},
+    {"insight_id": "high-dillard-2012-01", "relation": "supports", "note": "Rosenberg's list of empathy blockers (advising, consoling, one-upping, educating, correcting) maps onto the low end of the comfort ladder, and his practice of guessing feelings and needs is a concrete way to reach the high end."},
+    {"insight_id": "keysar-henly-2002-01", "relation": "supports", "note": "NVC recommends the same check as a 'connection request': ask the listener to say back what they heard, thank them for doing it, and if it differs, re-explain without blaming them for not listening."},
+    {"insight_id": "gottman-seven-principles-01", "relation": "supports", "note": "Gottman's gentle start-up (situation, feeling, need) is close to NVC's observation, feeling and need; NVC adds a concrete request and the habit of guessing the partner's needs when they criticize. See nonviolent-communication-01 and -05."},
+    {"insight_id": "overall-mcnulty-2017-02", "relation": "supports", "note": "Rosenberg makes the same case from practice: compliance obtained through guilt, shame or fear costs goodwill later, so say your need and make a direct request instead."},
+    {"insight_id": "ury-positive-no-01", "relation": "supports", "note": "NVC offers the listening side of the Positive No: when you hear a no, listen for the need the other person is saying yes to, and keep looking for a strategy that meets both."},
+    {"insight_id": "talk-wood-brooks-10", "relation": "qualifies", "note": "Rosenberg agrees thanks should be specific, but advises against praising traits, recommending action plus need met plus feeling instead. Research on gratitude (Algoe et al., 2016) suggests also crediting the giver's effort and care. See nonviolent-communication-12."}
+  ],
+  "verification": {
+    "date": "2026-11-05",
+    "sources_read": [
+      "https://www.nonviolentcommunication.com/wp-content/uploads/2019/06/NVC-3e10p-web-sample-060619.pdf",
+      "https://www.nonviolentcommunication.com/product/nonviolent-communication-a-language-of-life-3rd-edition/",
+      "https://www.nonviolentcommunication.com/learn-nonviolent-communication/",
+      "https://www.nonviolentcommunication.com/learn-nonviolent-communication/key-facts/",
+      "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-anger/",
+      "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-gratitude/",
+      "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-empathy/",
+      "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-conflict-resolution/",
+      "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-boundaries",
+      "https://www.nonviolentcommunication.com/learn-nonviolent-communication/nvc-communication/",
+      "https://www.nonviolentcommunication.com/learn-nonviolent-communication/research-on-nvc/",
+      "https://www.cnvc.org/learn/what-is-nvc",
+      "https://www.cnvc.org/about/marshall",
+      "https://www.cnvc.org/store/feelings-and-needs-inventory",
+      "https://ttfuture.org/interviews/marshall-rosenberg",
+      "https://openlibrary.org/books/OL27210498M",
+      "https://en.wikipedia.org/wiki/Nonviolent_Communication",
+      "https://sites.google.com/site/empathytraininglitreview/training-papers/juncadella-2013",
+      "https://ojs.unifor.br/RBPS/article/view/16464",
+      "https://pubmed.ncbi.nlm.nih.gov/34716989/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8994647/",
+      "https://pubmed.ncbi.nlm.nih.gov/42231339/",
+      "https://pubmed.ncbi.nlm.nih.gov/27977228/",
+      "https://pubmed.ncbi.nlm.nih.gov/38448956/",
+      "https://pubmed.ncbi.nlm.nih.gov/27116417/",
+      "https://pubmed.ncbi.nlm.nih.gov/22095007/",
+      "https://pubmed.ncbi.nlm.nih.gov/29056619/",
+      "https://pubmed.ncbi.nlm.nih.gov/36428080/",
+      "https://pubmed.ncbi.nlm.nih.gov/36412799/",
+      "https://skepp.be/sites/default/files/2024-06/WOWO2022%23lente%23WEB_0.pdf",
+      "https://skepp.be/nvc-bronnen-en-verwijzingen",
+      "https://www.psychologytoday.com/gb/blog/the-relatable-therapist/202309/when-a-feeling-is-not-really-a-feeling",
+      "https://pubmed.ncbi.nlm.nih.gov/29796350/",
+      "https://pubmed.ncbi.nlm.nih.gov/1414562/",
+      "https://pubmed.ncbi.nlm.nih.gov/22645164/",
+      "https://doi.org/10.1177/0146167202289002",
+      "https://doi.org/10.1177/1948550616651681",
+      "https://pubmed.ncbi.nlm.nih.gov/27055181/"
+    ],
+    "still_unverified": [
+      "Only Chapter 2 of the book text was read (publisher sample). Content for Chapters 1 and 3 to 14 comes from the catalog chapter list, CNVC and PuddleDancer pages, Rosenberg's Touch the Future interview, Wikipedia's chapter-cited summary, and Vermeren's chapter-cited critique (which uses the Dutch translation's pages). Section-level placement within those chapters (for example the four options in Chapter 5, the two questions in Chapter 12, connection requests in Chapter 6) is from memory of the book and secondary summaries, not confirmed against the text.",
+      "Page numbers are verified only for Chapter 2 (pages 15 to 24 of the 3rd edition).",
+      "Page count: library catalogs give xix, 244 pages; some retailers list 264.",
+      "O.J. Harvey's correlational study of judgment words and violence, cited in Chapter 2, was not found or verified.",
+      "Gregorio Billikopf's 2012 review in the International Journal of Conflict Management could not be read (Emerald returned 403).",
+      "The Sun magazine interview (Beyond Good and Evil, 2003) returned 403 and was not read.",
+      "Juncadella (2013) is a master's thesis; I read its abstract only. The '11 of 13 positive' figure is derived from its statement that results were positive in all studies except two.",
+      "Jiang et al. (2026) reports an unusually large effect on the Jefferson empathy scale; only the abstract was read."
+    ]
+  },
+  "research_notes": "Coverage checklist (3rd edition chapter list from Open Library). Ch1 Giving From the Heart, the four components and the two halves (expressing honestly, receiving empathically): nonviolent-communication-01. Ch2 Communication That Blocks Compassion (read in full): moralistic judgments and 'analyses are tragic expressions of needs' in -04 and -05; value versus moralistic judgments in -02; comparisons skipped as a separate item (a minor point, folded into -02's list of evaluations); denial of responsibility in -09; demands in -06; 'deserve' thinking in -11. Ch3 Observing Without Evaluating: -02, plus supports connect-04. Ch4 Identifying and Expressing Feelings, feelings versus thoughts and pseudo-feelings: -03, plus supports connect-06 (the thought-versus-feeling part is already that entry). Ch5 Taking Responsibility for Our Feelings: stimulus versus cause in -01 and -10; four options for hearing a negative message in -05; needs as universal in -04 plus qualifies fisher-ury-getting-to-yes-01. The 'emotional slavery to emotional liberation' stages were skipped: an untested developmental typology whose practical advice (own your needs without taking responsibility for others' feelings) is covered by -01 and connect-13. Ch6 Requesting That Which Would Enrich Life, positive action language, concrete requests, requests versus demands, connection requests: -06, plus supports connect-15, keysar-henly-2002-01 and overall-mcnulty-2017-02. Ch7 Receiving Empathically: -07, plus qualifies supercommunicators-07 and supports high-dillard-2012-01. Ch8 The Power of Empathy: hearing a no folded into -06 and supports ury-positive-no-01; using empathy to revive a lifeless conversation and to hear silence skipped as minor anecdotal points; empathy to defuse danger folded into -07. Ch9 Connecting Compassionately With Ourselves: mourning and self-forgiveness in -08; have to versus choose to in -09. Ch10 Expressing Anger Fully: -10. Ch11 Conflict Resolution and Mediation (new in 3rd edition): -13 and -04. Ch12 The Protective Use of Force: -11. Ch13 Liberating Ourselves and Counseling Others: skipped; it applies the same tools to internal programming and to therapy sessions, which is mostly covered by -08 and is outside the guide's everyday-communication scope. Ch14 Expressing Appreciation: -12, plus qualifies talk-wood-brooks-10. Gottman's gentle start-up overlap: supports gottman-seven-principles-01. Also skipped: the giraffe and jackal teaching metaphor and the book's spiritual framing (teaching devices, not techniques). Evidence summary: training research is consistently positive but weak (small samples, little randomization, self-report measures); the two best-controlled trials diverge sharply in effect size, and none isolates the four components, so no NVC insight is rated High. Critiques considered: Vermeren (Skepp, 2022) on humanistic-psychology assumptions, the function of anger and the universality of needs; Wikipedia's summary of concerns that scripted NVC can sound inauthentic or manipulative, shift emotional labor onto the listener, fit poorly with indirect cultures, and not address power imbalances or trauma on its own; a 2019 statement by certified trainers warning about risks in empathy work. These shaped the contested flags on -04, -10 and -12 and the common-mistakes lists warning against formulaic use. The book's examples are mostly personal and family; workplace examples here are original."
+}
