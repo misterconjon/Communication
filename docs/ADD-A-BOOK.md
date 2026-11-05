@@ -142,7 +142,7 @@ Placement rules of thumb:
 
 ```bash
 python3 -c "import json;json.load(open('data/additions/<book-id>.json'))"
-grep -nP '[\x{2013}\x{2014}]' data/additions/<book-id>.json   # must print nothing
+python3 -c "import re,sys;t=open(sys.argv[1]).read();print(len(re.findall('[\u2013\u2014]',t)),'dashes')" data/additions/<book-id>.json   # must print 0 dashes
 python3 scripts/build_library.py                            # must print no ERROR; fix every WARNING about your file
 ```
 Also confirm, using `scripts/build_library.py` output or a quick script, that every `supports_existing.insight_id` exists and every insight has a `takeaway`.
